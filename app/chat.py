@@ -1,0 +1,126 @@
+"""
+chat.py — EcoAtlas demo chatbot
+
+Streamlit UI for the RAG pipeline. Prototype build — RAG mechanics visible.
+
+Run: streamlit run app/chat.py
+"""
+
+import sys
+from pathlib import Path
+
+# Allow imports from project root (pipeline/)
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+import streamlit as st
+from pipeline.query import query, _detect_materials, COLLECTION_NAME, collection
+
+# ── Page config ─────────────────────────────────────────────────────────────
+
+st.set_page_config(
+    page_title="Eco Atlas — Materials Assistant",
+    page_icon="🌿",
+    layout="wide",
+)
+
+# ── Helper ───────────────────────────────────────────────────────────────────
+
+def render_sources(sources: list[dict], detected_materials: list[str]) -> None:
+    """Render the RAG mechanics panel below an assistant message."""
+    st.divider()
+
+    if detected_materials:
+        st.caption(
+            "**Materials detected in query:** "
+            + " · ".join(f"`{m}`" for m in detected_materials)
+            + "  —  per-material retrieval used"
+        )
+
+    st.caption(f"**{len(sources)} source chunks retrieved**")
+
+    cols = st.columns([3, 3, 1])
+    cols[0].caption("**File**")
+    cols[1].caption("**Category**")
+    cols[2].caption("**Similarity**")
+
+    for s in sources:
+        cols = st.columns([3, 3, 1])
+        cols[0].caption(s["source"])
+        cols[1].caption(s["material_category"])
+        score = s["similarity"]
+        color = "green" if score >= 0.65 else "orange" if score >= 0.55 else "red"
+        cols[2].markdown(f":{color}[**{score}**]")
+
+# ── Sidebar ──────────────────────────────────────────────────────────────────
+
+with st.sidebar:
+    st.title("🌿 Eco Atlas")
+    st.caption("Sustainable Building Materials Knowledge Base")
+    st.divider()
+
+    st.subheader("Knowledge Base")
+    st.metric("Total chunks", f"{collection.count():,}")
+    st.metric("Collection", COLLECTION_NAME)
+    st.caption("Source: 55 academic PDFs · 16 material categories")
+
+    st.divider()
+
+    st.subheader("Materials covered")
+    for m in [
+        "Bamboo", "Bio Clay Plaster", "Cellulose", "Cob",
+        "Compacted Soil", "Concrete variants", "Cork", "Hemp",
+        "Linoleum", "Mycelium", "Natural Plant Fibers",
+        "PU Foam (plant-based)", "Recycled Plastic + Rubber",
+        "Sheep Wool", "Solar Shingles", "Wheat Straw / Straw Bales",
+    ]:
+        st.caption(f"• {m}")
+
+    st.divider()
+    st.caption("OpenAI text-embedding-3-small → ChromaDB → GPT-4o")
+    st.caption("Semantic chunking · per-material fetch for comparisons")
+
+    if st.button("Clear chat history"):
+        st.session_state.messages = []
+        st.rerun()
+
+# ── Main ─────────────────────────────────────────────────────────────────────
+
+st.title("Sustainable Materials Assistant")
+st.caption(
+    "Ask anything about sustainable building materials. "
+    "All answers are grounded in academic research — sources shown below each response."
+)
+
+# Initialise chat history
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+
+# Render existing messages
+for msg in st.session_state.messages:
+    with st.chat_message(msg["role"]):
+        st.markdown(msg["content"])
+        if msg["role"] == "assistant" and "sources" in msg:
+            render_sources(msg["sources"], msg.get("detected_materials", []))
+
+# ── Input ─────────────────────────────────────────────────────────────────────
+
+if prompt := st.chat_input("Ask about sustainable building materials..."):
+
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
+
+    detected = _detect_materials(prompt)
+
+    with st.chat_message("assistant"):
+        with st.spinner("Retrieving from knowledge base..."):
+            result = query(prompt)
+        st.markdown(result["answer"])
+        render_sources(result["sources"], detected)
+
+    st.session_state.messages.append({
+        "role": "assistant",
+        "content": result["answer"],
+        "sources": result["sources"],
+        "detected_materials": detected,
+    })

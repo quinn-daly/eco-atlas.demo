@@ -1,0 +1,512 @@
+[
+  {
+    "text": "Citation: Pugliese, D.; Alecci, V.; Tale\nMasoule, M.S.; Ghahremaninezhad,\nA.; De Stefano, M.; Nanni, A. Development of Biodegradable and\nRecyclable FRLM Composites\nIncorporating Cork Aggregates for\nSustainable Construction Practices. Materials 2024, 17, 5232. https://\ndoi.org/10.3390/ma17215232\nAcademic Editors: Karim Benzarti,\nAbbas Solouki and Abir Al-Tabbaa\nReceived: 25 September 2024\nRevised: 19 October 2024\nAccepted: 24 October 2024\nPublished: 27 October 2024\nCopyright: © 2024 by the authors. Licensee MDPI, Basel, Switzerland.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 0,
+      "char_count": 537
+    }
+  },
+  {
+    "text": "This article is an open access article\ndistributed under the terms and\nconditions of the Creative Commons\nAttribution (CC BY) license (https://\ncreativecommons.org/licenses/by/\n4.0/). materials\nArticle\nDevelopment of Biodegradable and Recyclable FRLM\nComposites Incorporating Cork Aggregates for Sustainable\nConstruction Practices\nDora Pugliese 1\n, Valerio Alecci 1, Mohammad Sadegh Tale Masoule 2\n, Ali Ghahremaninezhad 2\n,\nMario De Stefano 1\nand Antonio Nanni 2,*\n1\nDepartment of Architecture, Materials and Structures Division, University of Florence, 50121 Florence, Italy\n2\nDepartment of Civil and Architectural Engineering, University of Miami, Coral Gables, FL 33146, USA\n*\nCorrespondence: nanni@miami.edu\nAbstract: Reducing energy consumption in the building sector has driven the search for more sus-\ntainable construction methods. This study explores the potential of cork-modified mortars reinforced\nwith basalt fabric, focusing on optimizing both mechanical and hygroscopic properties. Six mortar\nmixtures were produced using a breathable structural mortar made from pure natural hydraulic lime,\nincorporating varying percentages (0–3%) of cork granules (Quercus suber) as lightweight aggregates. Micro-computed tomography was first used to assess the homogeneity of the mixtures, followed by\nflow tests to evaluate workability. The mixtures were then tested for water absorption, compressive\nstrength, and adhesion to tuff and clay brick surfaces. Adhesion was measured through pull-off\ntests, to evaluate internal bonding strength. Additionally, this study examined the relationship\nbetween surface roughness and bond strength in FRLM composites, revealing that rougher surfaces\nsignificantly improved adhesion to clay and tuff bricks. These findings suggest that cork-reinforced\nmortars offer promising potential for sustainable construction, achieving improved hygroscopic\nperformance, sufficient mechanical strength, internal bonding, and optimized surface adhesion. Keywords: FRLM composites; lime mortars; cork granules; mechanical properties; hygroscopic\nperformance\n1. Introduction\nThe need for reinforcing existing masonry buildings has become increasingly critical,\nespecially in the context of promoting sustainable and resilient construction practices. Ma-\nsonry structures, often characterized by their historical and aesthetic significance, require\nretrofitting solutions that not only enhance structural integrity but also align with environ-\nmental sustainability. In recent years, Fabric-Reinforced Lime Matrix (FRLM) composite\nmaterials have emerged as a promising solution, offering an eco-friendly alternative to\ntraditional reinforcement methods [1,2]. FRLM is a composite system that incorporates natural hydraulic lime (NHL)-based\nmortars, combined with fabric reinforcements, typically made of basalt, glass, or carbon\nfibers. These systems enhance mechanical properties such as tensile strength, durability,\nand bond behavior with masonry substrates, providing a",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 1,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "sustainable means of preserving\nand strengthening historical structures [3,4]. The significance of FRLM materials lies in\ntheir compatibility with historical masonry, as they offer enhanced structural performance\nwhile maintaining the original aesthetics and material composition of the buildings they\nretrofit [5]. The use of natural hydraulic lime as a binder in these composites has distinct advan-\ntages. Unlike traditional cement-based mortars, NHL mortars allow masonry walls to\n“breathe” by facilitating the evaporation of moisture, which is essential for preserving the\nMaterials 2024, 17, 5232. https://doi.org/10.3390/ma17215232\nhttps://www.mdpi.com/journal/materials\n\nMaterials 2024, 17, 5232\n2 of 20\nlong-term durability of historical structures [6,7]. When combined with fabric reinforce-\nments, FRLM systems improve the overall mechanical properties, offering a solution for\nmasonry retrofitting that supports both structural resilience and environmental sustain-\nability. These features make FRLM systems ideal for buildings located in seismic regions,\nwhere enhanced load-bearing capacity and tensile strength are crucial [8,9]. Over the past decade, research has focused on optimizing the interaction between\nlime mortars and various types of fabric reinforcements, including basalt, glass, and car-\nbon fibers [10,11]. Among these, basalt fabric stands out due to its excellent mechanical\nproperties, such as high tensile strength, durability, and resistance to corrosion [12,13]. Studies have demonstrated that basalt fabric-reinforced mortars exhibit superior perfor-\nmance under seismic loads, making them particularly suitable for strengthening masonry\nstructures in earthquake-prone regions [14,15]. Furthermore, the lightweight nature of\nbasalt fabric reduces the overall weight added to the structure, a critical factor in retrofitting\nolder buildings [16]. In parallel with the development of fabric reinforcements, researchers have explored\nthe potential of lightweight aggregates to further enhance the properties of lime mortars. Aggregates such as expanded clay, perlite, fly ash, and cork have been investigated for their\nability to reduce the density of mortars while improving their hygroscopic and thermal\nproperties [17,18]. Lightweight aggregates are especially beneficial in historical masonry,\nwhere adding too much weight could compromise the structural integrity of the building. The combination of lightweight aggregates with natural fiber reinforcements, like Posidonia\noceanica, which has been shown to increase flexural strength by 58% and compressive\nstrength by 55% after hydrothermal treatment, could further enhance both mechanical\nperformance and sustainability in heritage building conservation [19]. Among these materials, cork granules have emerged as a particularly promising\naggregate due to their unique combination of low density, high thermal insulation capacity,\nand moisture-regulating properties [20,21]. Our research focuses on granulated",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 2,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "cork, sourced specifically from Sardinia, Italy,\ninto a lime-based mortar. Beyond being a renewable material, Quercus suber, or cork oak,\ncontributes to soil preservation, carbon sequestration, and water retention. Known for its resilience to high temperatures and wildfires [22], Quercus suber pro-\nduces cork with a chemical composition that includes ash (0.7%), total extractives (15.3%),\nsuberin (38.6%), lignin (21.7%), and polysaccharides (18.2%), highlighting its suitability as\na sustainable material for eco-friendly construction solutions [23]. Previous studies on cork as an aggregate have focused primarily on cement-based\ncomposites, highlighting their potential to improve the thermal and hygroscopic perfor-\nmance of mortars [14,15]. For instance, Karade et al. [16] demonstrated that cork granules\ncan significantly enhance the thermal insulation properties of cement-based materials,\nthough their research did not extend to lime-based systems. Similarly, Barnat-Hunek et al. examined the incorporation of cork into mortar mixtures, emphasizing its potential to\nreduce thermal conductivity. However, most of these studies concentrated on cement\nmortars and did not fully address the application of cork in NHL-based mortars. In the context of lime-based composites, the integration of cork has been less thor-\noughly explored, despite its potential to improve both mechanical and thermal perfor-\nmance [18]. The research of Panesar et al. [21] and Tedjditi et al. [20] highlighted cork’s\nbenefits in terms of moisture regulation and sustainability, but these studies were limited\nto cementitious matrices and did not investigate the synergistic effects of cork when com-\nbined with fabric reinforcements in lime-based systems. This gap in literature underscores\nthe need for further investigation into the potential of cork-reinforced FRLM compos-\nites, particularly in applications that require both mechanical strength and improved\nthermal insulation. The present study aims to fill this gap by investigating the integration of granulated\ncork into a lime-based mortar matrix reinforced with basalt fabric. This combination of\nmaterials has not been thoroughly explored in previous research, despite its potential to\n\nMaterials 2024, 17, 5232\n3 of 20\noffer a highly sustainable and efficient solution for retrofitting masonry structures. The\nnovelty of this research lies in the optimization of the cork content in FRLM composites,\nwith the goal of enhancing both the mechanical and hygroscopic properties of the material. By doing so, this study seeks to provide a more comprehensive understanding of how\nlightweight aggregates, such as cork, can contribute to the development of sustainable\nconstruction materials that align with modern environmental standards. Specifically,\nthis research aims to achieve this by optimizing the mechanical performance of FRLM\ncomposites through the incorporation of granulated cork and evaluating the hygroscopic\nproperties of the modified mater",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 3,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "ial to ensure it meets the requirements for retrofitting\napplications. To achieve these objectives, a series of experimental tests were conducted,\nincluding computerized tomography for microstructural analysis, flow tests to assess\nworkability, capillary water absorption tests, and compression and pull-off adhesion tests\non various masonry substrates [24]. Surface roughness parameters were also measured to\nassess the bond behavior of the FRLM composites with clay and tuff bricks, ensuring the\nreliability and effectiveness of the material in real-world applications. This research addresses a significant gap in the current state of the art by evaluating\nthe structural and hygroscopic performance of cork-reinforced FRLM composites. By\noptimizing the integration of cork into lime-based mortars, this study provides valuable\ninsights into the development of sustainable construction materials that not only enhance\nthe structural performance of masonry buildings but also contribute to their long-term\nenvironmental resilience. The results of this research are expected to have significant\nimplications for the field of masonry retrofitting, particularly in regions where seismic\nresilience and hygroscopic performance are critical considerations. 2. Materials and Methods\nThis study involved selecting a commercial mortar reinforced with basalt fabric as the\nmatrix for an FRLM composite due to its excellent compression and adhesion properties\nwhen applied to masonry supports. The mortar selection followed specific criteria:\nNatural hydraulic lime (NHL) as the binder with natural, recycled, or recyclable\naggregates, meeting the environmental standards of EN ISO 14021:2016/A1:2021 [25]. Compliance with EN 998-1:2016 [24] standards for compressive strength (≥1.50 N/mm2),\nthermal conductivity (≤0.1 W/mK), and water absorption by capillarity (≤0.4 kg/(m2·min½)). Although Mix 1 (control mortar) met these criteria except for thermal conductivity,\nthis was mitigated by adding low-conductivity material. Granulated cork was chosen as\nthe aggregate due to its sustainability and high hygrometric properties [26,27], based on\nprior studies showing it outperforms other lightweight aggregates like expanded clay [28],\nperlite [29], and wood ash [30]. Further research supports the use of cork, highlighting its\nthermal, acoustic, and antifungal properties, making it an excellent choice for lime-based\nmortars [31,32]. Six mixtures (Mix 1–Mix 6) were created with varying cork content (0–3% by weight). The raw materials used in these mixtures, along with their respective particle size distribu-\ntions, are as follows:\n•\nPure natural hydraulic lime 3.5 (grading size 0–0.6 mm). •\nMineral binder (grading size 0–0.1 mm). •\nSiliceous sand (grading size 0.1–1 mm). •\nLimestone granules (grading size 0–1.4 mm). •\nFine marble (grading size 0–0.2 mm). •\nCork granules (grading size 0.5–0.8 mm). Computerized tomography and 3D processing verified the absence of segregation\nin the mixtures. Accord",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 4,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ing to ASTM C1437-20 [33] flow tests were performed to assess\nworkability, followed by capillary water absorption tests [34] (ASTM C1403-22a) and\ncompression tests [35] (ASTM C109/C109M-21) on the absorbed specimens. In the final phase, according to ASTM C1583/C1583M-20 [36] pull-off adhesion tests\nwere conducted on clay and tuff bricks to evaluate the bond between the FRLM composite,\n\nMaterials 2024, 17, 5232\n4 of 20\nand the masonry supports. Surface roughness parameters were measured using an optical\nprofiler [37] (EN ISO 25178-2:2022). A graphical abstract has been provided as supplementary material, illustrating the\nprocedure and analysis of this research, summarizing the methodology, and highlighting\nkey findings.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 5,
+      "char_count": 728
+    }
+  },
+  {
+    "text": "2.1. Design and Development of the New Matrix\nThe cork used for this research is a product obtained from processing waste, character-\nized by a density equal to 90 kg/m3 and a grain size range equal to 0.5 ÷ 0.8 mm. The selected product Mix 1 is a mortar made from pure natural hydraulic lime,\nsiliceous sand, limestone, and fine marble, that respects the limits imposed by EN ISO\n14021:2021 [25] and EN 998-1:2016 [24], except for thermal conductivity values. This choice\nwas made because the addition of cork granules, as reported by various studies in the\nliterature [31,38–40], can drastically increase the hygroscopic properties. This property\nwould make Mix 1 a real thermal matrix, ideal for seismic and hygroscopic requalification\nof existing masonry buildings [4]. Table 1 shows the properties of Mix 1 which are reported\nin the product technical data sheet. Table 1. Properties of Mix 1 are described by the product technical data sheet. Mix 1. Properties\nBinder\nNatural Hydraulic Lime NHL 3.5\nAggregates\nSiliceous sand, calcareous, fine marble\nCompressive strength σ [N/mm²]\n>15\nThermal conductivity λ [W/mK]\n0.82\nApparent density of dry mortar [kg/m³]\n1580\nAdhesion to the substrate [N/mm²]\n>1\nWater capillarity absorption [Kg/m² min½]\n0.3\nGrading size [mm]\n0 ÷ 1.4\nPermeability to water vapor µ [-]\n15 ÷ 35\nMaximum thickness by layer [mm]\n15\nA further important property to observe is the high compressive strength of Mix 1,\ndeclared by the technical data sheet to be greater than 15 N/mm2 after 28 days of curing,\nten times higher than the established limit of 1.5 N/mm2 by EN 998-1:2016 [24]. Compared\nto the pre-established limits, this high value makes Mix 1 an ideal product for this experi-\nmentation, as the addition of the cork granules reduces, but not excessively, the general\nmechanical properties of the mixture [41,42]. The next step was to determine the percentage by weight of cork in granules within\nMix 1, to obtain an ideal mortar for creating the new matrix of the FRLM, without modifying\nthe grain size range, workability, and water absorption. According to research findings,\nin [32] the percentages of cork added to an NHL-based mortars are calculated on weight. Precisely, the control mortar is prepared, to which 2%, 4%, 6%, and 8% of cork in granules\nby weight is added, and the mechanical compressive strength is classified as CSII for the\ncontrol mortar and CSI [24] for the mortar with the 8% cork by weight, demonstrating that\nthe mechanical resistance gradually decreases as the cork increases. Based on this last work analyzed, the mixtures were prepared adding cork percentages\nby weight at intervals of 0.5%, 1.0%, 1.5%, 2.0%, and 3.0% to 100 g of Mix 1, as indicated in\nTable 2. With each addition of cork, the workability of the mixture decreased, until it was\ndecided not to exceed 3.0% of the cork. Regarding the amount of lime and aggregates in the mixtures, it is essential to clarify\nthat the specific quantities of the components in Mix 1 are not",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 6,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "explicitly provided, and in\nthis context, the term “binder” (Table 2) refers to the combination of all the components,\nexcluding cork aggregates. Materials 2024, 17, 5232\n5 of 20\nThe uniform water amount utilized is equal to 21.5 mL of water per 100 g of binder (in\naccordance with the recommendations provided by the datasheets), and as this research\nrepresents an initial attempt to explore the effects of cork dosage on the properties of\nthe mortar, it was opted to maintain a constant water quantity to ensure consistency and\ncomparability across the different mixtures. Once the mixtures to be used as matrices\nwere identified, an accurate and detailed experimental campaign was carried out, in which\nthe properties of the six mixtures Mix 1 ÷ Mix 6 were analyzed, in terms of segregation\nphenomena within the mixtures, workability, evaluation of the water absorption properties,\ncompression strength, and adhesion resistance on masonry support. Table 2. Mixture design of the new mortars Mix 1 ÷ Mix 6. Mixtures\nBinder [g]\nCork in Granules [g]\nMixing Water [mL]\nMix.1 (0.0% cork)\n100\n0\n21.5\nMix.2 (0.5% cork)\n100\n0.5\n21.5\nMix.3 (1.0% cork)\n100\n1\n21.5\nMix.4 (1.5% cork)\n100\n1.5\n21.5\nMix.5 (2.0% cork)\n100\n2\n21.5\nMix.6 (3.0% cork)\n100\n3\n21.5\nThe cork content for each mixture is as follows (Table 2):\n•\nMix 1 (0.0% cork): 0 g of cork was added. •\nMix 2 (0.5% cork): 0.5 g of cork was added to 100 g of Mix 1. •\nMix 3 (1.0% cork): 1 g of cork was added to 100 g of Mix 1. •\nMix 4 (1.5% cork): 1.5 g of cork was added to 100 g of Mix 1. •\nMix 5 (2.0% cork): 2 g of cork was added to 100 g of Mix 1. •\nMix 6 (3.0% cork): 3 g of cork was added to 100 g of Mix 1. 2.2. Investigation of Segregation Using Micro-Computed Tomography\nTo ensure the correct design of the mixture, it is necessary to limit the segregation\nphenomena, i.e., the potential separation of the different components of the mixture. In\nthe case of Mix 1, with the addition of cork granules, it is necessary to verify that the final\nmixture has a homogeneous level of distribution of the aggregates. X-ray micro-computed\ntomography (micro-CT) scanning was performed on all six mixtures to obtain a quantitative\nevaluation of aggregate homogeneity in the specimen [43]. Micro-CT is a non-destructive\nand non-invasive diagnostic technique capable of three-dimensionally visualizing the\ninternal structure of the analyzed objects. The scanning was carried out using the high-resolution Bruker Skyscan 1273 micro-CT\nscanner. A 1 mm copper filter was used which resulted in a voltage of 125, a current of\n300 µA, and an exposure time of 800 ms. The average of 12 projections was obtained\nat 0.6 degrees each, and the pixel size was kept constant at 30 µm for all mixtures. The\nprojections were then reconstructed into a three-dimensional model with Bruker NRecon\nsoftware version 1.5. A rectangular core of this model—base of 15 by 15 mm and height of\n45 mm—was then analyzed using Bruker CTAn software version 1.7. This was performed to",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 7,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "avoid possible boundary conditions visualized by the scanner while scanning the cylindrical\nspecimen and sample stage. At this stage, it was possible to visualize the three-dimensional\nmodel of the internal microstructure of the mixtures. In comparison with previous studies, particularly the work by Travincas et al. [44],\nwhich extensively reviewed the use of micro-CT in mortar studies, the present research\ntakes a step forward by applying this technique to novel mixtures incorporating cork. Travincas et al. emphasized the utility of micro-CT in characterizing phenomena such\nas leaching, carbonation, and mechanical damage, as well as the spatial distribution of\npores and aggregates in traditional mortars. However, few studies have applied micro-CT\nspecifically to the evaluation of cork distribution within NHL mortars. Materials 2024, 17, 5232\n6 of 20\nWhile Travincas et al.’s review highlights the advantages of combining micro-CT with\nother techniques for a more comprehensive characterization of mortar microstructures,\nthis study demonstrates that micro-CT alone can provide sufficient insight into the spatial\ndistribution of aggregates in sustainable composite materials. Furthermore, our findings\nsuggest a high degree of uniformity in cork distribution, which contrasts with earlier reports\nof aggregate segregation in traditional mortars. This contributes to the advancement of\nsustainable material formulations by validating the use of micro-CT for ensuring the\nconsistency of aggregate distribution in innovative mixtures. 2.3. Determination of the Flow Properties of the Mixtures\nAccording to ASTM C1437-20 [33], the workability of the mixtures was analyzed\nby flow test, a method to determine the flow of hydraulic mortars using the apparatus\ndescribed in ASTM C230/C230M-23 [45]. For each mixture, a layer of 25 mm in thickness was placed in the conical mold and\ntamped 20 times to ensure the uniform filing of the mold. Once the mold was filled, it was\nlifted away, the flow table was dropped 25 times in 15 s, and the diameter of the mixtures\nwas measured by a caliper along the three lines scribed on the plate. This study is unique in that it examines the flow properties of NHL mortars containing\ncork, as opposed to the cement-based cork mortars investigated in previous research, such\nas in Liu et al. [46]. Their work explored the effects of cork admixtures on the hygro-thermal\ncharacteristics of cement–cork mortars, finding that the incorporation of cork led to signifi-\ncant improvements in thermal and moisture insulation. Similarly, other studies, such as\nthose by Pesaralanka and Khed [47], have focused on the flow and mechanical properties\nof self-compacting mortars containing graphene oxide, while Mermerda¸s et al. [48] exam-\nined the impact of artificial lightweight aggregates on geopolymer mortars. These studies\nprimarily investigated cementitious materials, with no comparable research on NHL-based\nmortars incorporating cork. 2.4. Evaluation of the",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 8,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "Water Absorption Coefficient\nThe rate of water absorption test was carried out to evaluate the hygroscopic prop-\nerties and the capillary water absorption coefficient of the new mixtures, following the\nmethodology of ASTM C1403-22a [34]. Three cube specimens 50 mm3 in size were prepared for each mixture, for a total of 18\nsamples, placed in the moist room 24 h after casting. Once removed from the molds, the\nsamples were stored in moisture-tight plastic bags and left to mature at room temperature. At the age of 28 days, the specimens were placed drying in a ventilated oven at 110 ◦C and\nweighed at different intervals, specifically: before being placed in the oven, after 24 h, and\nafter 26 h, when an increment of loss of 0.2% of the previous weighing occurred. Then,\nthe top faces of each cube were marked and measured by a caliper, and the initial weight\nW0 was recorded. In the next phase, the specimens were placed in appropriate prismatic\ncontainers 75 mm high and, once placed on 6 mm thick supports, they were immersed\nin approximately 10 mm of water. The test samples were removed from the container at\ndifferent intervals from the time of the first immersion, specifically after 15 min, one hour,\nfour hours, and 24 h. Following each interval, the specimens were carefully dried, then\nweighed and re-immersed, until the last interval. Once the test procedure was completed, the water absorption at each time interval As\nmeasured in g/100 cm2, was calculated using Equation (1) [34]:\nAs = 10000 × (WT −W0)/(L1 × L2)\n(1)\nIn which:\n•\nWT is the weight of the specimen at time T [g]. •\nW0 is the initial weight of the specimen [g]. •\nL1 is the average length of the test surface of the specimen cube [mm]. Materials 2024, 17, 5232\n7 of 20\n•\nL2 is the average width of the test surface of the specimen cube [mm]. 2.5. Evaluation of the Compressive Strength of the Mixtures\nCompressive strength tests were carried out on the eighteen specimens subjected to\nthe water absorption test (three for each mixture), following ASTM C109/C109M-21 [35]\nwith a load increase equal to 100 N/s, until the specimen breaks. In comparison to previous studies, the findings of this paper demonstrate enhanced\ncompressive strength performance. Parracha et al. [49] analyzed lightweight thermal\ninsulating mortars, noting a reduction in mechanical properties due to the inclusion of\nlightweight aggregates such as expanded polystyrene and cork. Similarly, Lakreb et al. [50]\nobserved a decrease in compressive strength, with a reduction of up to 42% when waste\ncork particles were incorporated to improve sustainability and thermal insulation. In\ncontrast, the mixtures evaluated in this study achieved higher compressive strength, as\nillustrated in Section 3.4. These findings contribute to addressing gaps in the development\nof materials that combine both structural reinforcement and enhanced performance for\nexisting masonry buildings. 2.6. The Pull-Off Test\nThe pull-off adhesion tests were conducted fol",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 9,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "lowing ASTM C1583/C1583M-20 [36]\nstandard, which specifies procedures for evaluating the performance of fabric-reinforced\ncomposite materials on masonry substrates. The tests were performed on two types of\nsurfaces: tuff bricks and clay bricks. For each mixture, six pull-off adhesion tests were\ncarried out, leading to a total of thirty-six tests for each type of brick. Specifically, six tuff\nbrick specimens and eighteen clay brick specimens were prepared and reinforced, with the\ndimensions adhering to ASTM standards [36]. The testing procedure began with manual humidification of the upper brick surfaces. A first matrix layer, with a thickness of 6.5 mm, was applied, followed by the placement\nof a basalt fabric (a balanced bi-axial mesh with a grid size of 17 mm × 17 mm and an\nequivalent thickness of 0.032 mm). A second 6.5 mm-thick matrix layer was then applied,\nwith special attention given to ensuring the flatness of the surface for proper adhesion to the\nsteel disks. After preparation, all samples were cured for 28 days in a humid environment\nat room temperature. Subsequently, the test areas were engraved using a 50 mm diameter diamond core\ndrill. Steel disks (50 mm in diameter) were glued to the drilled areas with a bi-component\nepoxy resin adhesive and left to dry for 24 h. The pull-off tests were conducted using an\nautomatic pull-off adhesion tester, which applied a continuous tensile load at a rate of\n0.03 MPa/s, with the maximum stress limit set at 3.8 MPa. Determining the type of failure is crucial for evaluating pull-off adhesion tests, with\nfailure modes assessed based on the ASTM 583/C1583M [36] classification:\n(a)\nFailure in the substrate. (b)\nBond failure at the interface. (c)\nFailure in the overlay or repair material. (d)\nBond failure at the epoxy/overlay interface. The tensile adhesion strength fh was evaluated using the following Equation (2):\nf h = Ph/A\n(2)\nwhere\n•\nPh is the tensile load. •\nA is the area of the test specimen [mm2]\n\nMaterials 2024, 17, 5232\n8 of 20\n3. Results and Discussion\nThis section presents the experimental outcomes from the flow tests, micro-computed\ntomography analysis, water absorption tests, and mechanical assessments of the novel\nFabric-Reinforced Lime Matrix (FRLM) composites. While the results show clear trends re-\ngarding the influence of cork granules on the matrix properties, it is crucial to delve deeper\ninto the significance of these findings within the context of existing literature. The addi-\ntion of cork granules within the matrix impacts flow, density, and mechanical properties,\nproviding insights into the potential of FRLM as an innovative reinforcement material for\nmasonry structures. To enhance the depth of this discussion, we will compare our results\nwith prior studies on cork-reinforced composites and similar materials, emphasizing how\nour research contributes to addressing current gaps in the field, particularly in achieving a\nbalance between mechanical performance and hygroscopic proper",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 10,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ties. 3.1. Results of the Flow Test\nThe workability of the mixtures was evaluated using a flow test in accordance with\nASTM C1437-20 [33], which assesses the flow of hydraulic mortars using the apparatus\nspecified in ASTM C230/C230M-23 [45]. The novelty of this paper lies in using cork as a sustainable aggregate in natural\nhydraulic lime (NHL) mortars and its impact on flow behavior and workability. Unlike\ntraditional cement-based or geopolymer systems, cork reduces flowability as its content\nincreases, but this is balanced by the absence of segregation. Other studies have explored similar challenges: Pesaralanka et al. [47] show that the\naddition of graphene oxide (GO) in self-compacting concrete (SCC) reduces flowability due\nto its high surface area, but the use of viscosity modifiers helps maintain the desired slump\nflow. Similarly, Mermerda¸s et al. [48] demonstrate that incorporating artificial lightweight\naggregate (A-LWA) in geopolymer mortars enhances flowability by preventing the absorp-\ntion of the alkaline activator solution, thereby improving workability without segregation. Unlike the GO and A-LWA [49,50], which primarily focus on enhancing flow properties,\nour study highlights that cork in NHL mortars effectively balances reduced flowability with\nenhanced stability, offering a sustainable alternative without compromising uniformity. As shown in Table 3, the results indicate a clear reduction in flow percentage from 94%\nin the control mixture to 33% in Mix 6 as cork content increases, highlighting cork’s effec-\ntiveness in maintaining stability without segregation, even at higher concentrations, and\ndemonstrating its potential as a sustainable aggregate in NHL mortars, unlike traditional\ncement-based mortars. Table 3. Results obtained by the flow test for each mixture. Mixtures\nInitial Diam. [mm]\nDiam. 1\n[mm]\nDiam. 2\n[mm]\nDiam. 3\n[mm]\nAverage Diam. [mm]\nFLOW\n[%]\nMix.1\n(0.0% cork)\n100\n194\n194\n193\n194\n94%\nMix.2\n(0.5% cork)\n100\n183\n184\n184\n184\n84%\nMix.3\n(1.0% cork)\n100\n178\n177\n177\n178\n78%\nMix.4\n(1.5% cork)\n100\n142\n144\n140\n142\n42%\nMix.5\n(2.0% cork)\n100\n136\n136\n138\n137\n37%\nMix.6\n(3.0% cork)\n100\n132\n135\n133\n133\n33%\n3.2. X-Ray Micro-Computed Tomography (Micro-CT)\nTo acquire the percentage of cork within the mixtures in terms of density and volume,\nthe first step was the segmentation of images using the thresholding technique [51]. Every\n\nMaterials 2024, 17, 5232\n9 of 20\ncross-section was segmented using a grayscale threshold value between 0 (pure black) to\n255 (pure white). To keep the parameters constant throughout the analysis, the grayscale\nthreshold 90 was used for all mixtures to represent voids and corks. In Figure 1 the cross-\nsections of the samples are shown, in which the black color describes very low-density\nmaterials, i.e., the air voids and the cork in granules. It is important to understand that after\nsegmentation, the material under study - in this case, voids and corks - are converted to\nwhite areas, and the rest of the imag",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 11,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "es are represented as black areas. Therefore, the higher\npresence of cork correlates with a higher average grayscale index in the cross-section of the\nsegmented image. (a) \n(b) \n(c) \n \nMix 1 \n \nMix 2 \n \nMix 3 \n \nMix 4 \n \nMix 5 \n \nMix 6 \n(d) \nFigure 1. Results of micro-CT scanning and analysis on the samples. Images show (a) reconstructed\ncylindrical sample, (b) core sample used for analysis, (c) segmented air void and cork volumes, and\n(d) cross-section image of different mixtures. The distribution of the volume of cork granules along the height of each mixture is\npresented in Figure 2. Graphs relating to the analysis of the segmented cross-section images,\nin terms of (left) grayscale mean values, and (right) grayscale standard deviation values. In these graphs, the y-axis represents the height of the sample in terms of the number\nof cross-sections, and the x-axis shows the average grayscale value of the segmented image\nand the relative standard deviation of the values, respectively in the left and right figures. In the left graph, as the cork granules within the mixture increases, the average\ngrayscale value also increases. The control Mix 1 does not contain any corks and has\nan almost constant trend, with grayscale values very close to zero. This shows that the\ndistribution of voids is very uniform through the height of the sample. On the contrary,\nMix 6 has a very variable trend that oscillates between grayscale values in the range of 40\nto 65, displaying that corks do not have a uniform distribution through the height of the\nsample. The graph on the right presents the results in terms of the standard deviation of the\ncork distribution along the height, showing a sufficiently stable behavior for Mix 1 and very\nvariable for Mix 6, characterized by a higher standard deviation value than other mixtures. Materials 2024, 17, 5232\n10 of 20\nFor the control matrix Mix 1, to which granulated cork was not added, the white color\nrepresents the air voids that were generated in the mixture. Knowing the volume quantity\nof the air voids present in Mix 1, and assuming that the volume of the voids is equivalent\nin each sample, this value was subtracted from the subsequent volumes, thus obtaining the\nvolume quantity of the cork in granules. Figure 2. Graphs relating to the analysis of the segmented cross-section images, in terms of (left)\ngrayscale mean values, and (right) grayscale standard deviation values. Table 4 shows the results of the three-dimensional analyses. As discussed, the first\ncolumn shows the volume fraction of void and corks with respect to the entire analyzed\nvolume. The second column shows only the volume fraction of corks in the sample. Third\nand fourth columns display the total surface area and surface area to volume ratio of the\ncorks. Structure separation is an average value describing the mean distance between each\ngranule with the neighboring cork granules and is a metric of distribution of the corks\nwithin the sample. Table 4. Results",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 12,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "obtained from the three-dimensional analysis of the mixtures examined. Mixtures\nAir and Cork\nVolume Fraction\n[%]\nCork Volume\nFraction\n[%]\nCork Surface\n[mm²]\nCork\nSurface/Volume\n[1/mm]\nStructure\nSeparation\n[mm]\nMix.1 (0.0% cork)\n2.2\n0.0\n0.0\n-\n1.2\nMix.2 (0.5% cork)\n6.8\n4.6\n10,658.4\n23.0\n0.9\nMix.3 (1.0% cork)\n7.7\n5.4\n11,931.3\n21.6\n0.9\nMix.4 (1.5% cork)\n9.4\n7.2\n13,502.6\n18.5\n0.9\nMix.5 (2.0% cork)\n12.6\n10.4\n18,937.3\n18.0\n0.7\nMix.6 (3.0% cork)\n20.2\n18.0\n30,254.6\n16.6\n0.6\nAs the quantity of cork within the mixture increases, the volume fraction of cork\ngradually rises, until it reaches a volume percentage equal to 18% for Mix 6, i.e., the\nmixture containing 3% cork by weight compared to Mix 1. The same happens for the\n\nMaterials 2024, 17, 5232\n11 of 20\nexternal surfaces of the granules: as the cork particles increase, the quantity of the external\nsurface increases. However, it is interesting to observe that the quantities of the ratios\nbetween the external surface and the volume of the cork granules decrease as the cork\ncontent increases. This phenomenon can be caused by the surface distance between the\ncork granules, which decreases drastically as the cork increases, appearing barely legible\nby the scanner, which reads these granules as a single material, and the amount of surface\narea is consequently reduced. As the quantity of cork within the mixture increases, the volume fraction of cork\ngradually rises (Table 5) until it reaches a volume percentage equal to 18% for Mix 6, i.e.,\nthe mixture containing 3% cork by weight compared to Mix 1. The same happens for the\nexternal surfaces of the granules: as the cork particles increase, the quantity of the external\nsurface increases. However, it is interesting to observe that the quantities of the ratios\nbetween the external surface and the volume of the cork granules decrease as the cork\ncontent increases. This phenomenon can be caused by the surface distance between the\ncork granules, which decreases drastically as the cork increases, appearing barely legible\nby the scanner, which reads these granules as a single material, and the amount of surface\narea is consequently reduced. Table 5. Comparison between weight percentages and volume percentages of the cork granules\nwithin the mixtures. Mixtures\nWeight Percentage of Cork\nVolume Percentage of Cork\nMix.1\n0.0%\n0.0%\nMix.2\n0.5%\n4.6%\nMix.3\n1.0%\n5.4%\nMix.4\n1.5%\n7.2%\nMix.5\n2.0%\n10.4%\nMix.6\n3.0%\n18.0%\nOther research in this field has explored various materials and analytical techniques\nto understand the internal structure and properties of composite mixtures. For instance,\nPraneeth et al. [52], while focusing on biochar as a sustainable alternative to sand in\ncement mortars, make significant contributions by highlighting how biochar affects the\nporosity of mortars. It effectively demonstrates the potential for biochar to enhance these\nproperties, especially in terms of increasing porosity, which are critical aspects of sustainable\nconstruction materials. Similarl",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 13,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "y, Brunello et al. [53] provide an in-depth analysis of mock-\nup mortars using a combination of micro-CT and mercury intrusion porosimetry (MIP). This\ndual approach enriches the understanding of pore size distribution and connectivity within\nhistoric and modern mortar compositions. By comparing different analytical techniques, it\noffers a comprehensive view of how microstructural properties can be assessed, which is\ncrucial for the characterization of building materials, particularly in heritage conservation. In contrast, our analysis specifically focuses on the precise quantification and segmen-\ntation of cork granules within composite mixtures using a consistent grayscale thresholding\ntechnique, allowing for an accurate assessment of cork distribution and its effect on struc-\ntural properties. By maintaining constant parameters throughout the analysis, it provides a\nmore controlled and detailed understanding of how cork influences composite behavior,\noffering new insights into the potential applications of cork as a sustainable, functional\ncomponent in building materials. This focused approach on cork granules sets it apart from\nother research [52,53], contributing to the field with a specialized methodology and a new\nperspective on material optimization. 3.3. Rate of Water Absorption of the Mixtures\nTo ensure that the classifications of the new matrices comply with those required\nby EN 998-1:2016 [24], the absorption coefficients by capillarity were calculated, defined\nas the slope of the curves of capillarity water absorption [kg/(m2min1/2)]. From the\n\nMaterials 2024, 17, 5232\n12 of 20\nresults obtained (Table 6), it was demonstrated that the capillarity coefficient belongs to\nthe Wc1 category (characterized by a capillarity absorption ≤0.40 kg/(m2min1/2)) of EN\n998-1:2016 [24] only for Mix 3, Mix 4, and Mix 5 mixtures, which presented a capillarity\ncoefficient equal to 0.38 kg/(m2min1/2) characteristic that makes the analyzed mixtures\nideal from a hygroscopic point of view. Table 6. Values of capillary absorption coefficient. Capillarity Water Absorption Coefficient\nMix.1\n(0% Cork)\nMix.2\n(0.5% Cork)\nMix.3\n(1.0% Cork)\nMix.4\n(1.5% Cork)\nMix.5\n(2.0% Cork)\nMix.6\n(3.0% Cork)\n0.57\n0.51\n0.47\n0.38\n0.38\n0.53\nFurthermore, it is noted that the control matrix Mix 1 is characterized by a water\nabsorption coefficient equal to 0.57 kg/(m2min1/2), almost twice as much as stated by the\nmanufacturer’s technical data sheet (Table 6). Other research has also explored various strategies to enhance the moisture resistance\nof building materials. For instance, Matias et al. [54] discusses the use of nanomaterials,\nsuch as nano-silica or graphene oxide, which can significantly reduce water absorption by\nrefining the pore structure and increasing the density of the mortar matrix. Additionally,\nthe research work also explores the incorporation of natural fibers like hemp or flax,\nhighlighting their ability to improve water resistance while contributing to the mechanica",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 14,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "l\nproperties and sustainability of mortars. Although effective, these approaches often involve\ncomplex preparation processes and higher costs, which may limit their practical application\nin conventional construction. Liu et al. [46], on the other hand, focuses on using recycled\nmaterials like cork to achieve similar outcomes but through different mechanisms, such as\naltering the pore structure and reducing permeability. In comparison, our study employs a more straightforward methodology, achieving\nlow water absorption rates through optimized mix design without relying on the advanced\nadditives discussed in [54,55]. The success of Mix 3, Mix 4, and Mix 5 in meeting the\nstringent requirements of EN 998-1:2016 [24] highlights the potential of conventional mate-\nrials when used with carefully controlled formulations. This method not only simplifies\nproduction but also ensures that the materials remain accessible and cost-effective for\nwidespread use in the construction industry. 3.4. Evaluation of Compressive Strength of the Mixtures\nFor all tests, the average compressive strength value obtained on each specimen is\nnever lower than 1.50 N/mm2, a limit established in the first phase of the research, follow-\ning the specifications of the EN 998-1:2016 [24] standard. As expected, as the percentage\nof cork present in the mixture increases, the average value of compressive strength pro-\ngressively decreases, an effect due to the gradual decrease in density. Furthermore, it was\nobserved that the average compressive strength value of control mixture Mix 1 is equal\nto 5.10 N/mm2, three times lower than the value in the technical data sheet, equal to\n15 N/mm2. Table 7 shows the results obtained. Table 7. Result of compression strength, and elastic modulus of the mixtures. Specimen\nEm [N/mm²]\nAverage fm\n[N/mm²]\nStandard\nDeviation\nCoefficient of\nVariation\nMix.1 (0.0% cork)\n431.89\n5.10\n0.36\n0.07\nMix.2 (0.5 % cork)\n339.64\n4.38\n0.53\n0.12\nMix.3 (1.0 % cork)\n390.23\n4.35\n0.05\n0.01\nMix.4 (1.5 % cork)\n433.51\n4.03\n0.21\n0.05\nMix.5 (2.0 % cork)\n349.75\n3.19\n0.49\n0.16\nMix.6 (3.0 % cork)\n216.55\n1.99\n0.12\n0.06\n\nMaterials 2024, 17, 5232\n13 of 20\nThe average compressive strength fm [N/mm2], and the corresponding standard\ndeviation and coefficient of variation. The average elastic modulus Em evaluated between two points corresponding to 30%\nand 60% of the maximum stress [56]. Previous research, particularly Tedjditi et al. [55], examined the effect of varying levels\nof cork absorption on concrete properties, demonstrating that higher cork content leads to a\nsubstantial reduction in compressive strength. For instance, when the cork content reached\n75%, compressive strength values dropped to between 0.6 N/mm2, making the material\nunsuitable for structural purposes. In contrast, our study shows that even with increased\ncork content, compressive strength values remain above 1.99 N/mm2, meeting the EN\n998-1:2016 standard [24]. This demonstrates that the present research has successfu",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 15,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "lly\noptimized the mixture to maintain mechanical performance while increasing cork content,\na balance that previous studies did not achieve. Lakshani et al. [57] focused on the variability of compressive strength results due to\ndifferences in testing methods rather than material composition. While they identified\nsignificant discrepancies in strength measurements based on specimen shape and size, they\ndid not explore the impact of incorporating sustainable materials like cork. The current\nstudy, by maintaining consistent testing methods and directly evaluating the influence\nof cork content, provides a clearer and more reliable understanding of how cork affects\ncompressive strength. Lakreb et al. [50] investigated the partial replacement of cement with cork granules\nin mortar, finding a 42% decrease in compressive strength with just 2% cork content. The present research advances this understanding by demonstrating that even with a\nhigher cork percentage, the compressive strength remains within acceptable ranges for\nspecific applications. Overall, the current study makes a significant contribution by showing that cork-\nreinforced composites can achieve both environmental sustainability and mechanical relia-\nbility. By adhering to the EN 998-1:2016 standards [24] and ensuring compressive strength\nvalues remain above 1.50 N/mm2, the research presents a viable option for sustainable\nconstruction, demonstrating innovation and practicality not fully realized in prior studies. 3.5. Bond Strength of the Mixtures\nRegarding the failure mode, the results obtained from the pull-off tests demonstrated\nthat the six matrices behaved well when applied to tuff bricks. In Figure 3, each mix\ncontains two circular test sections where the pull-off force was applied to the clay bricks. The appearance of damage or separation around the circles indicates varying degrees of\nfailure in adhesion strength, influenced by the percentage of cork added to the mixtures. The bond strength values obtained on the reinforced clay bricks showed considerable\nvariation, primarily due to the different surface roughness of the bricks used. Figure 3. Configuration of the clay bricks after pull-off test (Mix 1–6 L). Materials 2024, 17, 5232\n14 of 20\nIn contrast, Figure 4 illustrates six sets of samples from the pull-off test applied to tuff\nbricks, showcasing the results after failure occurred. Each set corresponds to different cork\ncontent in the mix, ranging from 0.0% in Mix 1 to 3.0% in Mix 6. The matrices adhered\nmore consistently to the tuff bricks, indicating a uniform performance across the mixes. Figure 4. Configuration of the tuff bricks after pull-off test (Mix 1–6 L). The two images provided (Figures 3 and 4), each depicting the results of the pull-off\ntests on samples made from various cork content mixtures, offer important insights into\nthe material performance post-test for both brick types: Figure 3 presents a top view of the\nsamples after the pull-off test for clay bricks, c",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 16,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "learly showing the extent of damage and\nseparation at the interface. This visual allows for immediate comparison of how varying\ncork percentages influence adhesion strength and failure patterns. The damage around the\ncircular sections offers qualitative information regarding the adhesion quality. Figure 4\ndisplays a similar setup for tuff bricks but focuses on the internal material failure post-test. This view provides a better understanding of internal material cohesion and how cork\ncontent affects the nature of failure. Following these observations, the results of the pull-off adhesion tests carried out\non both clay bricks (Mix 1–6 L) and tuff bricks (Mix 1–6 T) are presented in vertical bar\ncharts (Figure 5), illustrating the average adhesion strength values [N/mm2] along with\ntheir corresponding standard deviations. The inclusion of error bars in the bar charts\neffectively highlights the variations in adhesion performance between the two types of\nbricks, facilitating a clear comparison of results. Figure 5. Results of the pull-off test in terms of average fh and standard deviation of clay bricks\n(Mix 1 ÷ 6 L) and tuff bricks (Mix 1 ÷ 6 T). Materials 2024, 17, 5232\n15 of 20\nNo studies in the current state of the art have explored pull-off tests on tuff and clay\nbricks reinforced with a composite material incorporating cork as an aggregate in the\nmatrix reinforced with basalt fabric. This research addresses a notable absence in literature,\nhighlighting its innovative contribution to the field and expanding the understanding of\nFRLM composites and their potential for masonry reinforcement applications. 3.6. Evaluation of the Roughness Parameter\nThe tests carried out on the clay bricks characterized by a smoother surface showed a\ncritical detachment at the matrix-support interface, denoting the complete loss of adhesion. Furthermore, a strong dispersion was observed between the results obtained, depending\non the difference in the surface roughness of the brick supports. In this regard, the analysis of surface roughness was carried out on two types of clay\nbrick surfaces used for the pull-off tests: a smoother one and a rougher one. To compare the results obtained through the pull-off tests, to be able to state that the\nFRLM material adheres better to rough surfaces, the surface roughness of the tuff brick was\nalso analyzed. A non-contact optical profilometer was used to measure surface roughness, in accor-\ndance with EN ISO 25178-605 [37]. For the evaluation of surface roughness, the specifica-\ntions indicated in the European standard EN ISO 25178-2 [37] were followed, where the\nsurface texture parameters and their respective calculation methods are defined (Figure 6). The following parameters were used in this study:\n•\nThe arithmetic mean height Sa [mm], which is the mean of the absolute of the ordinate\nvalues of the scale-limited surface. •\nThe kurtosis of the raw profiler Sku, which is the quotient of the mean quadratic value\nof the ordinate v",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 17,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "alues of the scale-limited surface. •\nThe skewness of the raw profile Ssk, which is the quotient of the mean cube value of\nthe ordinate values of the scale-limited surface. In Table 8, it can be observed that clay bricks with a smooth surface are characterized by\nlower average bond tension values fh compared to those with a rough surface, characterized\nby a surface roughness Sa equal to 0.163 mm, eight times higher than those with a smooth\nsurface, equal to 0.21 mm. Furthermore, all tests carried out on bricks with a smooth\nsurface always reported adhesion tension values lower than 0.50 N/mm2, highlighting\nhow the designed FRLM composite material has better bond behavior when applied on\nrough surfaces, as observed with the tuff supports, most of which were characterized by a\ntype of failure (a), i.e., by lack of adhesion in the reinforced substrate. Table 8. Surface roughness parameters calculated according to EN ISO 25178-2 for bricks with smooth\nand rough surfaces. Surface Texture Parameter Defined by UNI EN ISO 25178-2\nClay Brick\nSmooth Surface\nClay Brick\nRough Surface\nTuff Brick Surface\nSa [mm]\n0.02\n0.16\n0.40\nSku\n24.73\n3.01\n4.25\nSsk\n−2.13\n−0.62\n−1.37\nThese findings provide a basis for defining a general relationship between surface\nroughness and the adhesion strength of the applied composite. Specifically, the adhesion\nresistance tends to decrease when the surface to be strengthened is smooth. While surface\nroughness has a significant impact on the bond behavior of the FRLM material, it is\nimportant to acknowledge that other factors also influence adhesion, such as the mechanical\nproperties of both the matrix and the substrate, as well as environmental conditions. Therefore, surface roughness serves as an indirect but valuable indicator of adhesion\npotential in this context. Materials 2024, 17, 5232\n16 of 20\nFigure 6. Surface (left) and profile (right) maps of the smooth clay brick, rough clay brick, and\ntuff brick. 4. Conclusions\nThis study presents a novel approach to developing Fabric-Reinforced Lime Matrix\n(FRLM) composites by integrating sustainable aggregates, specifically cork granules, to\nenhance both mechanical and hygroscopic properties, while advancing environmental\nsustainability. Unlike previous research, this work uniquely combines cork, a lightweight\neco-friendly aggregate, with basalt fabric reinforcement in a natural hydraulic lime (NHL)\nmortar, offering new insights into the balance between performance, sustainability, and\npractical application. Several key innovations and technical contributions emerged from this research:\n•\nFlowability: Cork serves as an effective alternative to synthetic additives, stabilizing\nthe mixture without compromising uniformity or workability. Unlike chemical en-\nhancers, cork offers a sustainable solution that aligns with eco-friendly construction\npractices, reducing the reliance on chemical additives. •\nMicrostructural analysis using micro-CT: The use of micro-CT scanning to assess the\ndistribu",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 18,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "tion and interaction of cork within the FRLM composite provides detailed\ninsights into the composite’s structural behavior. This methodological innovation\nenhances the evaluation of lightweight aggregates in construction materials. •\nOptimized hygroscopic properties: Cork aggregates improve the hygroscopic per-\nformance of the mortar, reducing water absorption without complex additives. This\n\nMaterials 2024, 17, 5232\n17 of 20\nsimple, cost-effective method meets EN 998-1:2016 standards [24], demonstrating\nthat sustainability can be achieved with conventional materials while maintaining\nmoisture control. •\nEnhanced compressive strength: Despite incorporating cork, the mortar’s compres-\nsive strength remains within acceptable standards, challenging the typical trade-off\nbetween lightweight aggregates and reduced mechanical strength. This finding under-\nscores that sustainability does not have to come at the cost of performance. •\nSurface roughness and bond strength: the research shows that rougher surfaces signifi-\ncantly improve the adhesion of FRLM composites to clay and tuff bricks. While surface\nroughness plays a key role, other factors, such as the mechanical properties of the ma-\ntrix and substrate, and environmental conditions, also influence bond strength. Thus,\nsurface roughness serves as an indirect but important indicator of adhesion potential. •\nPull-off strength in FRLM composites: This study presents the first data on the pull-off\nstrength of FRLM composites with cork and basalt fabric reinforcements on tuff and\nclay bricks, revealing the potential for their application in masonry reinforcement. These findings open new possibilities for FRLM systems in structural retrofitting. In summary, this research fills critical gaps in the current understanding of FRLM\ncomposites by introducing cork as a sustainable aggregate and rigorously testing the mate-\nrial’s mechanical and hygroscopic properties. The novelty of this work lies in its holistic\napproach to integrating environmental sustainability with structural performance. Further\nanalyses should expand the knowledge gained, providing a solid foundation for practical\napplications in the seismic and energy retrofit of masonry buildings, with emphasis on\ndurability. Future research should assess the FRLM composite’s long-term performance\nunder various environmental conditions and aging processes. Evaluating the thermal con-\nductivity of the matrices would help assess the composite’s insulation properties compared\nto existing solutions. Additional mechanical tests, including tensile, shear, and diagonal\ncompression, are needed to confirm its effectiveness for structural applications. Supplementary Materials: The following supporting information can be downloaded at: https:\n//www.mdpi.com/article/10.3390/ma17215232/s1. Author Contributions: Conceptualization, D.P., V.A., M.S.T.M., A.G., M.D.S. and A.N.; Methodology,\nD.P. and A.N.; Software, A.G., D.P., M.S.T.M. and A.N.; Formal analysis, D.P.;",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 19,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "Investigation, D.P. and\nA.N.; Resources, A.G., M.D.S. and A.N.; Data curation, D.P. and M.S.T.M.; Writing—original draft,\nD.P.; Writing—review & editing, D.P., M.S.T.M. and A.N.; Visualization, D.P.; Supervision, V.A., A.G.,\nM.D.S. and A.N.; Funding acquisition, M.D.S., A.G. and A.N. All authors have read and agreed to\nthe published version of this manuscript. Funding: The financial support of the Italian Ministry of University and Research (MUR) through\nthe PRIN2022 project ‘Unified approach for improving structural and thermal response of masonry\nbuildings with optimized sustainable composite materials—ASThRO-Co’ is gratefully acknowledged. The micro-CT portion of this study was funded through United States NSF MRI award number\n1920127. Any opinions, findings, and conclusions or recommendations expressed in this material are\nthose of the authors and do not necessarily reflect the views of the National Science Foundation. Institutional Review Board Statement: Not applicable. Informed Consent Statement: Not applicable. Data Availability Statement: The raw data supporting the conclusions of this article will be made\navailable by the authors on request. Acknowledgments: We gratefully acknowledge Kerakoll SpA for their invaluable support in supply-\ning the materials necessary for this research. Conflicts of Interest: The authors declare no conflicts of interest. Materials 2024, 17, 5232\n18 of 20\nReferences\n1. Angiolilli, M.; Gregori, A.; Vailati, M. Lime-based mortar reinforced by randomly oriented short fibers for the retrofitting of the\nhistorical masonry structure. Materials 2020, 13, 3462.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 20,
+      "char_count": 1617
+    }
+  },
+  {
+    "text": "[CrossRef] [PubMed]\n2. Ferrara, G.; Pepe, M.; Martinelli, E.; Filho, R.D.T. Tensile behavior of flax textile reinforced lime-mortar: Influence of reinforcement\namount and textile impregnation. Cem.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 21,
+      "char_count": 197
+    }
+  },
+  {
+    "text": "Concr. Compos. 2021, 119, 103984. [CrossRef]\n3. Alecci, V.; De Stefano, M.; Marra, A.M.; Pittau, F.; Pugliese, D.; Romano, R.; Stipo, G. A New Compatible and Sustainable FRLM\nComposite for the Seismic and Energetic Upgrade of Historic Buildings. In Lecture Notes in Networks and Systems; Springer Science\nand Business Media Deutschland GmbH: Cham, Switzerland, 2022; pp. 2223–2232. [CrossRef]\n4. Pugliese, D.; Alecci, V.; Romano, R.; Stipo, G.; De Stefano, M.; Nanni, A. Innovative and Sustainable Composite Material for the\nSeismic and Energetic Upgrade of Historic Masonry Buildings. Fibers 2023, 11, 76. [CrossRef]\n5. Pugliese, D.; Alecci, V.; Galassi, S.; Marra, A.M.; De Stefano, M. Seismic and energetic renovation of existing masonry buildings\nby innovative FRLM composite materials. In Life-Cycle of Structures and Infrastructure Systems—Proceedings of the 8th International\nSymposium on Life-Cycle Civil Engineering, IALCCE 2023; CRC Press/Balkema: Boca Raton, FL, USA, 2023; pp. 3704–3711.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 22,
+      "char_count": 999
+    }
+  },
+  {
+    "text": "[CrossRef]\n6. Alecci, V.; De Stefano, M.; Galassi, S.; Marra, A.M.; Pugliese, D. Seismic and energetic historical buildings renovation by innovative\nfiber reinforced composite materials. In The New Boundaries of Structural Concrete 2022|ACI Italy Chapter; IMREADY Srl: Lecce,\nItaly, 2022. 7. Candamano, S.; Crea, F.; Iorfida, A. Mechanical characterization of basalt fabric-reinforced alkali-activated matrix composite:\nA preliminary investigation. Appl.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 23,
+      "char_count": 454
+    }
+  },
+  {
+    "text": "Sci. 2020, 10, 2865. [CrossRef]\n8. Scheinherrová, L.; Keppert, M.; ˇCerný, R. Chemical aspects of the application of basalt in cement composites. Constr. Build. Mater. 2022, 350, 128873. [CrossRef]\n9. Bompadre, F.; Donnini, J. Surface modification of glass textile for the reinforcement of a cement-based composite: A review. Appl.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 24,
+      "char_count": 331
+    }
+  },
+  {
+    "text": "Sci. 2021, 11, 2028. [CrossRef]\n10. Al-Lami, K.; D’Antino, T.; Colombi, P. Durability of fabric-reinforced cementitious matrix (FRCM) composites: A review. Appl.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 25,
+      "char_count": 161
+    }
+  },
+  {
+    "text": "Sci. 2020, 10, 1714. [CrossRef]\n11. Ortega, J.M.; Branco, F.G.; Pereira, L. Long-Term Behavior Related to Water Ingress in Mortars Which Combine Expanded and\nNatural Cork Lightweight Aggregates and Eco-Friendly Cements. Buildings 2023, 13, 1651. [CrossRef]\n12. Lima, J.; Faria, P.; Silva, A.S. Earth Plasters: The Influence of Clay Mineralogy in the Plasters’ Properties. Int.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 26,
+      "char_count": 376
+    }
+  },
+  {
+    "text": "J. Archit. Herit. 2020,\n14, 948–963. [CrossRef]\n13. Stazi, F.; Pierandrei, N.; Di Perna, C.; Tittarelli, F. Experimental evaluation of natural hydraulic lime renders with nanoclay and\nnanolime to protect raw earth building surfaces. Case Stud. Constr. Mater. 2022, 17, e01564. [CrossRef]\n14. Záleská, M.; Pavlíková, M.; Vyšvaˇril, M.; Pavlík, Z. Effect of aggregate and binder type on the functional and durability parameters\nof lightweight repair mortars. Sustainability 2021, 13, 11780.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 27,
+      "char_count": 488
+    }
+  },
+  {
+    "text": "[CrossRef]\n15. Van den Heede, P.; Thiel, C.; De Belie, N. Natural and accelerated carbonation behaviour of high-volume fly ash (HVFA) mortar:\nEffects on internal moisture, microstructure and carbonated phase proportioning. Cem.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 28,
+      "char_count": 227
+    }
+  },
+  {
+    "text": "Concr. Compos. 2020, 113, 103713. [CrossRef]\n16. Karade, S.R.; Irle, M.; Maher, K. Influence of granule properties and concentration on cork-cement compatibility. Holz Als Roh-Und\nWerkst. 2006, 64, 281–286. [CrossRef]\n17. Barnat-Hunek, D.; Widomski, M.K.; Szafraniec, M.; Łagód, G. Impact of different binders on the roughness, adhesion strength,\nand other properties of mortars with expanded cork. Materials 2018, 11, 364.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 29,
+      "char_count": 423
+    }
+  },
+  {
+    "text": "[CrossRef] [PubMed]\n18. Merabti, S.; Kenai, S.; Belarbi, R.; Khatib, J. Thermo-mechanical and physical properties of waste granular cork composite with\nslag cement. Constr.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 30,
+      "char_count": 172
+    }
+  },
+  {
+    "text": "Build. Mater. 2021, 272, 121923. [CrossRef]\n19. Stefanidou, M.; Kamperidou, V.; Konstantinidis, A.; Koltsou, P.; Papadopoulos, S. Use of Posidonia oceanica fibres in lime mortars. Constr. Build. Mater. 2021, 298, 123881. [CrossRef]\n20. Tedjditi, A.K.; Ghomari, F.; Taleb, O.; Belarbi, R.; Bouhraoua, R.T. Potential of using virgin cork as aggregates in development of\nnew lightweight concrete. Constr.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 31,
+      "char_count": 401
+    }
+  },
+  {
+    "text": "Build. Mater. 2020, 265, 120734. [CrossRef]\n21. Panesar, D.K.; Shindman, B. The mechanical, transport and thermal properties of mortar and concrete containing waste cork. Cem.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 32,
+      "char_count": 175
+    }
+  },
+  {
+    "text": "Concr. Compos. 2012, 34, 982–992. [CrossRef]\n22. Rego, L.; Mota, S.; Torres, A.; Pinto, C.; Cravo, S.; e Silva, J.R.; Páscoa, R.N.M.J.; Almeida, A.; Amaro, F.; Pinho, P.G.; et al. Quercus\nsuber Bark as a Sustainable Source of Value-Added Compounds: Experimental Studies with Cork By-Products. Forests 2023, 14,\n543.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 33,
+      "char_count": 315
+    }
+  },
+  {
+    "text": "[CrossRef]\n23. Pereira, H. Wood Science and Technology Chemical composition and variability of cork from Quercus suber L. Wood Sci. Technol. 1988, 22, 211–218.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 34,
+      "char_count": 159
+    }
+  },
+  {
+    "text": "[CrossRef]\n24. UNI EN 998-1:2016; Specification for Mortar for Masonry—Part 1: Rendering and Plastering Mortar. Ente Nazionale Italiano di\nUnificazione (UNI): Roma, Italy, 2016. 25. EN ISO 14021:2016/A1:2021; Environmental Labels and Declarations—Self-Declared Environmental Claims (Type II Environmental\nLabelling)—Amendment 1: Carbon Footprint, Carbon Neutral (ISO 14021:2016/Amd 1:2021). ISO: Geneva, Switzerland, 2021.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 35,
+      "char_count": 422
+    }
+  },
+  {
+    "text": "Posani, M.; Veiga, R.; de Freitas, V.P. Thermal mortar-based insulation solutions for historic walls: An extensive hygrothermal\ncharacterization of materials and systems. Constr. Build. Mater. 2022, 315, 125640. [CrossRef]\n\nMaterials 2024, 17, 5232\n19 of 20\n27. Posani, M.; Veiga, R.; de Freitas, V.P. Retrofitting historic walls: Feasibility of thermal insulation and suitability of thermal mortars. Heritage 2021, 4, 2009–2022.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 36,
+      "char_count": 429
+    }
+  },
+  {
+    "text": "[CrossRef]\n28. Salgueiro, T.; Samagaio, A.; Gonçalves, M.; Figueiredo, A.; Labrincha, J.; Silva, L. Incorporation of phase change materials in an\nexpanded clay containing mortar for indoor thermal regulation of buildings. J. Energy Storage 2021, 36, 102385. [CrossRef]\n29. Vyšvaˇril, M.; Pavlíková, M.; Záleská, M.; Pivák, A.; Žižlavský, T.; Rovnaníková, P.; Bayer, P.; Pavlík, Z. Non-hydrophobized perlite\nrenders for repair and thermal insulation purposes: Influence of different binders on their properties and durability. Constr.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 37,
+      "char_count": 533
+    }
+  },
+  {
+    "text": "Build. Mater. 2020, 263, 120617. [CrossRef]\n30. Pavlíková, M.; Zemanová, L.; Pokorný, J.; Záleská, M.; Jankovský, O.; Lojka, M.; Pavlík, Z. Influence of wood-based biomass ash\nadmixing on the structural, mechanical, hygric, and thermal properties of air lime mortars. Materials 2019, 12, 2227.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 38,
+      "char_count": 293
+    }
+  },
+  {
+    "text": "[CrossRef]\n31. Novais, R.M.; Senff, L.; Carvalheiras, J.; Lacasta, A.M.; Cantalapiedra, I.R.; Labrincha, J.A. Simple and effective route to tailor the\nthermal, acoustic and hygrothermal properties of cork-containing waste derived inorganic polymer composites. J.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 39,
+      "char_count": 262
+    }
+  },
+  {
+    "text": "Build. Eng. 2021, 42, 102501. [CrossRef]\n32. Jerónimo, A.; Soares, C.; Aguiar, B.; Lima, N. Hydraulic lime mortars incorporating micro cork granules with antifungal properties. Constr. Build. Mater. 2020, 255, 119368. [CrossRef]\n33. ASTM C1437-20; Standard Test Method for Flow of Hydraulic Cement Mortar. ASTM International: West Conshohocken, PA,\nUSA, 2020. 34. ASTM C1403-22a; Standard Test Method for Rate of Water Absorption of Masonry Mortars. ASTM International: West Con-\nshohocken, PA, USA, 2022. 35. ASTM C109/C109M-21; Standard Test Method for Compressive Strength of Hydraulic Cement Mortars (Using 2-in. or [50 mm]\nCube Specimens) 1. ASTM International: West Conshohocken, PA, USA, 2021.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 40,
+      "char_count": 700
+    }
+  },
+  {
+    "text": "36. ASTM C1583/C1583M-20; Standard Test Method for Tensile Strength of Concrete Surfaces and the Bond Strength or Tensile\nStrength of Concrete Repair and Overlay Materials by Direct Tension (Pull-Off Method). ASTM International: West Conshohocken,\nPA, USA, 2020. 37. EN ISO 25178-2:2022; Geometrical Product Specifications (GPS)—Surface Texture: Areal—Part 2: Terms, Definitions and Surface\nTexture Parameters (ISO 25178-2:2021). ISO: Geneva, Switzerland, 2022.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 41,
+      "char_count": 461
+    }
+  },
+  {
+    "text": "Brás, A.; Leal, M.; Faria, P. Cement-cork mortars for thermal bridges correction. Comparison with cement-EPS mortars\nperformance. Constr. Build. Mater. 2013, 49, 315–327. [CrossRef]\n39. Borges, A.; Flores-Colen, I.; de Brito, J. Physical and mechanical performance of cement-based renders with different contents of\nfly ash, expanded cork granules and expanded clay. Constr. Build. Mater. 2018, 191, 535–543. [CrossRef]\n40. Moreira, A.; António, J.; Tadeu, A. Lightweight screed containing cork granules: Mechanical and hygrothermal characterization. Cem.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 42,
+      "char_count": 555
+    }
+  },
+  {
+    "text": "Des. 2015, 85, 230–239. [CrossRef]\n42. Malchiodi, B.; Marchetti, R.; Barbieri, L.; Pozzi, P. Recovery of Cork Manufacturing Waste within Mortar and Polyurethane:\nFeasibility of Use and Physical, Mechanical, Thermal Insulating Properties of the Final Green Composite Construction Materials. Appl.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 43,
+      "char_count": 295
+    }
+  },
+  {
+    "text": "Sci. 2022, 12, 3844. [CrossRef]\n43. Chung, S.Y.; Kim, J.S.; Stephan, D.; Han, T.S. Overview of the use of micro-computed tomography (micro-CT) to investigate the\nrelation between the material characteristics and properties of cement-based materials. Constr. Build. Mater. 2019, 229, 116843. [CrossRef]\n44. Travincas, R.; Pereira, M.F.C.; Torres, I.; Maurício, A.; Silveira, D.; Flores-Colen, I. X-ray microtomography applied to mortars:\nReview of microstructural visualization and parameterization. Micron 2023, 164, 103375. [CrossRef] [PubMed]\n45. ASTM C230/C230M-23; Standard Specification for Flow Table for Use in Tests of Hydraulic Cement. ASTM International: West\nConshohocken, PA, USA, 2023. 46. Liu, Y.; Cao, Z.; Wang, Y.; Wang, D.; Liu, J. Experimental study of hygro-thermal characteristics of novel cement-cork mortars. Constr. Build. Mater. 2021, 271, 121901. [CrossRef]\n47. Pesaralanka, V.; Khed, V.C. Flowability and compressive strength test on self compacting mortar using graphene oxide. Mater.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 44,
+      "char_count": 1011
+    }
+  },
+  {
+    "text": "Today Proc. 2020, 33, 491–495. [CrossRef]\n48. Mermerda¸s, K.; Ipek, S.; Sor, N.H.; Mulapeer, E.S.; Ekmen, ¸S. The Impact of Artificial Lightweight Aggregate on the Engineering\nFeatures of Geopolymer Mortar. Türk Do˘ga ve Fen Derg.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 45,
+      "char_count": 230
+    }
+  },
+  {
+    "text": "2020, 9, 79–90. [CrossRef]\n49. Parracha, J.L.; Santos, A.R.; Lazera, R.; Flores-Colen, I.; Gomes, M.G.; Rodrigues, A.M. Performance of lightweight thermal\ninsulating mortars applied on brick substrate specimens and prototype wall. Constr. Build. Mater. 2023, 364, 129954. [CrossRef]\n50. Lakreb, N.; ¸Sen, U.; Beddiar, A.; Zitoune, R.; Nobre, C.; Gomes, M.G.; Pereira, H. Properties of eco-friendly mortars produced\nby partial cement replacement with waste cork particles: A feasibility study. Biomass Convers.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 46,
+      "char_count": 509
+    }
+  },
+  {
+    "text": "Biorefin 2023, 13, 11997–12007. [CrossRef]\n51. Rezaei, F.; Izadi, H.; Memarian, H.; Baniassadi, M. The effectiveness of different thresholding techniques in segmenting micro CT\nimages of porous carbonates to estimate porosity. J.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 47,
+      "char_count": 229
+    }
+  },
+  {
+    "text": "Pet. Sci. Eng. 2019, 177, 518–527. [CrossRef]\n52. Praneeth, S.; Saavedra, L.; Zeng, M.; Dubey, B.K.; Sarmah, A.K. Biochar admixtured lightweight, porous and tougher cement\nmortars: Mechanical, durability and micro computed tomography analysis. Sci.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 48,
+      "char_count": 248
+    }
+  },
+  {
+    "text": "Total Environ. 2021, 750, 142327. [CrossRef]\n[PubMed]\n\nMaterials 2024, 17, 5232\n20 of 20\n53. Brunello, V.; Canevali, C.; Corti, C.; De Kock, T.; Rampazzi, L.; Recchia, S.; Sansonetti, A.; Tedeschi, C.; Cnudde, V. Understanding\nthe microstructure of mortars for cultural heritage using X-ray CT and MIP. Materials 2021, 14, 5939. [CrossRef] [PubMed]\n54. Matias, G.; Torres, I.; Rei, F.; Gomes, F. Analysis of the functional performance of different mortars with incorporated residues. J. Build. Eng. 2020, 29, 101150. [CrossRef]\n55. Tedjditi, A.K.; Ghomari, F.; Belarbi, R.; Cherif, R.; Boukhelf, F.; Bouhraoua, R.T. Towards understanding cork concrete behaviour:\nImpact of considering cork absorption during mixing process. Constr. Build. Mater. 2022, 317, 125905. [CrossRef]\n56. Alecci, V.; Fagone, M.; Rotunno, T.; De Stefano, M. Shear strength of brick masonry walls assembled with different types of\nmortar. Constr. Build. Mater. 2013, 40, 1038–1045. [CrossRef]\n57. Lakshani, M.M.T.; Jayathilaka, T.K.G.A.; Thamboo, J.A. Experimental investigation of the unconfined compressive strength\ncharacteristics of masonry mortars. J.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 49,
+      "char_count": 1129
+    }
+  },
+  {
+    "text": "Build. Eng. 2020, 32, 101558. [CrossRef]\nDisclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual\nauthor(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to\npeople or property resulting from any ideas, methods, instructions or products referred to in the content. Reproduced with permission of copyright owner. Further reproduction\nprohibited without permission.",
+    "metadata": {
+      "source": "Cork_Pugliese.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Pugliese.pdf",
+      "chunk_index": 50,
+      "char_count": 509
+    }
+  }
+]

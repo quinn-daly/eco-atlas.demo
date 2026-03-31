@@ -1,0 +1,282 @@
+[
+  {
+    "text": "Contents lists available at ScienceDirect\nBuilding and Environment\njournal homepage: www.elsevier.com/locate/buildenv\nCradle to site Life Cycle Assessment (LCA) of natural vs conventional\nbuilding materials: A case study on cob earthen material\nLola Ben-Alona,∗, Vivian Loftnessa, Kent A. Harriesb, Gwen DiPietroc, Erica Cochran Hameena\na School of Architecture, Carnegie Mellon University, 5000 Forbes Ave., Pittsburgh, 15213, PA, USA\nb Civil and Environmental Engineering Department, University of Pittsburgh, 3700 O'Hara St., Pittsburgh, 15216, PA, USA\nc Civil and Environmental Engineering Department, Carnegie Mellon University, 5000 Forbes Ave., Pittsburgh, 15213, PA, USA\nA R T I C L E I N F O\nKeywords:\nEarthen building materials\nCob\nLCA\nEnvironmental impacts\nEco-eﬃciency\nEmbodied energy\nSensitivity analysis\nA B S T R A C T\nCob is an earthen building material that oﬀers a minimally processed, low carbon, and locally available alter-\nnative to conventional building materials and methods. This paper provides a framework for a comparative Life\nCycle Assessment (LCA) from an embodied perspective of energy and air emissions, using cob earthen wall\nconstruction as well as benchmark wall assemblies of concrete masonry and wood frame. The results of the study\nshow that cob production requires only 18–38% energy and reduces 75–82% of global climate change impacts\nwhen compared to conventional materials. Signiﬁcantly, the embodied environmental impacts of cob were\nshown to be lower than conventional materials in all aspects. Further, sensitivity analysis shows that impacts can\nbe further reduced by maximizing the use of local materials. 1. The importance of modern earthen construction\nThe vast majority of modern buildings are constructed from highly\nprocessed materials, critically depleting global natural resources [1]. As\na consequence, there has been a growing interest in using natural\nbuilding materials – speciﬁcally locally available earthen building\nmaterials, that are minimally processed and inherently low carbon\n[2,3]. As with other earthen construction materials and methods, cob\nwas once a commonly used “vernacular” material in which renewed\ninterest is growing and new applications in modern construction are\nrealized largely due to its various sustainability beneﬁts [4–6]. Cob\nconsists of clay-rich soil, sand, straw, and water, mixed in a plastic state\nto achieve load bearing walls for up to 2-story structures. In addition to\nits environmental beneﬁts, cob also exhibits excellent health, indoor air\nquality, social, and aﬀordability advantages [4,7]. Despite the beneﬁts and the bottom-up attempts to implement cob\nconstruction, there are many barriers and unrealized opportunities for\nthe use of this technique in mainstream construction. Signiﬁcantly, the\navailable literature lacks synthesized technical and environmental\nperformance data for cob, a gap that was shown to be limiting policy\nmakers from advancing regulations and building guidelines for cob",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 0,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "construction [8]. The aim of this paper is to enumerate the environmental perfor-\nmance of cob construction from a life cycle perspective. The study in-\ncludes results of a comparative Life Cycle Assessment (LCA) of cob and\nbenchmarks for conventional materials (concrete masonry and wood\nwall assemblies). The framework for the presented LCA is a single-fa-\nmily residential construction project located in a warm-hot climate\nzone in the US. 2. Background on cob construction\nCob is an earthen building material that combines earth, natural\nﬁbers such as straw, and water. This mixture is produced in a plastic\nstate and implemented wet to build monolithic load bearing walls. The\nterm cob comes from England, and it is sometimes referred to as\nmonolithic adobe, as well as Bauge (France), Lehmweller (Germany),\nPasha (Turkey), Terre Crue (Italy), and Zabour (Yemen) [4,9]. Previous\nliterature on cob mainly dealt with cob in the context of building re-\nstoration (mainly in the UK, e.g. Refs. [10,11]). However, recent re-\nsearch has focused on new ways to implement cob in contemporary\npractices although focusing on vernacular construction [7,12]. To date\nonly a few mainstream cob structures have been built that are deemed\nto comply with building codes (Fig. 1). Cob construction has been shown to be an aﬀordable building\nmethod due to its (often) locally available constituent materials and\napproachable construction method that can be implemented by com-\nmunity eﬀort and sweat equity of homeowners [13]. Cob construction\nmethods require little training. The material itself can be easily as-\nsembled, lending itself to form diﬀerent curves, shapes, and sculptural\nhttps://doi.org/10.1016/j.buildenv.2019.05.028\nReceived 12 January 2019; Received in revised form 12 May 2019; Accepted 14 May 2019\n∗Corresponding author. School of architecture, Carnegie Mellon University, Pittsburgh, PA, 15213, USA. E-mail address: rbenalon@andrew.cmu.edu (L. Ben-Alon). Building and Environment 160 (2019) 106150\nAvailable online 17 May 2019\n0360-1323/ © 2019 Elsevier Ltd. All rights reserved. T\n\ndetails [7]. Nonetheless, cob construction has several disadvantages. When\nimplemented manually, cob construction can be labor intensive and\nslow. It was traditionally considered in England as “the slow process”\n[9]. One way to address this disadvantage is to spread the labor across\nmany workers by making cob-building a community eﬀort in which\neveryone can contribute – from expert builders to children and elders\n[7]. Cob construction can also be implemented using machinery and\naccessories, such as in the case of ‘tractor-cob’ that uses machinery for\nthe cob mixing (Fig. 2), and shuttered-cob that uses formwork (Fig. 3). Incorporating these latter techniques, however, detracts from the en-\nvironmental beneﬁts and sculptural features of cob construction. 3. Previous LCA studies of earthen construction\nEnvironmental LCA has become a common tool in the building\nsector to evaluate building products",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 1,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "and processes. It is considered a\npowerful tool for the evaluation of and contribution to sustainable\nbuilding development [17]. Speciﬁcally for earthen construction, pre-\nvious research stresses the need for an environmental LCA in order to\nevaluate earthen construction action strategies [18], as well as “Cost/\nbeneﬁt analyses … including life-cycle analysis of construction assem-\nblies” in order to enhance codes and practice of earthen construction in\nNorth America [19]. Although earthen construction (and particularly cob) has been ex-\ntensively argued as being better environmentally, few studies have\nrigorously examined its environmental impacts. Existing earthen con-\nstruction LCA studies include environmental impact evaluations of\nadobe bricks [20,21], rammed earth [22,23], and earth plasters [2,24]. These existing studies exhibit various limitations: they often do not\ninclude a comparison to conventional materials and methods, making it\nhard to use these studies to extract environmental management re-\ncommendations or to determine design change requirements. In addi-\ntion, individual LCA studies are not readily compared, due to the lo-\ncation-speciﬁc and material/process-speciﬁc data used in each study. Lastly, many studies use a functional unit of 1 kg of material, which\ndoes not allow comparison between various structural systems. There\nhas been limited work focused on the environmental impacts of cob,\nspeciﬁcally from a life cycle perspective. For instance, existing studies\npresent a simpliﬁed breakdown of the embodied energy of cob in Ca-\nnada, using secondary online resources [25] and embodied CO2 in-\nventory emissions of a small cob structure in rural Nicaragua that was\nnot extended to a full impact assessment [26]. To address the missing body of knowledge about the environmental\nimpacts of cob, this study develops a Life Cycle Inventory (LCI) for cob\nand presents a comparison of cob to conventional materials. Using a\nfunctional unit of 1 square meter of a wall system, this study allows for\na future comparison as well as future analyses that account for opera-\ntional considerations among other typical wall assemblies. 4. Methodology for the comparative cob LCA\nThis study was implemented based on the environmental Life Cycle\nAssessment methodology, as described in the ISO 14040 series of\nstandards [27,28]. Accordingly, the SimaPro software [29] was used to\nmodel inventory data that is relevant to North America. Fig.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 2,
+      "char_count": 2470
+    }
+  },
+  {
+    "text": "1. Vernacular cob structure (left) and successfully permitted cob structure (right) [14,15]. Fig. 2. Manual cob production (left) and tractor-cob (right) [9]. Fig. 3. Sculptural cob wall (left) and shuttered-cob (right) [9,16]. L. Ben-Alon, et al. Building and Environment 160 (2019) 106150\n2\n\n4.1. Goal and scope deﬁnition\nThe goal of the study was to understand whether, and to what ex-\ntent, energy savings and greenhouse gas (GHG) emission reductions can\nbe achieved through using cob construction for a single-family housing\ndwelling in warm-hot climates in the continental US, deﬁned as IECC\nclimate zones 1 through 4 [30]. The study compares cob wall assembly\nwith three benchmark wall assemblies: 1) insulated lightweight\nsheathed timber platform frame, 2) uninsulated Concrete Masonry\nUnits (CMU), and 3) CMU with internal rigid insulation. 4.2. Functional unit\nThe chosen functional unit is 1 m2 of load bearing exterior wall\nsuitable for up to 2-story construction having an insular value meeting\nor exceeding the requirements of the International Energy Conservation\nCode® in climatic zones 1–4 [30]. The functional unit was designed\naccording to construction guidelines and was assumed to meet practice\nrequirements as further detailed in Section 4.6. 4.3. System boundaries\nThe study accounts for the cradle to construction site portion of the\nlife cycle and considers embodied environmental impacts. Speciﬁcally,\nthe system boundaries for each of the three wall systems include the\nextraction and processing of raw materials, manufacturing of building\nmaterials, and transporting those materials to the construction site. Onsite mixing, construction, use phase (e.g., occupation of the re-\nsidence), demolition, and disposal are beyond the system boundaries\n(Fig. 4). 4.4. Life Cycle Inventory (LCI) analysis\nThe LCI data for the conventional wall assemblies was extracted\nfrom existing inventories that were selected according to their cradle to\ngate scope as well as North American geographical context that\nresemble to the scope of this study. Speciﬁcally, LCI results of lumber\nand plywood sheathing [31], gypsum board [32], ﬁberglass batt and\nrigid polystyrene insulation [33], Portland cement stucco [34], and\nconcrete masonry blocks (CMU) [35] were used. The cob LCI, which is not available in existing literature, was de-\nveloped for each constituent material to be shovel ready. As illustrated\nin Fig. 5, the cob LCI included the production and transportation of\nclay-rich soil, sand, straw, and water for on-site for mixing and as-\nsembly. Existing inventory databases were selected from US-LCI [36]\nwhere possible. Other inventories were selected from EcoInvent with\nrelevance to the US geographical context [37]. The ﬂows of substances were allocated for each component of the\nwall assemblies, accounting for energy inputs that include coal, natural\ngas, diesel, crude oil, and electricity, as well as emissions to air that\ninclude carbon dioxide (CO2), carbon monoxide (CO",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 3,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "), sulphur dioxide\n(SO2), oxides of nitrogen (NOx), methane (CH4), volatile organic com-\npounds (VOCs), and particulate matters (PM). 4.5. Life cycle impact assessment (LCIA) categories\nThe LCIA compares the environmental impacts and risks that are\nassociated with the inventory results. This impact assessment is con-\nducted using environmental impact factors that were chosen according\nto their relevance to the goal and scope of the study. Due to their re-\npresentation of the US environment, Cumulative Energy Demand (CED\nVersion 1.09) impact factors are used to characterize the inventory fuels\nand sources of energy and the TRACI (Tool for Reduction and\nAssessment of Chemicals and Other Environmental Impacts) method is\nused to categorize and characterize the inventory emissions [38,39]. The primary impact categories of interest are energy use (MJeq) and\nglobal warming potential (kg CO2eq). Additional (secondary) impact\ncategories are brieﬂy investigated and include acidiﬁcation potentials\nfor air emissions (kg SO2eq) and Human Health (HH) particulate po-\ntentials for air emissions (kg PM2.5eq). 4.6. Details of the cob and conventional wall systems\n4.6.1. Cob wall\nThe selected cob wall system uses a typical section as implemented\nby cob practitioners [40]. As depicted in Fig. 6, the 4.3 m (14 ft) tall\nprototype cob wall is tapered, with a minimum of 305 mm (12 in.)\nthickness at the top of the wall. The base thickness tapers from 610 mm\nto 305 mm, corresponding the recommended height to base thickness\nratio of 7 by Getty Report on adobe structures in seismic areas [41]\n(Fig. 6). A 25 mm (1 in.) clay plaster render is applied to the exterior\nwall and no ﬁnishing is provided on the interior. For the purpose of\nsimpliﬁcation, the assessment calculations consider an average wall\nthickness of 460 mm (18 in.). Cob walls were shown to have an R-value\nof 0.106 K m2/W per 25.4 mm (R-0.6 ft2°Fh/Btu per inch) [42], re-\nsulting in an average R-1.91 K m2/W (R-10.8 ft2°Fh/Btu) for the com-\nplete wall. This value complies with the R-1.41 K m2/W (R-8 ft2°Fh/Btu)\nrequired by International Code Council energy requirement for climate\nzones 1–4 [30]. 4.6.2. Concrete masonry block (CMU) wall\nThe benchmark concrete masonry wall system includes 13 mm (0.5\nin.) gypsum board, 203 mm (8 in.) CMU blocks, and three-coat Portland\ncement stucco (Fig. 6). The CMU blocks are unﬁlled and unreinforced,\nwith a density of 1360 kg/m3 (85 lb/ft3). Two scenarios were tested:\nuninsulated CMU and insulated CMU with an internal 50 mm (2 in.)\nrigid polystyrene insulation that was considered to achieve the required\nR-2.3 K m2/W (R-13 ft2°Fh/Btu) for mass walls with internal insulation\nas speciﬁed in ICC, 2018 (Table R402.1.2, i). Both scenarios include an\nexterior stucco render and interior 13 mm gypsum board on metal\nchannels or wood furring [43]. Fig.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 4,
+      "char_count": 2857
+    }
+  },
+  {
+    "text": "4. The system boundaries of the proposed study, which includes the pro-\nduction phase from cradle to construction site. L. Ben-Alon, et al. Building and Environment 160 (2019) 106150\n3\n\n4.6.3. Light-frame wood wall\nThe benchmark insulated wood frame wall system includes 13 mm\ngypsum board, 2 × 4 in. (51 × 102 mm) softwood dimensional lumber,\ncavity insulation in the form of a 150 mm (6 in.) ﬁberglass batt, 13 mm\nplywood sheathing, and three-coat Portland cement stucco (Fig. 6). This\nchosen wall system represents a typical platform light-frame wood re-\nsidential house in the US [44]. 5. Developing the Life Cycle Inventory (LCI) of cob earthen\nconstruction\nThe cob LCI depicts the ﬂow of substances crossing the cob wall\nproduction system boundary, developed using existing inventory da-\ntabases and ﬁeld data. Existing databases include US-LCI [36] as well as\nEcoinvent inventories for North America [37]. Interviews with cob\npractitioners helped determine ﬁeld data related to costs and trans-\nportation distances of raw materials, which are further speciﬁed ac-\ncording to their approximate ranges in the sensitivity analysis (section\n5.3). All transportation processes were assumed to utilize diesel-pow-\nered combination trucks. Lastly, on-site mixing was considered using\ntap water with conventional treatment. Weight distributions were calculated for the wall dry components:\nstraw, sand, clay-rich soil, and clay plaster. Table 1 shows the weight\ndistribution of these components for a 1 m3 cob mix, calculated using\nthe volume distribution as recorded in a previous study on cob prop-\nerties [45]. An approximate 24% water content was considered [46],\nand a drying losses ratio of 20% [20]. The overall bulk density of the\nmixture is therefore 1462 kg/m3, corresponding with previous tests\nwho showed 1400–1600 kg/m3 bulk density range for cob [45–47]. 5.1. Straw\nFor the straw modeling, four main stages were assessed: producing\nthe straw (tilling and seeding, crop managing), cereal harvesting,\nbaling, and transporting the bales to the construction site (Fig. 5). Straw\nproduction is a co-product of wheat production, and thus the associated\ninputs and outputs must be allocated between the two products. Eco-\nnomic allocation was chosen in order to best capture the scenario of\nstraw as a valuable building material rather than an invaluable by-\nproduct of cereal production [51,52]. Wheat straw prices were drawn\nfrom both the ﬁeld and literature (Table 2) and represent the average\nexperienced wheat straw price according to four cob experts located in\nsouthwest USA. This average price reﬂects how, according to experts,\nstraw is typically purchased directly from local farmers, and prices\noften vary according to availability. 5.2. Sand\nThe sand was assumed to be extracted in a quarry, and the modeling\nof the sand production included digging and extracting of raw mate-\nrials, internal processing (transporting, washing, screening, grinding),\nmachinery, and the land-use of t",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 5,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "he quarry. 5.3. Clay-rich soil\nAccording to ﬁeld experts, clay-rich soil can often be extracted on-\nsite, as the byproduct soil from digging the foundation level. This study,\nthough, accounts for a scenario of having no suitable construction soil\non site. This scenario requires purchasing clay-rich soil from a quarry,\nwith at least 50% clay, to provide the approximate recommended clay\ncontent of 20% in a cob mixture. 5.4. Clay plaster\nA layer of 1 in. (25 mm) clay plaster is typically used as the ﬁnish\nmaterial for the exterior cob wall surface. It is assumed that an\nFig.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 6,
+      "char_count": 578
+    }
+  },
+  {
+    "text": "6. Section drawings of the assessed wall systems. L. Ben-Alon, et al. Building and Environment 160 (2019) 106150\n4\n\nadditional layer of lime stucco is not needed to protect the clay from\nmoisture in the warm-hot climate context [55]. A scenario of pur-\nchasing a clay plaster product was considered to achieve optimal sur-\nface aesthetics and performance. The modeling of the clay plaster\nproduct includes extracting and mixing raw materials, transporting the\nraw materials to the packing site, packing, storing, and transporting to\nthe construction site. 5.5. Inventory results\nThe inputs and outputs of the developed inventory for cob include\nraw materials, energy, product outputs, as well as inorganic emissions\nand particulates to air. Summarized in Table 3, the cob data inventory\ncaptures the ﬂow of substances during the production and transporta-\ntion of the required cob components from cradle to construction site. These results account for a total of 735 kg wet cob mixture, which\nproduces 617 kg of dried plastered cob wall for the 1 m2 functional unit\n(or 0.46 m3 at an average thickness of 460 mm). 6. Results of the comparative LCA of cob vs. benchmark wall\nassemblies\n6.1. Life cycle impact assessment (LCIA) results of cob earthen construction\nUsing the LCI results, the environmental LCIA of a 1 m2 cob wall are\npresented in Table 4 and Fig. 7, showing the contributions of each\nmixture component. Overall, Table 4 shows that each of the cob com-\nponents contribute meaningfully to the modeled environmental im-\npacts. Speciﬁcally, the straw production (including tilling, seeding, and\ncrop managing) accounts for relatively high air acidiﬁcation impacts,\ndue to the use of fertilizers and pesticides. Where possible, sourcing\nﬁbers from local farms that utilize low impact practices may further\nreduce environmental impacts associated with cob construction. Sand\nimpacts are relatively high for particulate impacts. The clay rich soil has\nthe highest rank for energy demand and climate change impacts. As\ndiscussed previously, however, clay rich soil can be produced on site\nduring excavation, thus minimizing impacts associated with this input\nand lowering overall impacts signiﬁcantly. Similarly, the clay plaster is\nassumed to be manufactured oﬀsite – a cob ﬁnish would change these\nimpacts. Fig. 7 illustrates that the environmental impact distributions of the\ncob components are diﬀerent from their weight and volume distribu-\ntions. The straw and the clay plaster, while relatively small mass and\nvolume components, contribute relatively higher than the clay-rich soil\nand sand. 6.2. Comparative assessment results\nThe comparative inventory assessment results, including fuel de-\nmand and air emissions are presented in Fig. 8 and Fig. 9, showing that\ncob accounts for the lowest amounts of inventory ﬂows. Furthermore,\nthe impact assessment results shown in Table 5 and Fig. 10 illustrate the\nsigniﬁcantly low energy demand and air emissions that are associated\nwith the pr",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 7,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "oduction of cob. In contrast, the insulated CMU wall has the\noverall highest environmental impacts. It requires the highest amount\nof energy, which is mainly due to the production of the rigid insulation\nlayer. Moreover, it results in the highest global warming potential and\nair particulate pollution that results from the production of the cement. According to the results presented in Table 5 and Fig. 10, the cob\nwall alternative accounts for the lowest energy demand, as well as the\nlowest air emissions. In contrast, the insulated CMU wall has the overall\nhighest environmental impacts. It requires the highest amount of en-\nergy, which is mainly due to the production of the rigid insulation layer. Moreover, it results in the highest global warming potential and air\nparticulate pollution that results from the production of the cement. The modeling results allow for the comparison of clay plaster and\nPortland\ncement\nstucco. The\nclay\nplaster\nperforms\nbetter\nTable 1\nBulk density, volume distribution, and weight per componenet for a m3 cob mix. Values retrieved from1 [48]2 [49]3 [50]4 [45]. Component\n(A) Bulk Density (kg/m3\ncomponent)\n(B) Volume Distribution4\n(%)\n(C)=(A)*(B) Weight (kg/m3\nmix)\n(D)=(C)*0.457 wt per 1 m2 wall\n(E)=(C)/(Ctotal) Weight\ndistribution (%)\nStraw\n1101\n20\n22\n10\n2\nSand\n1,6002\n40\n640\n292\n52\nClay-rich soil\n1,4003\n40\n560\n256\n46\nTotal\n–\n100\n(Ctotal) = 1222\n558\n100\nTable 2\nPrices used for the market-based economic allocation of the wheat and straw production and harvesting processes. Component\nUnit\nPrice from primary source\nPrice from ﬁeld experts\nPrice used for the LCI (average)\nWheat Straw\n$/square bale\n3.30 [53]\n13.0, 3.50, 12.0, 7.50\n7.96\nWheat Grain\n$/bushel\n6.10 [54]\n–\n6.10\nTable 3\nData inventory for the production of a 1 m2 of cob wall with an average\nthickness of 457 mm. Inputs\nOutputs\nProduct (cob mixture)\n(kg)\n735\nRaw materials\nProduct (plaster\nmixture) (kg)\n36.9\nStraw (kg)\n10.1\nMixing spoil (cob and\nplaster mixture) (kg)\n77.2\nSand (kg)\n292\nDrying losses (kg)\n154\nClay-rich soil (kg)\n256\nDried cob wall with\nclay plaster skim (kg)\n617\nClay plaster (kg)\n28.1\nCob wall (m2)\n1.00\nWater (for on-site mixing) (kg)\n185\nEmissions\nWater (from the oﬀ-site production\nof the constituent materials)\n(kg)\n685\nInorganic emissions to\nair (kg)\nCarbon monoxide\n(CO)\n0.0195\nEnergy\nCarbon dioxide (CO2)\n4.06\nCoal (kg)\n0.527\nNitrogen oxides (NOx)\n0.0304\nNatural gas (m3)\n0.409\nSulphur dioxide (SO2)\n0.00647\nCrude oil (kg)\n1.22\nMethane (CH4)\n0.00479\nElectricity (kWh)\n1.26\nOthers (MJeq)\n0.954\nParticle to air (kg)\nDust (PM2.5-10)\n0.217\nDust (PM < 2.5)\n0.000728\nVOCs\n0.00300\nL. Ben-Alon, et al. Building and Environment 160 (2019) 106150\n5\n\nenvironmentally than the Portland-cement based stucco in terms of\nglobal warming and air acidiﬁcation impacts. However, clay plaster\nproduces more air particulates that aﬀect human health. Packaged\nplaster is often chosen because its consistency corresponds to increased\ndurability. One alternative to using packaged plaster",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 8,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "is mixing the cob\nconstituent materials to achieve an on-site plaster mixture [56]. Overall, the cob wall accounts for signiﬁcantly lower impacts for all\nthe tested environmental performance parameters compared to the\nCMU and wooden wall systems. Speciﬁcally, the production of the cob\nwall assembly requires only 18–38% of the life cycle energy demand of\nthe other assemblies. Additionally, the production of cob accounts for\nonly 18–25% of global warming impacts and 5% or less of air acid-\niﬁcation and particulate pollution than the other wall assemblies. Furthermore, cob impacts are lessened further by the on-site sourcing of\nclay soil when possible. 6.3. Sensitivity and uncertainty analysis\nThe sensitivity of the impact results of the cob wall assembly were\nsimulated using @Risk software [57]. Using triangular input distribu-\ntions and modeled over 1000 iterations, the sensitivity analysis illus-\ntrates the eﬀects of transportation distances, wheat grain and straw\nmarket prices, average wall thickness, amount of clay-rich soil required,\nstraw density, and average wheat yield at ﬁeld. The transportation\ndistances for the clay-rich soil, sand, and straw ranged between 10 and\n50 km, according to interviews with experts [8]. The transportation\ndistance of the clay plaster ranged between 0 and 100 km, reﬂecting the\npossible application of plaster made from the on-site cob mixture. Likewise, the required clay-rich soil ranged between 0 and 560 kg in\norder to account for the scenario of available clay-rich soil on site. Lastly, other outputs ranges were varied by ± 10%. As depicted in\nFig. 11, Fig.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 9,
+      "char_count": 1618
+    }
+  },
+  {
+    "text": "12, and Fig. 13, the inputs with the greatest inﬂuence on\nthe cob LCIA are the average wall thickness, the amount of acquired\nclay-rich soil, as well as the transportation distances of constituent\nmaterials. Other modeled factors have markedly less eﬀect on overall\nresults. 7. Discussion and future research\nThe high dependence of the environmental impacts of cob on the\namount of acquired clay-rich soil on demonstrates the beneﬁts of using\non-site subsoil, which can be made available from foundation excava-\ntion, or from nearby excavation projects. This scenario adds the beneﬁt\nof avoiding the transportation or re-grading impacts of otherwise un-\nused excavated soils. For example, the sensitivity analysis shows that\nuse of on-site clay soil may reduce energy requirements from 82.9 MJ/\nm2 to 67 MJ/m2. Lastly, the eﬀects of transportation distances on the\nresults indicate that the environmental beneﬁts of cob are highly\nTable 4\nEnvironmental impacts for a 1 m2 cob wall assembly according to each constituent material. Weight per 1 m2 wall\n(kg)\nStage\nEnergy Demand\n[MJeq]\nGlobal Warming [kg\nCO2eq]\nAcidiﬁcation Air [kg SO2eq]\nHH Particulate Air\n[PM2.5eq]\nStraw\n10.1 (0.61 bales)\nProduction\n13.4\n2.59\n3.62E-03\n4.99E-04\nHarvesting\n1.79\n0.0238\n3.36E-05\n2.41E-05\nBaling\n0.00\n0.00\n8.41E-12\n6.61E-12\nTransportation\n0.409\n0.0874\n1.37E-05\n5.22E-06\nSub-Total\n15.6\n2.70\n3.67E-03\n5.28E-04\nSand\n292\nProduction\n16.1\n1.83\n4.39E-04\n6.91E-04\nTransportation\n11.9\n2.57\n3.98E-04\n1.52E-04\nSub-Total\n28.0\n4.40\n8.36E-04\n8.43E-04\nClay-rich soil\n256\nProduction\n19.6\n2.43\n1.21E-03\n7.63E-05\nTransportation\n10.4\n2.25\n3.48E-04\n1.33E-04\nSub-Total\n30.0\n4.68\n1.56E-03\n2.09E-04\nClay plaster\n28.1\nProduction\n8.88\n0.727\n3.14E-04\n4.77E-04\nTransportation\n2.86\n0.616\n9.54E-05\n3.64E-05\nSub-Total\n11.7\n1.34\n4.10E-04\n5.13E-04\nWater\n185\nConventional Treatment\n1.09\n13.2\n3.19E-04\n3.78E-04\nTotal\n772\n86.4\n13.2\n6.79E-03\n2.47E-03\nFig. 7. Distribution of global climate change, energy demand, air acidiﬁcation, and air particulate impacts, as well as the weight and volume for each constituent\ncomponent of the cob mixture. L. Ben-Alon, et al. Building and Environment 160 (2019) 106150\n6\n\ndependent on the local availability of its constituent materials, espe-\ncially the sand and clay-rich soil that are highest in weight. The eﬀect of the wall thickness on the environmental impacts of cob\nmay encourage research and ﬁeld eﬀorts towards an optimal mixture\nthat could provide a wall thickness that is minimal as possible. Increasing the R-value of cob might also allow a smaller thickness. As\nthe wall thickness eﬀects the operational impacts of the wall assembly,\nnot evaluated in this analysis, a next level analysis should include the\nassociated\nHVAC\nrequirements\ndriven\nby\nclimate\nconditions. Additionally, future analysis should include other types of insulation\nmaterials, both conventional (e.g., rock wool and Polyurethane Foam)\nand eco-friendly (e.g., cellulose and light straw clay), as well as the\napplication of an insula",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 10,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ted cob wall assembly. Although not modeled in\nthis study, it has been shown that a 30% pumice addition increased the\nFig. 8. LCI air emissions for each of the assessed wall systems: (1) cob, (2) wood frame, (3) uninsulated CMU, and 4) CMU with internal rigid insulation. Fig. 9. LCI energy and fuels demand for each of the assessed wall systems: (1) cob, (2) wood frame, (3) uninsulated CMU, and 4) CMU with internal rigid insulation. Table 5\nComparative environmental embodied impacts results for the four wall alternatives. Impact Categories\nComponent\nEnergy Demand [MJeq]\nGlobal Warming [kg CO2eq]\nAcidiﬁcation Air [kg SO2eq]\nHH Particulate Air [PM2.5eq]\nCob\nStraw\n15.6\n2.70\n0.00367\n0.000528\nSand\n28.0\n4.40\n0.000836\n0.000843\nClay-rich soil\n30.0\n4.68\n0.00156\n0.000209\nClay plaster\n11.7\n1.34\n0.000410\n0.000513\nWater\n1.08\n0.132\n0.000319\n0.000378\nTotal\n86.4\n13.2\n0.00679\n0.00247\nWood frame\nGypsum board\n50.22\n6.17\n0.00808\n0.00834\nLumber\n69.37\n14.4\n0.0347\n0.0478\nFiberglass\n60.46\n33.0\n0.00143\n0.000735\nPlywood\n43.70\n3.14\n0.0316\n0.000326\nStucco\n17.22\n5.96\n0.00221\n0.000136\nTotal\n241\n62.7\n0.0781\n0.0574\nNon-insulated CMU\nGypsum board\n50.2\n6.17\n0.00808\n0.00834\nCMU\n158\n41.0\n0.0504\n0.122\nStucco\n17.2\n5.96\n0.00221\n0.000136\nTotal\n226\n53.1\n0.0607\n0.130\nInsulated CMU\nGypsum board\n50.2\n6.17\n0.00808\n0.00834\nRigid insulation\n265\n21.7\n0.0816\n0.0125\nCMU\n158\n41.0\n0.0504\n0.122\nStucco\n17.2\n5.96\n0.00221\n0.000136\nSub-Total\n491\n74.8\n0.142\n0.143\nL. Ben-Alon, et al. Building and Environment 160 (2019) 106150\n7\n\nR-value of cob to R-1.6 K m2/W per 25.4 mm (R-0.9 ft2°Fh/Btu per inch)\n[42], achieving an average R-2.85 K m2/W (R-16.2 ft2°Fh/Btu) for the\ntotal cob wall. The presented paper is part of a larger study that aims to evaluate\nthe environmental impacts of various earthen building techniques from\na cradle to grave perspective. Future research of a complete LCA will\ndemonstrate the environmental impacts while taking into account both\nembodied impacts, as well as construction, occupancy, and end-of-life\nstages. Due to their low thermal resistance, the operational impacts of\nearthen materials should be evaluated not only according to their in-\nsulation properties, but also according to their thermal storage capa-\ncity. In addition to including other types of earthen construction, future\nresearch should also include a full LCA of 3 types of functional units\n(kg, 1 square foot of wall, a typical wall), to allow transparency of data\nfor future use by researchers and decision makers. Fig. 10. Environmental embodied impacts comparison among the diﬀerent wall systems. Fig.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 11,
+      "char_count": 2571
+    }
+  },
+  {
+    "text": "11. Sensitivity analysis of the energy demand of cob production, ranked by the input eﬀect on output mean. Fig. 12. Sensitivity analysis of the global climate change impacts of cob production, ranked by the input eﬀect on output mean. L.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 12,
+      "char_count": 237
+    }
+  },
+  {
+    "text": "Ben-Alon, et al. Building and Environment 160 (2019) 106150\n8\n\n8. Conclusions\nThis study develops an environmental LCI for cob and compares the\nenvironmental impacts of cob with conventional wall assemblies from\ncradle to construction site stages, using 1 m2 residential wall assembly\nas a functional unit. The results of the developed cob LCI show that oﬀ-\nsite sourcing of clay soil contributes signiﬁcantly to cob impacts. Straw,\ndespite its small volume and mass contribution to a cob assembly, can\naccount for a relatively large proportion of the overall energy demand\nand air emissions due to upstream impacts from production and the use\nof fertilizers and pesticides. Similarly, using a packaged product for the\nclay plaster increases the environmental impacts of cob due to its longer\ntransportation distance, packaging, and storing. Three benchmark conventional wall assemblies were selected: light\nframe wood, concrete with CMU inﬁll, and insulated concrete with\nCMU inﬁll. The comparative results between cob and these benchmark\nassemblies show that the production of cob wall has signiﬁcantly lower\nenvironmental impacts as opposed to conventional wall assemblies. Speciﬁcally, the production of cob decreases energy demand by\n62–82%, global warming potential by 75–82%, air acidiﬁcation by\n89–95%, and air particulate pollution by 96–98%, when compared to\nconventional assemblies. By adjusting the functional unit, these results\ncan be applied to future studies of various building components, such as\nﬂoors, internal partitions, mass heaters, etc., or extended to whole\nbuilding analyses to account for heating and cooling requirements. A sensitivity analysis of the various cob modeling parameters was\nperformed, showing that the variability of the modeled environmental\nimpacts of cob depends mostly on the wall thickness, the amount of\nacquired clay-rich oil, and transportation distances of raw materials. These results indicate that the environmental beneﬁts of cob could be\nenhanced by minimizing wall thickness (e.g., by achieving an optimal\nmixture in terms of strength, durability, and operational functionality),\nby utilizing onsite clay-rich soil (e.g., by using subsoil from foundations\nexcavation), as well as by using locally available constituent materials. The contribution of this study lies the development of environ-\nmental measures that could be used by policy makers and cob advocates\nin their endeavors to catalyze the use of cob in mainstream construction\nprojects. Future research directed towards comparative LCA of natural\nbuilding vs. benchmark conventional building should include a myriad\nof natural building techniques that range from high insulative assem-\nblies (e.g., straw bale construction and light straw clay) to high thermal\nmass assemblies (e.g., rammed earth and compressed earth blocks). The\noperational impacts associated with variable R-values should also be\nincluded to account for occupants use phase. The long-term implica-\ntions that this",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 13,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "LCA study hopes to achieve are the enumeration of\nearthen construction environmental beneﬁts to catalyze the im-\nplementation of mainstream earthen construction projects. References\n[1] United Nations Environmental Program, Buildings and Climate C Hange, (2009). [2] J.C. Morela, A. Mesbaha, M. Oggerob, P. Walker, Building houses with local ma-\nterials: means to drastically reduce environmental impact of construction, Build. Environ.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 14,
+      "char_count": 436
+    }
+  },
+  {
+    "text": "Pacheco-Torgal, S. Jalali, Earth construction: lessons from the past for future eco-\neﬃcient construction, Constr. Build. Mater. 25 (2011) 512–519. [4] E. Hamard, B. Cazacliu, A. Razakamanantsoa, J.-C. Morel, Cob, a vernacular earth\nconstruction process in the context of modern sustainable building, Build. Environ.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 15,
+      "char_count": 316
+    }
+  },
+  {
+    "text": "106 (2016) 103–119. [5] H. Niroumand, M.F.M. Zain, M. Jamil, Various types of earth buildings, Procedia -\nSoc Behav Sci 89 (2013) 226–230, https://doi.org/10.1016/j.sbspro.2013.08.839. [6] M.R.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 16,
+      "char_count": 193
+    }
+  },
+  {
+    "text": "Hall, R. Lindsay, M. Krayenhoﬀ, Modern Earth Buildings : Materials,\nEngineering, Construction and Applications, Woodhead Publishing, 2012, https://\ndoi.org/10.1533/9780857096166. [7] I.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 17,
+      "char_count": 185
+    }
+  },
+  {
+    "text": "Ben-alon, V. Loftness, K.A. Harries, E.C. Hameen, Integrating Earthen Building\nMaterials and Methods into Mainstream Housing … Stages, Earth USA, Santa Fe,\nNM, 2017 2017. [9] L. Watson, K. McCabe, The cob building technique. Past, present and future, Inf La\nConstrucción 63 (2011) 59–70, https://doi.org/10.3989/ic.10.018. [10] S.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 18,
+      "char_count": 330
+    }
+  },
+  {
+    "text": "Michael, R. Goodhew, THE THERMAL PROPERTIES OF COB BUILDINGS OF\nDEVON, (2000). [11] M.J. Addison Greer, The Eﬀect of Moisture Content and Composition on the\nCompressive Strength and Rigidity of Cob Made from Soil of the Breccia Measures\nNear Teignmouth, University of Plymouth, Devon, 1996, https://doi.org/10.1029/\n2003GL016963 PhD. [12] A. Weismann, K. Bryce, Building with Cob : a Step-by-step Guide, Green Books,\n2006. [13] C. Armstrong, Aﬀordable and Environmentally Sound Cob Housing, (2015) http://\nbit.ly/2zpAfTL , Accessed date: 8 November 2017. [14] I. Evans, L. Smiley, The Laughing House at Cob Cottage Company, (2002), https://\ndoi.org/10.1037//0022-006X.69.1.41. [15] L.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 19,
+      "char_count": 684
+    }
+  },
+  {
+    "text": "Khasreen, P.F.G. Banﬁll, G.F. Menzies, Life-cycle assessment and the en-\nvironmental impact of buildings: a review, Sustainability 1 (2009) 674–701,\nhttps://doi.org/10.3390/su1030674. [18] H. Schroeder, Sustainable Building with Earth, Springer, 2016, https://doi.org/10. 1007/978-3-319-19491-2_7. [19] A.J. Swan, A. Rteil, G. Lovegrove, Sustainable earthen and straw bale construction\nin North American buildings: codes and practice, J. Mater.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 20,
+      "char_count": 444
+    }
+  },
+  {
+    "text": "Civ. Eng. 23 (2011)\n866–872. [20] E. Christoforou, A. Kylili, P. Fokaides, Cradle to site LCA of adobe bricks, J. Clean. Prod. 112 (2016) 443–452. [21] A. Shukla, G.N. Tiwari, M.S. Sodha, Embodied energy analysis of adobe house,\nRenew. Energy 34 (2009) 755–761, https://doi.org/10.1016/j.renene.2008.04. 002. [22] G.J. Treloar, C. Owen, R. Fay, Environmental assessment of rammed earth con-\nstruction systems, Struct. Surv.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 21,
+      "char_count": 423
+    }
+  },
+  {
+    "text": "19 (2001) 99–106, https://doi.org/10.1108/\n02630800110393680. [23] S. Serrano, C. Barreneche, L. Rincón, D. Boer, L.F. Cabeza, Stabilized rammed earth\nincorporating PCM: optimization and improvement of thermal properties and LCA,\nEnergy Procedia 30 (2012) 461–470, https://doi.org/10.1016/j.egypro.2012.11. 055.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 22,
+      "char_count": 311
+    }
+  },
+  {
+    "text": "[24] P. Melià, G. Ruggieri, S. Sabbadini, G. Dotelli, Environmental impacts of natural and\nconventional building materials: a case study on earth plasters, J. Clean.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 23,
+      "char_count": 165
+    }
+  },
+  {
+    "text": "Prod. 80\n(2014) 179–186. [25] M. Kutarna, K. Li, N. Radebe, An Investigation into the Use of Cob And/or Straw\nBale Construction in Non-residential Buildings, (2013), https://doi.org/10.14288/\n1.0108471. [26] M. Estrada, A Case Study of Cob Earth Based Building Technique in Matagalpa ,\nNicaragua – LCA Perspective and Rate of Adoption, Mid Sweden University, 2013. [27] ISO, 14040:2006 Environmental Management - LCA Priciples and Framework,\n(2006). [28] ISO, 14044:2006 Environmental Management - LCA Requirements and Guidelines,\n(2006), https://doi.org/10.1007/s11367-011-0297-3. [29] Pre Consultants, SimaPro Life Cycle Analysis Version 8 (Software), (2017). [30] ICC, Chapter 4 [RE] Residential Energy Eﬃciency, IECC, 2018. [31] NREL, U.S. Life Cycle Inventory Database, (2012) https://www.nrel.gov/lci/ ,\nAccessed date: 23 November 2018. [32] Athena, Life Cycle Analysis of Gypsum Board and Associated Finishing Products,\n(1997). [33] Athena, Life Cycle Inventory Analyses of Building Envelope Materials: Update and\nFig. 13. Sensitivity analysis results of the air acidiﬁcation (left) and HH air particulate (right) impacts of cob production, ranked by the input eﬀect on output mean. L.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 24,
+      "char_count": 1192
+    }
+  },
+  {
+    "text": "Ben-Alon, et al. Building and Environment 160 (2019) 106150\n9\n\nExpansion, (1999). [34] Athena, Cradle-To-Gate Life Cycle Inventory for Exterior Stucco Finishes, (2001)\nOttawa. [35] M a Nisbet, M.L. Marceau, M.G. Vangeem, LCI of Portland Cement Concrete, Cycle,\n2002. [36] NREL, US LCI Database for Simapro, (2012). [37] G. Wernet, C. Bauer, B. Steubing, J. Reinhard, E. Moreno-Ruiz, B. Weidema, The\necoinvent database version 3: overview and methodology, Int. J. Life Cycle Assess. 21 (2016) 1218–1230. [38] R. Frischknecht, F. Wyss, S. Büsser Knöpfel, T. Lützkendorf, M. Balouktsi,\nCumulative energy demand in LCA: the energy harvested approach, Int. J. Life\nCycle Assess. 20 (2015) 957–969, https://doi.org/10.1007/s11367-015-0897-4. [39] J.C. Bare, Tool for the Reduction and Assessment of Chemical and Other\nEnvironmental Impacts (TRACI) TRACI Version 2.1 - User's Manual, (2012). [40] Cob Research Institute, Cob Wall Architectual Details, (2009) Berkeley. [41] E.L. Tolles, E.E.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 25,
+      "char_count": 984
+    }
+  },
+  {
+    "text": "Goodvin, G. Baird, A. Baird, Cob Home Performance Report, (2011). [43] J. Farny, J. Melander, W. Panarese, Concrete Masonry Handbook for Architects,\nEngineers, Builders, (2008). [44] AF&PA, Details for Conventional Wood Frame Construction, (2001). [45] M. Rizza, H. Böttger, Eﬀect of Straw Length and Quantity on Mechanical Properties\nof Cob, The 16th Non-Conventional Mater. Technol., Winnipeg, CA, 2015. [46] Q.M. Pullen, T.V. Scholz, Index and engineering properties of Oregon cob, J Green\nBuild 6 (2011) 88–106, https://doi.org/10.3992/jgb.6.2.88. [47] L. Miccoli, U. Müller, P. Fontana, Mechanical behaviour of earthen materials: a\ncomparison between earth block masonry, rammed earth and cob, Constr. Build. Mater. 61 (2014) 327–339. [48] IRC, Appendix S : Strawbale Construction, (2015). [49] SImetric, Mass, Weight, Density of Bulk Materials, (2016) https://www.simetric.co. uk/si_materials.htm , Accessed date: 15 February 2018. [50] USDA, Inherent factors aﬀecting bulk density and available water capacity, Soil\nQual Kit-Guides Educ 1–3 (1998). [51] T. Owens, Cost to Build A Straw Bale Home. Build with Aware, (2015) http://\nbuildingwithawareness.com/cost/ , Accessed date: 15 February 2018. [52] J.B. Guinée (Ed.), Handbook on Life Cycle Assessment: Operational Guide to the ISO\nStandards, vol. 22, Kluwer Academic Publishers, Dordrecht, 2002, , https://doi.",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 26,
+      "char_count": 1371
+    }
+  },
+  {
+    "text": "org/10.3109/00016925709173681. [53] USDA, US Hay Prices (2016) 89507. [54] NASS, Agricultural Prices 1 (2017) 1937–4216. [55] G. Minke, Building with Earth : Design and Technology of a Sustainable\nArchitecture, Walter de Gruyter, 2012. [56] G. Minke, Earth Construction Handbook : the Building Material Earth in Modern\nArchitecture, WIT Press, 2000. [57] Palisade. @Risk Version 5.5.0, (2009) http://www.palisade.com/risk/default.asp ,\nAccessed date: 19 November 2018. L. Ben-Alon, et al. Building and Environment 160 (2019) 106150\n10",
+    "metadata": {
+      "source": "Cob_Alon.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Alon.pdf",
+      "chunk_index": 27,
+      "char_count": 534
+    }
+  }
+]

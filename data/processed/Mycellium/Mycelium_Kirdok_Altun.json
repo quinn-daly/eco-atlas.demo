@@ -1,0 +1,612 @@
+[
+  {
+    "text": "Chapter 17\nDesign studies and applications\nof mycelium biocomposites\nin architecture\nOnur Kırdo¨ k1, Didem Akyol Altun2, Hanaa Dahy3,4,5, Lena Strobel6,\nE. Esin Hame¸s Tuna7, Gu¨ lden Ko¨ ktu¨ rk8, O¨ zge Andic¸ C¸ akır9,\nAyc¸a Tokuc¸2, Feyzal O¨ zkaban2 and Aylin ¸Sendemir7\n1Department of Biotechnology, Graduate School of Natural and Applied Sciences, Ege\nUniversity, Izmir, Turkey, 2Department of Architecture, Faculty of Architecture, Dokuz Eylul\nUniversity, Izmir, Turkey, 3BioMat Department, Bio-Based Materials and Materials Cycles in\nArchitecture, Institute of Building Structures and Structural Design (ITKE), University of\nStuttgart, Germany, 4Technical Faculty of IT & Design, Department of Planning, Aalborg\nUniversity, Copenhagen, Denmark, 5Faculty of Engineering, Department of Architecture\n(FEDA), Ain Shams University, Cairo, Egypt, 6Faculty of Architecture and Urban Planning,\nUniversity of Stuttgart, Stuttgart, Germany, 7Department of Bioengineering, Faculty of\nEngineering, Ege University, Izmir, Turkey, 8Department of Electrical Engineering, Faculty of\nEngineering, Dokuz Eylul University, Izmir, Turkey, 9Department of Civil Engineering, Faculty\nof Engineering, Ege University, Izmir, Turkey\n17.1\nIntroduction\nRapid developments in technology have enabled humanity to manipu-\nlate their environment, making changes according to human interests and\nneeds. While humankind has played a significant role in changing the Earth\nthrough history, this role was likely relatively harmless until industrializa-\ntion. Afterward, long-lasting, inexpensive, and rapid production to provide\nfor the growing human population and their needs became the focus. The\nresulting environmental problems continued to accumulate throughout the\nEarth, including chemicals affecting the microbial and pesticidal chains,\ntoxic chemicals, non-controlled gasses poisoning the air, land, water, and\nslow decomposing packaging. The results of human interventions through\nrapid deforestation, exploitation of natural sources, and massive land use of\nhuman has apparently settlements exceeded nature’s self-repair capacity. 489\nBiomimicry for Materials, Design and Habitats. DOI: https://doi.org/10.1016/B978-0-12-821053-6.00004-7\n© 2022 Elsevier Inc. All rights reserved. Today, civilization is steadily exploiting natural resources to maintain an\never-increasing rate of growth. While the cities grow larger and buildings tal-\nler, the rate of deforestation has increased. One way to address this urgent\nissue can be by a better understanding of the negative environmental impact\nof humans, and constructing new buildings with higher efficiency and\nenhanced standards. We are beginning to realize our significant dependence\non ecosystems [1]. While all organisms are part of a “biome” that is part of\nthe “biosphere,” every organism’s continued prosperity is dependent on the\nhealth of the “biosphere.” Under these circumstances, the biosphere cycle\ncould degrade, reducing the sustainability life as we kn",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 0,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ow it on Earth. From\nthis perspective, the construction industry is one of the main drivers of the\ndisturbance of the biosphere’s balance, with manifold potential harm to the\nenvironment. Approximately 40% of global energy use and 50% of global raw material\nconsumption by weight occurs within the construction industry [2]. Shaping\nraw materials into the desired construction materials requires massive energy\nuse with resulting emissions into the air, water, and soil. These materials gen-\nerally tend to be heavy, causing a considerable emission(s) during their trans-\nport. Also, a wide range of wastes and chemicals pollute the land and water\nduring the construction process while changing the land itself. Moreover, in\nthe usage phase, residential demands in heating and cooling cause a significant\namount of greenhouse gas emissions throughout the whole planet. Most build-\ning components become waste after the economic life of a building and also\ntheir disposal requires energy, cause air pollution, water contamination, and\nbiodiversity losses. Very few building materials can be reused or recycled in\nthe same quality. Recycling usually ends up as down-cycling, meaning that\nthe material would not be recycled after another use. The non-biodegradability\nand long lifespan of these processed building materials prevent them from\nreturning to nature [3]. Accordingly, the global construction industry is respon-\nsible for around 40% of global greenhouse gas emissions in various phases,\nmanufacturing the raw materials, construction, usage, and demolishing\n(Fig. 17.1). Therefore the building industry is facing unprecedented challenges\nto reduce the environmental impact of current consumption [4]. However, this\nalso presents low-cost and high impact opportunities. Beginning with the second half of the 20th century, questioning of the\nrelationship of engineering and architecture, actually all design disciplines,\nwith nature has been an important concern. Kennedy et al. pointed out that a\ntraditionally designed building could be deficient in terms of how it fits\nwithin the larger ecosystem [5]. Therefore the term sustainability has gained\nimportance on a global scale and has dominated academic research [1\u00013,5]. It has become a “mega-concept” that controls production practices through\nagreements between countries and the development of certifications. Within this context, many architectural theories were developed over the\nlast century—from eco-architecture to bio-architecture. The goal behind such\n490\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\nideologies is to create a building that respects the environment or at least has\na significantly less environmental impact than conventional practices. The\ndesign of the built environment is becoming gradually more important to\nmaintain the quality of life and biodiversity. This situation led the designers\nto answer the question of “is it possible to design buildings, which have posi-\ntive effe",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 1,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "cts on the environment?” If inspiration for architectural designs\ncomes from life, buildings can be considered and designed as parts of the liv-\ning system. Therefore it is possible to design buildings with the potential to\nproduce energy, materials, clean air, and water while creating a circular rela-\ntionship between the inorganic and organic to create a complex, adaptive,\nand cyclic system that acts in the same way as the ecosystem [1]. Professionals in architecture and the engineering disciplines are constantly\nsearching for solutions to many problems related to being environmentally\nresponsible. This perspective has led to (1) the increasing importance given\nto nature-based knowledge and nature-inspired/biomimetic approaches and\n(2) intensifying interdisciplinary relationships, especially engineering, design,\nand science. Alongside many disciplines, integration of architecture and biol-\nogy has great potential since biotechnology and biology’s developments lead\nto understanding how nature works. In this direction, interdisciplinary studies,\nFIGURE 17.1\nGreenhouse gas emissions in different phases of the construction industry. Source: O. Kırdo¨k and Biodesign Team Turkey. Mycelium biocomposites in architecture Chapter | 17\n491\n\nwhich are inspired by nature and related to the fields of science and biology/\nbiotechnology, have a principal place in today’s design strategies. A new\napproach that includes living organisms into the design that goes beyond inspi-\nration from nature is “biodesign via bio-collaboration.”\nThis idea seeks an architecture belonging to nature by integrating living\norganisms either to the design process or to the final product through bio-\ncollaborative relationships, such as in the examples of protocells [6],\ncalcifying bacteria [7], silkworms [8], and fungi [9]. Bio-collaborative design\nprocesses produce complicated living and non-living biological products\nfrom raw materials like living cells or molecules. Adamatzky et al. [4] stated\nthat the “innovative architectures co-exist/co-evolve with living substrates”. In bio-collaborative design, bio-based materials and composites are an\nissue of interest in the quest over replacing the late centuries’ unsustainable\npractices and materials used in the industries. This new approach has benefi-\ncial potential and would probably lead to a significant change in the design\nand construction industry’s future. In this context, this study focuses on dis-\ncussing the possibilities of mycelium in the design and construction sector to\ncreate a bio-based material. 17.2\nMycelium as a biodesign collaborator\nCarbon is a crucial component of all life on Earth. The “carbon cycle”\nwithin the biosphere means “life cycle” and is based on the ongoing life on\nEarth [10]. The soil’s decay cycle is also an essential process in the carbon\ncycle (Fig. 17.2). In this cycle, nearly all plants in natural ecosystems have a\nsymbiotic relationship with fungi. Fungi are a kingdom of organisms, one of\nthe olde",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 2,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "st inhabitants of the Earth, with a primal role in natural ecosystems\nas decomposers [11]. Mycelial fungi play an essential role in the decomposi-\ntion of dead plant material. This is vital in putting nutrients back into the\nsoil, helping the plants grow [12]. Fungi are essential components of nature’s digesting system, making them\npromising components when designing biodegradable and bio-collaborative\nmaterials. They have been an important part of human existence for millennia\nand were used as food sources, as medicine, and for spiritual experience. Today, they are used in the food and beverage industry, such as bread making\nand alcoholic beverage production, as well as being a direct food source, such\nas mushrooms. Besides, some metabolites they produce are used as drugs in\nmedicine, and their enzymes act as catalysts in industrial processes. They can\nalso be used to produce cruelty-free leather, building blocks, furniture, and\nmany other products. Utilization of this easy to grow bio-based material for\ncreating a sustainable circular economy can be possible by scaling up with\nmass production techniques [13]. 492\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\nThe architecture of today uses many different materials to realize desired\ndesign expectations. However, many of these materials cannot be sustained over\ntheir production cycle since they are not biodegradable and consume more\nresources than the Earth can replenish. Therefore cost-competitive, healthy and\nsustainable alternatives are necessary. Cast on-site or precast installations from\nmycelium-based biocomposites show high potential to replace many surfaces in\nbuildings from inner walls to building panels. They are also lightweight, which\nis a desired property, and expected to reduce dead loads on the building struc-\nture. Mycelium acts as a binding agent, which leads to many desired properties\nin thus bound biocomposites, ranging from heat insulation to stiffness. The rapid\ngrowth and other potential properties of mycelium-based bio-composite materi-\nals make them an interesting research topic. As they can be cast to achieve non-\nallergic supportive environments for human health, mycelium-based composites\nare a good alternative to today’s choice of materials ranging in many industries\nfrom building to fashion. Therefore many researchers today try to understand\nthe physical limits, properties, and potentials of mycelium-based biocomposite\nproducts in their works. However, most of these applications are still at the\nexperimental stage and require more research before becoming common ele-\nments in the architectural design or construction sector [14]. FIGURE 17.2\nRecycle/upcycle in nature. Source: O. Kırdo¨k and Biodesign Team Turkey. Mycelium biocomposites in architecture Chapter | 17\n493\n\n17.2.1\nBiological background of mycelial fungi\nAlthough most fungal life cycles are hidden underground in soil, including\nconsuming organic matter, the most familiar vision o",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 3,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "f the fungi that comes to\nthe mind is their fruiting bodies; mushrooms, molds, or yeast. Accordingly,\nthe term mushroom is commonly used to identify the edible sporophores,\nand the umbrella-shaped fruiting body (sporophore) of a specific type of fungi\n[15]; however, that is only the reproductive part of the life cycle of fungi. As these mushrooms sprout above the ground, they form specialized cells on\nthe gills or the pores to produce spores to be released into the air. Besides\nreproduction, spores are the way of mushroom-producing fungi to widen their\nregion by moving to different places. Any ground that supports suitable\ngrowth conditions that a spore lands on happens to be a base for the coloniza-\ntion of new fungal tissue. Generally called “substrate,” this base becomes the food, moisture, and\nheat source while acting as a scaffold for fungus to grow. The substrate can\nbe soil or tree bark, as long as it contains the resources that a fungus needs\nto grow. If the environmental conditions are within the necessary range,\nspores will begin to germinate and form the mycelial structure. When a spore\nsprouts, it starts to form hyphae; 2\u000110-µm-wide microscopic cellular fiber,\ngenerally based on chitin or cellulose, or in some situations both. This is the\nprimary unit of the fungi that forms its biomass. Enzymes secreted by these\nfibers break down the polymers in the substrate and provide the nutrients\nrequired for growth. These fibers multiply and form three-dimensional net-\nworks over the substrate in time as they decompose the complex molecular\nstructures they are attached to. These hyphae networks keep multiplying\nthrough the food source and become the fungal tissue called a mycelium. As\na result, fungal biomass replaces some organic matter within the substrate\nparticles and forms bonding structures with the substrate [14]. Depending on food source availability, mushroom mycelia can live up to\nhundreds of years or die in a few months. When the oldest parts cannot reach\nnutrients, these cells begin to die and become a base of growth for bacteria. These bacteria digest the mushroom to release the nutrients back to feed the\nsoil, while spores released from fruiting bodies of mushroom form new\nhyphal networks [16]. As long as there are enough nourishment and\nsuitable environmental conditions, the mycelium will form new spawns of\nmushrooms to sustain its existence and growth [15]. As a result, the mycelial\nstructure can enlarge through the underground in time via resource veins to\nform massive biomasses. An estimated 80,000 to 120,000 species have been documented in the\nfungi kingdom; there are thought to be about 1.5 million species [17]. The\nenvironmental conditions for growth vary depending on the fungus type. There are many studies on how different types of fungi grow on specific sub-\nstrates [13,17\u000123]. In nature, fungi preferably digest lignin and cellulose,\n494\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\nthe prima",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 4,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ry structural components of wood [24]. On the other hand, their\nability to decompose complex molecules makes them an excellent tool for\nthe environmental bioremediation of agricultural waste and reclamation of\npollutant chemical compounds, such as textile dyes [25], therapeutics [26],\nexplosive residues, and many others in the soil [14]. Growth temperatures and moisture balance are essential factors for the\nformation of mycelium-based composites. These composites comprise bio-\nlogically grown filamentous hyphae networks rather than expensive energy-\nintensive manufacturing processes to convert low-cost organic wastes into\neconomically viable and environmentally friendly materials. White-rot fungi\nof the Pleurotus and Ganoderma genera are the most-often used species hav-\ning strong mycelium fibers capable of growing in lignocellulosic biomass,\nagricultural by-products, or waste materials for the applications discussed in\nthis chapter. Until now, the ability to grow using a wide range of substrates\nhas been singled out as the principal feature of these fungi, linked to their\nmany and notorious production of ligninolytic enzymes. Substrates affect the mechanical properties of mycelium-based biocompo-\nsites. Haneef et al. [27] tested two fungal species, Ganoderma lucidum and\nPleurotus ostreatus, grown on two substrate types. One with potato dextrose-\nadded microcrystalline cellulose (MCC) and the other with just MCC alone,\nwhich is harder to digest as a fungal substrate. MCC substrate brings out a\nstiffer composite. Elsacker et al. [23] analyzed mechanical, physical, and\nchemical characteristics of Trametes versicolor on five different substrates\n(hemp, flax, flax waste, softwood, straw) and fiber conditions (loose,\nchopped, dust, pre-compressed, and tow). Their test results show that the\nfinal product’s mechanical performance depends more on the fiber condition,\nsize, and processing than on the chemical composition of the fibers. It is possible to achieve different results through genetic modification of\na fungus. An exemplary study of the mycelium of a Schizophyllum commune\nstrain with hydrophobin gene sc3 inactivated shows 3\u00014 times more maxi-\nmum tensile strength than non-modified examples [28]. This genetically\nmodified strain retains more water when compared to the wild type strain. This is explained by the fact that the encoded protein coats aerial hyphae\nwith a hydrophobic coating. 17.2.2\nStudies on biodegradable mycelium composites\nMycelium-based materials are a novel research topic with broad interest due\nto numerous practical applications. Many studies contain different trials to\nconstitute biocomposite materials [29\u000132]. Mycelium-based composites\nhave been developed into a wide range of products such as packaging, con-\nstruction and insulation materials, leather-like textile materials, and transpar-\nent renewable films [13]. Mycelium is a highly versatile and fast-growing\nrenewable resource, entirely natural, and can grow on any given sha",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 5,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "pe; some\nMycelium biocomposites in architecture Chapter | 17\n495\n\nspecies last very long and offer good fire resistance [33]. Mycelium-based\ncomposites with different structural or visual properties can be produced by\nchanging the fungi type and substrate; this allows the composite to be used\nin different functions. Girometta et al. [34] provide a comprehensive review of mycelium-based\nbiocomposites’ physical, mechanical, and thermal properties and the factors\naffecting these properties. Islam et al. [21] point out that the network density,\ndimensions, elasticity, branching, and entanglement influence the mycelium\ncomposite products’ mechanical aspects. Appels et al. [29] studied the fac-\ntors that may affect the final morphology of the product and found out: the\ntype of substrate, the species of fungus, and post-processing methods, such\nas hot pressing, can influence the morphology, density, tensile and flexural\nstrength, and water absorption properties. In many studies reported in this chapter, mycelial growth occurs in\nmolds. The fungus is inoculated into lignocellulosic substrates for feeding\nand support—fungal biomass grows inside the mold by eating a part of the\nsubstrate and binding the remaining parts. The resulting filamentous materi-\nals have low density and are highly anisotropic. Many researchers employ a\nsimilar production methodology, which begins with molding the substrate\ninto desired forms that would originate a base to feed the inoculated fungi\nand to generate mycelium networks. According to the design and material\nexpectations, forms are generated by either growing monolithically or assem-\nbling units. The majority of the studies continue their process by killing the\nliving fungal tissue by heating or freezing. The dead mycelium solidifies its\nconnections and acts as a binder that holds the substrate particles. All these\nprocesses require particular sterile work and environmental conditions to\nform a healthy mycelium network. Substrate selection and composition rates vary depending on the type of\nproduct desired. Different substrate combinations significantly affect the\nmechanical performance, strength, and hardness of the mycelium-based bio-\ncomposite [9]. Also, fiber type, particle size, and processing of the substrate,\ndepending on the chemical composition, affect the material’s strength [9,35]. To keep the cost of mycelium composites low and facilitate the recycling of\nwastes, low-cost agricultural plant-based [9] or forestry by-products or\nwastes are used as fibrous substrates (such as straw) or particulate substrates\nsuch as sawdust [36]. Lelivelt et al. [35] stated that in different substrates\n(hemp varieties and wood) non-woven hemp is compatible with mushrooms\nand provides high-pressure resistance. Ghazvinian et al. [37] aimed to\nincrease the mechanical and chemical properties of mycelium-based compos-\nite blocks in wall construction, and the results of compressive strength tests\non block samples showed that straw-base",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 6,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "d biocomposites could not bear\nloads while chip-based biocomposites could be used in place of conventional\nstacking units when sufficient reinforcement was used. Meanwhile, Appels\net al. [28] pointed out the potentials of modification growth conditions and\n496\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\napplying gene modifications like deletion of hydrophobin gene, which would\nresult from an increase in density and branching of the fungal hypha to con-\ntrol mycelium composite to show desired properties. Some studies examine the strength and durability of mycelium-based bio-\nmaterial compared with plastic-based foams [14,17,34]. Attias et al. [14]\npointed out that mycelium-based foams show lower density, flexural\nstrength, and water absorbance when compared with EPS foams. Hence, the\ndevelopment of mycelium composites that compete with synthetic alterna-\ntives is progressing. Reducing dried material density, increasing flexural\nstrength, and decreasing water permeability is necessary for commercial\napplications. Jones et al. ran a series of experiments regarding mycelium-\nbased foams’ fire-retardant properties. They used rice husk, agricultural\nwaste, and natural fire retardant, which contain high lignin and phosphorus\ncontents that are favored by the fungi, and reported promising results [19]. 17.2.3\nStudies on using textiles in the mycelium-based composites\nVarious outstanding studies utilize fabric reinforcement in mycelium-based\ncomposites\n[31,37\u000140]. While\nthe\nbiocomposites\nmentioned\nin\nSection 17.2.2 are suitable for many applications, a mycelium sandwich\ncomposite can be generated by adding another element—a fabric layer—to\nthe sides (and maybe inside) of the biocomposite (core). In this way, textiles\nprovide a fiber surface onto which the mycelium can easily hold on the skin\nof a mycelium sandwich composite. This would keep the composite intact\nagainst dispersion and impact in addition to increasing its tensile strength. The main advantages of mycelium-based composite materials made using\nnatural fibers (e.g., jute, flax, and cellulose fiber) over traditional synthetic\ncomposites include lower cost, lower density, competitive strength, tensile\nand impact mechanical properties, reduced energy consumption, the potential\nfor CO2 sequestration if done at a large scale, and perhaps most important of\nall, tailorable biodegradability [31]. Jiang et al. pointed out that the bio-\nbased core and textile reinforcement can offer enhanced structural and ther-\nmal performance since the mycelium would act as a binder like a polymer\nresin matrix. Furthermore, better acoustic performance is a possible addi-\ntional benefit of this application [38]. Elbasti and Alacam [40] used a growth kit from a local supplier containing\nwheat grains and sawdust inoculated with P. ostreatus. Although the supplier\nsuggests 12\u000121 days over the substrate for full mycelium growth, just 6 days\nof monitored growth was enough to provide evidence of",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 7,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "the utility of this\napproach since the purpose of the research was to observe the material’s\nadaptability to the fabric formwork [40]. However, their test conditions were\nless than ideal, as the mycelium mixture in the growing kit was not homoge-\nneous; these kits tend to be easily contaminated in uncontrolled environmental\nconditions. Therefore the results of this experiment can only be seen as a\nMycelium biocomposites in architecture Chapter | 17\n497\n\nsuccess from an esthetic or proof-of-concept perspective. However, according\nto Elbasti and Alacam, the first 2 days is the best choice to change the form-\nwork, while the ability to adapt falls drastically 5 days after inoculation [40]. Jiang et al. studied the production of mycelium-based sandwich biocom-\nposites [30,31,38,39,41]. They used natural textile fabrics pre-glued with\nbio-glue to create a laminar fabric layer to be used as a preformed shell for\nthe cultivated substrate. They tested infusing the preform with bio-resin to\nterminate production and to improve its mechanical properties significantly. More mycelium-bound substrate areas were determined to be more robust,\nbut after the resin infusion strengthened the skin, the core sandwich seemed\nto be the weakest point in the biocomposite, which showed deformation\nunder stress. 17.2.4\nPatents and startups\nNumerous patents on mycelium-enhanced materials and applications have\nappeared during the last decade; their rate of publication has increased over\nthe past few years. All of them reveal that mycelium is a strong binder,\ngrown by inoculating cells on waste materials and bind them. They empha-\nsize that the binding process’s end product does not have as many harmful\nenvironmental effects as many materials we use today that cause high carbon\nemissions. The mycelium-based materials can be produced and decomposed\nin the soil after their expected lifetime. Early patents focus on how mycelial\ngrowth develops on lignin-based wastes or agar and are intended to recog-\nnize the organism’s development process and the necessary environmental\nconditions [42\u000145]; among these, processes that report growth of fungi with-\nout producing fruit are essential [43]. Many of the following-discussed patents concern the production of biode-\ngradable composite material from mycelium and researching different spe-\ncies of mushrooms, different types of wastes (e.g., hemp, wool, cotton,\nsawdust, wood, coconut, sisal, cereal straw, rice straw, corn, barley, oats, sor-\nghum, kapok, flax, hemp, jute, ramie, cotton, stinging nettle, animal fibers,\ncardboard): using different molds and production mechanisms [46], by a pro-\nduction process by pressing in roll form [47], through production by weaving\nthe hyphae on a grid-frame [48], forming on a grid frame [49], or by mold-\ning for block production [50]. Some of these patents contain recommenda-\ntions for using the composite material as a packaging material in small-scale\nindustrial products, or in the manufacture of therm",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 8,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "al/acoustic insulation\npanels or fire-resistant panels, or some textile products. The resulting product\nis resistant to external environmental conditions, a good insulator, and fire-\nresistant [51,52]; it can also be produced quickly and economically. Nearly 100 patents deal with licensing rights in the United States and\nChina, and there are a small number of Korean and Canadian patents. Eleven\npatents about mycelium-based composite materials are still valid; four of\n498\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\nthem encompass the entire world [53\u000156]; and seven of them are only valid\nin European countries [57\u000163]. One of the pioneers of research and industrial application of mycelium-\nbased products is the firm Ecovative. In 2007 Ecovative started to commer-\ncialize its mycelium-based products, such as chipboards wherein glue is\nreplaced by mycelium, insulation, or packaging mycelium foam and do-it-\nyourself kit to grow mycelium. Their range of products includes packaging\nproducts, which are being produced for different partner firms that use this\ntechnology, such as Dell, Ikea, Biomason, Gunlocke, Bolt Threads, and\nSealed Air. Ecovative also makes its products using genetically modified\nmushrooms according to its patent [43]. Thanks to the modification, fruit for-\nmation is not observed in this fungus; thus it is convenient for designers. However, this mushroom has no production continuity since it does not pro-\nduce spores due to the lack of fruiting bodies. Several other startup firms, like Fungalogic [64], focused on creating\nbuilding materials out of agricultural waste streams, using fungi to grow\nwaste into valuable resources. One of the current products of the company is\nan acoustic panel made from mycelium and tomato stems. The company\noffers furniture designs like phone booths made from these acoustic panels\nfor the work/office environment’s needs. 17.3\nPotential use of mycelium in architectural design\nand construction: Overview of in-house efforts\nOver the last two decades, there have been several architectural exam-\nples designed and built with mycelium-based composites. Mycelium was\nused as a material for building blocks or more extraordinary elements\n[65\u000167]. Building blocks can be produced by molding and using blocks,\nsimilar to traditional masonry systems, suitable to the nature of the material. It is also frequently seen that computer-aided drawing programs and compu-\ntational design methods support the design and production process [68]. Some current plans propose building with live fungal tissue to benefit from\nits biological potential [4]. Some others intend to use mycelium base to grow\nvegetation. A closed material cycle is a characteristic of the material made\nof mushroom mycelium. Substrate and mycelium originate from nature and\ncan be returned to nature 100% at the end of the life cycle. In Fig. 17.3, the\nclosed life cycle of these material types when intended for architectural\napplication",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 9,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "s is illustrated. In Fig. 17.3, the following life stages are illustrated as follows:\n1. A nutrient-rich substrate is inoculated with mycelium and incubation\nbegan within sterile conditions. This helps the fungus to start creating the\nroots responsible for the mechanical strength as the binder in the\nMycelium biocomposites in architecture Chapter | 17\n499\n\nresulting biocomposite before the colonized substrate is transferred to a\nnon-sterile, less nutrient-rich substrate. 2. According to the defined mold geometry, the colonized substrate is\nplaced together with non-sterile substrate together in a mold to start colo-\nnization over a free substrate. 3. The fully colonized material is then removed from the mold and dried. 4. Transport to the end-user takes place. Another option could be growing\non the construction site to avoid transportation. 5. The product can serve for a specific life cycle for temporary structures or\nextended periods if the surface is well treated and if appropriate dry serv-\ning conditions are applied. 6. At the end of the life cycle, the material can be 100% composted, taking\naround three months. 7. The compost can be applied as fertilizer, and agricultural residues after\nharvesting can be used back again as substrates to fabricate more\nmycelium-based biocomposite building materials. In 2014, Ecovative produced mycelium bricks (Mycobricks) for the Hi-\nFy project by The Living [69], the largest architectural structure made of\nmycelium so far, exhibited at the MoMA PS1 [70]. This project’s inspiration\ncomes from a design by mycologist Paul Stamets and artist Philip Ross in\n2012 [71]. The pavilion had an internal metal structure covered with myce-\nlium bricks. That same year Ross introduced Mycotectural Alpha, a small\nstructure made of live mycelium bricks that continuously colonized the sub-\nstrate throughout the exhibition [72]. The mycelium networks fused the\nbricks without adhesive while also providing fresh mushroom harvests. FIGURE 17.3\nIllustration of the mycelium-based building product closed life cycle. Source:\nL. Strobel and BioMat at ITKE/University of Stuttgart. 500\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\nAnother installation, “Mycotecture,” built from G. lucidium, a.k.a. Reishi\nmushroom cultures, was grown in the shape of a brick to form an architec-\ntural pavilion. It promotes this material’s potential while serving visitors tea\nmade from a piece of the fungus grown over the structure. Tea made from\nreishi mushroom is known to have healing remedies and by this demonstra-\ntion way team achieved to invite people inside [16]. Inspired by this idea,\nKarimjee [16] proposes an on-site cast production with Mycobricks and a\ncontinuous factory that supports this biodegradable infrastructure technology\nto build a park to host music festivals. The design aims to clean and heal the\nland by growing fungi on the polluted soil while using it to produce biode-\ngradable mycelium bricks to support t",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 10,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "he desired construction. However, the\nproposal focuses on design then production. More recent architectural projects include Rahman, Arredia, and Yassin’s\nKerala pavilion. The mycelium and substrate mixture is layered on a\npolygon-shaped wooden structure and does not fully colonize it or serve any\nstructural function. Dirk E. Hebel and Philippe Block’s Seoul Biennale 2017\nMycotree installation use custom-shaped mycelium bricks of more complex\ngeometries. Each module is strengthened by wooden joinery to form a self-\nsupporting tree-shaped structure, utilizing some of the mycelium’s structural\npotential [14]. Mayoral explains the term biocomposite as a composite material made of\norganic components showing properties better than when each member per-\nforms alone [66]. In this manner, he points out the potentials of program-\nming living matter to achieve biocomposites that offer special utilities, such\nas the genetic modification or use of bioluminescence. His proposals aim to\nachieve a grown, cultivated habitat designed by parametric 3D CAD model-\ning from units made of Greensulate [73]. To accomplish a parametric design,\nMayoral used the 3D Design program Rhinoceros with Grasshopper to create\na modular design with several algorithms to create a unity between the mod-\nules to respond to an urban needs pavilion. He claims that it is possible to\nproduce fully disposable, biodegradable, and compostable products and\ndesigns ranging from inhabitable structures to insulation by using such a\nmethod. His design proposals are mainly focused on the esthetic properties\nand structural potentials of mycelium biocomposites rather than material\nproperties and their effects on the final product. One of his suggestions pre-\nsents a modular 3D structure as a branching pavilion, while another one is a\nprototype wall unit to design an inhabitable growing dwelling. Many artists also used a kit from Ecovative to create sculptures or lamps. The Living, an Autodesk funded lab, used this kit to create mycelium bricks\nby growing mycelium in molds and baking it once grown [74]. The Fungal\nFutures exhibition in 2016 showcased the potential of integrating design\nthinking with scientific expertise, resulting in some innovative aspects of\nusing mycelium at the intersection of design and science [75]. The exhibi-\ntion’s\nexplorative\ndesign\nprojects\nincluded\n3D-printed\nbiodegradable\nMycelium biocomposites in architecture Chapter | 17\n501\n\nmaterials as an outer scaffold for mycelium-based furniture by Erik\nKlarenbeek, a flexible textile consisting exclusively of mycelium grown on\nfloating mats by Aniela Hoitinic, and architectural topology modeling by\ngrowing mycelium on three-dimensional hemp-fiber scaffolds by Gianluca\nTabellini. Some futuristic research explores the use a live mycelium network along\nwith mushrooms as a bio-computer to manage growth without a mold while\ncontrolling the conditions over the whole structure by examining and manip-\nulating the electrical current and ch",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 11,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "emical activities over the fungus [4]. Olsson and Hansson made several interesting tests of these fungal stimulants\nusing an electrode to observe the information transfer over the mycelium as\nan electrical output [76]. Using these results as a foundation, Adamatzky\net al. [4] propose their concept design at the cross-section of biofabrication,\nfunctionalizing, and computing a living substrate. Adamatzky et al. [4] proposed a conceptual design for a monolithic living\nfungus-based building assembled by a living fungal mycelium enhanced by\nnanoparticles and polymers to create a fungal computer. They envision a fun-\ngal building would self-grow into desired geometries as designed by the\narchitect while presenting properties, such as self-repair and waste manage-\nment. It would also be an environmentally adaptive structure that self-\nresponds to the stimulations as part of a “biological” intelligent building\nparadigm. The group outlines the potentials of biofabrication to control the\ngrowth and branching scheme of the mycelium network with a range of\nchemical and physical stimuli. Stimulation with light and volatiles is another\npotential method for this construction concept. Computing and functionaliz-\ning the electrical current over the mycelium network is the crucial element\nfor these processes. To examine the outlying potential of mycelium to create such a structure, as\ndiscussed above. Adamatzky et al. [4] observed the electrical current through\nthe fungus cells as a response to thermal and chemical stimulation by a high-\nresolution data logger to test the electrical properties of mycelium networks to\nserve as analog computers. Meanwhile, this work demonstrates the potentials of\noperating mycelium networks as bio-computers that maintain themselves. The\nexperiments show that electrical activity recorded on fruit bodies might be a\nreliable indicator of the fungi’s reactions to thermal and chemical stimulation. These fruit bodies react like input ports of the fungal computers [4]. Designing and building with mycelium-based composites can create\nexciting work in interdisciplinary research with engineering, architecture,\ncomputational design, and biodesign. Yet, Attias et al. [14] claim that many\nof the unique qualities and potential implementations of mycelium seem to\nbe under the radar of designers, which makes it a potent research topic both\nin material and design. However, to achieve such inspiring projects under-\nstanding the mechanics that drives and maintains life for these organisms is\nessential. As mycelium-based composites are a relatively new research topic,\n502\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\nthere is limited experience in large-scale production, and few of the patented\nwork offers near-stable structural properties. Still, even these early results\ndemonstrate great potential. To enrich the accumulated data in the literature,\nfurther observation and experimentation under similar conditions would be",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 12,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "necessary. The following sections describe the efforts of two different institutions,\nBiodesign Team Turkey (TBT) and Bio-based Materials and Material Cycles\n(BioMat) Department of Stuttgart University utilizing the same fungal spe-\ncies, P. ostreatus, with similar production processes yet different production\nexperiences. P. ostreatus has been chosen due to its rapid growth, strong\nresistance, and being well understood since it is cultivated for food produc-\ntion. The growth temperatures required by this fungus fit within the general\nroom comfort temperatures of 22\u0003C\u000127\u0003C, which makes it require less\nenergy to maintain during mild climatic conditions. Both studies experiment\nwith unique molding strategies and enhancing structural properties of myce-\nlium composites by textile reinforcement. Final products propose promising\noutcomes for architectural applications of mycelium-based composites\n17.4\nWork of Biodesign Team Turkey on mycelium\ncomposites\nTBT, established with an official “Interdisciplinary Collaboration\nProtocol” in May 2016, is a research and project development platform. One\nof the most important qualities of TBT, which mainly carries out studies on\nbiodesign, is that it is based on interdisciplinary relationships in its activities\nby bringing together individuals from different disciplines, such as bioengi-\nneering, architecture, design, civil engineering, chemical engineering, mechan-\nical engineering, and electronic engineering. As Turkey’s first official\nbiodesign team, TBT has a leading position in the country. The team continues\nto work in an academic environment; carries out different initiatives, projects,\nand training about biodesign, architecture, and engineering disciplines; and\nalso aims to contribute to the discovery of organic, ecological, and sustainable\nprocesses in the building sector in cooperation with natural organisms [77]. The issues on which TBT is actively working are the bacterial biocalcifi-\ncation process, which aims to create design products by directing the sand\nhardening process of a special type of bacteria, the development of innova-\ntive urban design models through finding road networks with slime molds,\nand the investigation of using potential of mycelium in buildings and design. Accordingly, an ongoing project by the team about mycelium aimed to form\nmycelium composites on different substrates with P. ostreatus. Composites\nwere obtained by a two staged production process which took place in digi-\ntally designed molds. TBT examines the effects of different substrates and\nfabric reinforcement combinations on structural performance. Mycelium biocomposites in architecture Chapter | 17\n503\n\n17.4.1\nPleurotus ostreatus, its purification, and preparation of\ninoculum\nInitially, the researchers decided on the fungus type. The choice of mush-\nroom type had been made following a literature survey. There were about\nnine fungal species mentioned in the literature up to 2018. G. lucidum and\nP. ostreatus were foun",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 13,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "d to be the most common of these [14]. Besides, pre-\ninoculated P. ostreatus mushroom growing kits for hobby growers are easy\nto find from both online and local mushroom kit suppliers as a commercial-\nized farming and hobby product. P. ostreatus was used in all experiments (Fig. 17.4). Several growth kits\nwere ordered for the first stage of the experiments. However, the first set of\npacks was contaminated, which could be visually detected even before open-\ning the sealed bags; hence, the strain’s purification became a necessity before\nprocessing further. For the new set of experiments, fungus grown on wheat\nwas supplied from 1 kg bags from Aras Misel [78], a local company. The purification of the culture was performed by inoculating the petri\ndishes containing Potato Dextrose Agar (PDA) before the mushroom was\ntaken to the experiments. For this, 39 g/L PDA was mixed with distilled\nwater and then sterilized at 121\u0003C for 15 min. After cooling to about 55\u0003C,\n13\u000115 mL of PDA was transferred to the petri dishes and allowed to solidify\nby cooling. Then, the mushroom kit was opened in a laminar airflow cabinet\nunder aseptic conditions, and 3\u00015 wheat grains wrapped with mycelium\nwere placed on a PDA and incubated for 7\u000110 days at 27\u0003C. Although it\nwas better than the kits previously taken at the end of the incubation, several\nbacteria and different fungi strains were observed. At this stage, the white\nmycelium fragment (B2 mm) of P. ostreatus, which has no other microbial\nspecies nearby, was sub-cultured under aseptic conditions to another PDA\nmedium. This process has been repeated until there was no other growing\nFIGURE 17.4\nThe purification process of the culture (green and yellow dots are the contami-\nnant species, left and pure culture, right). Source: O. Kırdo¨k and Biodesign Team Turkey. 504\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\norganism detected after 7\u000110 days of growth over the medium. The purified\nculture was stored at 14\u0003C until further experiments. Then, two methods were tried to obtain a sufficient amount of inoculum\nbefore starting the experiments. In the first, half a kilo of wheat grains con-\ntaining 70% moisture was sterilized in a heat resistant plastic oven bag, and\nthen, P. ostreatus was inoculated and incubated at 27\u0003C for 7\u000110 days. In\nthe other method, a one liter Erlenmeyer flask containing 200 mL of 17.0 g/\nL malt extract broth was inoculated and incubated simultaneously at the\nsame temperature under 150 rpm shaking conditions. At the end of the incu-\nbation, mycelial growth on the plastic bag’s wheat grains became visible\n(Fig. 17.5A). In the liquid culture, the mycelium’s filamentous structure has\nwrapped on itself due to the effect of shaking and formed spherical structures\nwith a diameter of 2\u00015 mm called pellets (Fig. 17.5B). 17.4.2\nSubstrates\nFive types of substrates, including wheat straw, cardboard waste, beech\nchips, organic textile, and vine stem, have been chosen because of their r",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 14,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ecy-\nclability potentials and comparability of similar material use in the literature. Experiments were done with two different particle sizes; P. ostreatus growth\nand ability to hold the particles together were evaluated visually. A knife\nand a pair of scissors were used to prepare large particles (5\u00018 mm); an\nindustrial grinder was used for smaller particles (0.5\u00014 mm). Since the\nindustrial grinder was not successful at grinding organic textiles, larger\npieces were cut down to smaller sizes with scissors to evaluate the effect of\ndifferent particle sizes, only for this substrate type (Fig. 17.6). 17.4.3\nMold design and production\nOther important variables include the control of moisture during the process\nand the design of the mold. As Attias et al. [14] report, the mold characteris-\ntics and the mold conditions have a significant role over the incubation. (A)\n(B)\nFIGURE 17.5\n(A) Mycelial growth on the wheat grains. (B) Mycelial pellet formation in liquid\nculture. Source: O. Kırdo¨k and Biodesign Team Turkey. Mycelium biocomposites in architecture Chapter | 17\n505\n\nAppels et al. refer to the importance of increasing the material center’s oxy-\ngen levels to increase colonization. Airflow, retained moisture, and surface\ntexture are several of these properties that seem to be the most affected over\nthe incubation period. Hence, our molds and experiment setups have been\ndesigned to enhance airflow within the substrate while preventing moisture\nloss [29]. Although the mold’s depth is essential when using a closed mold, homog-\nenous growth cannot generally be achieved on the substrate due to the lim-\nited airflow from the top surface to the bottom due to high humidity. Plexiglas and 3D-printed molds that would provide ventilation from the side\nand\nbase\nsurface\nwere\ndesigned\nin\n4 cm 3 4 cm 3 16 cm\ndimensions\n(Fig. 17.7). The sizes for the molds have been decided to run structural tests\ncomparable with building materials like concrete. First, a box with\n4 cm 3 4 cm 3 16 cm (1.2-mm thickness) was designed with six uniformly\ndistributed openings of 1 mm to achieve better air exchange in each face\nusing Sketchup 3D design software. Semi-transparent filaments (Translucent\nPLA) have been used to 3D print these boxes by Ultimaker 3 Extended and\nUltimaker 2 Extended Plus 3D Printers to observe the process smoothly. Following this process, to keep all examples in the same condition, a trans-\nparent box to hold five different samples separately in the same setup has\nbeen designed with AutoCAD 2020. This design then has been cut by an\nEpilog M2CO2 75 Watt-laser cutter from transparent Plexiglas (Fig. 17.8). Plexiglas has been chosen as the primary material because its flat and trans-\nparent surface allows for easy product removal from the mold after coloniza-\ntion and facilitates observation of the process due to its transparency. The\nFIGURE 17.6\nFive types of substrates. Source: O. Kırdo¨k and Biodesign Team Turkey. 506\nPART | IV Biomimetic habitation: Architec",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 15,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ture and sustainable environments\n\ngrowth in these molds was compared with the mycelial growth in jars and\nwas found to be better suited. Also, the jar was not satisfactory for removing\nthe composite material. 17.4.4\nComposite production\nThe general structure of the growth process found in the literature that details\nthe production phase is similar to the guide that Ecovative shares on its website\nwith the public. The process begins with sterilization of the substrate and incu-\nbation of this substrate with fungi’s desired type. After letting these fungi colo-\nnize a few days in the dark, fabrication breaks the colonized substrate and fills\nit into the molds to grow into the desired shape. The process is mostly com-\npleted with drying to evaporate the water to deactivate the living fungus cells. The growth conditions and humidity levels in the literature differ. Substrates in room conditions contain between 5 and 10% moisture, so the\nsubstrates’ moisture rates were calculated for controlled experimentation. Distilled water was used to provide moisture and set the absolute humidity\nof the substrates to 75%. Also, 5% by weight of wheat bran was added to the\nFIGURE 17.7\nSample molds: (A) 3D printed and (B) laser cut. Source: O. Kırdo¨k and\nBiodesign Team Turkey. FIGURE 17.8\nColonization molds for structural test samples designed in SketchUp: (A) sample\nunit and (B) general test setup. Source: O. Kırdo¨k and Biodesign Team Turkey. Mycelium biocomposites in architecture Chapter | 17\n507\n\nsubstrates, following the supplier’s recommendation. Substrates with distilled\nwater and wheat bran added were sterilized, and then P. ostreatus pellets\nwere inoculated and incubated for 12 days in a dark environment at 27\u0003C. The plastic bags’ ventilation was provided by placing plug-shaped cotton in\nthe mouth of the bag to prevent contamination. After the first incubation period, the substrates were removed from plastic\nbags and transferred to molds; the mold surfaces were pre-sterilized with alco-\nhol. In the molds, ventilation was provided via appropriately sized holes, and\nthe molds were placed in large bags to prevent contamination. Then, incuba-\ntion was continued for another 18 days at the same temperature. At the end of\nthe period, the composite materials were removed from the molds and dried\nfirst at 120\u0003C for 90 min to eliminate further fungal cell production and 50\u0003C\nfor 48 more hours to dry out completely (33% average final weight). Mycelial\ndevelopment and the integrity of the composites were evaluated. Both grain transfer and pellet inoculation methods were determined to\nobtain sufficient inoculum and tested on substrates. However, homogeneous\nmycelium growth could not be achieved on each grain of wheat. Therefore\nwhen the results were evaluated, it was decided to use pellets for future pro-\nduction to ensure the inoculum distribution standardization. Incubation time is one of the essential decisions that should be made\naccording to the mushroom type sin",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 16,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ce speeding up the process is necessary for\nthe industrialization of mycelium-based products. Therefore further research\nover the coherence of different substrates and fungi types is essential. Attias\net al. [14] suggest that short incubation periods would restrict organic matter\ndigestion; thus the wood fibers in the substrate preserve their structural proper-\nties. On the other hand, keeping the incubation period longer would cause\nmore digestion and lignocellulose content changes—the processing time and\nproduct quality are correlated. Longer colonization time is required to achieve\na stiffer and stronger final product. A smoother skin-like surface can also be\nachieved through full colonization [38]. According to this information, tests\nrun over different growth periods with selected combinations of substrate and\nfungi must be analyzed to determine the optimal structural properties achieved\nby particular levels of substrate and subsequent mycelium formation. Depending on the substrate or fungus type, these parameters may change. Substrate type is important here from two aspects. First, the substrate sup-\nports the relevant organism’s growth by serving as both a food source and a\nscaffold. The organism will hold the material together by spreading between\nthe substrate particles, showing better mycelial growth when the proper\nnutrient medium (suitable substrate) is provided. Visual observation shows\nfaster and denser colonization over cardboard waste, cotton textile waste,\nand wheat straw cultivation jars, which performed better. The colonization\nspeed of mycelium over cotton textile waste showed an eye-catching perfor-\nmance. It is possibly because of the buckled formation of cotton textile that\nresulted in creating air gaps within the substrate’s general structure, allowing\n508\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\nmore freedom for organisms to form while allowing better air circulation. However, textile waste is hard to cut into smaller pieces and requires extra\nmachinery to enable processing. Also, as a recyclable material, textile waste\nhas more uses and hence value than the other candidates. Thus according to\npreliminary visual observations and analysis, focusing on wheat straw and\ncardboard waste were chosen as suitable substrates for ongoing experiments. The second significant factor for a substrate is the particle size. If the par-\nticle size of the substrate is too large, the mycelium cannot hold the particles\nhomogeneously and strongly together. If the particle size of the substrate is\ntoo small, there will be no gaps between them. There will not be enough\nspace for the organism to grow, and there are no air gaps for the aerobic\norganism, which will result in a non-homogenous distribution of organic\nmass, as in Fig. 17.9. The type of substrate, in this case, is a handy parame-\nter. Not micron size, but small particles visible to the naked eye are observed\nto be the most effective size. However, a g",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 17,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "eneralization could not be made\nbecause of different substrates’ changing properties like cotton or fabric\nwaste. Also, the substrate’s properties will affect the final properties of the\ncomposite, as the whole substrate is not digested. Therefore the substrate\ntype will affect the composite’s stiffness, strength, thermal, and acoustic\nproperties. Research shows that substrates in a ground form are better than\nusing these substrates as dust or larger pieces to cultivate the mushroom. During the first observations, the capacity of the moisture held by the sub-\nstrate changes with its chemical properties, size, and shape. While it was\nobserved that small particles obtained with an industrial grinder colonize fas-\nter in terms of mycelial development compared to larger particles, smaller\nparticles were found to be more homogenous, and the obtained material had\nbetter integrity. After designing and crafting the negative mold that meets fungi’s needs\nfor growth (air circulations, contamination protection, moisture holding,\netc.), the only energy-consuming needs are keeping the mold in the state of\noptimal heat and moisture condition. However, it will not be difficult to\nmaintain these conditions in many cases since the organism tends to grow\noptimally near room temperature. And for the scenarios responding to differ-\nent regions of the world, another type of fungus can be chosen accordingly\nFIGURE 17.9\nThe appearance of the composite was obtained by using large pieces of card-\nboard waste. Source: O. Kırdo¨k and Biodesign Team Turkey. Mycelium biocomposites in architecture Chapter | 17\n509\n\nto the changing temperature levels. Until the drying phase, there is no extra\nenergy needed except maintaining ambient conditions. This makes the prod-\nuct cost-competitive with its low-embodied-energy production process. However, as Jiang et al. [38] pointed out, the production process still\ndepends on manual labor, limits the production speed, and increases costs. To sum up, the first experiments’ results, the moisture-holding capacity, and\nbreathability of the substrate affect the mycelium network’s formation speed. Successful results were obtained with the mold design, and the composite\nmaterials were quickly removed from the molds and dried. After these first successful sample units produced in designed molds for\nstructural tests, the second phase of controlled experiments was conducted\nduring the Master’s thesis of one of the authors, Onur Kırdo¨k, to observe the\npotency of the fabric reinforcement for a composite where two layers of fab-\nric have been placed at the bottom and the top of a mycelium network core\nto form a sandwich composite (Fig. 17.10). To achieve that, jute, hemp, and\nbamboo textiles have been examined by structural testing. This approach aims to allow the mycelium to develop through both sub-\nstrate and the fabric skins with a mycelial network. As the hyphae create\nnew networks, they will penetrate through the substrate and form knots\nbetwe",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 18,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "en the natural textile fibers. After the colonization comes to the desired\ndegree, dried out hyphae will shrink and merge these layers as it solidifies. These can be referred to as penetration and knot points, which increase the\nstructural strength of general composite (Fig. 17.11). 17.5\nWork of Stuttgart University on mycelium\ncomposites\nIn the BioMat department (Bio-based Materials and Material Cycles in\nArchitecture) at the ITKE Institute for Building Structures and Structural\nDesign at the Faculty of Architecture and Urban Planning in tStuttgart,\nGermany, diverse concepts toward an innovative sustainable architecture of\nFIGURE 17.10\nLayers of textile-reinforced mycelium composite. Source: O. Kırdo¨k and\nBiodesign Team Turkey. 510\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\nthe future have been developed including designing after the philosophy\nMaterials as a Design Tool developed by a co-author [79] that was also\nreflected on her first patented product Bio-Flexi [80] that was evaluated\nregarding its life cycle options and sustainability value [81]. In that context, diverse bio-based materials, smart adaptive ones, and digi-\ntal fabrication technologies matching digital parametric design methodologies\nhave been applied according to this philosophy. In diverse cases, the design\nprocess started by proposing a newly developed bio-based material, namely\nNatural Fiber Reinforced Polymer Composites or in other words biocompo-\nsites that present composition of at least two components: a fiber and a binder,\nwhere at least one component is bio-based. Diverse developments have taken\nplace in that context, through which the end product varied widely covering\nseveral applications in design and architecture including segmented shell con-\nstructions, canopies, furniture, and acoustic panels [82\u000185], applying numer-\nous digital fabrication technologies. Similarly, mycelium was applied here in this chapter as a natural growing\nbinder, where the fungal roots played a primary role in binding diverse\nselected agro-fibers including straw and other plant residues of lengths vary-\ning between 0.5 and 5 mm as well as other annual plant fibers including\nflax, hemp, and jute fibers that were pre-physically settled as fleece, fabric,\nand other physical forms to create a proper reinforcing medium for the final\nmycelium-based biocomposite building products and elements (Fig. 17.12). FIGURE 17.11\nLayers of connection within textile-reinforced mycelium composite. Source:\nO. Kırdo¨k and Biodesign Team Turkey. Mycelium biocomposites in architecture Chapter | 17\n511\n\nThrough this chapter section, one of the selected developments is discussed\nin detail proposing a structural building system, in which mycelium reinforced\nwith both straw and flax fibers as well as hemp fabric is applied in the core\nof a sandwich panel. The development is first illustrated in Fig. 17.13\nhighlighting its closed-life cycle balance in architecture; followed by\ndetaile",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 19,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "d input on the material system development phases. The remainder\nof the section of this chapter includes numerous figures detailing methodol-\nogy, including a “Proof-Of-Concept” in the form of a 1:2 mock-up and\nfinally illustrating applications. 17.5.1\nDetailed information on the development process of the\nmaterial samples\n17.5.1.1\nTest setup: Substrate and sterilization\nProfessional clean room conditions in addition to the necessity of using\ngloves and a sterilized container with a HEPA-filter was needed. A relatively\nsterile environment has been reached, through the application of a gas cooker\nto sterilize all surfaces that are in contact with the colonizing substrate and\ndisinfecting them with alcohol ( . 70%) to avoid disinfection or contamina-\ntion risks. To sterilize the substrate, an autoclave or pressure cooker was\nrequired, where it was sterilized for over a period of 60\u000190 min at tempera-\ntures above 121\u0003C that allowed the majority of all germs to be killed. The\nrisk of contamination can also be reduced through cooking at 100\u0003C that\nshould considerably reduce the risk of germination by about 90%. After testing with different substrates, the only ingredients that were used were\ngrains of cereals that functioned in the pretests. These had the advantage of being\nrich in protein and nutrients, which allows the mycelium to rapidly incubate. For the sterilization of the substrate, an autoclavable polypropylene con-\ntainer with a capacity of 0.6 L was used. Alternatively, preserving jars, with\npiercing holes and filter wool, were also used. FIGURE 17.12\nComparison between experiments utilizing different substrates to determine\nthe degree of growth. Source: L. Strobel and BioMat at ITKE/University of Stuttgart. 512\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\n17.5.1.2\nFirst colonization of the substrate (sterile)\n1. The grains were soaked overnight so that the contaminant spores germi-\nnated during the swelling. According to that, the subsequent sterilization\nprocess was more reliable. Alternatively, cooking the grains for 45 min at\nlow temperatures was also an alternative. 2. The grains were drained with malted extract agar as a growth accelerator,\nand gypsum was a basic additive in the ratio of 1:1, with a little water\ncreating a homogeneous mass. FIGURE 17.13\nIllustration of the unsterile mycelium production process. Source: L. Strobel\nand BioMat at ITKE/University of Stuttgart. Mycelium biocomposites in architecture Chapter | 17\n513\n\n3. After these steps grains should be containing about 70% moisture, and it\nshould not contain stagnant moisture. The container was then filled with\nthe provided filter and then sealed. 4. The substrate was boiled at 100\u0003C for about 60 min. 5. Before inoculation, the substrate was cooled. 6. Inoculating the substrate took place in a sterile environment with\n1\u00012 mL P. ostreatus mycelium liquid then the containers were shaken to\nhomogenize the mixture. 7. The incubation phase was th",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 20,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "en initiated by storing the inoculated sub-\nstrate in a warm room for incubation (B27\u0003C) (Fig. 17.14). FIGURE 17.14\nIllustration of the sterile substrate inoculation and incubation. Source: L. Strobel\nand BioMat at ITKE/University of Stuttgart. 514\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\n17.5.1.3\nThe production process of the material from\nmycelium—the unsterile process\n1. Soak the substrate for a few minutes in hot water and then press the\nwater out. 2. The colonized substrate is added to the unsterile substrate on a sterile surface. 3. Colonized substrate and unsterile substrate are mixed well. 4. The mixture is filled into the molds (alternatively, grains and substrate\nare put into the molds layer by layer). 5. The mushroom must have a humid environment either by controlling the\nroom humidity or by additional packing in holes provided with needle-\nsized holes. Slide in the first growth phase, the material can be cleaned\nby daily or regular spraying to maintain moisture, but the mycelium can\nbe attached to the mold surface. 6. Initiating growth through storage under warm and humid conditions,\nwhile disinfecting the molds with an alcohol solution. 7. Growth is stopped, and the hardening process is achieved through heating\nthe material at 50\u0003C\u000160\u0003C. To avoid deformation in this drying process,\napplying extra pressure on the mold may be needed. 17.5.1.4\nExperimental comparison\nIn Fig. 17.15, one can see the test setup and in Fig. 17.16 the different\ngrowth results are visually inspected as follows: while pasteurized straw is\nvery susceptible to contamination, it took about 10 days for the samples to\nbe moderately marbled. The fermented version clearly shows more white rot\non the surface. There was also much less contamination than pasteurization\nalone. The emulsified version is the least saturable. 17.5.2\nDesign and fabrication of a structural canopy building\nsystem from a mycelium-based biocomposite\nA segmented structural canopy made of flat edged sandwich panel segments\nwas iteratively parametrically designed. The sandwich panels were laminated\non both sides with timber-based thin sheets, while the mycelium-based bio-\ncomposite formed the core. Flat-edged segments were intentionally designed\nin a triangular-like shape to facilitate molding that was set in a triangular for-\nmat. To combine the segmented panels, special connections were set and\nspecially designed to facilitate the connectivity between every single layer of\nthe sandwich panels. Figs. 17.17 and 17.18 show the plan, section and elevation of the selected\ndesign. They show the segmentation of components (Fig. 17.17) and illus-\ntrate the triangular forms (Fig. 17.18). The detailing of the connection\nmethod of the segmented sandwich panels is shown in Fig. 17.19; the\nMycelium biocomposites in architecture Chapter | 17\n515\n\nconnections are illustrated in a 3D isometric form. In Fig. 17.20, we illustrate\nthe molding process using the selected triangular",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 21,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "molds according to the\ndefined geometry; Fig. 17.21 shows the process of filling the molds. The\nfinal 1:2 mock-up is shown in Fig. 17.22. FIGURE 17.16\nIllustration of the visual comparison between the different tested samples’\nstages between pasteurization, fermentation, and emulgation. Source: L. Strobel and BioMat at\nITKE/University of Stuttgart. FIGURE 17.15\nTest setup declaration. Source: L. Strobel and BioMat at ITKE/University of\nStuttgart. 516\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\n17.5.3\nLessons learned and vision\nFig. 17.23 summarizes the lessons learned from processing experiment-\nsand impact(s) at the material development level. It also highlights the\npositive impact of adding textile-based substrates to increase reinforce-\nment and enhance mechanical properties. Furthermore, since the materi-\nal’s growth is the main factor that depends on humidity, the material is by\ndefault sensitive to humidity; thus the surface must be adequately treated\neither thermally or through the coating to avoid failure during the applica-\ntion’s useful life. Furthermore, in Fig. 17.24, illustrations reflect the\narchitectural application possibilities or scenarios for the developed\nmycelium-based biocomposite materials, including structural and non-\nstructural ones. However, it is not claimed that the proposed material sys-\ntems can replace structural steel or concrete, instead the aim is to reduce\nthe amount of those non-renewable materials if applied in non-structural\napplications. FIGURE 17.17\nFac¸ade and section of the structural canopy, in which the main base is of\ntimber and the rest of segmented components is interconnected with mycelium composites in the\ncore of the segmented sandwich panels. Source: L. Strobel and BioMat at ITKE/University of\nStuttgart. Mycelium biocomposites in architecture Chapter | 17\n517\n\nFIGURE 17.18\nPlan of the canopy showing the segmentation. Source: L. Strobel and BioMat\nat ITKE/University of Stuttgart. FIGURE 17.19\nIsometric detailing of the connection method of the segmented sandwich\npanels composed of the mycelium biocomposite core. Source: L. Strobel and BioMat at ITKE/\nUniversity of Stuttgart. 518\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\nFIGURE 17.20\nExplosion axonometry: filling of the molds of the 1:2 model with textile rein-\nforcement. Source: L. Strobel and BioMat at ITKE/University of Stuttgart. FIGURE 17.21\nProcess of filling the forms. (1) Addition of the interspersed grain brood to the\nsubstrate and subsequent mixing, (2) disinfection of the polystyrene glass molds, (3) application\nof the first layer of damp jute textile, (4) application of a substrate layer, and (5) after the last\nlayer of textile is applied, the mold is closed and the outcome is used in the defined sandwich\npanels’ cores. Source: L. Strobel and BioMat at ITKE/University of Stuttgart. Mycelium biocomposites in architecture Chapter | 17\n519\n\nFIGURE 17.22\nThe final 1:2 mockup",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 22,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": ". Source: L. Strobel and BioMat at ITKE/University of\nStuttgart. FIGURE 17.23\nCollective diagram showcasing the main advantages and further research\ndemand for the highlighted development. Source: L. Strobel and BioMat at ITKE/University of\nStuttgart. 520\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\n17.6\nConclusion\nThis chapter presents two separate but complementary academic stud-\nies from different departments related to the properties and potential uses of\nmycelium-based biocomposites produced by P. ostreatus in buildings. Both\nstudies focused on the colonization properties of P. ostreatus over several\ntypes of substrates as a function of their lignin content. Findings indicate\nthat the substrate’s size and lignin proportion, molding strategies, and envi-\nronmental conditions are beneficial throughout the colonization phase. This\nprocessing approach can be used to directly fabricate finished product(s) dur-\ning this first colonization phase; on the other hand, the method explained in\nthe third section would be an efficient alternative for the production of larger\nelements and on-site production for design applications. This research out-\nlines the importance of optimizing three different aspects of such a produc-\ntion process: growth method and conditions, choice of substrate type, and\nthe interrelationship between the molding step, the design, and quality of the\nfinal product. The first stage of the mycelium material production heavily depends\non sterilization and a controllable production environment with conditions\nlike temperature and humidity under constant conditions. This brings the\nrequirements for a specific mold design, at least for the first colonization\nprocess. Skin layers that increase the air circulation in aseptic conditions are\nobserved to result in faster colonization. Furthermore, to strengthen the final\nproduct, fabric reinforcement has been examined by both of the studies\nand observed to increase the integrity of the composite drastically. Since the\nFIGURE 17.24\nIllustration of the application scenarios of the analyzed developments in differ-\nent architectural contexts. Source: L. Strobel and BioMat at ITKE/University of Stuttgart. Mycelium biocomposites in architecture Chapter | 17\n521\n\ntextile’s main fabric is the unity of the natural woven fibers, the fibers\nof hyphae would be efficient to bring out a form aligned with these fibers\nand even merge to strengthen the connections within the elements of the\ncomposite. This chapter indicates that by controlling the environment and the\norganism’s colonization process, it is possible to use mycelium with fabric\nreinforcement to be an in situ construction approach for more sustainable\narchitecture and buildings in the future. However, there are questions con-\ncerning the stability of the final products and long-term endurance when\nconfronted by challenging environmental conditions; this is continues to be\na significant issue for outdoor application",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 23,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "s. Therefore future research inves-\ntigating rugged coatings and deposition technologies would be essential for\napplications of these novel materials to become widespread throughout the\nconstruction industry. Acknowledgments\nThe co-authors H. Dahy and L. Strobel would like to thank the BioMat at ITKE\nemployees, Michaela Mey and Jan Petrs, for their contribution in tutoring Ms. Lena\nStrobel during her bachelor thesis that was supervised by Prof. Hanaa Dahy. The co-\nauthors O. Kırdo¨k, D. Akyol Altun, E.E. Hame¸s Tuna, G. Ko¨ktu¨rk, O¨ .Andic¸ C¸ akır,\nA. Tokuc¸, F. O¨ zkaban, A. ¸Sendemir, who are the members of Biodesign Team Turkey,\nwould like to thank Fablab ˙Izmir Maker laboratory of ˙Izmir Municipality and acknowledge\ntheir vision to support new advancements in technology and research. References\n[1]\nM. Pedersen Zari, An architectural love of the living: Bio-inspired design in the pursuit of\necological regeneration and psychological wellbeing, Sustain. Dev.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 24,
+      "char_count": 975
+    }
+  },
+  {
+    "text": "Plan. IV 1 (2009)\n293\u0001303. [2]\nF. Pacheco-Torgal, Introduction to biotechnologies and biomimetics for civil engineering,\nin: Biotechnologies and Biomimetics for Civil Engineering, 2015, pp. 1\u000119.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 25,
+      "char_count": 195
+    }
+  },
+  {
+    "text": "[3]\nA. Tokuc¸, F.F. O¨ zkaban, O¨ .A. C¸ akır, Biomimetic facade applications for a more sustain-\nable future, Interdisciplinary Expansions in Engineering and Design With the Power of\nBiomimicry, 2018. [4]\nA.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 26,
+      "char_count": 208
+    }
+  },
+  {
+    "text": "Adamatzky, P. Ayres, G. Belotti, H. Wo¨sten, Fungal architecture, arXiv:1912.13262v1\n[cs.ET] (2020) 1\u000119. [5]\nE. Kennedy, D. Fecheyr-Lippens, B.-K. Hsiung, P.H. Niewiarowski, M. Kolodziej,\nBiomimicry: A path to sustainable innovation, Des. Issues 31 (2015) 66\u000173.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 27,
+      "char_count": 263
+    }
+  },
+  {
+    "text": "[7]\nT.K. Gu¨ndo˘gdu, I. Deniz, A. Aric, B.T. Yılmazsoy, O.A. Cakir, A. Erdogan, et al.,\nDevelopment of ecological biodesign products by bacterial biocalcification, Eur. J.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 28,
+      "char_count": 171
+    }
+  },
+  {
+    "text": "Eng. Nat. Sci. 3 (2019) 17. 522\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\n[8]\nO. Kırdo¨k, T.D. Akyol Altun, D. Dokgo¨z, A. Tokuc¸, Biodesign as an innovative tool\nto decrease construction induced carbon emissions in the environment, Int. J.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 29,
+      "char_count": 274
+    }
+  },
+  {
+    "text": "Glob. Warm. 19 (2019) 127\u0001144. [9]\nE. Karana, D. Blauwhoff, E.J. Hultink, S. Camere, When the material grows: A case study\non designing (with) mycelium-based materials, Int. J.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 30,
+      "char_count": 176
+    }
+  },
+  {
+    "text": "42 (2017) 25\u000128. [11]\nM.L.T. Cossio, L.F. Giesen, G. Araya, M.L.S. Pe´rez-Cotapos, R.L. Vergara, M. Manca,\net al., Brock biology of microorganism, Instrum. Familiares (2012). [12]\nJ. Leake, D. Johnson, D. Donnelly, G. Muckle, L. Boddy, D. Read, Networks of power\nand influence: the role of mycorrhizal mycelium in controlling plant communities and\nagroecosystem functioning, Can. J.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 31,
+      "char_count": 382
+    }
+  },
+  {
+    "text": "22 (2019) 1647\u00011657. [14]\nN. Attias, O. Danai, T. Abitbol, E. Tarazi, N. Ezov, I. Pereman, et al., Mycelium bio-\ncomposites in industrial design and architecture: Comparative review and experimental\nanalysis, J. Clean.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 32,
+      "char_count": 218
+    }
+  },
+  {
+    "text": "Prod. (2020) 246. [15]\nN.P. Money, Fungal cell biology and development, in: S.W. Watkinson, N.P. Money,\nL. Boddy (Eds.), The Fungi, third ed., Academic Press, New York, NY, 2015,\npp. 37\u000166. [16]\nM.Z. Karimjee,\nBiodegradable\nArchitecture\nFinite\nConstruction\nfor\nEndless\nFutures. Master of Thesis, Azrieli School of Architecture and Urbanism, Ottawa, Ontario,\n2014. [17]\nM. Jones, T. Bhat, C.H. Wang, K. Moinuddin, S. John, Thermal degradation and fire reac-\ntion properties of mycelium composites, in: Proceedings of the 21st International\nConference on Composite Materials, Xi’an, China, 2017, pp. 20\u000125.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 33,
+      "char_count": 604
+    }
+  },
+  {
+    "text": "Daver, S. John, Mycelium composites: A review of\nengineering characteristics and growth kinetics, J. Bionanosci. 11 (2017) 241\u0001257. [19]\nM. Jones, H. Chun, R. Yuen, S. John, Waste-derived low-cost mycelium composite con-\nstruction materials with improved fire safety, Fire Mater. 42 (2018) 1\u000110.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 34,
+      "char_count": 295
+    }
+  },
+  {
+    "text": "Mautner, A. Bismarck, et al.,\nAgricultural by-product suitability for the production of chitinous composites and nanofi-\nbers utilizing Trametes versicolor and Polyporus brumalis mycelial growth, Process. Biochem. 80 (2019) 95\u0001102. [21]\nM.R. Islam, G. Tudryn, R. Bucinell, L. Schadler, R.C. Picu, Morphology and mechanics\nof fungal mycelium, Sci. Rep.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 35,
+      "char_count": 351
+    }
+  },
+  {
+    "text": "160 (2018) 549\u0001556. [23]\nE. Elsacker, S. Vandelook, J. Brancart, E. Peeters, L. De Laet, Mechanical, physical and\nchemical characterisation of mycelium-based composites with different types of lignocel-\nlulosic substrates, PLoS One 14 (2019) e0213954. [24]\nD. Grimm, H.A.B. Wo¨sten, Mushroom cultivation in the circular economy, Appl. Microbiol. Biotechnol. 102 (2018) 7795\u00017803. [25]\nT.M. Salame, D. Knop, D. Levinson, O. Yarden, Y. Hadar, Redundancy among manga-\nnese peroxidases in Pleurotus ostreatus, Appl. Environ. Microbiol. 79 (2013) 2405\u00012415. [26]\nC. Cruz-Morato´, L. Ferrando-Climent, S. Rodriguez-Mozaz, D. Barcelo´, E. Marco-Urrea,\nT. Vicent, et al., Degradation of pharmaceuticals in non-sterile urban wastewater by\nTrametes versicolor in a fluidized bed bioreactor, Water Res. 47 (2013) 5200\u00015210. Mycelium biocomposites in architecture Chapter | 17\n523\n\n[27]\nM. Haneef, L.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 36,
+      "char_count": 888
+    }
+  },
+  {
+    "text": "Ceseracciu, C. Canale, I.S. Bayer, J.A. Heredia-Guerrero, A. Athanassiou,\nAdvanced materials from fungal mycelium: Fabrication and tuning of physical properties,\nSci. Rep.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 37,
+      "char_count": 171
+    }
+  },
+  {
+    "text": "7 (2017) 1\u000111. [28]\nF.V. Appels, J. Dijksterhuis, C.E. Lukasiewicz, K.M. Jansen, H.A. Wo¨sten, P. Krijgsheld,\nHydrophobin gene deletion and environmental growth conditions impact mechanical prop-\nerties of mycelium by affecting the density of the material, Sci. Rep.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 38,
+      "char_count": 266
+    }
+  },
+  {
+    "text": "8 (2018) 1\u00017. [29]\nV.W. Appels, S. Camere, M. Montalti, E. Karana, K.M.B. Jansen, J. Dijksterhus, et al.,\nFabrication factors influencing mechanical, moisture- and water-related properties of\nmycelium-based composites, Mater. Des.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 39,
+      "char_count": 230
+    }
+  },
+  {
+    "text": "161 (2018) 64\u000171. [30]\nL. Jiang, D. Walczyk, G. McIntyre, W.K. Chan, Cost modeling and optimization of a\nmanufacturing system for mycelium-based biocomposite parts, J. Manuf. Syst. 41 (2016)\n8\u000120. [31]\nL. Jiang, D. Walczyk, G. McIntyre, R.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 40,
+      "char_count": 239
+    }
+  },
+  {
+    "text": "Bucinell, B. Li, Bioresin infused then cured\nmycelium-based sandwich-structure biocomposites: Resin transfer molding (RTM) pro-\ncess, flexural properties, and simulation, J. Clean.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 41,
+      "char_count": 180
+    }
+  },
+  {
+    "text": "He, Z. Li, Novel engineered wood and bamboo composites for structural\napplications: state-of-art of manufacturing technology and mechanical performance evalu-\nation, Constr. Build.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 42,
+      "char_count": 180
+    }
+  },
+  {
+    "text": "Girometta, A.M. Picco, R.M. Baiguera, D. Dondi, S. Babbini, M. Cartabia, et al.,\nPhysico-mechanical and thermodynamic properties of mycelium-based biocomposites: a\nreview, Sustainability 11 (2019) 281. [35]\nR.J.J.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 43,
+      "char_count": 213
+    }
+  },
+  {
+    "text": "Lelivelt, G. Lindner, P. Teuffel, H. Lamers, The production process and compres-\nsive strength of mycelium-based materials, in: First 156 International Conference on Bio-\nbased Building Materials, 2015, pp. 1\u00016.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 44,
+      "char_count": 211
+    }
+  },
+  {
+    "text": "187\n(2020) 108397. [37]\nA. Ghazvinian, P. Farrokhsiar, F. Vieira, J. Pecchia, B. Gursoy, Mycelium-based biocom-\nposites for architecture: assessing the effects of cultivation factors on compressive\nstrength, in: The eCAADe and SIGraDi Conference, 11\u000113 September 2019, University\nof Porto, Portugal, vol. 2, 2019, pp.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 45,
+      "char_count": 317
+    }
+  },
+  {
+    "text": "505\u0001513. [38]\nL. Jiang, D. Walczyk, L. Mooney, S. Putney, Manufacturing of mycelium-based biocom-\nposites, in: Proceedings of the International SAMPE Technical Conference, 2013,\npp. 1944\u00011955.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 46,
+      "char_count": 192
+    }
+  },
+  {
+    "text": "Bucinell, G. Tudryn, Manufacturing of biocompo-\nsite sandwich structures using mycelium-bound cores and preforms, J. Manuf. Process. 28\n(2017) 50\u000159. [40]\nG. Elbasti, S. Alacam, An empirical study on the materialisation and formation of\nmycelium in a fabric formwork, in: Conference: KINE[SIS]TEM’17 From Nature to\nArchitectural Matter, Lisbon, Portugal, 1 September 2020, 2017. [41]\nL.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 47,
+      "char_count": 386
+    }
+  },
+  {
+    "text": "Jiang, D.F. Walczyk, G. McIntyre, Vacuum infusion of mycelium-bound biocomposite\npreforms with natural resins, in: CAMX Conference Proceedings, 2014, pp. 13\u000116.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 48,
+      "char_count": 160
+    }
+  },
+  {
+    "text": "[42]\nE.R. Kalisz, C.A. Rocco, Hardened mycelium structure and method, United States Patent\nNo: 20130202855A1 (2013). 524\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\n[43]\nL. Greetham, G.R. McIntyre, E. Bayer, J. Winiski, S. Araldi, Mycological biopolymers\ngrown in void space tooling, United States Patent No: 20150033620A1 (2014). [44]\nJ.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 49,
+      "char_count": 370
+    }
+  },
+  {
+    "text": "Winiski, S.V. Hook, M. Lucht, G. McIntyre, Process for solid-state cultivation of\nmycelium on a lignocellulose substrate, WO-United States Patent No: 20160264926A1\n(2016). [45]\nW. Dong, Non-pollution nuisance composite mycelium active forage and production\nthereof, CN Patent No: 1711885AA (2004). [46]\nL. Laboutiere, E. Lemiere, A. Mechineau, Process for manufacturing a composite material\nbased on natural fibres seeded with mycelium and part obtained with such a process, WO\nPatent No: 2014195641A1 (2014). [47]\nJ.D. Betts, Process for the production of mycelial composite surfaces in a roll-to-roll for-\nmat, United States Patent No:10537070B2 (2018). [48]\nP.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 50,
+      "char_count": 663
+    }
+  },
+  {
+    "text": "Ross, N. Wenner, C. Moorleghen, Objects made from fungal materials, United States\nPatent No: 20180146627A1 (2018). [49]\nE. Bayer, G. McIntyre, Method of forming a mycological product. United States Patent\nNo: 20200055274A1 (2020). [50]\nP. Ross,\nMethod\nfor\nproducing\nfungus\nstructures,\nUnited\nStates\nPatent\nNo:\n20120135504A1 (2012). [51]\nJ. Lee, J. Lim, Hypha heat insulating material and manufacture method of hypha heat\ninsulating material, KR Patent No: 101571043B1 (2014). [52]\nS.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 51,
+      "char_count": 483
+    }
+  },
+  {
+    "text": "Chi, X. Xiangyue, J. Hong, D. Yan, C. Xiaolong, W. Liangliang, et al., Preparation\nmethod of composite environment-friendly building material, CN Patent No: 110713370A\n(2019). [53]\nP.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 52,
+      "char_count": 183
+    }
+  },
+  {
+    "text": "Amstislavski, Z. Yang, M.D. White, Thermal insulation material from mycelium and\nforestry, WO Patent No: 2017132523A1 (2017). [54]\nH. Wenfeng, C. Yuanxin, F. Guolai, P. Xu, A biodegradable material prepared by second-\nary fermentation of edible fungus residue as a seed and its preparation method, WO\nPatent No: 2018068456A1 (2018). [55]\nJ.H.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 53,
+      "char_count": 342
+    }
+  },
+  {
+    "text": "Greetham, G.R. McIntyre, Increased homogeneity of\nmycological biopolymer grown into void space, WO Patent No: 2019099474A1 (2020). [56]\nP.J. Mueller, J.M. Winiski, M.A. O’Brien, Process and apparatus for producing mycelium\nbiomaterial, WO Patent No: 2019226823A1 (2020). [57]\nD. Schaak, Bio-manufacturing process. United States Patent No: 20190322997A1 (2019). [58]\nA. Carleton, G. McIntyre, Process for making mineralized mycelium scaffolding and\nproduct made thereby, United States Patent No: 20190338240A1 (2019). [59]\nE. Bayer, J.M. Winiski, M.J. Lucht, P.J. Mueller, G.R.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 54,
+      "char_count": 576
+    }
+  },
+  {
+    "text": "Carlton, E. Bayer, G. McIntyre, J. Kaplan-Bie, Method of producing a mycological\nproduct and product made thereby, United States Patent No: 20200024577A1 (2019). [61]\nG. McIntyre, E. Bayer, D. Flagg, Method of producing a chitinous polymer derived from\nfungal mycelium, United States Patent No: 9879219B2 (2018). [62]\nJ.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 55,
+      "char_count": 320
+    }
+  },
+  {
+    "text": "Winiski, S.V. Hook, M. Lucht, G. McIntyre, Process for solid-state cultivation of myce-\nlium on a lignocellulose substrate, United States Patent No: 9914906B2 (2016). [63]\nE. Bayer, G. McIntyre, Method of forming a mycological product, United States Patent\nNo: 20200055274A1 (2019). Mycelium biocomposites in architecture Chapter | 17\n525\n\n[64]\nhttp://www.fungalogic.nl/wordpress/ (accessed 13.01.21). [65]\nF. Heisel, K. Schlesier, J. Lee, M. Rippmann, N. Saeidi, A. Javadian, et al., Design of a\nload-bearing mycelium structure through informed structural engineering, in: World\nCongress on Sustainable Technologies (WCST-2017), 2017, pp. 45\u000149. [66]\nE. Mayoral Gonz´alez, Growing architecture through mycelium and agricultural waste, Int. J.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 56,
+      "char_count": 743
+    }
+  },
+  {
+    "text": "Prod. 186 (2018) 570\u0001584. [68]\nO. Kırdo¨k, S.N. Sertkaya, Y. Yaman, I. Kale, E. Hame¸s Tuna, A. Tokuc¸, et al., Biodesign\nwith mycelium in architecture, in: Architecture, Technology and Innovation 2020 “Smart\nBuildings, Smart Cities”, 27\u000130 April 2020, ˙Izmir, Turkey, 2020. [69]\nhttp://www.thelivingnewyork.com/ (accessed 13.01.21). [70]\nD. Benjamin, MoMA PS1: Hy-Fi by the living, 2014. ,http://www.designboom.com/\narchitecture/hy-fi-the-living-davidbenjamin-moma-ps1-young-architects-program.. [71]\n,https://inhabitat.com/phillip-ross-molds-fast-growing-fungi-into-mushroom-building-\nbricks-that-are-stronger-than-concrete/. (accessed 14.01.21). [72]\nP. Ross, Your rotten future will be great, The Routledge Companion to Biology in Art\nand Architecture, 2016, p. 252. [73]\nhttp://ecovativedesign.com/ (accessed 13.01.21). [74]\nT. Vallas, L. Courard, Using nature in architecture: Building a living house with myce-\nlium and trees, Front. Architectural Res. 6 (2017) 318\u0001328. [75]\nhttp://www.fungal-futures.com/ (accessed 13.01.21). [76]\nS. Olsson, B.S. Hansson, Action Potential-like activity found in fungal mycelia is sensitive\nto stimulation, Sci. Nat.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 57,
+      "char_count": 1158
+    }
+  },
+  {
+    "text": "82 (1995) 30\u000131. [77]\nhttp://www.biodesignteam.com (accessed 19.01.21). [78]\nhttp://www.yalovaarasmisel.com (accessed 13.01.21). [79]\nH. Dahy, ‘Materials as a design tool’ design philosophy applied in three innovative\nresearch pavilions out of sustainable building materials with controlled end-of-life scenar-\nios, Buildings 9 (2019) 64. Available from: https://doi.org/10.3390/buildings9030064. [80]\nH. Dahy, J. Knippers, Flexible high-density fiberboard and method for manufacturing the\nsame. EP3166765A1; Filed 8. July 2014 Published 13 January 2016. Based on Same\nPatent, Also Applied as WO2016005026A1; CN106604806A; United States20170144327,\nEP2965882 A1. [81]\nR. Horn, H. Dahy, J. Gantner, O. Speck, P. Leistner, Bio-inspired sustainability\nassessment for building product development—concept and case study, Sustainability 10\n(2018) 130. [82]\nH. Dahy, Natural fibre-reinforced polymer composites (NFRP) fabricated from lignocellu-\nlosic fibres for future sustainable architectural applications, case studies: Segmented-shell\nconstruction, acoustic panels, and furniture, Sensors 19 (2019) 738. [83]\nH.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 58,
+      "char_count": 1110
+    }
+  },
+  {
+    "text": "Dahy, J. Petrs, D.H. Bos, P. Baszynski, A.P.H.W. Habraken, P.M. Teuffel, BioMat\nPavilion 2018: Development, fabrication and erection of a double curved segmented\nshell from biocomposite elements, in: C. L´azaro, K.-U. Bletzinger, E. On˜ate (Eds.),\nProceedings of the IASS Annual Symposium 2019 \u0001Structural Membranes 2019 Form\nand Force, 2019. [84]\nH. Dahy, J. Petrs, P. Baszynski, Experimental biocomposite pavilion: Segmented shell\nconstruction—design, material development and erection, in: ACADIA Conference 2019,\nTexas, USA, 2019. 526\nPART | IV Biomimetic habitation: Architecture and sustainable environments\n\n[85]\nH. Dahy, J. Petrs, P. Baszynski, Biocomposites from annually renewable resources dis-\nplaying vision of future sustainable architecture design and fabrication of two 1:1 demon-\nstrators, in: first ed., J. Burry, J.",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 59,
+      "char_count": 834
+    }
+  },
+  {
+    "text": "Sheil, M. Skavara (Eds.), Fabricate 2020\nMaking Resilient Architecture, 2020, UCL Press, London, 2020, pp. 70\u000173. ISBN: 978-\n1-78735-812-6. Mycelium biocomposites in architecture Chapter | 17\n527",
+    "metadata": {
+      "source": "Mycelium_Kirdok_Altun.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\Mycelium_Kirdok_Altun.pdf",
+      "chunk_index": 60,
+      "char_count": 195
+    }
+  }
+]

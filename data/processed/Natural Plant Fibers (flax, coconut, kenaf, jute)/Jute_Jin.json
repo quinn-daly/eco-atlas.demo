@@ -1,0 +1,342 @@
+[
+  {
+    "text": "Industrial Crops & Products 167 (2021) 113530\nAvailable online 30 April 2021\n0926-6690/© 2021 Elsevier B.V. All rights reserved. Characterization of multifunctional panels from jute fibers for interior \nwall covering \nZhi Jin a, Jinyi Li b, Qiangqiang Wang c, Wenbo Su a, Xinfang Duan a, Zhaoqun Tang a,* \na Research Institute of Wood Industry, Chinese Academy of Forestry, Beijing, 100091, China \nb Suzhou Mowei Natural Fiber Materials Co., Ltd, Jiangsu, 215551, China \nc China Building Material Test and Certification Group Co., Ltd, Beijing, 100024, China   \nA R T I C L E  I N F O   \nKeywords: \nJute fibers \nInterior wall covering \nThermal insulation \nSound absorption \nHumidity control \nA B S T R A C T   \nJute fibers are an important cash crop in the world with a series of advantages such as high-yield, low-cost and \neasy biodegradation, etc. They also exhibit high potentials for providing hygrothermal and acoustic functions \ndue to inherent chemical composition and internal structure. In this paper, multifunctional panels made from \njute fibers blended with polyester fibers were explored as a new kind of interior wall covering material beneficial \nfor both building energy conservation and indoor comfort. The fabricated jute/polyester fiber-based panels (JPs) \nwere characterized in terms of morphology, pore structure, surface chemistry and functional performance \nincluding thermal insulation, sound absorption and humidity control properties. The results showed that thermal \ninsulation properties of JPs were comparable for commercial thermal insulators with thermal conductivities of \n0.0372–0.0418 W/(m⋅K), superior to most natural thermal insulators. Sound absorptions mainly occurred in the \nmiddle to high frequencies, and noise reduction coefficients reached to the commercial level. It was found that \nthe thermal and acoustic properties were significantly influenced by the density and thickness of JPs. Moreover, \nJPs exhibited good potential in humidity control with high 24 h desorption ratios of 79.87–96.61 %. The \nmaximum 24 h absorption amount was 183.05 g/m2 under high-relative humidity (RH), approximately 3.1 times \nas much as the standard limit value. Meanwhile, the moisture absorption amount was largely dependent on the \nsurface chemistry and pore structure of JPs as well as environment RH. In general, JPs could be commercially \nused as a promising interior wall covering material for improving building energy efficiency and indoor envi­\nronmental quality. 1. Introduction \nThe production of sustainable materials by usage of natural fibers has \ndrawn much attention in building industry due to the threat of global \nwarming and increasing demand for green development. Recently, re­\nsearches have focused on investigating the performance of natural fiber- \nbased products with regards to building energy conservation and indoor \nenvironmental quality improvement. Jerman et al. (2019) showed that \nwood fiberboard, flax fibers, hemp fibers, and jute fib",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 0,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ers presented low \nthermal conductivity, fast water vapor diffusion and convenient hy­\ngroscopic properties, which made them good candidates for the appli­\ncations in interior thermal insulation systems and suitable for \nmoderation of indoor air and humidity. Pelletier et al. (2019) examined \nthe acoustical absorption property of a novel kind of all natural foams \nproduced by a fungi in the phylum class of Basidiomycete. It was \ndemonstrated that this material was a promising alternative for \ntraditional acoustic absorbers, especially for reducing low to \nmid-frequency range noise (such as road noise). Liuzzi et al. (2020) \nblended straw and olive fibers with a sodium silicate solution as a binder \nrespectively to create panels for indoor covering and characterized their \nhygrothermal and sound absorption properties. It was found that the \nstraw fiber-based panels exhibited better thermal insulation property \nthan olive fiber-based panels as a consequence of more porous structure \nby presence of fibers and greater bulk porosity, and their sound ab­\nsorption properties were closely related to the tortuosity due to the way \nfibers were bound together. Jute fibers are one of the most important natural fibers in the world. In some Southeast Asian countries, they are an indispensable cash crop \nwhich supports the main sources of income for millions of households \nand provides a great deal of employment and livelihood in the relevant \nindustrial activities (Shamna et al., 2017). In China, the industrialization \nof jute-based production is preferentially encouraged according to the \n* Corresponding author. Contents lists available at ScienceDirect \nIndustrial Crops & Products \njournal homepage: www.elsevier.com/locate/indcrop \nhttps://doi.org/10.1016/j.indcrop.2021.113530 \nReceived 8 December 2020; Received in revised form 2 April 2021; Accepted 7 April 2021\n\nIndustrial Crops & Products 167 (2021) 113530\n2\nGuidance Catalogue of Industrial Structure Adjustment (2019 edition). As a kind of renewable and fast-growing biomass resource, jute fibers are \nannually available with much shorter growing period than natural \nwood, contributing to their high-yield and low-cost. Furthermore, jute \nfibers possess a series of advantages such as easy biodegradation, low \ngravimetric density, good mechanical performance, antibacterial, high \nabsorbency and hygroscopicity, etc (Jahan et al., 2016; Nong et al., \n2019). As the traditional use of jute fibers for packaging has been \nthreatened by the advent of cheap synthetic packaging materials and \nbulk handling, more outlets for jute fibers have been concerned in order \nto maintain their commercial status (Maity, 2016). This promotes the \ndevelopment of new technologies in the production of jute-based com­\nposites, such as nonwovens and fiber reinforcement composites. In \nparticular, due to the highest stiffness among all the common natural \nfibers and nonabrasive nature, jute fibers have become an alternative to \nthe conv",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 1,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "entional glass fibers when used as reinforced fibers (Zakriya \net al., 2017). Nowadays jute fibers are utilized in a variety of domains \nincluding packaging, construction, and auto industry (Rezghi Maleki \net al., 2018; Witayakran et al., 2017). Based on the characteristics in chemical composition and internal \nstructure, jute fibers are a kind of promising raw material for the \nexploitation of building materials with hygrothermal and acoustic \nproperties. Among the naturally lignocellulosic fibers, jute fibers contain \nhigh proportions of stiff natural cellulose, approximately 61–72 % by \nmass (Mohanty and Misra, 1995; Gurunathan et al., 2015). Fonseca et al. (2019) affirmed that jute fibers were suitable to be used as raw materials \nfor production of cellulose nanofibrils. The high amount of cellulose of \njute fibers ensures their excellent hygric performance because the \nmoisture sorption mainly depends on the presence of free hydroxyl \ngroups in the amorphous regions and at crystallite’s surface (Ivanovska \net al., 2019). In addition, jute fibers are a good insulator of heat and \nsound owing to their inherent porous structure. The thermal conduc­\ntivity value of jute fibers (0.036 W/(m K) is lower than many other \nnatural fibers, such as wood fibers (0.040 W/(m K), hemp fibers \n(0.042 W/(m K), kapok fibers (0.042 W/(m K), coconut fibers \n(0.058 W/(m K), rattan fibers (0.072 W/(m K), banana fibers \n(0.09 W/(m K) and groundnut shell fibers (0.093 W/(m K) (Cetiner and \nShea, 2018; Devireddy and Biswas, 2016; Sair et al., 2017; Damfeu et al., \n2016). In the case of jute fiber-reinforced composites, the thermal con­\nductivities are 0.125−0.161 W/(m K (Venkatesan and Kadiresh, 2019), \nwhich can be defined as an insulator for the thermal conductivity values \nare less than 0.25 W/(m⋅K) (Wang, 1988). For acoustic properties, Yang \nand Yan (2012) showed the best sound absorption property of jute fibers \nand their reinforced composites in comparison to those of flax fibers, \nramie fibers, synthetic fibers and their reinforced composites. Ahmed \n(2016) illustrated the superior sound absorption properties of jute fabric \nat the frequency range of 100−250 Hz and 4000−6300 Hz which were \nbetter than that of commercial glass wool. Since the interior wall is a critical region in the building construction \nwith an area approximately two and a half times as large as that of the \nfloor, the optimization of interior wall covering materials greatly con­\ntributes to both high building energy efficiency and good indoor envi­\nronmental quality. However, the traditional interior wall covering \nmaterials such as latex paint, wall paper and ceramic tile tend to release \ncertain amount of formaldehyde, total volatile organic compound, \nheavy metals or radioactivity contaminants, which adversely affects \nindoor environmental quality and imposes a human health risk (Liu and \nHu, 2011). Furthermore, most of them are lack of relevant functions for \nimproving building energy",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 2,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "efficiency and indoor environmental quality. Considering the benefits and characteristics of jute fibers mentioned \nabove, multifunctional panels made from jute fibers blended with \npolyester fibers were explored as a new kind of interior wall covering \nmaterial in this paper. Due to non-toxic and aldehyde-free properties of \nthe raw materials, the obtained jute/polyester fiber-based panels (JPs) \ncan be widely used for interior wall covering with a negligible risk of \ntoxic and harmful substances emission. The morphology, pore structure, \nsurface chemistry and functional performance including thermal insu­\nlation, sound absorption and humidity control properties of JPs were \nsystematically characterized, and the potential factors affecting the \nfunctional performance were also revealed. The findings could facilitate \nthe practical application of JPs as a new kind of interior wall decorative \nmaterial beneficial for both building energy conservation and indoor \ncomfort. 2.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 3,
+      "char_count": 987
+    }
+  },
+  {
+    "text": "Materials and methods \n2.1. Samples \nJute fibers (JF; glucose: 69.50 ± 0.89 %, xylose: 12.80 ± 0.49 %, \narabinose: 1.21 ± 0.02 %, acid soluble lignin: 1.89 ± 0.05 %, klason \nlignin: 9.85 ± 0.85 %, ash: 4.80 ± 0.59 % according to the method \ndescribed in S1; degree of crystallinity: 29.48 ± 2.55 % according to the \nmethod described in S2) and bi-component polyester fibers (BPET, \npolyester core: melting point of 260 ◦C; copolyester sheath: melting \npoints of 110–120 ◦C) supplied by Suzhou Mowei Natural Fiber Mate­\nrials Co., Ltd. were used to prepare the composite panels. The JF (about \n10−30 mm in length) and BPET (about 10−30 mm in length) were \nblended uniformly in 1:1 dry weight proportion. The blended fibers \nwere thoroughly opened by using a pilot card machine and then fed to \nproduce a random laid web at various speed (1.2–1.8 m/min) by air \nlaying technique. Afterwards, the web was pre-needled with 70 \npunches/cm2 to 7–8.5 mm needle penetration depth and further needled \nwith 70 punches/cm2 to 4–5.4 mm needle penetration depth. The mass \nper unit area (2000−4000 g/m2) was achieved by adjusting the web- \nformed speed, pre-needled depth and needled depth. After the above \nneedle-punched process, thermal bonding process of webs was initiated \nby hot pressing at 200 ◦C with pressure of 1960 K N for 1.5–2.5 min to \nobtain the final panels. The as-prepared JPs were denoted as JPT-X, \nwhere JP was abbreviated from jute/polyester fiber-based panel, T \nrepresented the panel thickness (unit: mm), and X was one hundredth of \nthe mass per unit area (unit: g/m2). 2.2. Characterization \n2.2.1. Morphology \nThe morphologies of raw fibers (JF and BPET) and JPs were char­\nacterized using a field emission scanning electron microscope (FESEM, \nCarl Zeiss Merlin, Germany) operated at an accelerating voltage at \n20 kV. The samples were sputtered with a gold layer about 10 nm in \nthickness before observation. 2.2.2. Pore structure` \nThe pore structure of JF and jute/polyester fiber-based panel fibers \n(JPF) from JP9−20 was determined by nitrogen adsorption/desorption \nisotherms collected at −196 ◦C on an Autosorb-iQ (Quantachrome, USA) \nautomatic analyzer. The specific surface area (SBET) and average pore \nwidth (Dave) were calculated by the Brunauer–Emmett–Teller (BET, \nBrunauer et al., 1938) method. The total pore volume (Vtot) was obtained \nfrom the nitrogen adsorption volume at the maximum relative pressure. The pore size distribution (PSD) was determined by Barrett, Joyner and \nHalenda (BJH, Barrett et al., 1951) method. 2.2.3. Surface chemistry \nThe surface chemistry of raw fibers and JPF from JP9−20 was \ninvestigated by X-ray photoelectron spectroscopy (XPS) performed on \nan ESCALAB 250Xi spectrometer (Thermo Fisher Scientific, USA) using \na monochromatic AlKα X-ray (1486.6 eV) source. 2.2.4. Thermal insulation property \nThe thermal insulation property of JPs was determined according to \nthe methodology established by ISO 8301:, 1991. The specimen with th",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 4,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "e \nsize of 300 mm × 300 mm was sandwiched between the hot and the cold \nZ. Jin et al. Industrial Crops & Products 167 (2021) 113530\n3\nplates with a mean temperature (Tmean) of 25 ± 1 ◦C (hot plate: \n35 ± 0.1 ◦C; cold plate: 15 ± 0.1 ◦C). The thermal conductivity was \ncalculated by measuring the amount of heat flux and temperature dif­\nference across the specimen thickness as Eq. (2). λ = q × d / △T                                                                              \n(2) \nWhere, λ is the thermal conductivity, W/(m⋅K); q is the density of heat \nflow-rate, which is the heat through the specimen per unit measured \narea, W/m2; d is the average specimen thickness, m; △T is the difference \nin temperature between the cold and hot surfaces, K. 2.2.5. Sound absorption property \nThe sound absorption property of JPs was investigated according to \nISO 354:, 2003. This method is theoretically based on the diffuse-field \nabsorption coefficient rather than normal-incident absorption coeffi­\ncient, which is regarded to be more practical for the acoustic perfor­\nmance measurement of architectural and environmental applications. The volume of the reverberation room used was 216 m3 and its shape \nwas rectangle. The air temperature and relative humidity in the rever­\nberation room were 23 ± 2 ◦C and 50 ± 10 %, respectively. The test \nTable 1 \nThe experimental RH for the measurement of humidity control property. RH \ncondition \nCuring RH \n(%) \nAbsorption RH \n(%) \nDesorption RH \n(%) \n△RH \n(%)   \nProcedure 1 \nProcedure 2  \nLow-RH \n30 ± 3 \n55 \n30 \n25 ± 3 \nMiddle-RH \n50 ± 3 \n75 \n50 \n25 ± 3 \nHigh-RH \n70 ± 3 \n95 \n70 \n25 ± 3  \nFig. 1. The appearance of JPs (a: JP9-20; b: JP9-25; c: JP18-27; d: JP18-40; e: thickness direction). Z.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 5,
+      "char_count": 1738
+    }
+  },
+  {
+    "text": "Jin et al. Industrial Crops & Products 167 (2021) 113530\n4\nspecimens (about 10 m2) were placed on the floor of the reverberation \nroom and installed in accordance with the specification of Annex B B.2 \n“Type A mounting” of ISO 354:, 2003. The frequency measured ranged \nfrom 100−5000 Hz at one-third-octave bands. The values of sound ab­\nsorption coefficient (αs) and noise reduction coefficient (NRC) were used \nto represent the sound absorption property of JPs. The αs was evaluated \nbased on the reverberation time measured according to the Eq. (3). αs = [55.3V (1/c2T2 - 1/c1T1) -4V (m2 - m1)] / S                                 \n(3) \nWhere, V is the volume of the empty reverberation room, m3; T1 is the \nreverberation time of the empty reverberation room, s; m1 is the power \nattenuation coefficient of the empty reverberation room, m−1; T2 is the \nreverberation time of the reverberation room after the test specimen has \nbeen introduced, s; m2 is the power attenuation coefficient of the \nreverberation room after the test specimen has been introduced, m−1; c1 \nis the propagation speed of sound in air of the empty reverberation \nroom, m/s; c2 is the propagation speed of sound in air of the reverber­\nation room after the test specimen has been introduced, m/s; S is the \narea, covered by the test specimen, m2. NRC value represents the sound absorption ability by providing a \nquantification of the percentage of sound energy absorbed upon hitting \na particular surface, which is the arithmetic average of the αs values \ndetermined at frequencies of 250, 500, 1000 and 2000 Hz. Fig.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 6,
+      "char_count": 1594
+    }
+  },
+  {
+    "text": "2. The FESEM micrographs for the raw fibers and JPs (a: JF; b: JF at high magnification; c: BPET; d: BPET at high magnification; e: JP18-27; f: JP18-40; g: the \ncross section of JP18-27; h: the cross section of JP18-40). Z.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 7,
+      "char_count": 223
+    }
+  },
+  {
+    "text": "Jin et al. Industrial Crops & Products 167 (2021) 113530\n5\n2.2.6. Humidity control property \nThe humidity control property of JPs (JP9−20, JP18−27 and \nJP18−40) was measured according to Chinese standard JC/T \n2002–2009. The measurement temperature and relative humidity (RH) \nwere controlled using a constant temperature and humidity box. The \nfour sides and lower surface of the test specimen (250 mm × 250 mm) \nwere wrapped with aluminum foil so that the moisture could only go \nthrough the upper surface. The test was carried out at 23 ± 0.5 ◦C under \nthree different RH conditions of low-RH, mid-RH and high-RH (Table 1). For each condition, the test specimen was firstly balanced in the curing \nRH until its constant mass was considered to be reached when the results \nof two successive weighing operations at an interval of 24 h did not \ndiffer by more than 0.1 % of the mass of the test specimen. After the \ncuring step, the mass was noted m0. Then the specimen was placed in the \nabsorption RH of procedure 1 for 24 h and sequentially in the desorption \nRH of procedure 2 for 24 h. The difference between the RH of procedure \n1 and procedure 2 should be within the range of 25 ± 3 %. The mass after 3, 6, 12 and 24 h procedure 1 and procedure 2 was \nrespectively recorded. The moisture absorption amount (Wa, g/m2), \nmoisture desorption amount (Wd, g/m2) and 24 h desorption rate (Rd, \n%) were calculated as the Eqs. (4)–(6). Wa = (ma - m0) / A                                                                          \n(4)  \nWd = (ma - md) / A                                                                          \n(5)  \nRd = Wd / Wa × 100 %                                                                     \n(6) \nWhere, ma is the mass of the test specimen at the end of absorption step, \ng; md is the mass of the test specimen at the end of desorption step, g; m0 \nis the mass of the test specimen at the end of curing step, g; A is the \nsurface area of the test specimen, m2. 3.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 8,
+      "char_count": 1994
+    }
+  },
+  {
+    "text": "Results and discussion \n3.1. Appearance \nThe appearance of JPs is illustrated in Fig. 1. As can be seen, JPs \npresent neat and natural look and can be used without surface decora­\ntion. In the thickness direction, uniformly distributing fibers indicate \nfine internal structure (Fig. 1e). When applied as indoor decorative wall \npanels, they present high visual quality for creating an elegant atmo­\nsphere (Fig. S1).",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 9,
+      "char_count": 417
+    }
+  },
+  {
+    "text": "3.2. Morphology \nThe morphology of the raw fibers is illustrated in Fig. 2. From Fig. 2a, \nrough surface and irregular-shaped cross section with voids and holes \nare observed in JF, whose diameter varies greatly along the fiber length. In Fig. 2b, a large number of pores and voids are clearly visualized in the \ncross section, demonstrating its intrinsic porous structure. By compari­\nson, the BPET exhibits smooth surface and uniform diameter (Fig. 2c), \nwith no pores or voids available even at high magnification (Fig. 2d). Fig. 2e-h shows the morphology of JP18−27 and JP18−40. When \nobserved perpendicular to the panel’s plane (Fig. 2e-f), the JF and BPET \nfibers well intertwine with each other and both maintain fine fibrous \nmorphology. Whereas some surfaces are bonded (as shown in the red \ncircles) as a result of the fusion of the low-melting sheath on BPET fibers \nduring hot-press procedure. As seen from the cross section (Fig. 2g-h), \nthe fibers of JP18−27 is arranged more loosely than those of JP18−40, \npresenting wider interspace. 3.3. Pore structure \nThe pore structure of the JF and JPF is further determined by ni­\ntrogen adsorption/desorption isotherms at −196 ◦C. Both isotherms \nexhibit type IV curve with a long hysteresis, indicative of the dominance \nof mesoporosity (Fig. 3a). The PSD of JPF becomes wider than that of JF \n(Fig. 3b), which suggests the enhancement of porosity for JPF after hot- \npress process. This can also be confirmed by the greater values of SBET, \nVtot and Dave for JPF (Fig. 3a).",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 10,
+      "char_count": 1533
+    }
+  },
+  {
+    "text": "3.4. Surface chemistry \nFig. 4 shows the XPS spectra of JF, BPET and JPF. The C1s spectrum \nis deconvoluted into four established groups of C–C and C–H \n(284.70–284.82 \neV), \nC–O \n(286.27–286.41 \neV), \nC––O \n(287.87–288.02 eV) and O–C––O (288.75–288.96 eV) (Biniak et al., \n1997; Ishimaru et al., 2006). The XPS surface element analysis and C1s \nfunctional groups content of JF, BPET and JPF are listed in Table 2. Compared with JF and BPET, JPF shows a decrease in C content and an \nincrease in O content with the O/C value increasing by 17.5 % and 31.2 \n%, respectively. Moreover, the amount of C––O group of JPF is signifi­\ncantly decreased compared to that of JF and simultaneously the amount \nof O–C––O group of JPF is increased. This implies the oxidation reac­\ntion of JF during hot-press process, which might be responsible for the \nporosity enhancement of JPF. 3.5. Thermal insulation property \nThe thermal conductivity value is a key index to reflect the thermal \ninsulation property of products. As shown in Table 3, the thermal con­\nductivities of JPs are decreased with the decrease in bulk density or \nincrease in thickness, ranging from 0.0372 to 0.0418 W/(m⋅K), which \nare generally comparable to the commercial glass wool-based thermal \ninsulative products with the requirement of “≤0.034−0.050 W/(m⋅K) \n(Tmean: 25 ◦C)” according to GB/T 13350–2017, and the commercial \nFig. 3. Nitrogen adsorption/desorption isotherms at −196 ◦C (a) and the PSD \nof JF and JPF (b). Z.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 11,
+      "char_count": 1485
+    }
+  },
+  {
+    "text": "Jin et al. Industrial Crops & Products 167 (2021) 113530\n6\nrock wool board with the requirement of “≤0.040−0.048 W/(m⋅K) \n(Tmean: 25 ◦C)” according to GB/T 19686–2015. Moreover, they are \nsignificantly lower than those of other natural thermal insulators. Fig.5 shows the thermal conductivities of natural thermal insulators \nsummarized in Table 3 versus bulk density. It is illustrated that the JPs \nexhibit lower thermal conductivities than those of natural thermal in­\nsulators with similar bulk density. The excellent thermal insulation \nproperties of JPs are mainly due to their interior structure with looser \nfiber arrangement and lager amount of “tortuous path”. The mechanism \nof thermal conduction involves the conduction through fibers and con­\nvection through gas molecules trapped within the fiber webs. Thus, a \nlower extent of contiguous fibers diminishes the thermal transport by \nfiber conduction and the increased amount of entrapped air within the \nlooser webs leads to lower heat convection as the thermal conductivity \nvalue of air is significantly lower than that of fiber. Simultaneously, \nmore pore walls and “tortuous path” among fibers result in a higher \nprobability of elastic collisions between fiber and entrapped air. Since \nthe collision between fiber and gas molecules transfers less thermal \nenergy than that between gas molecules (Zakriya et al., 2017), the \namount of energy transfer is reduced and the thermal insulation prop­\nerty is consequently improved. 3.6. Sound absorption property \nFig. 6 shows the αs values of JPs across the entire frequency range. The JPs exhibit good sound absorption properties mainly in the middle \nto high frequencies. For all the samples, the αs values significantly in­\ncrease with the increase of frequency from 250 to 3150 Hz, and then \nshow a slight decrease from 3150 to 5000 Hz. The sound absorption \nproperties of JPs are competitive with those of other commercially \navailable sound absorption materials. The calculated NRC values lie in \nthe standard range of “NRC ≥\n0.30−0.50” referring to GB/T \nFig. 4. The XPS survey spectra of JF (a), BPET (c) and JPF (e) and representative C1s spectra of JF (b), BPET (d), JPF (f). Table 2 \nThe XPS surface element analysis and C1s functional groups content of JF, BPET and JPF. Sample \nC content (%) \nO content (%) \nO/C \nC–C, C–H (%) \nC–O (%) \nC––O (%) \nO–C––O (%) \nJF \n70.31 ± 1.53 \n27.68 ± 0.98 \n0.394 ± 0.023 \n62.36 ± 4.17 \n27.66 ± 4.45 \n4.71 ± 2.44 \n5.28 ± 2.64 \nBPET \n73.39 ± 0.53 \n25.92 ± 0.49 \n0.353 ± 0.009 \n73.74 ± 2.43 \n17.71 ± 2.17 \n— \n8.56 ± 0.41 \nJPF \n67.43 ± 1.66 \n31.13 ± 1.74 \n0.463 ± 0.038 \n67.29 ± 1.04 \n23.08 ± 0.38 \n0.83 ± 0.48 \n8.80 ± 1.15  \nZ. Jin et al. Industrial Crops & Products 167 (2021) 113530\n7\n25998–2020 for mineral wool decorating and acoustic ceilings. GB/T \n16731–1997 uses the NRC value to classify the sound absorption prop­\nerty of absorbent products applied in building constructions into four \nclasses: Class I (NRC ≥0.80), Class II (0.8 > N",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 12,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "RC > 0.60), Class III \n(0.60 > NRC ≥0.40) and Class Ⅳ(0.40 > NRC ≥0.20). According to this \nclassification system, the sound absorption property of JP9−20, \nJP9−25, JP18−27 and JP18−40 can reach to Class Ⅳ, Class Ⅳ, Class III \nand Class II respectively. We can also find that the αs value is dramatically improved by the \nincrease in thickness and the increase in bulk density can also raise the αs \nvalue. For porous materials, when the sound wave is absorbed into the \nbulk, the air particles trapped in pores vibrate and then rub the wall of \npores, which leads to the dissipation of acoustic energy into heat (Farid \net al., 2018). As the thickness or bulk density of JPs increases, more \nabundant pore structure is formed and the complexity of sound path \n(tortuosity) where the sound wave and air particles are captured is \nenhanced, contributing to stronger vibration and friction so that more \nacoustic energy is absorbed. Moreover, the JP18−27 presents higher αs \nvalues than those of JP9−25 over a wide range of frequency larger than \n250 Hz, though its bulk density is lower. This finding is consistent with \nthe previous study about the sound absorption characteristics of poly­\nurethane and polystyrene foams, which pointed out that using a thicker \nsound absorbent with reasonable density exhibited better performance \nthan using a denser thinner one (Sabbagh and Elkhateeb, 2019). Actu­\nally, when the panel is too compact, the sound wave is restricted to \npenetrate into the bulk (Or et al., 2017; Kang et al., 2018). As the fre­\nquency is elevated, the sound wave becomes more drastic and more \ndifficult to penetrate into a denser panel, resulting in a reduction on the \nsound absorption performance. High αs values ranging from 0.80 to 1.00 \nare obtained for JP18−40 over the frequency from 800 to 5000 Hz, \nexceeding those of kenaf fiber sheets with thickness of 25 nm (Lim et al., \n2018). 3.7. Humidity control property \nTable 4 shows the humidity control performance of JP9−20, \nJP18−27 and JP18−40 evaluated by JC/T 2082–2011. All of the testing \nsamples present high values of Rd which are larger than the limit value of \nJC/T 2082–2011. In particular, JP18−40 under high-RH condition ex­\nhibits admirable humidity control property with the Wa values of 3, 6, \n12, 24 h reaching to 2.8, 2.8, 2.8 and 3.1 times as much as the corre­\nsponding limit values according to JC/T 2082–2011. However, moisture \nabsorption capacities under low and mid-RH are mostly below the JC/T \n2082–2011 requirements. Fig. 7 illustrates the changes of moisture amount during absorption \nand desorption procedures under mid-RH for different JPs samples \n(Fig. 7a) and under different RH conditions for JP18−40 (Fig. 7b). As \nshown in Fig. 7a, the moisture absorption/desorption amount of JPs \nincreases as the density or thickness is increased, which could be \nTable 3 \nThe thermal conductivities of JPs and other natural insulation materials. Materials \nBulk density (kg/ \nm3) \nTmean \n(◦C) \nThermal",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 13,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "conductivity W/ \n(m⋅K) \nTesting method \nSource \nJP9−20 \n230 ± 10 \n25 \n0.0416 ± 0.0023 \nISO 8301 \nThis paper \nJP9−25 \n250 ± 11 \n25 \n0.0418 ± 0.0021 \nISO 8301 \nThis paper \nJP18−27 \n152 ± 8 \n25 \n0.0372 ± 0.0003 \nISO 8301 \nThis paper \nJP18−40 \n223 ± 10 \n25 \n0.0400 ± 0.0008 \nISO 8301 \nThis paper \nCoconut husk binderless board \n250−350 \nRTa \n0.046−0.068 \nISO 8301 \n(Panyakaew and Fotios, \n2011) \nWood fibreboard \n54 \n25 \n0.0466 \nHeat flow measurement \n(Jerman et al., 2019) \nRice straw boards \n200−350 \n20 \n0.048−0.060 \nThe slab method \n(Wei et al., 2015) \nBagasse binderless board \n250−350 \nRTa \n0.049−0.055 \nISO 8301 \n(Panyakaew and Fotios, \n2011) \nCompressed waste wood particles \n117−167 \n20−40 \n0.050−0.055 \nISO 8301 \n(Cetiner and Shea, 2018) \nKenaf binderless particleboard \n150−200 \n—— \n0.051−0.058 \nASTM C518−76 \n(Xu et al., 2004) \nCotton stalk fiberboard \n150−450 \nRTa \n0.0585−0.0815 \nSteady-state Bi-substrate \ntechnique \n(Zhou et al., 2010) \nSunflower-proteins -lignocellulosic \nfiberboards \n500−858 \n25 \n0.0885−0.1105 \nISO 8302 \n(Evon et al., 2014)  \na Room temperature. Fig. 5. The thermal conductivities of natural thermal insulators versus \nbulk density. Fig.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 14,
+      "char_count": 1170
+    }
+  },
+  {
+    "text": "Jin et al. Industrial Crops & Products 167 (2021) 113530\n8\nattributed to the increasing amount of hydrophilic groups such as C–O \nand O–C––O groups on the surface of JPF as well as more abundant pore \nstructure where the water molecules are stored. The testing samples \nalmost achieve equilibrium moisture absorption/desorption amount just \nafter 3 h, demonstrating their rapid moisture absorption/desorption \nrate. However, as the absorption rate slows down, the Wa values larger \nthan 3 h are obviously below the standard requirement (Table 4), being \nmore deteriorated for longer absorption time. This phenomenon is also \npresented in the case of JP18−40 under low-RH as shown in Fig. 7b. While for JP18−40 under high-RH condition, the moisture amount is \ncontinuously changed during the whole absorption/desorption proced­\nure, which implies that high environment RH could provide a sufficient \npower to make the moisture accessible to the deeper sites of the JPs and \nwas appreciably favorable for improving the moisture absorption/ \ndesorption rate and capacity. 4. Conclusion \nIn this study, a new kind of multifunctional panels for interior wall \ncovering made from jute fibers blended with polyester fibers was \nexplored. The thermal insulation properties of the fabricated jute/ \npolyester fiber-based panels (JPs) were found to be improved with the \nreduction in density or increase in thickness. The thermal conductivities \nwere comparable for commercial glass/rock wool-based thermal insu­\nlative products and lower than those of most natural thermal insulators. The excellent thermal insulation properties of JPs are mainly due to \ntheir interior structure with looser fiber arrangement and lager amount \nof “tortuous path”. The JPs also showed good sound absorption prop­\nerties mainly in the middle to high frequencies with NRC values satis­\nfying the standard requirements for commercially available sound \nabsorption materials applied in building industry. The sound absorption \nproperty was improved by the increase of thickness or density and \nparticularly more dependent on the thickness. Moreover, the JPs \nexhibited good potential in humidity control with high 24 h desorption \nratios and maximum moisture absorption amount approximately 3.1 \ntimes as much as the standard limit value. The moisture absorption \namount increases as the density or thickness is increased, closely related \nto the amount of surface hydrophilic groups such as C–O and O–C––O, \nand pore structure of JPs. It was also found that the increase in envi­\nronment RH could significantly improve the moisture absorption/ \ndesorption rate and capacity. In general, the JPs were regarded as a \npromising interior wall covering material beneficial for both building \nenergy conservation and indoor comfort. CRediT authorship contribution statement \nZhi Jin: Funding acquisition, Conceptualization, Methodology, \nValidation, Investigation, Writing - original draft. Jinyi Li: Resources. Qiangqiang Wang: Resour",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 15,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ces. Wenbo Su: Writing - review & editing. Xinfang Duan: Writing - review & editing. Zhaoqun Tang: Funding \nacquisition, Supervision, Project administration. Declaration of Competing Interest \nThe authors declare that they have no known competing financial \ninterests or personal relationships that could have appeared to influence \nthe work reported in this paper. Acknowledgments \nThis research has been supported by the National Natural Science \nFoundation of China (No 32001254) and the National Key R&D Program \nof China (No 2016YFF0201903). Appendix A. Supplementary data \nSupplementary material related to this article can be found, in the \nonline version, at doi:https://doi.org/10.1016/j.indcrop.2021.113530. Table 4 \nThe values of Wa, Wd and Rd of JP9-20, JP18-27 and JP18-40 in the various RH conditions in comparison with the requirement in JC/T 2082–2011. RH condition \nSamples \nWa (g/m2) \nWd (g/m2) \nRd (%)   \n3 h \n6 h \n12 h \n24 h \n24 h  \nMid-RH \nJP9−20 \n19.16 ± 1.04 \n21.72 ± 1.98 \n22.45 ± 1.64 \n23.46 ± 1.89 \n22.47 ± 1.47 \n95.79b \nMid-RH \nJP18−27 \n20.79 ± 1.15 \n22.58 ± 1.81 \n23.94 ± 1.65 \n24.78 ± 1.46 \n23.94 ± 1.43 \n96.61b \nMid-RH \nJP18−40 \n29.30 ± 1.48b \n34.70 ± 2.73 \n37.24 ± 2.74 \n39.93 ± 2.45 \n37.64 ± 2.75 \n94.27b \nLow-RH \nJP18−40 \n33.14 ± 1.59b \n36.00 ± 1.42b \n37.87 ± 1.26 \n37.98 ± 1.31 \n36.53 ± 1.07 \n96.18b \nHigh-RH \nJP18−40 \n69.42 ± 2.83b \n96.32 ± 4.00b \n138.71 ± 8.62b \n183.05 ± 12.20b \n146.21 ± 7.30b \n79.87b \nJC/T 2082-2011 \n≥25 \n≥35 \n≥50 \n≥60 \n≥42 \n≥70  \nb Values meet JC/T, 2082-, 2011 requirements. Fig. 7. The changes of moisture amount during absorption and desorption \nprocedures under mid-RH for JP9-20, JP18-27 and JP18-40 (a) and under \ndifferent RH conditions for JP18-40 (b). Z.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 16,
+      "char_count": 1720
+    }
+  },
+  {
+    "text": "Jin et al. Industrial Crops & Products 167 (2021) 113530\n9\nReferences \nAhmed, N.F., 2016. Effect of fibers types on the properties of acoustic and thermal \nnonwoven fabrics used in cars. J.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 17,
+      "char_count": 189
+    }
+  },
+  {
+    "text": "Basic. Appl. Sci. Res. 6 (10), 9–18. Barrett, E.P., Joyner, L.G., Halenda, P.P., 1951. The determination of pore volume and \narea distributions in porous substances. I. Computations from nitrogen isotherms. J. Am. Chem. Soc. 73 (1), 373–380. Biniak, S., Szyma´nski, G., Siedlewski, J., ´Swiątkowski, A., 1997. The characterization of \nactivated carbons with oxygen and nitrogen surface groups. Carbon. 35 (12), \n1799–1810. Brunauer, S., Emmett, P.H., Teller, E.J., 1938. Adsorption of gases in multimolecular \nlayers. J. Am. Chem. Soc. 60, 309–319. Cetiner, I., Shea, A.D., 2018. Wood waste as an alternative thermal insulation for \nbuildings. Energ. Buildings 168, 374–384. https://doi.org/10.1016/j. enbuild.2018.03.019. Damfeu, J.C., Meukam, P., Jannot, Y., 2016. Modelling and measuring of the thermal \nproperties of insulating vegetable fibers by the asymmetrical hot plate method and \nthe radial flux method: kapok, coconut, groundnut shell fiber and rattan. Thermochim. Acta. https://doi.org/10.1016/j.tca.2016.02.007. Devireddy, S.B.R., Biswas, S., 2016. Physical and thermal properties of unidirectional \nbanana–jute hybrid fiber-reinforced epoxy composites. J.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 18,
+      "char_count": 1170
+    }
+  },
+  {
+    "text": "Reinf. Plast. Comp. 35 \n(15), 1157–1172. https://doi.org/10.1177/0731684416642877. Evon, P., Vandenbossche, V., Pontalier, P.Y., Rigal, L., 2014. New thermal insulation \nfiberboards from cake generated during biorefinery of sunflower whole plant in a \ntwin-screw extruder. Ind.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 19,
+      "char_count": 277
+    }
+  },
+  {
+    "text": "Crop. Prod. 52, 354–362. https://doi.org/10.1016/j. indcrop.2013.10.049. Farid, M., Purniawan, A., Susanti, D., Priyono, S., Ardhyananta, H., Rahmasita, M.E., \n2018. Nanocellulose based polymer composite for acoustical materials. AIP \nConference Proceedings. https://doi.org/10.1063/1.5030247. Fonseca, A.S., Panthapulakkal, S., Konar, S.K., Sain, M., Bufalino, L., Raabe, J., \nMiranda, I.P.A., Martins, M.A., Tonoli, G.H.D., 2019. Improving cellulose \nnanofibrillation of non-wood fiber using alkaline and bleaching pre-treatments. Ind.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 20,
+      "char_count": 537
+    }
+  },
+  {
+    "text": "Crop. Prod. 131, 203–212. https://doi.org/10.1016/j.indcrop.2019.01.046. GB/T 13350-2017, 2017. Glass Wool and Its Products for Thermal Insulation. China \nStandards Publisher, Beijing. GB/T 16731-1997, 1997. The Gradation of Sound Absorption Property for Absorbent \nProducts. China Standards Publisher, Beijing. GB/T 19686-2015, 2015. Rock Wool Thermal Insulation Products for Building \nApplications. China Standards Publisher, Beijing. GB/T 25998-2010, 2020. Mineral Wool Decorating and Acoustic Ceilings. China \nStandards Publisher, Beijing. Gurunathan, T., Mohanty, S., Nayak, S.K., 2015. A review of the recent developments in \nbiocomposites based on natural fibres and their application perspectives. Compos.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 21,
+      "char_count": 713
+    }
+  },
+  {
+    "text": "Part A-Appl. S. 77, 1–25. https://doi.org/10.1016/j.compositesa.2015.06.007. Ishimaru, K., Hata, T., Bronsveld, P., Meier, D., Imamura, Y., 2006. Spectroscopic \nanalysis of carbonization behavior of wood, cellulose and lignin. J. Mater. Sci. 42 \n(1), 122–129. https://doi.org/10.1007/s10853-006-1042-3. ISO 354, 2003. Acoustics-measurement of Sound Absorption in a Reverberation Room. International Organization for Standardization, Switzerland. ISO 8301, 1991. Thermal Insulation-determination of Steady State Thermal Resistance \nand Related Properties-heat Flow Meter Apparatus. International Organization for \nStandardization, Switzerland. Ivanovska, A., Cerovic, D., Tadic, N., Jankovic, C.I., Asanovic, K., Kostic, M., 2019. Sorption and dielectric properties of jute woven fabrics: effect of chemical \ncomposition. Ind.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 22,
+      "char_count": 825
+    }
+  },
+  {
+    "text": "Crop. Prod. 140, 111632. https://doi.org/10.1016/j. indcrop.2019.111632. Jahan, M.S., Mostafizur Rahman, J.N.M., Islam, M., Quaiyyum, M.A., 2016. Chemical \ncharacteristics of ribbon retted jute and its effect on pulping and papermaking \nproperties. Ind.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 23,
+      "char_count": 253
+    }
+  },
+  {
+    "text": "Crop. Prod. 84, 116–120. https://doi.org/10.1016/j. indcrop.2016.01.054. JC/T 2002-2009, 2021. Testing for Water Vapour adsorption/desorption Performance of \nBuilding Materials. China Building Materials Industry Publisher, Beijing. JC/T 2082-2011, 2021. Indoor Decorative Building Materials With the Function of \nHumidity-control. China Building Materials Industry Publisher, Beijing. Jerman, M., Palomar, I., Koˇcí, V., ˇCerný, R., 2019. Thermal and hygric properties of \nbiomaterials suitable for interior thermal insulation systems in historical and \ntraditional buildings. Build.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 24,
+      "char_count": 583
+    }
+  },
+  {
+    "text": "Environ. 154, 81–88. https://doi.org/10.1016/j. buildenv.2019.03.020. Kang, Y., Lee, E., Lee, K., Choi, S., Shin, E., 2018. Acoustic properties of sound-absorbing \npolyester fabrics woven with thick staple and thin draw textured yarn for use in \ninterior decoration. J.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 25,
+      "char_count": 269
+    }
+  },
+  {
+    "text": "Text. I. 1–9. https://doi.org/10.1080/ \n00405000.2018.1508798. Lim, Z.Y., Putra, A., Nor, M.J.M., Yaakob, M.Y., 2018. Sound absorption performance of \nnatural kenaf fibres. Appl. Acoust. 130, 107–114. https://doi.org/10.1016/j. apacoust.2017.09.012. Liu, Y.Q., Hu, W.P., 2011. Eco-Material applied on the interior wall decoration. Adv. Mat. Res. 415-417, 1786–1788. https://doi.org/10.4028/www.scientific.net/ \namr.415-417.1786. Liuzzi, S., Rubino, C., Martellotta, F., Stefanizzi, P., Casavola, C., Pappalettera, G., 2020. Characterization of biomass-based materials for building applications: the case of \nstraw and olive tree waste. Ind.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 26,
+      "char_count": 640
+    }
+  },
+  {
+    "text": "Crop. Prod. 147, 112229. https://doi.org/10.1016/j. indcrop.2020.112229. Maity, S., 2016. Jute needlepunched nonwovens: manufacturing, properties, and \napplications. J. Nat. Fibers 13 (4), 383–396. https://doi.org/10.1080/ \n15440478.2015.1029200. Mohanty, A.K., Misra, M., 1995. Studies on jute composites-a literature review. Polym- \nplast. Technol. 34 (5), 729–792. https://doi.org/10.1080/03602559508009599. Nong, G., Li, P., Li, Y., Xing, D., Zhu, T., Wu, J., Gan, W., Wang, S., Yin, Y., 2019. Preparing tea filter papers with high air permeability from jute fibers for fast \nleaching. Ind.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 27,
+      "char_count": 594
+    }
+  },
+  {
+    "text": "Crop. Prod. 140, 111619. https://doi.org/10.1016/j. indcrop.2019.111619. Or, K.H., Putra, A., Selamat, M.Z., 2017. Oil palm empty fruit bunch fibres as sustainable \nacoustic absorber. Appl.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 28,
+      "char_count": 189
+    }
+  },
+  {
+    "text": "Acoust. 119, 9–16. https://doi.org/10.1016/j. apacoust.2016.12.002. Panyakaew, S., Fotios, S., 2011. New thermal insulation boards made from coconut husk \nand bagasse. Energ. Buildings 43 (7), 1732–1739. https://doi.org/10.1016/j. enbuild.2011.03.015. Pelletier, M.G., Holt, G.A., Wanjura, J.D., Greetham, L., McIntyre, G., Bayer, E., Kaplan- \nBie, J., 2019. Acoustic evaluation of mycological biopolymer, an all-natural closed \ncell foam alternative. Ind.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 29,
+      "char_count": 456
+    }
+  },
+  {
+    "text": "Crop. Prod. 139, 111533. https://doi.org/10.1016/j. indcrop.2019.111533. Rezghi Maleki, H., Hamedi, M., Kubouchi, M., Arao, Y., 2018. Experimental study on \ndrilling of jute fiber reinforced polymer composites. J. Compos. Mater. https://doi. org/10.1177/0021998318782376. Sabbagh, M., Elkhateeb, A., 2019. Sound absorption characteristics of polyurethane and \npolystyrene foams as inexpensive acoustic treatments. Acoust. Aust. https://doi.org/ \n10.1007/s40857-019-00168-z. Sair, S., Oushabi, A., Kammouni, A., Tanane, O., Abboud, Y., Oudrhiri Hassani, F., \nLaachachi, A., El Bouari, A., 2017. Effect of surface modification on morphological, \nmechanical and thermal conductivity of hemp fiber: characterization of the interface \nof hemp-polyurethane composite. Case.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 30,
+      "char_count": 767
+    }
+  },
+  {
+    "text": "Stud. Therm. Eng. https://doi.org/10.1016/ \nj.csite.2017.10.012. Shamna, A., Jha, S.K., Chakraborty, A.K., Kumar, S., 2017. Jute production: the need for \nlinkage among research, farmers and industries in West Bengal, India. Curr.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 31,
+      "char_count": 230
+    }
+  },
+  {
+    "text": "J. Appl. Sci. Technol. 25 (3), 1–6. https://doi.org/10.9734/CJAST/2017/38295. Venkatesan, S.P., Kadiresh, P.N., 2019. Investigations on thermal properties of \nbiodegradable and environment friendly composite materials for insulation in \nthermal systems. Energy Sources Part A Recovery Util. Environ. Eff. 1–10. https:// \ndoi.org/10.1080/15567036.2019.1624883. Wang, S.H., 1988. Construction Materials Science. China Construction Industry \nPublisher, Beijing. Wei, K., Lv, C., Chen, M., Zhou, X., Dai, Z., Shen, D., 2015. Development and \nperformance evaluation of a new thermal insulation material from rice straw using \nhigh frequency hot-pressing. Energ. Buildings 87, 116–122. https://doi.org/ \n10.1016/j.enbuild.2014.11.026. Witayakran, S., Smitthipong, W., Wangpradid, R., Chollakup, R., Clouston, P.L., 2017. Natural fiber composites: review of recent automotive trends. Ref. Mod. Mater. Sci. Mater. Eng. https://doi.org/10.1016/b978-0-12-803581-8.04180-1. Xu, J., Sugawara, R., Widyorini, R., Han, G., Kawai, S., 2004. Manufacture and properties \nof low-density binderless particleboard from kenaf core. J. Korean Wood Sci. Technol. 50 (1), 62–67. https://doi.org/10.1007/s10086-003-0522-1. Yang, W., Yan, L., 2012. Sound absorption performance of natural fibers and their \ncomposites. Sci.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 32,
+      "char_count": 1297
+    }
+  },
+  {
+    "text": "China Ser. A-mathematics Phys. Astron. Technol. Sci. 55 (8), \n2278–2283. https://doi.org/10.1007/s11431-012-4943-1. Zakriya, M., Ramakrishnan, G., Gobi, N., Palaniswamy, N., Srinivasan, J., 2017. Jute- \nreinforced non-woven composites as a thermal insulator and sound absorber – a \nreview. J. Reinf. Plast. Comp. 36 (3), 206–213. https://doi.org/10.1177/ \n0731684416679745. Zhou, X., Zheng, F., Li, H., Lu, C., 2010. An environment-friendly thermal insulation \nmaterial from cotton stalk fibers. Energ. Buildings 42 (7), 1070–1074. https://doi. org/10.1016/j.enbuild.2010.01.020. Z. Jin et al.",
+    "metadata": {
+      "source": "Jute_Jin.pdf",
+      "material_category": "Natural Plant Fibers (flax, coconut, kenaf, jute)",
+      "source_path": "data\\raw\\Natural Plant Fibers (flax, coconut, kenaf, jute)\\Jute_Jin.pdf",
+      "chunk_index": 33,
+      "char_count": 593
+    }
+  }
+]

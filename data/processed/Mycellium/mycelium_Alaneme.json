@@ -1,0 +1,832 @@
+[
+  {
+    "text": "Alexandria Engineering Journal 83 (2023) 234–250\nAvailable online 30 October 2023\n1110-0168/© 2023 THE AUTHORS. Published by Elsevier BV on behalf of Faculty of Engineering, Alexandria University. This is an open access article under the\nCC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). Review \nMycelium based composites: A review of their bio-fabrication procedures, \nmaterial properties and potential for green building and \nconstruction applications \nKenneth Kanayo Alaneme a,b,*, Justus Uchenna Anaele a,c, Tolulope Moyosore Oke d, \nSodiq Abiodun Kareem a, Michael Adediran a, Oluwadamilola Abigael Ajibuwa e, \nYvonne Onyinye Anabaranze f \na Materials Design and Structural Integrity Group, Department of Metallurgical and Materials Engineering, Federal University of Technology Akure, P.M.B. 704, Ondo \nState, Nigeria \nb Centre for Nanoengineering and Tribocorrosion, School of Mining, Metallurgy and Chemical Engineering, Faculty of Engineering & the Built Environment, University of \nJohannesburg, South Africa \nc Department of Materials and Metallurgical Engineering, Federal University of Technology, Owerri PMB 1526, Imo State, Nigeria \nd TKdoms Consultancy, London, United Kingdom \ne Institute for Materials Science, Faculty of Engineering, University of Kiel, Kaiserstrasse 2, 24143 Kiel, Germany \nf Department of Mechanical and Materials Engineering, Queen’s University, Kingston, Ontario, Canada   \nA R T I C L E  I N F O   \nKeywords: \nMycelium \nLignocellulosic substrates \nCarbon footprint \nFungal biocomposite \nBio-based building materials \nA B S T R A C T   \nThe quest for green products and technologies for applications in the built environment has led to the birth of a \nnew generation of sustainable materials, among which are mycelium-based composites. They are biocomposites \nderived from the growth of filamentous parts of fungus on an organic substrate. Their low carbon footprint, low \nenergy and processing cost, biodegradability, and attractive range of properties, have made them highly \ndemanded as alternative materials for use in the building and construction sector. Their bio-fabrication pro­\ncedures, material properties, and prospects in building and construction applications have hardly been consid­\nered in a single review. It was noted that these composites have several potential benefits from economic, \ntechnical, environmental, and green credentials perspectives which make them desirable for building and con­\nstruction purposes. However, their low mechanical properties, high water absorption, and lack of standardized \ndevelopment methods limit their applications to semi-structural and non-structural materials such as paneling, \nfurniture, and decking. Future research should aim at reconciling its varying mechanical properties based on \nsubstrate, fungus species, growth condition, and processing method. Also, efforts should target improving its \nweathering and hydrophilic propensities, and scalability, factors that could",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 0,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "undermine its long-term commercial \nsuccess and applicability. 1. Introduction \nOver the last two decades, there has been a widespread global \ncampaign towards the development and utilization of more sustainable \nmaterials and technologies for the development of industrial and tech­\nnological products [1]. In the building and construction sector, this \ncrusade has even been more intense – considering the contribution of \nthis sector to environmental issues [2]. Globally, the building and con­\nstruction industries are responsible for a larger percentage of carbon \nemissions and the generation of non-biodegradable waste, which in turn \nhave adverse effects on the ecosystem [3,4]. Products such as cement, \nconcrete, metals, and polymers which are conventionally used in this \nsector, often require high energy consumption during production, high \nmaterial and processing costs, complex equipment, and production \ninfrastructure for design and product development, recycling diffi­\nculties, and create environmental pollution problems [5,6]. Poor \nbiodegradability is also a crucial setback for most of these synthetic \nbuilding and construction materials, as reports state that as many as a \n* Corresponding author at: Materials Design and Structural Integrity Group, Department of Metallurgical and Materials Engineering, Federal University of \nTechnology Akure, P.M.B. 704, Ondo State, Nigeria.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 1,
+      "char_count": 1403
+    }
+  },
+  {
+    "text": "E-mail address: kalanemek@yahoo.co.uk (K.K. Alaneme). Contents lists available at ScienceDirect \nAlexandria Engineering Journal \njournal homepage: www.elsevier.com/locate/aej \nhttps://doi.org/10.1016/j.aej.2023.10.012 \nReceived 7 January 2023; Received in revised form 5 September 2023; Accepted 8 October 2023\n\nAlexandria Engineering Journal 83 (2023) 234–250\n235\nhundred years could be required for them to decompose completely [7]. This lack of adequate biodegradability is a huge drawback to the po­\ntential contribution of this sector to the circular economy, which is \nprojected to offer as much as $4.5 trillion to the global economy as \nbenefits by the year 2030 [8]. Furthermore, the increase in industriali­\nzation and technological advancement has resulted in increased energy \ndemand and consumption. This has resulted in more pressure on non- \nrenewable energy resources, leading to a dramatic reduction in re­\nserves [9]. The threats and concerns posed by the exploration, processing, \nproduction, and utilization of synthetic materials from non-renewable \nsources (petroleum and natural gas) have given latitude to the consid­\neration of renewable biodegradable materials for several technological \napplications, including the building and construction industries [10]. Currently, biocomposites known as mycelium-based composites are \namong biomaterials under consideration as building and construction \nmaterials [2,11]. Mycellium-based composites derive their name from mycelium, the \nfilamentous (mushroom-forming) part of a fungus. When these fibers are \nallowed to grow on an organic substrate such as by-products and waste \nstreams from forestry and agriculture, it results in the development of \nfascinating biocomposite with a wide range of properties and applica­\ntions [7,12]. Organic materials such as straw, sawdust, woodchips, \ncotton, and rice husk, among others, have been used as organic sub­\nstrates for the development of mycelium-based composites [13,14]. As \nthe fungi colonize the substrate, the hyphae of the fungus create an \nentwined three-dimensional filamentous linkage through the cellulose, \nhemicellulose, and lignin-rich substrate by absorbing its nutrients and \nbonding with the substrate to form mycelium-based materials (MBMs) \n[15]. The thick fungi skin (mycelium) which is formed after full colo­\nnization of the substrate, is subjected to heat to remove the moisture \ncontent and kill the organism (above a critical temperature). The \nproduct formed is an inert, lightweight, and biodegradable material \nknown as mycelium-based composite (MBC) [10]. These mycelium- \nbased composites (MBCs) are clean, safe, strong, and biodegradable \nwith huge potential to substitute fossil-based and synthetic materials \nsuch as polyurethane and polystyrene [6,15]. They are also hyped as \nhaving better recycling efficiency which should contribute to a circular \neconomy alongside environmental benefits such as lower emissions and \nbetter land use [16]. Current",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 2,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ly, MBCs are been considered for product development in \npackaging [17], industrial artifacts [18], accessory materials [19], \nfurniture [20], paper [12], building materials, textile films [21], insu­\nlation materials [2,22], acoustic and floor tiles [10]. In the building and \nconstruction sector, MBCs are enthused to create low-cost and greener \nbuilding and construction materials, which could help reduce reliance \non fossil fuel-based and other non-renewable- products [23]. Consid­\nering that building and construction is a sensitive sector where vari­\nability in product quality can result in sudden and unexpected failure, \nnew products would require thorough structural integrity assessments \nfor selection and commercial utilization. Several authors have already \nnoted that the properties of MBCs are sensitive to several variables \nincluding the type of substrate, fungus type, growth conditions, and \nprocessing methods [6,13,24–25]. An in-depth knowledge of the rela­\ntive effect of each of these variables can considerably lead to the opti­\nmization of the production process, leading to the development of \nproducts with the appropriate spectrum of properties suitable for the \nbuilding and construction industries. Several reviews are already \navailable on the development and use of MBCs [10,13]. Javadian et al. [2] reviewed the recent development and properties \nof MBCs that have been used in building and construction, especially as \ninsulation materials, door panels, and window frames. The properties \nand use of MBCs in furniture as building panels and masonry blocks have \nbeen reported by Ghazvinian et al. [9]. The applications of MBCs \nmanufactured from fungal biorefineries in construction materials were \nreviewed by Jones et al. [12]. It was reported that low thermal \nconductivity, high acoustic absorption, and fire safety properties were \namong the key properties that propelled MBCs for utilization in building \nand construction, particularly as insulation, paneling, and furnishings \nmaterials. Manan et al. [25] reviewed the effects of processing tech­\nniques on the properties and applications of MBCs. It was noted that \nMBCs have been identified as sustainable alternatives to conventional \nconstruction materials because of their comparatively low cost, fire- \nresistant or safety property, and environmentally friendly characteris­\ntics. However, Sydor et al. [26] acknowledged that the practical appli­\ncability of MBCs is limited by their poor strength and unreliability due to \ntheir high water absorption. These drawbacks are surmountable by the \nappropriate selection of mycelium base materials (fungal strain and \nsubstrate type) and by controlling the growth conditions [10]. Over­\ncoming the identified problems of MBCs is expected to be the focus of \nresearch at present [7]. The current progress in the development of \nmycelium-based foams, sandwiches, paneling, decking, flooring, and \nfurniture materials for construction structures has been ev",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 3,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "aluated by \nYang et al. [5]. However, none of these reviews have attempted to re­\nview the bio-fabrication procedure involved in the manufacture of MBCs \nas well as a critical look at their material properties (physical, chemical, \nand mechanical) which are critical for their consideration for green \nbuilding and construction applications. Therefore, this review effort was \nundertaken in light of the identified gap in the literature on the state-of- \nthe-art studies on the production, properties, applications, and prospects \nof MBCs. 2. Method for selecting publications considered in this review \n2.1. Basis for selection of published literature \nAn analysis of the published literature was performed to identify \narticles relevant to the title: Mycelium-based composites: A Review of \ntheir bio-fabrication procedures, material properties, and considerations \nfor green building and construction applications. The Scopus database \nwas utilised following an initial search of different databases. It has a \ngreater number of papers that have been published on the subject, and \nalso because of its widespread use, visibility of articles, and high level of \nreliability. The following terms were used to search the Scopus database \nfor all the conference papers, monographs, and journal articles that were \nrelevant to the study: “mycelium*” AND “mechanical properties*” OR \n“mycelium composite*” AND “carbon footprint*” OR “mycelium bio­\ncomposite*” AND “sustainable materials*” OR “mushroom bio­\ncomposite*” AND “bio-based building materials*” OR “fungal \nbiocomposite*” AND “carbon footprint*” OR “fungal biocomposite*” \nAND “mechanical properties*”. The use of these keywords in the search \nfor title, abstract, and keyword field yielded 381 publications, however, \nonly 128 of those papers were selected based on their relevance to the \nobjectives of this study and year of publication. 2.2. Trend of scientific publication on mycelium-based composites from \n1966 to 2023 \nThe annual scientific contributions to the mycelium-based compos­\nites are given in Fig. 1. According to the Scopus database, the first \npublication on mycelium-based composites was published in 1966, and \nonly one paper was published in that year. In 1966, 1974, 1975, 1982, \n1983, 1987, and 1990, only one article was published in each of those \nyears, while no article was published in the years in between. A slow, \nprogressive increase in the number of published articles was observed in \n1997, 1999, 2002, 2008, 2012, 2014, 2016, and 2017, while a decline \nwas observed in the years in between. The publications steadily grew \nfrom 13 to 72 from 2018 to 2022. The publication analysis is broken down by country and presented in \nFig. 2, with 15 countries having greatly contributed to the research on \nmycelium-based composites. Only countries with at least 10 publica­\ntions in the Scopus database were considered in this analysis. Due to the \nK.K. Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 4,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "250\n236\nauthors’ international collaboration, several countries overlapped on \nthe same paper. According to Fig. 2, China has the largest number of \npublications (74). Next on the list is the United States, with 57 articles; \nGermany, with 28 articles; India, with 25 articles; the United Kingdom, \nwith 17 articles; Australia, with 15 articles; Italy, with 14 articles; \nAustria, with 13 articles; Egypt and the Russian Federation, with 12 \narticles each; Brazil, Denmark, and South Korea, with 11 articles each; \nand finally, Belgium and the Netherlands, with 10 articles each. 3. Production of Mycelium-based composites \n3.1. Introduction \nFungi are eukaryotic organisms that exhibit diverse morphology and \nlifestyle with the ability to colonize large areas [27]. Mycelium Fungi \ncolonize their substrate by digesting the nutrients in the substrates \nthereby growing within and outside the substrate to form a compact or \nfluffy layer known as fungal skin [25]. Generally, MBCs are manufac­\ntured through this bio-fabrication process involving the incubation or \ncolonization of substrates with fungal mycelium followed by a drying/ \nheating process to kill the organism and form a compact material \n[18,25]. The process of manufacturing MBCs is reported which can lead \nto a promising and inventive way to produce building materials from \nusing the agro-waste materials [28]. In the study conducted by Appels et al. [13], MBCs were produced by \nhot-pressing the fungi skin at 150 ◦C for 20 min with a force of less than \n30kN. The fungi skin was formed by growing exotic mushrooms on three \ndifferent substrates including beech sawdust, rapeseed straw, and non- \nwoven low-quality cotton fibre. The shape of the MBCs products de­\npends on the shape of the substrate which acts as the mould [7]. In a \nrelated study, Attias et al. [18] produced MBCs by growing three sam­\nples of fungi species (Colorius sp., Trametes sp., Ganoderma sp.) on \nwoodchips prepared by mixing ground residues of apple and vine crops \nwith 1% flour, 3% wheat straw, and 62% distilled water. This was fol­\nlowed by the addition of 3% inoculum into the autoclaved substrate \nunder sterile conditions. The samples were incubated at 23 ◦C and 95% \nhumidity for 14 days before the samples were oven-dried for 48 h at \n60 ◦C to produce the MBCs. Elsacke et al. [15] produced MBCs by the \nactivities of various kinds of lignocellulosic substrates (flax, flax dust, \nflax long treated fibres, flax long untreated fibres, flax waste, wheat \nstraw dust, wheat straw, hemp fibres, and pine softwood shavings) with \nmycelium spawn Trametes versicolor (M9912-5LSR-2 O447A). The sub­\nstrates were processed by soaking the fibres in water for 24 h, blending \nthem with fresh water to a particle size of 5 mm, and drying at 30 ◦C for \n24 h before they were autoclaved for 20 min. at 121 ◦C and then allowed \nto cool down for 24 h. The MBCs were fabricated by mixing 20%wt. (weight percentage) of fibres, 70%wt. of sterile demineralised",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 5,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "water and \n10%wt. of mycelium spawn in polyvinyl chloride (PVC) mould. After 16 \ndays of incubation, fully colonized substrates were dried in a convection \noven at a temperature of 70 ◦C for 5 to 10 h. In recent studies, several \nresearchers including Haneef et al. [6], Zimele et al. [14], Yang et al. [17], Attias et al. [18], Gezer et al. [19], Shakir et al. [20], Islam et al. [24] and Jiang et al. [29], Ghazvinian et al. [33] have produced MBCs \nfollowing steps stipulated in Yang et al. [5]. These steps entail materials \nselection (fungal strain and feedstock), substrate sterilization, inocula­\ntion, moulding, incubation, heat treatment processes, and surface fin­\nishes (such as coating). The flow sheet showing the steps involved in the \nprocessing of MBCs is presented in Fig. 3. 3.2. Mycelium production steps \nGenerally, the production of MBCs involves the following protocols \nsummarized into eight steps: \n3.2.1. Selection of organism (fungal species) \nThe factors which inform the selection of appropriate fungi include \ngrowth rate, characteristic MBM density, homogeneity of mycelium \nskin, and the ease with which the fungi can be incubated [30]. The \ngenetic traits of the organism (fungal species) have been identified as \none of the factors that determine the properties of the MBCs [6,24]. It is \nimperative to select the most appropriate strain according to the sub­\nstrate, growth conditions, or fermentation setup and proposed applica­\ntion [7]. Different results have been obtained in terms of material \nproperties (Table 1) with the use of diverse fungi species during the \nproduction of MBCs [25]. It was reported that the activity of Trametes \nmulticolor on rapeseed straw results in a smooth and foam-like structure \nwhereas the colonization of P. ostreatus on the same substrate (rapeseed \nstraw) produced MBMs with rough structure [13]. The characteristics of \nsome fungi species concerning their activity with plant cells (wooden \nsubstrates) are discussed elsewhere [10]. However, the white rots sap­\nrotrophs species of fungi were noted to exhibit good substrate coloni­\nzation rate, have strong mycorrhizal, endophytic, or pathogenic \ncharacter, and are most efficient in digesting plant cell wall material \n(lignocellulose) due to secretion of ligninolytic enzymes. This is the \nreason why most filamentous species employed in the production of \nMBCs are white rot fungi strains [10,31]. In literature, only a few fungal \nFig. 1. Trend of scientific publication on mycelium-based composites from \n1966 to 2023. Fig.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 6,
+      "char_count": 2555
+    }
+  },
+  {
+    "text": "2. Document by country or territory with at least 10 published articles \nin Scopus. K.K. Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–250\n237\nspecies have been tested thus it may be rash to link any fungi strain with \nthe production of MBCs with optimal material properties [10,32]. 3.2.2. Selection of feedstock/organic substrates \nThe mushroom-forming organism (fungi) naturally grows on agri­\ncultural waste streams such as straw, fibres, sawdust, and/or woodchips \namong other organic and inorganic materials [2,12]. Many authors \nincluding Appels et al.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 7,
+      "char_count": 573
+    }
+  },
+  {
+    "text": "[13], Manan et al. [25], and Ghazvinian et al. [33] stated that the kind of organic substrate affects the properties of the \nfungi skin produced after colonization of the substrate. The tensile \nstrength [25], density [33], and water-holding capacity [13] of the \nfungal-based mycelium among other properties are highly sensitive to \nthe type of substrate. Also, the addition of rice husk and glass particles to \nsubstrates has been shown to improve the fire-resistant properties of \nMBCs [34]. Therefore feedstock selection is critical in the production of \nMBCs, especially in situations where product quality is paramount. The \nenvisaged large-scale production of mycelium necessitates the need to \nidentify local sources for mycelium feedstock or substrate and to design \nthe production capacity as a function of substrate availability [7]. Some \nagro-based materials for the bio-fabrication of MBCs as well as their \npetroleum-based counterparts are shown in Fig. 4. Table 1 compares the \nproperties derived from various feedstock with diverse production pa­\nrameters ranging from the type of fungi species to growth conditions and \nprocessing methods. To determine the feedstock with optimal MBC \nproperties, it will be necessary to conduct studies in which the variables \n(such as fungus type, growth conditions, and processing methods) are \nkept constant with variable feedstocks. 3.2.3. Substrate sterilization method \nThe rivalry between the fungal strain of interest and unwanted mi­\ncrobes living on the substrate can limit the rate of colonization of the \nfungal species thereby reducing the product quality [32]. To improve \nthe activity and colonization rate of fungi and prevent contamination of \nthe fungi skin (mycelium) during the growth process, it is necessary to \ndisinfect or sterilize the substrate or feedstock [10,35]. To achieve this \npurpose, the substrates are usually treated with chemical substances \nsuch as hydrogen peroxide or antimicrobial agents and/or by heat \ntreating (autoclaving) the substrate at a preselected temperature and \ntime [12]. Many authors including Haneef et al. [6], Elsacker et al. [15], \nand Appels et al. [36], have sterilized different kinds of feedstock by \nconducting heat treatment within the temperature range of 115 to \n121 ◦C and durations within 15 to 28 min. Atila [35] also carried out \nsubstrate sterilization using hot water treatment under a pressure of \n15lbs for 20 min. This was then followed with chemical treatments using \n1% formaldehyde and bavistin solutions. The author established that \ncheaper and more easily applicable scalping in hot water (80 ◦C) and \nchemical treatment may be used for the sterilization of substrates \ninstead of sterilization with an autoclave. 3.2.4. Inoculation process \nInoculation is the process of mixing (or interacting) the substrate \nwith the fungal mycelium to stimulate the growth of the hyphae and \nfacilitate the development of compact fungal skin (mycelium) [29]. There are two main",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 8,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "techniques reported in the literature for inoculating \nthe substrate with mycelium, namely, grain-based inoculation and \nliquid-based inoculation [22]. Some researchers including Holt et al. [22] and Ahmadi [38] have used the grain inoculation technique \nthereby pre-growing mycelium on grain spawn which in turn is used to \ninoculate the substrate in various mixing ratios. In the study carried out \nby Elsacker et al. [10], the liquid-based inoculation method was \nemployed. It has been reported that the growth rate of mycelium is \nincreased when inoculation is performed using glucose, starch, maltose, \nand lactose [20]. The effect of these inoculation methods on the prop­\nerties (especially dimensional stability and compressive strength and \nYoung’s modulus) of MBCs is reported elsewhere [15,17,22]. 3.2.5. Mould design/packing method \nStudies conducted by Elsacker et al. [15], and Yang et al. [17] have \nestablished that the substrate mould design affects the mechanical \nproperties (compressive strength, stiffness, or Young’s modulus) of the \nMBCs after production. This manufacturing stage is important because \nthe shape, density, and stiffness of MBCs produced depend on the mould \ncondition where the inoculated mixture of mycelium and substrate are \npacked [10]. As the hyphae grow in the mould, the quantity of mycelium \ndeposit increases and results in densely packed MBMs shaped by the \nmould [7,38]. It has been observed that the packing method also affects \nthe dimension and fibre orientation of the fungi skin (mycelium) pro­\nduced [23]. Several packing methods have been tried including packing \nin polyethylene bags [19], porous bags [18], PVC moulds [15], and \nplastic thermo-formed moulds [13]. Packing moulds are usually sealed \nfiltered air-permeable covers to maintain a micro-climate condition \n[10]. Moulding of mycelium base materials still requires more research \nattention to determine the optimal mould design parameters necessary \nfor the production of quality MBCs products. 3.2.6. Colonization of substrate/ incubation process \nMBMs are produced when mycelium colonizes the substrate within \nthe mould setting during the incubation process [13]. The production of \nthick fungal skin during incubation of mycelium usually takes place in \ntwo stages: the first stage where mycelium bonds with the mould and the \nsecond stage where the fungi skin grows outside the mould to form a \ncompact MBM product [10]. Fungi are specific such that every fungal \nspecies thrives in definite environmental conditions [22]. However, \noptimal growth conditions for most fungal strains have been specified to \noccur at room temperature (21 to 30 ◦C), humidity, and pH levels within \nthe ranges of 70 to 100% and 5 to 8 respectively [6,38]. Well-ventilated \ndark environments with low C O2 concentrations have been reported to \nfavour the growth of mycelium. Dense fungi skin is obtained when the \nFig. 3. Flow sheet showing the steps involved in the processing of MBCs (Lingam",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 9,
+      "char_count": 2998
+    }
+  },
+  {
+    "text": "et al. [11], culled with permission from Elsevier). K.K. Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–250\n238\nrate of airflow is high [7]. The overriding advantage of incubating fungi \nin the darkness is that dark areas often generate the moisture that the \nspores require to replicate [38]. Also, mycelium has been shown to \nthrive in the presence of light under high C O2 concentrations [36]. Mycelium incubation time has been observed to vary from 5 to 42 days \ndepending on the volume of the inoculated substrate [6,17]. The effect \nof fungi incubation time on the mechanical behaviour of MBCs is dis­\ncussed elsewhere [10,17]. 3.2.7. Drying process \nAt maturity, the grown MBMs are subjected to heat treatment at a \npre-selected temperature and time to kill the organism and eliminate the \nmoisture content in the MBCs produced in the process [10]. Hot-pressing \nand oven drying are the most common methods employed for dehy­\ndration and densification of MBCs after incubation which often leads to \nimprovement of their mechanical properties [12]. Several authors have \nemployed diverse methods for drying including oven backing at a tem­\nperature range of 60 to 125 ◦C for 2 h [6,38]; convection heating using \nsolar dryers at 82 ◦C for 12 h and thermal pressing at 250 ◦C for 20 min. [29]; hot-pressing with a force less than 30kN at 150 ◦C for 20 min. [13]; \noven-drying for 48 h at 60 ◦C [18]; and convection oven drying at a \ntemperature of 70 ◦C for 5 to 10 h [15]. The effect of drying methods on \nthe properties of MBCs has been scarcely reported by researchers. However, Manan et al. [25] noted that the mechanical properties of \nMBMs are affected by the pressing temperature. The properties of hot- \npressed composites of P. ostreatus- rapeseed straw relative to cold- \npressed MBCs were compared by Appels et al. [13]. It was observed \nthat hot pressing increases the strength and stiffness of the MBCs. 3.2.8. Finishing processes \nFinishing operations are usually applied to MBCs to improve the \naesthetic properties, seal surface pores and protect the surface from \nwater and micro-organisms in the service condition [10]. The applica­\ntion of diverse coatings and re-growth of the MBMs constitute the major \nfinishing operations carried out after the production of MBCs [10]. Depending on the service condition where the MBC would be applied, \ndifferent types of coatings such as resins, natural oil, linseed oil, shellac, \ncoconut oil, carnauba wax, or beeswax have been used to improve the \nsurface properties of MBCs [7,29]. The comprehensive fabrication \ntechnique of MBCs according to several recent authors is given in \nTable 1. Table 1 compares the key physical and mechanical properties of \nMBCs to those of conventional construction materials. 4. Material properties of Mycelium-based composites \nMycelium-based biocomposites have grown in importance because \nof their economic, sustainability, and material characteristics. This is \nexpressed by their uniq",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 10,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ue range of properties which is dependent on the \ntype of substrate used in producing them and their bio-fabrication \nroutine. Mycelium composites’ poor mechanical properties are \nfrequently attributed to their mycelium content [39,40]. Recently \nresearch was carried out on the tensile strength of chitin-glucan extracts \nthat are obtained from mycelium and it was discovered that the obtained \nmycelium binder has a great strength (tensile strengths of up to 25 MPa \n[12] and up to 200 MPa for fruiting body extract [41]), implying that \nthe fungal growth density is low, which limits mycelium binder amount \nas well as the interaction between mycelium binder and substrate filler. This is stated as the likely possible cause of poor mechanical charac­\nteristics obtained in mycelium composites. The fungus species used as \na binder to disperse agro-based filler into mycelium biocomposites in­\nfluences growth density and the degree of interfacial adhesion at the \nmycelium-substrate interface, which differs substantially by species and \nsubstrate [42], and appears to impact the material’s mechanical \ncharacteristics. Biological evolutionary processes determine how well a fungal spe­\ncies flourishes on any particular organic matter (substrate). Naturally, \nTable 1 \nProperties of some conventional materials with respect to the properties of \nMBCs. Properties for \nbuilding and \nconstruction \nmaterials \nCement \nPolymers \nGypsum \nMBCs \nDensity (kg/ \nm3) \n1800–1950  \n[59] \n22–30 [59] \n417–945  \n[60] \n110–330  \n[39] \nCompressive \nstrength \n(MPa) \ni. Cement: 3.45 \n[17] \nii. Clay brick: \n8.6–17.2 [14] \nPlastics: \n0.069–0.40  \n[14] \nPhenolic \nformaldehyde \nresin: 0.2–0.55  \n[12] \nPolystyrene \nfoams: \n0.03–0.69 [12] \nPolyurethane: \n0.002–48 [12] \n0.06–0.55  \n[60] \n0.36–0.52  \n[1] \n0.17–1.1  \n[12] \nWater \nabsorption \n(wt.%) \nCement: 12  \n[17]  \nPlywood: 5–49  \n[12] \nPlastics 6.9 [28] \nPhenolic \nformaldehyde \nresin  \n(1–15) \nPolyurethane: \n0.01–72 \nPolystyrene: \n0.03–9 \n[12] \n52 [102] \n200  \n[1,103]. 40–580  \n[12] \nFlashover time \n(s) \nParticleboard: \n173 \n[12] \nPolystyrene \nfoam: 61 [12] \n– \n311–370  \n[12] \nProperties for \ninsulation \nmaterials/ \nRef. sheep wool \nPolystyrene \nKenaf \nMBCs \nThermal \nconductivity \n(W/m.k) \n[47] \n0.05 \n0.03 \n0.04 \n0.05–0.07 \nProperties for \nacoustic \ndamping \nmaterials/ \nRef. Ceiling tiles \nUrethane foam \nboard \nPlywood \nMBCs \nNoise \nabsorption \ncapacity \n(dBa) \n[12] \n61  \n64 \n65 \n52–54  \nProperties for miscellaneous applications \nProperties \nPolymers  \nPlywood \nMBCs \nFlexural \nstrength \n(MPa) \nPolyurethane: \n0.21–57 \nPhenolic \nformaldehyde \nresin: 0.38–0. Polystyrene foams: \n0.07–0.70 \n[12]  \n35–78 [12] \n0.87–15 MPa  \n[2]. 0.05–0.29 MPa  \n[12] \nTensile \nproperties \n(MPa) \nPolyurethane: \n0.08–103 \nPhenolic \nformaldehyde \nresin: 0.19–0.46 \nPolystyrene foams: \n0.15–0.7 \n[12] \nTensile strength:10–44 \nCompressive strength: \n8–25 \n[12] \n0.03–0.24MPa  \n[2] \nUp to 0.343MPa \n[104] \nElastic \nModulus \nPolystyrene: \n3400MPa [105]  \nParticleboard from",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 11,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–250\n239\nMesophilic (optimum proliferation at moderate temperatures) micro- \nflora give way to thermophilic (optimum growth at elevated tempera­\nture) micro-flora. The Mesophiles flourish first when temperatures rise, \nabsorbing simpler carbon providers (organic acids, sugars, and amino \nacids) and sparing only polysaccharide elements of biomass (cellulose as \nwell as hemicelluloses) for the thermophiles. Several comparable in­\nstances may be seen in nature, such as rapidly developing primary col­\nonisers swiftly eating accessible simple sugars, making both secondary \nand tertiary colonisers to be left with only more complex carbohydrates. This has resulted in natural preferences for these distinct carbon donors \nwithin these categories [43,44], which has a considerable impact on \nhow effectively a fungus specie will thrive on any particular substrate. Because most mycelium-based biocomposites are cultivated on ligno­\ncellulosic agro-based by-products and waste materials, which usually \nlack ideal fungal essential minerals such as easily use simple sugars \n(glucose, sucrose, and fructose), white rot fungi (Ganoderma, Pleurotus \ngenera, and phylum Basidiomycota, Trametes) are commonly used \n[12,34]. The mechanical characteristics of mycelium-based bio­\ncomposites are also influenced by the topology and structural networ­\nk of the mycelium binder. An excellent example is mono-mitic hyphal, \ndi-mitic hyphal, and tri-mitic hyphal networks that are obtained in ba­\nsidiomycetes [45]. Basidiomycetes’ hyphal networks can consist of up to \nthree different hyphal varieties, binding, generative, as well as skeletal, \nwith significant variances in the thickness of the cell wall, inner struc­\nture, as well as branching properties [45,46]. The mitic system is used to \ndefine the number of various hyphal kinds found within a species. Mono- \nmitic species have just generative hyphae, di-mitic species have two \nhyphal kinds often generative as well as skeletal, and tri-mitic species \nhave all three hyphal forms [47]. Skeletal hyphae are thick-walled, \nusually solid, and they are sparsely branched or unbranched, whereas \ngenerative hyphae are thin-walled, hollow, and branching [12]. Binding (ligative) hyphae have strong walls, are usually solid, and \nare densely branched. Complex hyphal systems such as trimitic are \ngenerally thought to be more sophisticated than basic hyphal systems \nlike monomitic [48,49,50], with the thickness of the wall of the hyphal \nsystem as well as the level of hydraulic content housed within their cells \nbeing accountable for specific characteristics of the biomass [51]. Although the tensile characteristics of fungal hyphae employed in \nfermentation have been investigated, with approximated hyphal ulti­\nmate tensile strengths (UTS) and elastic modulus of up to 24 MPa \nand 140 MPa respectively, the mechanical characteristics of wood-rot \nfungus hyphae are still not well understood",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 12,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "[52,53]. The mechanical \nstrength of generative hyphae (monomitic hyphal systems), which \nhave hollow structure and possess cytoplasm, is thought to be dimin­\nished, with binding hyphae (di-mitic and tri-mitic hyphal systems) ac­\ncounting for the material strength [54,55]. Although there is little data \nto back this up, mycelium biocomposites including Trimitic species like \nT. versicolor and multicolor have been observed to exhibit greater ten­\nsile strength (0.04 MPa) as well as flexural strength of about 0.22 \nMPa than the monomitic counterpart, such as P. ostreatus with tensile \nand flexural strength of 0.01 MPa and 0.06 MPa respectively [13]. It is \nalso noted that when T. versicolor and P. ostreatus are grown on hemp, \nT. versicolor exhibits a stronger compressive strength than P. ostreatus, \nwith compressive strengths of 0.26 MPa and 0.19 MPa respectively \n[56]. However, the existence of natural polymers like chitosan and \nchitin is restricted to the thin hyphal cell wall, which also appears to \ncontain polysaccharides (mannose, fucose, and galactose), lipids, pro­\nteins, phosphate, and mineral salts [12,57]. This makes it difficult to \nemphatically state without being skeptical of the significance of the \nhyphal structure, with mycelial (binder) volume more likely to affect \nthe mechanical performance level. The mechanical and physical char­\nacteristics of MBCs are discussed in this section of the review. 4.1. Density \nMBCs have numerous advantages over conventional building mate­\nrials, one of which is low density [1]. The density of most MBCs in \nliterature lies in the range of 110–330 kg/m3 [58] while that of con­\nventional construction materials such as cement and gypsum-based \nmaterials are in the range of 1800–1950 kg/m3 [59] and 417–945 kg/ \nm3 [60] respectively. In general, for most cellular materials, higher \nYoung’s modulus and strength can be achieved by increasing the ma­\nterial density [61]. Studies have shown that factors such as the types of \nsubstrates, porosity, and processing methods (such as cold/hot pressing) \nhave a great effect on the density of MBCs. It has been widely reported \nthat the density of MBCs is highly sensitive to substrate composition \n[13,17]. For instance, it has been reported that the volume fraction of \nfibers, wood pulp, or hulks in the composition of the mycelium substrate \nincreases with the density of the MBC product [17,23,62,63]. Elsacker \net al. [10] reported that the processing technique affects the density of \nthe final mycelium composite product. It was observed that the density \nof P. osteratus composite grown on rapeseed straw substrate that was \nprocessed by hot pressing (at 150 ◦C, and force < 30KN) was higher \n(390 kg/m3) compared to 240 kg/m3 obtained for the same composite \nFig. 4. Some conventional materials used for the fabrication of biocomposites versus the agro-based substrates for bio-fabrication of MBCs (Shanmugam et al. [16], \nculled with permission from Elsevier).",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 13,
+      "char_count": 2990
+    }
+  },
+  {
+    "text": "K.K. Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–250\n240\nwhen processed by cold pressing (at 20 ◦C for 20 min and dried there­\nafter). This was attributed to the lower porosity levels in the hot-pressed \nsamples relative to the cold-pressed samples [13]. In another study, Gou \net al. [64] investigated mycelium biocomposites reinforced with natural \nreinforcing particles (NRPs) (carbonated sand). The colonisation dura­\ntion of mycelium biocomposites is influenced by the kind of fungus. The \nintroduction of NRP as reinforcement had no impact on mycelium \ndevelopment, but it increased the density of the obtained mycelium- \nbased biocomposites somewhat more than typical mycelium-based \nbiocomposites. The produced mycelium biocomposites containing NRP \n(0%-37.5 wt%) had dry densities ranging from 0.310 to 0.413 g/cm3. It \nwas observed that with an increase in NRP concentration, the dry den­\nsity of the obtained mycelium-based biocomposites rose proportionally. The obtained dry density of the P. ostreatus test sample increased from \n0.325 to 0.413 g/cm3, also for those of the O. radicata sample the dry \ndensity increased from 0.317 to 0.411 g/cm3, and for the MF sample, \nthe dry density increased from 0.310 to 0.398 g/cm3. By comparing the \ndensity of the three mycelium biocomposites, P. ostreatus biosamples \nwere observed to have the greatest density, trailed by O. radicata and \nmarine fungal (MF) samples. The obtained variation in dry density \nmight be attributed to the variable degrees of colonisation generated by \nthe distinct lignocellulose-degrading enzyme systems [65,66] between \nwhite-rot fungus and MF. According to the CT data (Fig. 5), mycelium- \nbased biocomposites cultivated by Pleurotus ostreatus containing 7.5 \npercent NRP show a dense distribution of porosity. Pores account for \n11.71 percent of the total sample volume. 4.2. Thermal conductivity \nMycelium composites especially those grown on straw and hemp \nFig. 5. CT photographs of the P-S2(7.5) mycelium biocomposites: (a) section diagram in the Y-Z directions, (b) distribution of pores and NRP in the X-Z directions, \n(c) distribution of pores and NRP in the X-Y directions, and (d) distribution map of total pores (Gou et al. [64], culled with permission from Elsevier).",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 14,
+      "char_count": 2284
+    }
+  },
+  {
+    "text": "Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–250\n241\nhave a porous structure with a characteristic low bulk fibre density \nwhich enables them to amass a considerable amount of air in-between \nthe fibres, thereby acquiring insulation properties [12,67]. MBCs are \nthus considered natural thermal insulation materials since they possess \nlow thermal conductivity, high porosity, low density, characteristic high \nmoisture contents, and the presence of large amounts of air [25,68]. The \nthermal conductivity of MBCs has been observed to depend on the \ndensity of the composite, moisture content, and fiber type [12]. The investigation of mycelium composites made of different sub­\nstrates including flax waste, straw, and hemp was carried out by [15]. Although higher thermal conductivity was recorded for the flax waste \nwhich was due to the high weigh-to-volume ratio of the substrate, \nnonetheless the three mycelium-based composite compositions resulted \nin better thermal insulation properties compared to existing materials. The hemp-based composite demonstrated the lowest thermal conduc­\ntivity of all three substrates [15]. The thermal conductivity of several MBCs has been reported to fall \nwithin the range of 0.05 to 0.07 W/m.K which is similar or comparable \nto most prominent conventional insulation materials such as glass wool \n(57 Kg/m3, 0.04 W/m•K), extruded polystyrene insulation (34 Kg/m3, \n0.03 W/m•K), sheep wool (18 Kg/m3, 0.05 W/m•K) and kenaf (10 Kg/ \nm3, 0.04 W/m•K) [17,69]. Similarly, Xing et al. [70] carried out a study \non a mycelium-based composite produced with wheat straw and three \nspecies of mycelium. They observed that the MBCs can serve as good \nthermal \ninsulators \nfollowing \ntheir \nlow \nthermal \nconductivity \n(0.074–0.087 W/mK). Thus, MBCs have excellent insulation properties \nwhich enable them to compete with conventional insulation materials \nfor thermal applications [69,71]. MBCs even have the potential to \nreplace the existing conventional insulation materials products because \nof their comparatively lower cost advantage and biodegradable char­\nacteristics [12]. Sun et al. [72] studied the thermal conductivity of \nTrametes versicolor mycelium and yellow birch wood particles (sub­\nstrate) biocomposite. The composites were incubated for up to 30 days. It was observed that the thermal conductivity obtained for the foam \ncomposites decreased with an increase in incubation time. This is un­\nderstandable given that thermal conductivity closely corresponds with \ndensity in porous materials. The lower the density of the foam com­\nposite, the more air there is, which has a very low thermal conductivity \nproperty and this correlates to the reduction in thermal conductivity of \nthe produced foam. After 30 days of deterioration, the density was \nreduced by around 10 percent, and the thermal conductivity was \nreduced by less than 10 percent, demonstrating that fungal degradation \nisn’t an effective method for producing composit",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 15,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "es with low thermal \nconductivity properties. It would thus be more effective to make use of a \nsubstrate with inherent low thermal conductivity properties or to \nchange the fabrication procedure to reduce the density of the foam \nstructure. Good insulating materials are known to possess low thermal con­\nductivity, which is mostly related to the material’s density. Bio- \ncomposite insulating materials help to lower buildings’ environmental \nimprint [73]. Dias et al. [73] investigated the efficacy of a self-growing, \nbiocomposite structural insulating material consisting of Miscanthus ×\ngiganteus as well as the fungus Mycelium. Various Miscanthus and \nMycelium mix ratios were investigated to determine the best mixture for \nproducing a porous composite with a reduced density. They carried out \nthermal conductivity tests on the various composite plates produced and \nit was observed that the thermal conductivity obtained for this novel \nmaterial ranges between 0.0882 and 0.104 Wm−1 K−1. These results are \ncomparable to the thermal conductivity values of straw, hemp concrete, \nsoftwoods, and gypsum, which are approximately 0.08 [74], 0.1 [68], \n0.12 [75], and 0.17 [75], respectively. However, when manufacturing \ncosts and environmental implications are considered, the novel \nMycelium-Miscanthus composite is less expensive to produce and has a \nmuch-reduced carbon footprint. Furthermore, fire resistance experi­\nments on this novel Mycelium-Miscanthus composite plates without \nrender were carried out. A ball of cotton wool was placed on the \nsurface of the plate, and the test is regarded as complete when the cotton \nwool on the plate begins to burn, a gap or opening appears, or the ex­\nistence of a sustained flame on the side facing away from the fire ap­\npears. After 40 min, a gap was seen, and the cotton wool began to burn. The Mycelium-Miscanthus plate is shown in Fig. 6 before and after it was \nburnt for 40 min. It was established that the Mycelium-Miscanthus \ncomposite plates fall within the category EI15 under the EN13501- \n2:2003 standard. The findings were reported to be adequate for devel­\noping a renewable insulating material out of Miscanthus and Mycelium. Fig. 7 depicts the temperature trend recorded by the thermal camera \nwhen the fire experiment was carried out. It was observed that the heat \nfrom the flame took approximately 7 min to reach the top of the plate \nand another 33 min to burn the cotton wool on the plate and create an \naperture on the top of the plate. Gou et al. [64] provided the thermogravimetric analysis findings for \nunreinforced mycelium biocomposites as well as mycelium-based com­\nposites containing natural reinforcing particles (NRPs) (carbonated \nsand). These findings were compared to the thermogravimetric study of \nEPS reported by Bruscato et al. [65]. The unreinforced mycelium bio­\ncomposites showed three stages of mass loss that were consistent with \nother research reported in the literature [72,76]. These stages ha",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 16,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ve \nalready been linked to mycelium water evaporation [77], thermal \nbreakdown of lignocellulose [78], as well as indecomposable residual \nproducts of lignocellulosic fibres [79]. In comparison to the ones \nwithout NRP, the mycelium-based composites reinforced with NRP had \nmore inflection points as well as less mass loss during the test. Ther­\nmogravimetric studies revealed that when the temperature was between \n150 and 500◦Celsius, the breakdown rate of the mycelium-based com­\nposites reinforced with natural reinforcing particles was lower. This \ndiscovery may be explained by the fact that the natural reinforcing \nparticle is high in calcium carbonate (CaCO3) (95.85percent), and \nby the fact that the endothermic reaction takes place at high tempera­\ntures [80], which slows the decomposition rate of mycelium-based \ncomposites. The thermal stability of mycelium biocomposites was \nlower than that of EPS, while the residual mass was larger. However, at \nhigh temperatures (400 ◦C), it outperformed EPS as an insulating ma­\nterial. In a similar study, Jones et al. [34] investigated the thermal \ndecomposition of mycelium-based composites cultured on high silica- \nbased wastes (rice hulls and glass fines) and wheat grains. It was \nobserved that the presence of high silica-based wastes improved the \nthermal degradation characteristics of the mycelium-based composites. As a result, the presence of CaCO3 or SiO2-rich materials can increase \nthe thermal degradation resistance of mycelium-based biocomposites. 4.3. Water absorption rate \nThe water absorption rate is determined by the difference between \nthe (dry) weights of the MBCs and weights after a pre-determined period \nof exposure to moisture [14]. The thickness of MBMs increases in \nresponse to water absorption thereby degrading the mechanical strength \nand properties of MBCs [81]. The water absorption rate of MBCs is one of \nthe key application properties required in the design for the commer­\ncialization of mycelium-based products especially in structural appli­\ncations such as building and construction [1]. The durability of MBCs in \napplications where they are likely to come in contact with moisture such \nas in construction materials depends on its rate of water absorption [15]. Many researchers including Elsacker et al. [15], Appels et al. [36], Soh \net al. [82], and Ziegler et al. [83] have observed that the water ab­\nsorption rate of MBCs varies depending on the type of substrate used in \nthe synthesis of the MBCs. Elsacker et al. [15] studied the properties of \nMBCs synthesized from different types of substrates. It was noted that \nthe water diffusion coefficient of MBCs is influenced by the density of \nmycelium fungal skin. The water absorption rate was observed to \ndecrease as the density of the outer hydrophobic mycelium layers \nincreased. MBCs obtained from hemp substrates produced denser outer \nhydrophobic mycelium layers compared to those obtained from flax and \nK.K. Alaneme et al. Alexan",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 17,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "dria Engineering Journal 83 (2023) 234–250\n242\nstraw substrates. This result suggests that MBCs manufactured from \nhemp substrates are potentially more suitable for applications in the \nbuilding and construction industry because they have superior water \nabsorption properties compared to MBCs obtained from flax and straw \nsubstrates. Mycelium products processed by pressing the mycelium \nbiomass were observed to exhibit a lower rate of water absorption \ncompared to MBCs that were processed by drying the fungal skin [83]. Gou et al. [64] investigated the water absorption and permeability of \nmycelium biocomposites reinforced with natural reinforcing particles \n(NRPs) (carbonated sand). It was noted that the water absorption \nproperties of reinforced mycelium biocomposites were comparable to \nthe unreinforced biocomposites. The author established that the pres­\nence of NRP reduces the permeability coefficient of mycelium bio­\ncomposites, and the mechanism behind this lowered percentage is \nassociated with hyphal growth. Mycelium biocomposites with NRP \n(0–37.5%) had permeability coefficients that were comparable to silt, \nranging from 2.81 × 10−5 to 5.28 × 10−6 cm/s. According to the find­\nings of the experiments, the presence of hyphae has a great influence on \nthe water absorption as well as permeability of the produced mycelium. In the test for water absorption at 168 h, it was observed that the more \nintense the hyphal development, the larger the mass increment and the \npermeability coefficients. Regarding water absorption rate, more hy­\nphae development may lead to greater porosity, which promotes capil­\nlary action and hence increases water intake. [84]. For mycelium \npermeability, the hydrophobic properties of hyphae sped up hydraulic \npenetration and lowered drag force together with the substrate filler \nmaterials and water interface [85], resulting in mycelium biocomposites \ncultivated with P. ostreatus and O. radicata having a greater perme­\nability coefficient than those cultivated with Acremonium sp., a marine \nfungal strain (MF) belonging to mold. 4.4. Acoustic absorption properties \nMBCs are regarded as materials with high acoustic noise absorption \nproperties because they can convert a considerable amount of mobile air \nmolecules moving in sound waves into mild heat thereby impeding noise \naccumulation in an enclosed space [12]. The acoustic absorption ca­\npacity of some MBCs such as mycelium composites grown on rice straw \n(52 dBa), hemp pith (53dBa), and flax shive (53.5 dBa) are superior \nwhen compared with those of the conventional absorbers such as com­\nmercial ceiling tiles (61 dBa), urethane foam board (64 dBa) and \nplywood (65 dBa) [12]. Pelletier et al. [86] observed that the acoustic \nabsorption properties of mycelium-based materials are sensitive to \nsubstrate composition. It was noted that the acoustic absorption rate of \nvarious substrates including switch-glass, rice straw, sorghum stalk, flax \nshive, kenaf, and hemp sub",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 18,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "strates lie in the range of 70 to 75% at an \nabsorption frequency of 1000 Hz. Various factors such as particle \nporosity, tortuosity, flow resistivity, and pressing conditions have been \nreported to influence the acoustic performance of MBCs [87]. Owing to \nthe porous and fibrous nature of MBCs, they possess a characteristic low \ninherent absorption frequency (<1500 Hz) which exceeds that of most \ncommercial absorbers such as polystyrene and ceiling tiles in noise \nreduction [88]. The excellent acoustic absorption properties exhibited \nby MBCs are the main reason why they have been recently utilized in the \nproduction of sound insulation of walls, doors, and ceilings of concrete \nhalls, as well as broadcasting studios [12,89]. Sun et al. [72] studied the \nacoustic absorption properties of T. versicolor mycelium and yellow \nbirch wood particles (substrate) biocomposite. The biocomposite foam \nwas cultured for up to 30 days. The sound absorption coefficient of the \nproduced biocomposite foams in the 1000–6000 Hz range is shown in \nFig. 8. The maximum values obtained for the sound absorption coeffi­\ncient curves were all greater than 0.5 for all composite samples. Sur­\nprisingly, the composite with the lowest incubation time had the best \nsound absorption capability. The sound absorption coefficient rose with \nFig. 6. Plate without render subjected to fire test (a) before starting to burn (b) after 40 min (c) bottom of the plate after 40 min (Dias et al. [73], culled with \npermission from Elsevier).",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 19,
+      "char_count": 1521
+    }
+  },
+  {
+    "text": "[73], culled with permission \nfrom Elsevier). K.K. Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–250\n243\nsound frequency in general. The greatest sound absorption coefficient \nfor the Day 6 foam was 0.87 at 2800 Hz, although they were all observed \nto be higher than 0.8 at higher frequencies. Sound absorption reduced as \nincubation time increased. The Day 12 sample followed the same pattern \nas the Day 6 sample but with a lower peak (0.76). The coefficient was \nsubstantially lower in the bulk of the frequencies over 1500 Hz in the \nDay 18, 24, and 30 data. The maximum readings were 0.61, 0.56, and \n0.53, in that order. Day 6 and Day 12 featured just one large peak, \nalthough other lesser peaks occurred in different zones that were not \nwithin Day 6 and Day 12. The density obtained for Day 18, 24, and 30 \ntest samples were observed to be lower than that of the starting sample \n(without incubation) and Day 6 test sample, and it was noted that the \nporosity was greater, as predicted. During the incubation process, the \nvariations observed in the sound absorption coefficient were attributed \nto the ensuing changes in pore sizes between the wood particles [90]. The wider pores that are in between the wood particles allowed more air \nvibration to occur within the sample during the early stage of the in­\ncubation because the mycelium had not yet completely colonised the \nhuge crevices between the wood particles. The successive development \nof the mycelium reduced the air pathways at the interparticle scale, \nlowering the pore diameter gradient and mean pore size and resulting in \na decreased air viscosity ramp during sound energy transmission \n[91,92]. Simultaneously, it has previously been discovered that both \nmycelium-bonded composites and pure mycelium foams improved \nsound absorption at lower frequency ranges [86,88]. A similar pattern \nwas observed in Day 12, 18, and 24 samples, however, it was paired with \na significant reduction in sound absorption capabilities at a much higher \nfrequency range. A hybrid system made of several materials might be \none strategy for achieving greater sound absorption capabilities at all \nfrequencies. 4.5. Compressive strength \nCompressive strength measures the ability of material to resist the \ndirect pressure of applied compression force, thus is a vital property for \nassessing the use-ability of materials in the building and construction \nsector. Several factors have been noted to influence the compressive \nstrength of MBCs, such as the composition of the substrate, type of \nfungal strain, processing method, porosity, and degree of pressing [13]. Many authors including Ghazvinian et al. [9], Zimele et al. [14], \nElsacker et al. [15], and STOWA [93] have determined the compressive \nstrength of MBCs developed from various substrates. Zimele et al. [14] \ninvestigated mycelium-based biocomposites as building materials. The \ncompressive strengths of hemp mycelium composites and wood myce­\nlium composites",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 20,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "were determined to be 0.36 MPa and 0.52 MPa \nrespectively, and these values were found to be comparable with the \ncompressive strength of conventional building materials such as \ncemented wood wool (0.3 MPa) and hemp concrete (0.36 MPa). Elsacker \net al. [15] observed that the compressive stiffness of MBCs varies \ndepending on the type of substrate as follows: chopped hemp (0.77 \nMPa), loose hemp (0.51 MPa), chopped flax (1.18 MPa), flax waste \n(0.31 MPa), loose flax (0.28 MPa) and wood (0.14 MPa). Ghazvinian \net al. [9] reported a compressive strength of 1.1 MPa and 0.17 MPa for \nMBCs obtained from wheat straw and oak sawdust substrates, respec­\ntively. Similarly, STOWA [93] obtained 0.21 MPa for hemp, 0.43 MPa \nfor cellulose mixed with hemp, 0.19 MPa for cellulose mixed with straw, \nand 0.24 MPa for cellulose mixed with wood. These results confirm that \nthe compressive strength of MBCs varies with substrate composition. Haneef et al. [6] explained that the microstructure of mycelium-based \nmaterials depends on their feeding substrate which in turn influences \ntheir mechanical properties. Processing techniques have been reported \nto influence the compressive strength of MBCs as hot-pressed mycelium \nproducts showed higher compressive strength (0.43 MPa for cellulose \nmixed with hemp composites) compared to cold-pressed samples (0.27 \nMPa) [92]. It has been suggested that the strength of MBCs can be \nimproved by increasing the bond between the substrate and the myce­\nlium network [19]. Javadian et al. [2] reported that the compressive \nstrength of MBCs can be increased by appropriate selection of the \ngrowth substrate. For instance, the compressive strength of mycelium P. ostreatus composite grown on wheat straw substrate increased from \n0.02 to 0.15 MPa when grown on white oak sawdust substrate [33]. Some investigators have looked at modifying the composition of \nsubstrates to improve the mechanical characteristics of mycelium bio­\ncomposites. Ghazvinian et al. [9] fostered mycelium-based bio­\ncomposites produced on white oak sawdust as well as wheat straw \nsubstrates, discovering that the obtained compression strength of \nmycelium-based biocomposites cultivated on sawdust was nearly 6.5 \ntimes higher than those that were cultivated on wheat straw. Also, \nTravaglini et al. [94] synthesized mycelium-based biocomposites from \nred oak sawdust and discovered that sawdust substrates have higher \ncompressive strength (1 MPa) than straw substrates. In a similar study, \nYang et al. [17] developed mycelium-based biocomposites on natural \nfibre substrates and discovered that the inclusion of natural fibre had a \nbeneficial impact on compressive strength (570 kPa) and the elastic \nmodulus (60 MPa). According to these findings, it is deduced that \nwhen there is an increase in the substrate filler’s stiffness, the mechan­\nical characteristics of as-grown mycelium-based biocomposites tend to \nincrease. In a recent study, Gou et al. [64] investigated the comp",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 21,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "ressive \nstrength of as-grown mycelium biocomposites and mycelium bio­\ncomposites reinforced with natural reinforcing particles (NRPs) \n(carbonated sand). P. ostreatus-cultured mycelium biocomposites \nshowed maximum compression strength, trailed by O. radicata and \nmarine fungus. For the identical fungus, the mechanical characteristics \nof the mycelium biocomposites improved with increasing NRP concen­\ntration. In unconfined compressive strength (UCS) testing, mycelium- \nbased biocomposites cultivated with the use of P. ostreatus and 37.5 \npercent NRP exhibited the maximum compression strength as well as \nFig. 8. Thermal conductivity (A) and sound absorption coefficient (B) of as- \ngrown foams (Sun et al. [72], culled with permission from Elsevier).",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 22,
+      "char_count": 759
+    }
+  },
+  {
+    "text": "Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–250\n244\nYoung’s modulus which were obtained to be 508 kPa and 48.5 MPa, \nrespectively, and its cohesion as well as friction angle were observed to \nbe 78 kPa and 21.8◦based on triaxial tests. The presence of natural \nreinforcing particles alters the failure mechanism and stress–strain \nbehaviour of mycelium-based biocomposites as well. Under both un­\nconfined and triaxial circumstances, the mycelium biocomposites failed \nin two ways: protrusion failure and shear failure. When the NRP con­\ncentration of mycelium biocomposites exceeds 22.5 percent for P. ostreatus and O. radicata, or 30 percent for marine mushrooms, the \nfailure mode is a shear failure, and the stress–strain behaviour is strain \nsoftening. It was observed that when the NRP concentration is smaller, \nthe protrusion failure mechanism is more common in mycelium-based \nbiocomposites. The introduction of NRP enhances the material’s cohe­\nsiveness and internal friction angle greatly. As a result, the presence of \nNRP increases the mechanical characteristics of mycelium bio­\ncomposites. Even though the compression strength of the mycelium \nbiocomposites did not rise as much as that of mechanically processed \nmycelium biocomposites. The mycelium biocomposites made using this \ntechnology have a simple manufacturing programme, resulting in cheap \ncosts. Given the physicomechanical qualities of mycelium-based bio­\ncomposites, they have the potential to be employed as lightweight \nbackfill materials, which are in high demand in geotechnical engineer­\ning. In recent times, expanded polystyrene (EPS) composite soil \n(EPSCS), which is typically composed of soil, water, a binder (usually \ncement), and EPS, has been widely used as a lightweight backfill ma­\nterial, for example, when building roadway embankments, backfilling \nbehind retaining walls and backfilling pipeline trenches, and bridge \nabutments [94]. EPSCS has a density of 500–1800 kg/m3 as well as a \ncompressive strength of 50–550 kPa [95]. Existing research indicates \nthat as-grown mycelium-based biocomposites have a reduced density \n(160–280 kg/m3 [17]), and compressive strength of 350–570 kPa [17], \nmaking them an excellent alternative for lightweight backfill materials \nemployed in geotechnical engineering. Furthermore, there is no ques­\ntion that it is an environmentally beneficial substance that does not \npollute the environment and effectively consumes agricultural leftovers. 4.6. Flexural strength/Modulus of rupture \nFlexural strength which is also known as bend strength modulus of \nrupture can be determined by measuring the maximum bending stress \nthat a material can sustain before it yields, and can be obtained from \nequation (1) [96]. fm = 3Fmaxl1\n2bt2\n(1) \nwhere fm is the bending strength (MPa), Fmax is the maximum load at \nyield point or breakage (N), l1 is the distance between the centres of the \nsupports (mm), b is the width of the test sample (mm) and t is the \nth",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 23,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ickness of the test sample (mm). The bending strength of MBCs was \nobserved to vary with substrate composition. For instance, the bending \nstrength of Ganoderma (fungal species) composites grown on a mixture \nof cellulose and hemp substrates was greater than the bending strength \nof the MBCs grown on straw substrates but less than the bending \nstrength of the MBCs grown on a mixture of cellulose and wood sub­\nstrates. Similarly, the bending strength of MBCs produced from straw \nsubstrates is higher when compared to that produced from a substrate \ncontaining a mixture of cellulose and straw [96]. In a related study, \nTudryn et al. [97] reported that composites of cotton fiber have lower \nflexural properties when compared to fibrous straw-based composites \n(with flexural stiffness and strength in the range of 1 to 3 MPa and 0.06 \nto 0.22 MPa respectively). Composites of beech sawdust substrate were \nfound to exhibit relatively superior properties with flexural modulus and \nstrength of 9 MPa and 0.29 MPa respectively, which was attributed to \ntheir high density of mycelium hyphae network and continuous matrix \nphase microstructure formed on the composite surface. In another study, \nSun et al. [72] observed that 2.5% of nanocellulose additive to wood \nparticle substrate can increase the flexural strength of the product from \n1.5 to 3.5 MPa. It has been reported that the flexural or bending strength of MBCs \ncan be influenced by several factors among which include: porosity \n(with a negative correlation), density (positive correlation), and myce­\nlium particle size [98]. The modulus of rupture of MBCs has been \nobserved to increase with incubation time. It was explained that the \ndensity and intensity of the mycelium hyphae network bonding on the \nsubstrate increases with the incubation duration thereby increasing the \nmodulus of rupture of the mycelium-based material [19]. It was also \nobserved that P. osteratus composites grown on rapeseed straw and \nprocessed by hot pressing developed a flexural strength of 0.87 MPa \nwhen compared to 0.21 MPa that was obtained for samples that were \ncold pressed [2]. It was explained that hot pressing improved the me­\nchanical properties of mycelium through the mechanism of densification \nand reduction of porosity and moisture content [2]. 4.7. Tensile properties \nTensile properties are among the best-considered material properties \nof MBCs [12]. Many authors including Jones et al.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 24,
+      "char_count": 2456
+    }
+  },
+  {
+    "text": "[12], Hassanzadeh \net al. [99], and Ifuku et al. [100] have reported that the type of substrate \nis an important factor that influences the tensile properties of MBCs. For \ninstance, the tensile strength of mycelium composites grown with \nsawdust substrate was higher (in the range of 0.05 to 0.18 MPa) \ncompared to the range of 0.01 to 0.04 MPa obtained for composites \ngrown with straw substrate [12]. The mechanical behaviour of Gano­\nderma lucidum (G. lucidum) and Pleurotus ostreatus (P. ostreatus) \ncomposites grown on pure cellulose and cellulose-potato dextrose broth \nsubstrates was reported by Haneef et al. [6]. The addition of potato \ndextrose broth to the pure cellulose substrate stimulates the biosynthesis \nof plasticizers (lipids, proteins) which in turn leads to an increase in the \nductility of the MBCs. The ultimate strength of composites produced \nwith G. lucidum fungal strain was higher when compared with P. ostreatus composites and this was attributed to the morphology and \nelasticity of the structure of composites produced from G. lucidum. This \nresult suggests that the type of fungal species selected for biofabrication \nof MBCs affects their tensile properties. Javadian et al. [2] reviewed the \napplication of MBCs in the construction industry and reported that \nprocessing methods affect the tensile strength of MBCs. It was observed \nthat the tensile strength of P. osteratus composite grown on cotton seed \nhull substrate that was processed by hot pressing (at 150 ◦C, and force <\n30KN) was higher (0 0.13 MPa) compared to 0.03 MPa obtained for the \nsame composite when processed by cold pressing (at 20 ◦C for 20 min \nand dried thereafter) [13]. Fig. 9 shows the effect of hot and cold \npressing techniques on the strength of MBCs. It can be deduced from \nFig. 9 that the strength of mycelium-based products is strongly depen­\ndent on the processing technique as pressed mycelium samples were \nobserved to be stronger than the mycelium products that were not \npressed. 4.8. Elastic deformation \nElastic deformation is defined as the temporary deformation of a \nmaterial shape that is self-reversing after removing the force or load. It is \nmostly expressed in terms of young modulus and shear modulus. Several \nauthors including Haneef et al. [6], Appels et al. [13], and Yang et. al. [17] have reported that the type of feedstock used in the bio-fabrication \nof MBCs influences their modulus of elasticity. Appels et al. [13] \nobserved that the elastic modulus of T. multicolor mycelium composite \ngrown on Beech sawdust was higher (13 ± 0.5 MPa) compared to 4 ±\n0.4 MPa obtained for T. multicolor mycelium composite grown on \nRapeseed straw. An appreciable increase in the Young’s modulus of \nMBCs was observed when chitin nanofibers additives were introduced to \ndifferent substrate materials [99,101]. The addition of natural fibres in \nmycelium feedstock has also been reported to increase Young’s modulus \nK.K. Alaneme et al. Alexandria Engineering Journal",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 25,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "83 (2023) 234–250\n245\nof MBCs [17]. In a related study Haneef et al. [6], observed a significant \nimprovement in Young’s modulus of P. ostreatus cellulose composite \nwith dextrose additive into the growth medium compared with a com­\nposite of G. lucidum cellulose due to their morphology. It can thus be \ndeduced from these studies that substrate composition significantly af­\nfects Young’s modulus of MBCs. Appels et al. [13] observed that pro­\ncessing methods can be employed to tailor the elastic modulus of MBCs. It was reported that the elastic modulus of P. osteratus composite grown \non rapeseed straw substrate increased from 9 ± 1.2 MPa (in cold pressed \ncondition) to 97 ± 9 MPa after hot pressing at 150 ◦C [13]. Water absorption of MBCs has been observed to be relatively high \ncompared to conventional construction materials such as cement or \nplastics and this reduces their strength and limits their application in \nconstruction [50]. However, the utilization of MBCs in construction \nindustries may thrive in tropical regions due to the characteristic low \nrelative humidity which limits the absorption of water [40]. MBCs have \nrelatively low compressive strength compared to cement but have an \noverriding advantage of lightweight [1]. It can be deduced from the data \ndisplayed in Table 1 that the specific compressive strength of MBCs is \nhigher than that of cement. Specific compressive strength refers to the \nratio of the compressive strength to the density of the material [107]. This observation therefore suggests that MBCs have great potential for \ncommercial utilization in the construction industry, especially in the \ntropical regions. 5. Applications of mycelium-based composites \n5.1. Building and construction \nThe supposed use of mycelium-based composites in the construction \nindustry is mainly due to their unique properties including fire-proof, \nthermal insulation, and acoustic absorption properties [26]. Several \nreviewed papers have shown improved material properties of mycelium- \nbased composite suitable for building and construction activities \n[2,10,12]. Furthermore, MBCs have been widely reported to exhibit \nsuperior fire safety features compared to conventional building mate­\nrials such as polystyrene insulation and particle board [108]. Jones et al. [34] emphasized that MBCs are safe compared with conventional high- \ninflammable petroleum-based building materials because they release \nless smoke and carbon (IV) oxide during combustion. Jones et al. [12] \nreported that MBCs have a much longer duration of flashover (311 – 370 \ns) compared to 173 s and 61 s reported for particleboard and polystyrene \ninsulation foam respectively. Heat release rate (HRR) is a material \nproperty that determines the rate of fire growth and spread during \ncombustion [109]. Interestingly, MBCs have been observed to possess \nlower peak HRR (185Kw/m2) compared to 503 Kw/m2 and 200 Kw/m2 \nobtained for polystyrene insulation foam and particleboard respectively",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 26,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "[12]. MBCs possess superior termite resistance properties when \ncompared to conventional building materials [25]. Concerted efforts have been made by researchers very recently on \nbio-designing, development, and characterization of the physical, \nchemical, and mechanical properties of mycelium-based materials with \nthe view to maintain a clean environment, replace the expensive and \nnon-biodegradable synthetic construction materials, and transform the \nfuture of the construction industry through the concept of bio- \nfabrication and bio-economy [2]. MBCs have been reported to exhibit \nexcellent termite-resistant properties in addition to their characteristic \nlow densities (or lightweight), fire safety, and acoustic damping prop­\nerties [12]. Thus, they have been considered viable alternatives or op­\ntions to replace conventional construction and building materials in \napplications such as polystyrene insulation and particle- board, furni­\nture, walls, and ceiling tiles [12,26]. In a related study, Yang et al. [5] \nnoted that mycelium-based foams and sandwich composites are recently \nbeing developed for building and construction materials as both semi \nand non-semi structural materials to replace the conventional materials \n(plastic films and sheets, synthetic foams and plastics) for paneling, \nflooring, furniture, and decking. Companies such as MycoWorks, \nMycotech, NEFFA, MOGU, and Ecovative Design have played a vital role \nin the designing and production of mycelium-based composite products \nfor different uses [2]. Therefore, the commercial utilization of MBCs in \nbuilding and construction in various applications such as acoustic and \nthermal insulation, paneling, and drywall as well as in door panels and \nwindow frames  is expected to override the synthetic construction ma­\nterials soon [2]. Fig. 10 is a conceptual presentation adapted from \nManan et al. [25] of some typical products developed by MBCs in \nvarious areas of applications including building and construction. Some \nof the specific mycelium-based products developed for building and \nconstruction applications are reviewed in the rest of this section. 5.2. Mycelium-based composite products in the building and construction \nindustry \n5.2.1. Mycelium bricks \nThe compressive strength and weight per cubic metre of mycelium \nbrick are about 30 psi and 43 kg (≈0.7 psi/kg) respectively, which is \nvery low when compared to 4000 psi and 2400 kg (≈1.7psi/kg) \nrespectively obtained for concrete [110]. Thus, it can be inferred that \nthe specific compressive strength of mycelium bricks is proximate to that \nFig. 9. Tensile (A) and bending (B) tests of P. ostreatus grown on rapeseed straw without pressing (dotted line), and cold (striped line) or hot (solid line) pressing \n(Appels et al. [13], culled with permission from Elsevier). K.K. Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–250\n246\nof concrete. Low thermal conductivity is another vital property consid­\nered when selecting a b",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 27,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "rick material for building and construction. Mycelium bricks (with thermal conductivity ranging from 0.09179 to \n0.1534 W/mk) have been reported to show better thermal insulation \nperformance than resin-based materials [48]. Similar values of thermal \nconductivity ranging from 0.074 to 0.087 W/mk have been reported for \nOxyporus (OXY) [48]. In another study conducted by Kshitij et al. [110], \nit was shown that bio blocks exhibited improved thermal stability, hy­\ndrophobic properties, and mechanical strength. The study maintained \nthat the compressive strength of bio blocks developed from P. ostreatus \nmycelium grown on various agricultural residue substrates (such as \nwheat bran, sugar cane, sawdust, and their mixture) lie in the range of \n6.0 to 7.5 N/mm2. The mix substrates had the highest strength (7.5 ±\n0.3 N/mm2) with sugar cane having the least strength (6.0 ± 0.3 N/ \nmm2) due to its relatively larger particle size leading to poor mycelium \npenetration and surface coverage of sugar cane bio blocks. A 13-metre- \ntall tower known as “Hy-Fi” was constructed with 10,000 mycelium \nbricks by mixing a wooden beam with mycelium-based composites to \nimprove the strength [111,112]. In 2014, the project when presented \nwon the Young Architects program competition at “MoMA PSI” in New \nYork [110,112]. 5.2.2. Mycelium insulation panels \nThe current regulation to solve the global challenge of greenhouse \ngas emissions has prompted industries and researchers to explore carbon \ncapture, to make the Earth more sustainable [1]. The increasing world \npopulation has resulted in increased production of goods, increased \nneed for renewable energy, and corresponding escalation in the need for \nmaterials for thermal insulation [1]. To address these challenges, reg­\nulations have been imposed which have resulted in the development of \nvarious measures or approaches to curb carbon footprint in every aspect \nof industry [68]. Against this background, mycelium-based composites \nfor thermal insulation are now being considered [1,17]. Polymers like \npolyurethane and polystyrene are among the conventional materials \nutilized over the years for thermal insulation because of their poor \nthermal conductivity and high specific heat capacity, nevertheless, the \nexpense of recycling them due to high energy consumption, non- \ndegradability and environmental hazards are persisting problems \n[1,6]. The utilization of MBCs for thermal insulation is envisaged and \nwill provide a solution to these problems considering their biodegrad­\nable nature and high specific heat capacity alongside low thermal con­\nductivity and low density (Table 1). Also, MBCs are good absorbent, \ninsulation, and fire-resistance materials due to their filter-like structure \nand porous attributes [113]. Hence, mycelium composite panels can be \nused in filtration systems and as a good adsorbent of atmospheric par­\nticulate matter. Taekyoung and Jaeyun [76] developed P. ostreatus \nmycelium composite panels grow",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 28,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "n on four different substrates such as \nhemp stalk, rice straw, lacquer tree wood chip, and oak wood chip, using \nNO3 \n−and SO4 2−to measure the particulate matter adsorption per­\nformance. It was observed that mycelium composite panels have a \nhigher NO3 \n−\nand SO4 2−\nadsorption than puncheon granite panels. Hemp-based mycelium composite panels had the highest NO3 \n−\nadsorption, rice straw had the highest SO4 2−adsorption while lacquer \ntree wood chip-based panels had the least NO3 \n−and SO4 2−adsorption. In a related study, Kimberley et al. [114] reported the development of a \nmycelium panel made of wheat husks and reishi substrates having \ntemperature and relative humidity of 25 ◦C and 85% respectively when \ngrown for three weeks with Ganodermalucidum as a binding agent. The \nmycelium panel was observed to exhibit good sound insulation \ncapacities. 5.2.3. Mycelium furniture \nThe possibility of producing mycelium-based composite furniture in \nbuildings by mixing nature with technology has become a reality. Holt \net al. [22] noted that all classes of materials have witnessed the appli­\ncation of three-dimensional (3D) printing technologies (an additive \nmanufacturing process that creates a physical object from a digital \ndesign) in other to produce different shapes and structures. Gantenbein \net al. [37] printed 3D living complex materials using hydrogels inocu­\nlated with Ganodermalucidum mycelium. They reported the possibility \nof exploiting 3D technology in the development of biomaterials with the \nability to regenerate and adapt to changing environmental conditions. Erick Klarenbeek a Dutch designer produced a mycelium chair with 3D \nprinting technology by using a powdered straw substrate, water, and \nFig. 10. Conceptual presentation of some specific products developed from MBMs for various applications. K.K. Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–250\n247\nliving mycelium, that is, yellow oyster mushroom [115]. It was \nexplained that the mycelium chair was produced by allowing mycelium \nto grow and consume the straw framework of the chair (bioplastic shell) \n[115]. The 3D printing technology is not limited to mycelium chairs \nalone but can also be used to produce tables, a whole interior, or erect a \nhouse [114]. 5.2.4. Mycelium walls, floor, and ceiling tiles \nThe global sustainable development strategy is directed towards \nreplacing non-renewable materials with bio-based materials to ensure a \nsuccessful transition from a linear economy model to a sustainable bio- \neconomy [116]. Consequently, MBCs are now being considered for ap­\nplications involving ceiling tiles and walls because they possess excellent \nacoustic damping capacity, fire retardant properties, lightweight (or \nhigh specific compressive strength), and insulating properties that are \ncomparable to those of conventional ceiling panels such as polystyrene \nand particle boards as shown in Table 1. MBCs have been successively \nutilized to manufacture ceiling p",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 29,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "anels, which have improved acoustic \nand fire-retardant properties to the conventional materials used for \nceiling panels [117]. Mogu, a construction company based in Italy has \ndesigned and fabricated floor tiles made of MBCs in combination with \ndifferent bio-based materials such as bio-based fibreboards [118]. The \nproduct consists of a bio-based fibreboard core with bio-polyurethane \nand oyster outer layer and a topcoat consisting of water-based paint \n[118]. Mycelium-based materials are very economical and have been re­\nported to exhibit superior fire safety properties than traditional con­\nstruction \nmaterials such \nas \nextruded polystyrene \nfoam and \nparticleboards [119]. Pelletier et al. [120] reported that acoustic tiles \nmade of MBCs have comparable properties to commercial acoustic tiles. For instance, Pelletier et al. [120] noted that the density and acoustic \ndamping capacity of mycelium tiles grown on agricultural by-products \nwere 0.42 g/cm3 and 7.1 respectively, which are comparable to 0.71 \ng/cm3 and 7.6 respectively, obtained for a commercial acoustic tile. In a \nrelated study by Saez et al. [121] where a sandwich panel with myce­\nlium composite mid-layer was developed, it was reported that MBCs are \nenvisaged to compete favorably for selection in applications relating to \nsandwich wall and ceiling elements. This assertion was made in \nconsideration of their several favourable properties including light­\nweight, low energy consumption during construction, thermal insu­\nlation, and acoustic insulation due to the sound-absorbing effect of the \ncore layer of mycelial material. MBC tiles are expected to replace con­\nventional plastic and ceramic tiles soon because they are eco-friendly, \nbiodegradable, and relatively cheap [118]. 5.2.5. Binder \nAnother vital role of mycelium in the construction industry is \nmycelium which serves as a binding agent to provide structural stability \n[12]. Mycelium binders are foam-like materials with lower densities and \nelastic moduli than pure mycelium which are derived from MBCs and \nused for bonding substrates [13]. Mycelium binders are recently being \nused as low-density adhesives to join two thin laminate facings in \nsandwich structures [122]. The structure of mycelium binder can affect \nthe mechanical properties of MBCs [12]. Chitin-glucan extracts which \nserve as mycelium binders derived from mycelium have been reported to \nattain a tensile strength of 25 MPa [123]. The high tensile strength of the \nmycelium composites is a consequence of the high cellulose content in \nthe mycelium matrix [30]. The bond strength of the mycelium-based \nmaterial is determined by the binding power of mycelium which in \nturn depends on the fungi strain and the type of substrate) [1]. The \ncompatibility of the mycelium matrix with the reinforcing substrate is \ndue to the superdense network between the components [1]. Jiang et al. [40] studied the production of MBCs sandwich structures made by \ngrowing mycelium on ag",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 30,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ricultural residues. The study developed a bio- \nresin matrix using mycelium as a binding agent. Sun et al. [123] re­\nported that mycelium binders are more reliable compared to other \nconventional wood composite binders. The mycelium served as the \nbinding agent by substituting glues in engineered woods such as \nmedium-density fiberboard (MDF) and helping hold wood fibers into \nsheets or molded forms without necessarily making use of glue [79]. Other applications of mycelium-based composites are in the field of \nbiomedical applications such as drug delivery, and bio-sensing \n[124,125], packaging such as mycelium foam [51], and also cosmetic \nas moisturizer [126]. 6. Challenges and future scope \n6.1. Mycelium concerns and limitations \nBio-based materials such as Mycelium have a wide spectrum of \ntechnical properties and advantages that can be useful in developing \nmaterials and products that have green credentials (renewable and \nrecyclable properties) and have the potential to contribute to net zero \nefforts and also, available as low-cost raw materials for a range of uses \nand product design. However, Mycelium materials, like all materials are \nlikely to experience a range of challenges that can affect the perfor­\nmance of the material. Considering the status of available literature on \nMycelium, there are some concerns and limitations as discussed below. 6.2. Varying mechanical properties \nThere are many studies (Haneef et al. [6], Appels et al. [13], Sydor \net al. [26], Girometta et al.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 31,
+      "char_count": 1514
+    }
+  },
+  {
+    "text": "[127], Robertson et al. [128] and Ecovative \n[129]) on the potentials and advantages of mycelium as a candidate \nmaterial to replace some of the conventional materials such as wood and \nplastics used for product design. However, different researchers have \ngotten varying results on the mechanical properties of mycelium-based \nproducts (Table 1). As already noted, studies indicate that the properties \nof the mycelium composites depend on the fungus specie, substrate, \ngrowth conditions, and processing of the material, as well as its additives \n[13]. It can be deduced from the reviewed articles that the material \nproperties of mycelium-based composites and products may be altered \nto meet different demands by choosing the substrate type and fungal \nspecies, adjusting the growth circumstances, and changing the way the \nmycelium is inactivated once it has grown and dried. This level of cus­\ntomization has great potential but there is the need to be able to have \nstandardized mechanical properties expected across the board. To have \nthese standardized properties, there is a need for more R&D work. 6.3. Limited testing data \nWhen developing new materials, testing and qualification of the \nmaterials is crucial, the material ultimately has to be tested against the \nspecific environment and areas of application of the material. This \nqualification and performance data are critical and essential to \ndemonstrate the consistent properties of a material. However, mycelium \nproducts are quite new and there is limited industry peer-reviewed \ntesting data available. Therefore, there is a need for universal testing requirements and \npublished standards (ISO, ASTM) to ensure that qualification and testing \nprograms can be developed to support the manufacture and use of \nmycelium in service. 6.4. Weathering and moisture \nMycelium, like other bio-based materials, is organic, which means it \nis vulnerable to damage by environmental factors and microorganisms \nranging from moisture to bacteria to fungi. According to research, it has \nbeen observed that mycelium bricks cannot be employed for long-term \nbuildings due to their diminishing resistance to water, humidity, as \nwell as mould growth [13,128]. As the capacity to repel water declines \nK.K. Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–250\n248\nover time, the mycelium-based bricks become more susceptible to \nmould and humidity. Based on the foregoing, the water absorption of the \nfinal mycelium-based material is a key source of worry in terms of \nquality and durability. Some researchers suggest that coating might be \nused to overcome this moisture retention challenge, but this will remain \na limitation until further work can be done on mycelium materials. 6.5. Scalability \nMycelium structures are grown, rather than manually assembled, \nthis unique manufacturing process makes it hard to say if or when \nmycelium-based materials will be produced on an industrial scale. Especially because different subst",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 32,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "rates and species of mycelium give \ndifferent mechanical properties quotient [13]. Some companies like \nEcovative and Mycoworks pioneered mycelium-based technology and \nhave commenced some scaled production of mycelium materials but a \nlot of this work is for research and development purposes and also patent \nprotected and therefore, not available in the public domain [129,130]. For Mycelium to achieve its potential and replace conventional \nmaterials, there will be a need for assurance of an adequate supply of \nraw materials (specific substrate and mycelium species) and available \ntechnology to support the manufacturing process. 6.6. The application question \nCurrently, there is a wide range of interest in mycelium and many \nindividual research studies are ongoing as regards product application \nand new frontiers where mycelium materials can replace conventional \nmaterials. This development might slow down progress as regards being \nable to gather tests and qualifications that can help to standardize \nmanufacturing methods and performance necessary to develop suc­\ncessful end products. Therefore, without a focused approach on what \nmaterials mycelium intends to replace and a targeted application func­\ntion, research efforts will continue to be divergent. 7. Conclusion \nBiocomposite materials that can help in the reduction of carbon \nemission and energy consumption of non-renewable and non- \nbiodegradable materials used in building and construction industries, \nsuch as cement, concrete, metals, and polymers, are currently in high \ndemand. The prospects of mycelium-based composites to meet this de­\nmand were appraised in this review through analyses of their bio- \nfabrication procedures, material properties (in comparison with tradi­\ntional materials), and promise for use in building and construction ap­\nplications. It was noted that mycelium-based composites have several \nadvantages from technical, environmental, and green materials per­\nspectives which make them desirable for building and construction \npurposes. However, their low mechanical properties, high water ab­\nsorption, and as well as lack of standardized development methods, limit \ntheir applications to semi-structural and non-structural applications \nsuch as paneling, furniture, and decking. It is proposed that future \nresearch studies on mycelium-based composites should be focused on \nreconciling their varying mechanical properties, which are dependent \non substrate, fungus specie, growth condition, and processing method. Limited testing data; weathering and hydrophilic propensities, and \nscalability, are other factors to be considered if they are to achieve long- \nterm commercial success and applicability. Declaration of Competing Interest \nThe authors declare that they have no known competing financial \ninterests or personal relationships that could have appeared to influence \nthe work reported in this paper. Acknowledgement \nThe authors wish to appreciate the support of their respe",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 33,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ctive in­\nstitutions, and the National Research Foundation (NRF), South Africa \nthrough the Grant No: 138062, administered by The University of \nJohannesburg, South Africa. References \n[1] D. Alemu, M. Tafesse, A.K. Mondal, Mycelium-based composite: The future \nsustainable biomaterial, Int. J. Biomater. 1–12 (2022), https://doi.org/10.1155/ \n2022/8401528. [2] A. Javadian, H. Le Ferrand, D.E. Hebel, N. Saeidi, Application of mycelium-bound \ncomposite materials in construction industry: A short review, SOJ Mater. Sci.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 34,
+      "char_count": 521
+    }
+  },
+  {
+    "text": "Eng. 7 (2) (2020) 1–9. [3] D. Pe˜naloza, The Role of Biobased Building Materials in the Climate Impacts of \nConstruction: Effects of Increased Use of Biobased Materials in the Swedish \nBuilding Sector, KTH Royal Institute of Technology, Stockholm, Sweden, 2017. [4] R.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 35,
+      "char_count": 268
+    }
+  },
+  {
+    "text": "Siddique, K. Singh, M. Kunal, M. Singh, V. Corinaldesi, Properties of bacterial \nrice husk ash concrete, Constr. Build. Mater. 121 (2016) 112–119. [5] L. Yang, D. Park, Z. Qin, Material function of mycelium-based bio-composite: A \nReview, Front. Mater. 8 (1–15) (2021), 737377, https://doi.org/10.3389/ \nfmats.2021.737377. [6] M. Haneef, L. Ceseracciu, C. Canale, I.S. Bayer, J.A. Heredia-Guerrero, \nA. Athanassiou, Advanced materials from fungal mycelium: fabrication and \ntuning of physical properties, Sci. Rep.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 36,
+      "char_count": 514
+    }
+  },
+  {
+    "text": "7 (2017) 41292, https://doi.org/10.1038/ \nsrep41292. [7] S. Vandelook, E. Elsacker, A.V. Wylick, L. De Laet, E. Peeters, Current state and \nfuture prospects of pure mycelium materials, Fungal Biol. Biotechnol. 8 (20) \n(2021) 1–10, https://doi.org/10.1186/s40694-021- 00128-1. [8] UNEP Finance Initiative (2020). Financing Circularity: Demystifying Finance for \nCircular Economies – Finance Initiative. Available online: unepfi.org (accessed on \n7 June). [9] A. Ghazvinian, P. Farrokhsiar, F. Vieira, J. Pecchia, B. Gursoy, Mycelium-based \nbio- composites for architecture: Assessing the effects of cultivation factors on \ncompressive strength. The eCAADe and SIGraDi Conference, University of Porto, \nPortugal, 2019. [10] E. Elsacker, S. Vandelook, A.V. Wylicka, J. Ruytinx, L. De Laeta, E. Peeters, \nA comprehensive framework for the production of mycelium-based \nlignocellulosic composites, Sci. Total Environ., xxx 1–17 (138431) (2020) 2020, \nhttps://doi.org/10.1016/j.scitotenv.2020.138431 0048-9697/c. [11] D. Lingam, S. Nayaran, K. Mamun, D. Charan, Engineered mycelium-based \ncomposite materials: Comprehensive study of various properties and applications, \nConstr. Build. Mater. 391 (2) (2023) 131841. [12] M. Jones, A. Mautner, S. Luenco, A. Bismarck, S. John, Engineered mycelium \ncomposite construction materials from fungal biorefineries: a critical review, \nMater. Des.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 37,
+      "char_count": 1382
+    }
+  },
+  {
+    "text": "187 (1–33) (2019), 108397, https://doi.org/10.1016/j. matdes.2019.108397. [13] F.V.W. Appels, S. Camere, M. Montalti, E. Karana, K.M.B. Jansen, J. Dijksterhuis, \nP. Krijgsheld, H.A.B. W¨osten, Fabrication factors influencing mechanical, \nmoisture and water-related properties of mycelium-based composites, Mater. Des.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 38,
+      "char_count": 317
+    }
+  },
+  {
+    "text": "161 (2019) 64–71. [14] Z. Zimele, I. Irbe, J. Grinins, O. Bikovens, A. Verovkins, D. Bajare, Novel \nmycelium-based biocomposites (MBB) as building materials, J. Renewable Mater. 8 (9) (2020) 1068–1075, https://doi.org/10.32604/jrm.2020.09646. [15] E. Elsacker, S. Vandelook, J. Brancart, E. Peeters, L. De Laet, Mechanical, physical \nand chemical characterisation of mycelium-based composites with different types \nof lignocellulosic substrates, PLoS One 14, (7) (2019) eo213954. [16] V. Shanmugam, R.A. Mensah, M. F¨orsth, G. Sas, ´A. Rest´as, C. Addy, Q. Xu, \nL. Jiang, R.E. Neisiany, S. Singha, G. George, et al., Circular economy in \nbiocomposite development: State-of-the-art, challenges and emerging trends, \nComposites Part C 5 (2021), 100138, https://doi.org/10.1016/j. jcomc.2021.100138. [17] Z.J. Yang, F. Zhang, B. Still, M. White, P. Amstislavski, Physical and mechanical \nproperties of fungal mycelium-based biofoam, J. Mater.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 39,
+      "char_count": 939
+    }
+  },
+  {
+    "text": "22 (1) (2019) 1647–1657, \nhttps://doi.org/10.1080/14606925.2019.1594997. [19] E.D. Gezer, E. Gümüs¸kaya, E. Uçar, D. Usta¨omer, Mechanical properties of \nmycelium based MDF, Sigma J. Eng.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 40,
+      "char_count": 187
+    }
+  },
+  {
+    "text": "& Nat. Sci. 11 (2) (2020) 135–140. [20] M.A. Shakir, B. Azahari, Y. Yusup, M.F. Yhaya, A. Salehabadi, M.I. Ahmad, \nPreparation and characterization of mycelium as a bio-matrix in fabrication of \nbio-composite, J. Adv.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 41,
+      "char_count": 217
+    }
+  },
+  {
+    "text": "Tarazi, Y.J. Grobman, Developing novel \napplications of mycelium based bio-composite materials for design and \narchitecture, in: Building with Bio-Based Materials: Best Practice and \nPerformance Specification, 2017. [22] G.A.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 42,
+      "char_count": 225
+    }
+  },
+  {
+    "text": "Holt, G. McIntyre, D. Flagg, E. Bayer, J.D. Wanjura, M.G. Pelletier, Fungal \nmycelium and cotton plant materials in the manufacture of biodegradable molded \npackaging material: Evaluation study of select blends of cotton byproducts, \nJ. Biobaased Mater. Bioenergy 6 (4) (2012) 431–439, https://doi.org/10.1166/ \njbmb.2012.1241. K.K. Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–250\n249\n[23] L. Jiang, D. Walczyk, G. McIntyre, R. Bucinell, A new approach to manufacturing \nbiocomposite sandwich structures: Mycelium-based cores, in: Proceedings of the \nASME 11th International Manufacturing Science and Engineering Conference. American Society of Mechanical Engineers, Blacksburg, VA, USA, 2016, ISBN \n978-0-7918-4989-7. [24] M.R. Islam, G. Tudryn, R. Bucinell, L. Schadler, R.C. Picu, Morphology and \nmechanics of fungal mycelium, Sci. Rep.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 43,
+      "char_count": 855
+    }
+  },
+  {
+    "text": "7 (2017) 13070, https://doi.org/ \n10.1038/s41598-018- 20637-1. [25] S. Manan, M.W. Ullah, M. Ul-Islam, O.M. Atta, G. Yang, Synthesis and \napplications of fungal mycelium-based advanced functional materials, \nJ. Bioresour. Bioprod. 6 (2021) 1–10, https://doi.org/10.1016/j. jobab.2021.01.001. [26] M. Sydor, A. Bonenberg, B. Doczekalska, Cofta, Mycelium-based composites in \nart, architecture, and interior design: A Review, Polymers 14 (2021) 145, https:// \ndoi.org/10.3390/polym14010145. [27] M.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 44,
+      "char_count": 496
+    }
+  },
+  {
+    "text": "Ibrar, M.W. Ullah, S. Manan, U. Farooq, M. Rafiq, F. Hasan, Fungi from the \nextremes of life: an untapped treasure for bioactive compounds, Appl. Microbiol. Biotechnol. 104 (2020) 2777–2801. [28] N. Attias, O. Danai, T. Abitbol, E. Tarazi, N. Ezov, I. Pereman, Y.J. Grobman, \nMycelium bio-composites in industrial design and architecture: comparative \nreview and experimental analysis, J. Clean.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 45,
+      "char_count": 395
+    }
+  },
+  {
+    "text": "Bucinell, G. Tudryn, Manufacturing of \nbiocomposite sandwich structures using mycelium-bound cores and preforms, \nJ. Manuf. Process. 28 (2017) 50–59, https://doi.org/10.1016/j. jmapro.2017.04.029. [30] O.P. Etinosa, Design and testing of mycelium biocomposite, African University of \nScience and Technology, Mater. Sci.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 46,
+      "char_count": 319
+    }
+  },
+  {
+    "text": "Eng. Thesis (2019) 1–23. [31] Martino E., Morin E., Grelet G.-A., Kuo A., Kohler A., Daghino S., Barry, W., \nCichocki, N., Clum, A., Dockter, R. B., Hainaut, M., Kuo, R. C., LaButti, K., \nLindahl, B. D. [32] D.D. Schaak, M.J. Lucht, Biofilm treatment of composite materials containing \nmycelium US9469838B2, 2016. Available online https://patents.google.com/ \npatent/US9469838B2/ en?oq=US9469838 2016. [33] A. Ghazvinian, P. Farrokhsiar, F. Vieira, J. Pecchia, B. Gursoy, Mycelium-based \nbio-composites for architecture: Assessing the effects of cultivation factors on \ncompressive strength, Mater. Stud.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 47,
+      "char_count": 604
+    }
+  },
+  {
+    "text": "Innovat. 2 (2020) 505–514. [34] M. Jones, T. Bhat, T. Huynh, E. Kandare, R. Yuen, C.H. Wang, S. John, Waste- \nderived Low-Cost Mycelium Composite Construction Materials with Improved \nFire Safety, Fire Mater. 42 (2018) 816–825. [35] F. Atila, Effect of different substrate disinfection methods on the production of \npleurotus ostreatus, JAS 4 (2016) 52. [36] J. Appels, C.E. Dijksterhuis, K.M. Lukasiewicz, H.A.B. Jansen, P. W¨osten, \nKrijgsheld, Hydrophobin gene deletion and environmental growth conditions \nimpact mechanical properties of mycelium by affecting the density of the \nmaterial, Sci. Rep.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 48,
+      "char_count": 603
+    }
+  },
+  {
+    "text": "8 (2018) 4703. [37] S. Gantenbein, E. Colucci, J. K¨ach, E. Trachsel, F.B. Coulter, P.A. Rühs, \nK. Masania, A.R. Studart, Three-dimensional Printing of Mycelium Hydrogels into \nLiving Complex Materials, Cond-Mt.Mtri-Sci. 00976 (2022). [38] H. Ahmadi, Cellulose-mycelia Foam: Novel Bio-composite Material Master Thesis, \nUniversity of British Columbia, 2016. [39] S.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 49,
+      "char_count": 365
+    }
+  },
+  {
+    "text": "Travaglini, J. Noble, P.G. Ross, C.K.H. Dharan, Mycology Matrix Composites, \n28th Annual Technical Conference of the American Society for Composites, State \nCollege, PA, 2013. [40] L. Jiang, D. Walczyk, G. McIntyre, R.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 50,
+      "char_count": 218
+    }
+  },
+  {
+    "text": "Bucinell, B. Li, Bioresin infused then cured \nmycelium-based sandwich-structure biocomposites: resin transfer molding (RTM) \nprocess, flexural properties, and simulation, J. Clean.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 51,
+      "char_count": 180
+    }
+  },
+  {
+    "text": "Prod. 207 (1) (2019) \n123–135. [41] W. Nawawi, K.-Y. Lee, E. Kontturi, R. Murphy, A. Bismarck, Chitin nanopaper \nfrom mushroom extract: natural composite of nanofibres and glucan from a single \nbio-based source, ACS Sustain. Chem.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 52,
+      "char_count": 230
+    }
+  },
+  {
+    "text": "Eng. 7 (7) (2019) 6492–6496. [42] M. Jones, T. Huynh, S. John, Inherent species characteristic influence and growth \nperformance assessment for mycelium composite applications, Adv. Mater.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 53,
+      "char_count": 188
+    }
+  },
+  {
+    "text": "Lett. 9 \n(1) (2018) 71–80. [43] J. Kung’u, The Phases of Fungal Growth in Indoor Environment, http://www. moldbacteria.com/mold/the-phases-of-fungal-growth-in-indoor-environment. html 2016, Accessed date: 25 August 2019. [44] P. Stamets, (2005) Mycelium Running: How Mushrooms Can Help Save the \nWorld, Ten Speed Press, Berkeley, CA, 2005. [45] M.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 54,
+      "char_count": 347
+    }
+  },
+  {
+    "text": "Daver, S. John, Mycelium composites: a \nreview of engineering characteristics and growth kinetics, J. bionanosci. 11 \n(2017) 241–257, https://doi.org/10.1166/jbns.2017.1440. [46] D.N. Pegler, Hyphal analysis of basidiomata, Mycol. Res.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 55,
+      "char_count": 235
+    }
+  },
+  {
+    "text": "100 (2) (1996) 129–142. [47] E.J.H. Corner, The construction of polypores, Phytomorphology 3 (3) (1953) \n152–167. [48] J. Webster, R. Weber, Introduction to Fungi, Cambridge University Press, \nCambrige, U.K., 2007. [49] K.S. Ko, H.S. Jung, Molecular phylogeny of Trametes and related genera, Antonie \nVan Leeuwenhoek 75 (3) (1999) 191–199. [50] L. Ryvarden, Genera of polypores: nomenclature and taxonomy, Synopsis \nFungorum 5 (1991) 1–363. [51] A. Ames, A Consideration of Structure in Relation to Genera of the Polyporaceae, \n1913. [52] S.M. Stocks, C.R. Thomas, Strength of mid-logarithmic and stationary phase \nSaccharopolyspora erythraea hyphae during a batch fermentation in defined \nnitrate-limited medium, Biotechnol. Bioeng.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 56,
+      "char_count": 733
+    }
+  },
+  {
+    "text": "77 (1) (2002) 601–613. [54] E. Bayer, G. McIntyre, Substrate Composition and Method for Growing \nMycological Materials, 2012. [55] E. Bayer, G. McIntyre, Method for Growing Mycological Materials, 2015. [56] R.J.J. Lelivelt, (2015) The Mechanical Possibilities of Mycelium Materials, \nEindhoven University of Technology, Eindhoven, Netherlands, 2015. [57] S. Bartnicki-Garcia, Cell wall chemistry, morphogenesis, and taxonomy of fungi, \nAnnu. Rev. Microbiol. 22 (1) (1968) 87–108. [58] R. Mirski, D. Dukarska, A. Derkowski, R. Czarnecki, D. Dziurka, By-products of \nsawmill industry as raw materials for manufacture of chip-sawdust boards, \nJ. Build.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 57,
+      "char_count": 649
+    }
+  },
+  {
+    "text": "Eng. 32 (101460) (2020) 2020. [59] J.C. van Empelen, A Study into More Sustainable, Alternative Building Materials \nas A Substitute for Concrete in Tropical Climates, Delft University of Technology, \nDelft, Netherlands, 2018, pp. 1–26.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 58,
+      "char_count": 235
+    }
+  },
+  {
+    "text": "[60] T.E. Elahi, A.R. Shahriar, M.S. Islam, Engineering characteristics of compressed \nearth blocks stabilized with cement and fly ash, Constr. Build.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 59,
+      "char_count": 150
+    }
+  },
+  {
+    "text": "Mater. 277 (2021), \n122367. [61] L.J. Gibson, The Hierarchical structure and mechanics of plant materials, J. R. Soc. Interf. 9 (2012) 2749–2766. [62] Y.H. Arafin, Y. Yusuf, Mycelium fibers as new resource for environmental \nsustainability, Procedia Eng. 53 (2013) 504–508.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 60,
+      "char_count": 273
+    }
+  },
+  {
+    "text": "Biotechnol. 33 (2013) 379–403. [64] L. Gou, S.a. Li, J. Yin, T. Li, X. Liu, Morphological and physico-mechanical \nproperties of mycelium biocomposites with natural reinforcement particles, \nConstr. Build. Mater. 304 (2021) (2021), 124656, https://doi.org/10.1016/j. conbuildmat.2021.124656. [65] C. Bruscato, E. Malvessi, R.N.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 61,
+      "char_count": 326
+    }
+  },
+  {
+    "text": "Brandalise, M. Camassola, High performance of \nmacrofungi in the production of mycelium-based biofoams using \nsawdust—sustainable technology for waste reduction, J. Cleaner Prod. 234 \n(2019) (2019) 225–232, https://doi.org/10.1016/j.jclepro.2019.06.150. [66] J. Wu, C. Chen, H. Zhang, L. Xia, Y. Huang, H. Huang, Y. Wang, D. Qian, J. Wang, \nX. Wang, et al., Eco-friendly fiberboard production without binder using poplar \nwood shavings bio-pretreated by white rot fungi coriolus versicolor, Constr. Build.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 62,
+      "char_count": 505
+    }
+  },
+  {
+    "text": "Mater. 236 (2020), 117620, https://doi.org/10.1016/j. conbuildmat.2019.117620. [67] K. Wall, P. Walker, C. Gross, C. White, T. Mander, Development and testing of a \nprototype straw bale house, Proc. Instit. Civ. Eng.-Construct., Mater. 165 (6) 377- \n384, 2012. [68] F. Collet, S. Pr´etot, Thermal conductivity of hemp concretes: Variation with \nformulation, density and water content, Constr. Build. Mater. 65 (1) (2014) \n612–619. [69] T. Schnabel, H. Huber, A. Petutschnigg, A. Jager, Analysis of plant materials \npretreated by steam explosion technology for their usability as insulating \nmaterials, Agron. Res.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 63,
+      "char_count": 613
+    }
+  },
+  {
+    "text": "17 (1) (2019) 1191–1198. [70] Y. Xing, M. Brewer, H. El-Gharabawy, G.W. Griffith, P. Jones, Growing and \ntesting mycelium bricks as building insulation materials, IOP Conf. Series: Earth \nEnviron. Sci. 121 (2018), 022032, https://doi.org/10.1088/1755-1315/121/2/ \n022032. [71] F. Asdrubali, F. D’Alessandro, S. Schiavoni, A review of unconventional \nsustainable building insulation materials, Sustain. Mater. Technol. 4 (1) (2015) \n1–17. [72] W. Sun, M. Tajvidi, C.G. Hunt, G.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 64,
+      "char_count": 476
+    }
+  },
+  {
+    "text": "McIntyre, D.J. Gardner, Fully bio-based hybrid \ncomposites made of wood, fungal mycelium and cellulose nanofibrils, Sci. Rep. 9 \n(1) (2019) 1–12, https://doi.org/10.1038/s41598-019-40442-8. [73] Patrick Pereira Dias, Laddu Bhagya Jayasinghe, Daniele Waldmann (2021) \nInvestigation of Mycelium-Miscanthus composites as building insulation material \nResults in Materials 10 (2021) 100189 https://doi.org/10.1016/j. rinma.2021.100189. [74] M. Pruteanu, Investigations regarding the thermal conductivity of straw, Bull. Polytech. Instit. Jassy Construct. Architect. Sec. 3 (2010) (2010) 9–16. [75] T.L. Bergman, F.P. Incropera, D.P. DeWitt, A.S. Lavine, Fundamentals of Heat and \nMass Transfer, John Wiley & Sons, Hoboken, N.J., 2011. [76] L.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 65,
+      "char_count": 738
+    }
+  },
+  {
+    "text": "Wang, H. Wu, Preparation of a \nkind of novel sustainable mycelium/cotton stalk composites and effects of \npressing temperature on the properties, Ind. Crops Prod. 141 111732, https://doi. org/10.1016/j.indcrop.2019.111732. [78] P. Joseph, K. Joseph, S. Thomas, C. Pillai, V. Prasad, G. Groeninckx, M. Sarkissova, The thermal and crystallisation studies of short sisal fibre reinforced \npolypropylene composites, Compos. A Appl.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 66,
+      "char_count": 427
+    }
+  },
+  {
+    "text": "Sci. Manuf. 34 (3) (2003) 253–266, \nhttps://doi.org/ 10.1016/S1359-835X(02)00185-9. [79] C. Borsoi, L.C. Scienza, A.J. Zattera, Characterization of composites based on \nrecycled expanded polystyrene reinforced with curaua fibers, J. Appl. Polym. Sci. 128 (1) (2013) 653–659, https://doi.org/10.1002/app.38236. [80] Y. Hammoui, S. Molina-Boisseau, A. Duval, N. Djerrada, N. Adjeroud, H. Remini, \nF. Dahmoune, K. Madani, Preparation of plasticized wheat gluten/olive pomace \npowder biocomposite: effect of powder content and chemical modifications, \nMater. Des. 87 (2015) (2015) 742–749, https://doi.org/10.1016/j. matdes.2015.08.080. [81] F. Cuthbert, R.A. Rowland, (1947) Differential thermal analysis of some \ncarbonate minerals, Am. Mineral. J. Earth Planet. Mater. 32 (3–4) (1947) \n111–116. K.K. Alaneme et al. Alexandria Engineering Journal 83 (2023) 234–250\n250\n[82] E. Soh, Z.Y. Chew, N. Saeidi, A. Javadian, D. Hebel, H. Le Ferrand, Development \nof an Extrudable paste to build mycelium-bound composites, Mater. Des. 109058, \n2020. doi: 10.1016/j.matdes.2020.109058. [83] A.R. Ziegler, S.G. Bajwa, G.A. Holt, G. McIntyre, D.S. Bajwa, Evaluation of \nphysico-mechanical properties of mycelium reinforced green biocomposites made \nfrom cellulosic fibers, Appl. Eng. Agri- culture 32 (2016) 931–938. [84] C. Dai, C.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 67,
+      "char_count": 1318
+    }
+  },
+  {
+    "text": "Yu, X. Zhou, Heat and mass transfer in wood composite panel during \nhot pressing: Modeling void formation and material permeability, Wood Fiber Sci. 37 (2) (2007) 242–257.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 68,
+      "char_count": 171
+    }
+  },
+  {
+    "text": "187 (2020), 108397, https://doi.org/10.1016/j. matdes.2019.108397. [86] X. Zhang, X. Fan, C. Han, C. Wang, X. Yu, Improving soil surface erosion \nresistance by fungal mycelium, in: Geo-Congress 2020: Foundations, Soil \nImprovement, and Erosion, American Society of Civil Engineers Reston, VA, \n2020, pp. 523–531.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 69,
+      "char_count": 312
+    }
+  },
+  {
+    "text": "[87] M.G. Pelletier, G.A. Holt, J.D. Wanjura, E. Bayer, G. McIntyre, An evaluation \nstudy of mycelium based acoustic absorbers grown on agricultural by-product \nsubstrates, Ind. Crop. Prod. 51 (2013) 480–485. [88] J. Park, D.L. Palumbo, Damping of structural vibration using lightweight granular \nmaterials, Exp. Mech. 49 (2009) 697–705. [89] M.G. Pelletier, G.A. Holt, J.D. Wanjura, L. Greetham, G. McIntyre, E. Bayer, \nJ. Kaplan-Bie, Acoustic evaluation of mycological biopolymer, an all-natural \nclosed cell foam alternative, Ind. Crop.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 70,
+      "char_count": 539
+    }
+  },
+  {
+    "text": "Prod. 139 (2019), 111533, https://doi. org/10.1016/j.indcrop.2019.111533. [90] S. Sivaprasad, K. Sidheth, C. Byju, J. Prajith, S., and Rejeesh, C. R., Development \nof a novel mycelium bio composite material to substitute for polystyrene in \npackaging applications, Material Today (2021) 5. [91] T.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 71,
+      "char_count": 297
+    }
+  },
+  {
+    "text": "Yang, L. Hu, X. Xiong, M. Petrů, M.T. Noman, R. Mishra, et al., Sound \nAbsorption Properties of Natural Fibers: A Review, Sustainability 12 (20) (2020) \n8477. [92] G. Basu, M. Datta, S. Sengupta, D. Nath, Debnath S, Understanding Effect of Pore \nSize Distribution. J Nat Fibers, Jute Felt for Noise Reduction, 2021, pp. 1–15. [93] STOWA (2019)-17: From biomass to mycelium composite: an exploration on \ncellulose and weed residues, 1-33. [94] S. Travaglini, J. Noble, P.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 72,
+      "char_count": 470
+    }
+  },
+  {
+    "text": "Ross, C. Dharan, Bio-based Mycelium Materials for \naerospace applications Composites, Annual Technical Conference of the, \nAmerican Society for Composites, State College, PA, 2019. [95] Liu, Jinyuan, Hongmei Gao, Hanlong Liu, A New Light-weight Geomaterial–EPS \nComposite Soil, 2009. [96] H. Gao, J. Liu, H. Liu, Geotechnical properties of EPS composite soil, Int. J. Geotech. Eng. 5 (2011) 69–77, https://doi.org/10.3328/IJGE.2011.05.01.69-77. [97] G.J. Tudryn, L.C. Smith, J. Freitag, R. Bucinell, L.S. Schadler, Processing and \nmorphology impacts on mechanical properties of fungal based biopolymer \ncomposites, J. Polym. Environ. 26 (2018) 1473–1483. [98] A.A. Solomon, J. Vinoth, R. Sudhakar, G. Hemalatha, Inspecting the behavior of \ninsulated concrete form (ICF) blocks with polypropylene sheet, Indian J. Sci.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 73,
+      "char_count": 817
+    }
+  },
+  {
+    "text": "Res. 14 (2017) 114–121. [99] P. Hassanzadeh, M. Kharaziha, M. Nikkhah, S.R. Shin, J. Jin, S. He, W. Sun, \nC. Zhong, M.R. Dokmeci, A. Khademhosseini, M. Rolandi, Chitin nanofiber \nmicropatterned flexible substrates for tissue engineering, J. Mater. Chem. B 1 \n(2013) 4217–4224. [100] S. Ifuku, A. Ikuta, M. Egusa, H. Kaminaka, H. Izawa, M. Morimoto, H. Saimoto, \nPreparation of high-strength transparent chitosan film reinforced with surface- \ndeacetylated chitin nanofibers, Carbohydr. Polym.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 74,
+      "char_count": 492
+    }
+  },
+  {
+    "text": "25 (2013) 4482–4487. [102] H. Italia, I. Patel, J. Shah, Experimental study of bacterial self-healing effect on \nconcrete, A Review. 3 (1) (2016) 78–81.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 75,
+      "char_count": 152
+    }
+  },
+  {
+    "text": "Jin, Q. Zhao, Preparation of nitrogen-containing \nactivated carbon from waste medium density fiberboard for electric double layer \ncapacitor, BioResources 10 (3) (2015) 5573–5585. [104] K. Yang, Investigations of mycelium as a low-carbon building material. ENGS 88 \nHonors Thesis (AB Students), 21, 2020. https://digitalcommons.dartmouth.edu/ \nengs88/21. [105] MATERIAL-PROPERTIES. Polystyrene|Properties, Price & Application | Material \nProperties (material-properties.org). Available online: https:/material-properties. org/polystyrene-properties-application-price/ (Accessed 7 June 2022). [106] D. Mirindi, R.O. Onchiri, J. Thuo, Physico-Mechanical Properties of \nParticleboards Produced from Macadamia Nutshell and Gum Arabic, Appl. Sci. 11 \n(2021) 11138, https://doi.org/10.3390/app112311138. [107] X. Zhang, A. Vyatskikh, H. Gao, J.R. Greer, X. Li, Lightweight, flaw-tolerant, and \nultrastrong nanoarchitected carbon, PNAS 116 (14) (2019) 6665–6672. [108] Q. Zhao, B. Zhang, H. Quan, R.C.M. Yam, R.K.K. Yuen, R.K.Y. Li, Flame \nretardancy of rice husk-filled high-density polyethylene ecocomposites, Compos. Sci.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 76,
+      "char_count": 1117
+    }
+  },
+  {
+    "text": "Technol. 69 (15) (2009) 2675–2681. [109] I. Protopapadaki, S. Kalika, Building with mushrooms, 2018. Critical concrete \nAvailable online: https://criticalconcrete.com/building-with-mushrooms. (Accessed on 7 June 2022). [110] J. Kshitij, K.M. Mukesh, M.P. Krishna, Fabrication and characterization of bio- \nblocks from agricultural waste using fungal mycelium for renewable and \nsustainable applications, ASC Appl. Bio Mater. 9b01047 (2020). [111] E. Elsacker, S. Vandelook, B. Damsin, A. VanWylick, E. Peeters, L. De Laet, \nMechanical characteristics of bacterial cellulose-reinforced mycelium composite \nmaterials, Fungal Biol. Biotechnol. 8 (2021) 18. [112] F.V. Appels, H.A. Wosten, Mycelium materials, Encyclopedia Mycol. 2 (2021) \n710–718.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 77,
+      "char_count": 744
+    }
+  },
+  {
+    "text": "[114] M. Kimberley, Living fungus used to make this durable 3D chair. Available online. Https://www.treehugger.com. (Accessed 7 June, 2022). [115] R. Raineri, In the world of mycelium: A review on Eric Klarenbeek’s mycelium \nchair, 2020. Available online:https://trends.archiexpo.com/project-210371.html \n(accessed on 7 June). [116] A. Butu, S. Rodino, B. Miu, M. Butu, Mycelium-based materials f or the ecodesign \nof bioeconomy, Dig. J. Nanomater. Biostruct. 15 (4) (2020) 1129–1140. [117] Mogu. Availabe online: https://mogu.bio/ (accessed on 7 June 2022). [118] S. Bitting, T. Derme, J. Lee, T. Van Mele, B. Dillenburger, P. Block, Challenges and \nOpportunities in Scaling up Architectural Applications of Mycelium-Based \nMaterials with Digital Fabrication, Biomimetics. 7 (2022) 44, https://doi.org/ \n10.3390/biomimetics7020044. [119] E. Elsacker, L. De Laet, E. Peeters, Functional grading of mycelium materials with \ninorganic particles: the effect of nanoclay on the biological, chemical and \nmechanical properties, Biomimetics 7 (2022) 57, https://doi.org/10.3390/ \nbiomimetics7020057. [120] M.G. Pelletier, G.A. Holt, J.D. Wanjura, A.J. Lara, A. Tapia-Carillo, G. McIntyre, \nE. Bayer, An evaluation study of pressure-compressed acoustic absorbers grown \non agricultural by-products, Ind. Crops Prod. 95 (2017) 342–347. [121] D. Saez, D. Grizmann, M. Trautz, A. Werner, Developing sandwich panels with a \nmid-layer of fungal mycelium composite for a timber panel construction system. World conference on timber engineering, Santiago Chile, 9-12 August, 2021. [122] M. Jones, K. Weiland, M. Kujundzic, J. Theiner, H. K¨ahlig, E. Kontturi, S. John, \nA.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 78,
+      "char_count": 1658
+    }
+  },
+  {
+    "text": "Bismarck, A. Mautner, Waste-derived low-cost mycelium nanopapers with \ntunable mechanical and surface properties, Biomacromolecules 20 (2019) \n3513–3523. [123] W.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 79,
+      "char_count": 162
+    }
+  },
+  {
+    "text": "Sun, M. Tajvidi, C. Howell, C.G. Hunt, Functionality of surface mycelium \ninterfaces in wood bonding, ACS Appl. Mater. Interfaces 12 (2020) 57431–57440. [124] J. Park, M. Ul-Islam, U.M. Wajid, S. Khan, T. Kamal, S. Ul-Islam, N. Shah, Recent \nadvancement in cellulose based Nanocomposite for addressing environmental \nchallenges, Recent Patents Nanotechnol. 10 (2016) 1.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 80,
+      "char_count": 369
+    }
+  },
+  {
+    "text": "[125] A. Jasim, M.W. Ullah, Z.J. Shi, X. Lin, G. Yang, Fabrication of bacterial cellulose/ \npolyaniline/single-walled carbon nanotubes membrane for potential application \nas biosensor, Carbohydr. Polym. 163 (2017) 62–69. [126] X.M. Wang, Z.S. Zhang, M.X. Zhao, Carboxymethylation of polysaccharides from \nTremella fuciformis for antioxidant and moisture-preserving activities, Int. J. Biol. Macromol. 72 (2015) 526–530. [127] C. Girometta, A.M. Picco, R.M. Baiguera, D. Dondi, S. Babbini, M. Cartabia, \nM. Pellegrini, E. Savino, Physico-mechanical and thermodynamic properties of \nmycelium-based biocomposites: a review, Sustainability 11 (1) (2019) 281, \nhttps://doi.org/10.3390/su11010281. [128] O.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 81,
+      "char_count": 700
+    }
+  },
+  {
+    "text": "Robertson, F. Høgdal, L. Mckay, T. Lenau, Fungal Future: A review of \nmycelium biocomposites as an ecological alternative insulation material. Nord \nDesign Conference paper August 11-14, Lyngby, Denmark, 2020. [129] Ecovative. Available online: http://www.ecovativedesign.com/ (accessed on 7 \nJune, 2022). [130] Mycoworks. Available online: www.mycoworks.com (accessed on 7 June, 2022). K.K. Alaneme et al.",
+    "metadata": {
+      "source": "mycelium_Alaneme.pdf",
+      "material_category": "Mycellium",
+      "source_path": "data\\raw\\Mycellium\\mycelium_Alaneme.pdf",
+      "chunk_index": 82,
+      "char_count": 406
+    }
+  }
+]

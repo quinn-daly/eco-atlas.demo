@@ -1,0 +1,432 @@
+[
+  {
+    "text": "24 March 2026\nAlma Mater Studiorum Università di Bologna\nArchivio istituzionale della ricerca\nMarco Bovo,  Niccolò Giani,  Alberto Barbaresi,  Laura Mazzocchetti,  Luca Barbaresi,  Loris Giorgini, et al. (2022). Contribution to thermal and acoustic characterization of corn cob for bio-based building insulation\napplications. ENERGY AND BUILDINGS, 262, 1-15 [10.1016/j.enbuild.2022.111994]. Published Version:\nContribution to thermal and acoustic characterization of corn cob for bio-based building insulation applications\nPublished:\nDOI: http://doi.org/10.1016/j.enbuild.2022.111994\nTerms of use:\n(Article begins on next page)\nSome rights reserved. The terms and conditions for the reuse of this version of the manuscript are\nspecified in the publishing policy.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 0,
+      "char_count": 762
+    }
+  },
+  {
+    "text": "For all terms of use and more information see the publisher's website. Availability:\nThis version is available at: https://hdl.handle.net/11585/900774 since: 2024-05-28\nThis is the final peer-reviewed author’s accepted manuscript (postprint) of the following publication:\nThis item was downloaded from IRIS Università di Bologna (https://cris.unibo.it/). When citing, please refer to the published version. Contribution to thermal and acoustic characterization of corn cob for bio-based  \nbuilding insulation applications \nMarco Bovoa, Niccolò Gianib, Alberto Barbaresi a *, Laura Mazzocchettib, Luca Barbaresi c, Loris  \nGiorginib, Daniele Torreggiania, Patrizia Tassinaria \na Department of Agricultural and food sciences, Alma Mater Studiorum Università di Bologna, Viale G. Fanin \n48, 40127 Bologna, Italy. b Department of Industrial Chemistry “Toso Montanari”, Alma Mater Studiorum Università di Bologna, Viale \nRisorgimento 4, 40136 Bologna, Italy. c Department of Industrial Engineering, Alma Mater Studiorum Università di Bologna, Viale Risorgimento 2, \n40136 Bologna, Italy \n* Corresponding author: Alberto Barbaresi - email: alberto.barbaresi@unibo.it \nAbstract \nThe introduction of the sustainability principle in building design is driving more and more \nresearch towards the development of thermal and acoustic building insulating materials using \nnatural- or recycled-based materials and reducing as small as possible energy consumptions \nduring the processes. In this context, among the mostly investigated materials, the corn cob \nplays an important role although its applications for insulation purposes are still not fully \ndeveloped. Moreover, the corn cob is often investigated as an aggregate of composite materials, \ntherefore its own thermal characteristics are scarcely investigated. The goal of the paper is to \nprovide a comprehensive contribution to the knowledge of this natural material, from a \nmultidisciplinary point of view, by experimentally assessing at both micro and macro scales, \nspecific heat, thermal conductance, thermal conductivity, and sound reduction index. Results \nshow the specific heat can vary from 1.4 to 1.9 J/gK, according to the given temperature and the \ninvestigated corn cob layers, while density is around 200 kg/m3 and the conductivity, according \nto the investigated configurations, ranges from 0.14 to 0.26 W/mK. This work suggests a \nstrategy to adopt for the evaluation of natural materials for building construction applications. Keywords: corn cob; specific heat; thermal conductance; acoustic performance; building \ninsulation; bio-based material. 2 \n1 \n1. Introduction \nNotwithstanding the recent efforts to reduce the building energy consumptions and to increase \nthe adoption of natural or recycled based materials, to date, buildings keep on consuming a \nsignificant part of world global energy [1,2] and, what is more alarming, their construction \nmaterials are realized in large part with materials that are highly resource-cons",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 1,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "uming from an \nenvironmental point of view during the production phase [3]. These aspects are even more \nemphasized for building insulation, commonly realized using fossil-based materials or raw \nnatural sources processed with high energy consumptions [4,5]. The introduction of sustainability principle in the building design is gaining more and more \nattention, particularly in the light of recent post-pandemic events, and with the new surge of the \nEuropean Green Deal that paves the way for research aimed at studying sustainable innovations \nin the field, such as thermo-acoustic insulating materials using natural-based or recycled-based \nmaterials. Indeed, recent review papers in the field [3,6–8] report the thermoacoustic \nproperties of different agriculture products, as bagasse, bamboo, banana stalks, coconut coir, \ncork, corn stalk and cob, cotton stalks, date palm, durian peel, hemp stalk, kenaf fiber, oil palm \nleaves, pineapple leaves, rice husks and straw, sunflower hulls and stalks, wheat straw (bale). Some experimental campaigns have considered the raw materials whereas other used derived \nproducts such as granulated material, particleboard, hardboard, fiber board. On the other hand \nsome studies investigated the thermal behavior of recycled materials obtained with textile \nwaste [9,10], wood waste [4], recycled plastics and glass waste. The adoption of natural or \nrecycled raw materials drives to several direct advantages such as the reduction of the depletion \nof non-renewable resources, the reduction of the quantity of waste for the disposal, the \nreduction of energy needs to produce the materials. Moreover, the usage of agricultural by-\nproducts and waste can provide further benefit since on one side they can be recycled in the\n\n3 \nproximity of the production area, reducing environmental costs impacts due to transportation \nand manufacturing and, on the other side, their usage as building material can be considered an \navoided emission of CO2 or, properly, a carbon stock. Despite the considerable research efforts for the experimental assessment of the \nthermoacoustic properties of these unconventional materials, the full exploitation of their \npotential is still far. In fact, only few of them, such as cork, hemp, kenaf or wood fiber, are already \non the market but, bypassing the wide skepticism with solid performance data, their diffusion \ncould be further improved since their performance is indeed similar to synthetic materials [11]. Some current difficulties for their commercialization are the characterization and the \nstandardization of the performances obtained from the products based on natural materials \n[12] and the difficulty to ensure a proper durability for natural materials. Among the vegetable products cited above, corn cob is one of the most investigated raw material \nfor building insulation applications and the physical properties characterization and thermo-\nacoustic assessment are the most important parameters to be e",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 2,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "valuated [13,14] for practical \napplications. Indeed, application of such alternative products in the building sector, in particular \nas insulation materials, needs still several tests to validate their suitability as construction \nmaterial and also in meeting law requirements. To this point, the main goal of the paper is to provide a contribution to the knowledge of this \nnatural material, usually considered a maize production waste, by experimentally investigating \nand evaluating some of its thermo-acoustic properties. A novelty contribution of the paper are \nthe values of the specific heat experimentally obtained for different layers of the cob for different \ntemperatures. A second aspect concerns the experimental assessment of the conductance of \nwall samples realized with corn cobs oriented in different ways. Finally, the relation between \nmicrostructure of corn cob and thermal properties is analyzed. 4 \nAlso recently, corn cobs have captured the attention of some researchers as a potential \nbyproduct especially as abrasive material, or for the production of lightweight concrete for \nnonstructural applications and building insulation [15] \nIn Pinto et al. [16] the authors investigated the macrostructure and microstructure, elementary \nchemical composition, density, water absorption and fire resistance of the corn cob. The cob \nproperties were compared with those of commercial products in the field of thermal insulation. Some similarities were found between the analysed products so suggesting that the corn cob \ncould be used as raw material in thermal insulating products. The main properties of raw corn \ncobs and corn cob particleboards have been experimentally evaluated in [17] showing \nperformances similar to the synthetic materials and providing the viability o become a potential \nsource for bio-based insulating materials. In [15] the authors observed that corn cob presents \nthree layers different in shape, texture, density and color. The cob materials are heterogeneous, \nin contrast to common thermal insulation building materials, which is related to their origin \nbeing a natural biological material. In [18] the production and development of panels realized \nwith a composite corn cob have favourable physical properties recommendable for indoor uses \nin buildings. In contrast, the particleboards cannot be used for load bearing purposes based on \npoor mechanical properties of the material. Despite the wide academic interest, corn cob applications for insulation purposes is still not \nready for the market, requiring to fill some knowledge and technological gaps. To this point, the \nobjective of the paper is to provide a further contribution to the knowledge of this natural \nmaterial, usually considered a maize production waste, by experimentally investigating and \nevaluating some of its thermo-acoustic properties. In fact, in the present paper, the microstructure of corn cob has been investigated by means of \nscanning electron microscope and",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 3,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "spectroscopic investigations. Then, the specific heat value for \ndifferent layers of the cob, currently not available in literature for different temperatures, has\n\n5 \nbeen evaluated by means of differential scanning calorimetry technique applied to specific \nspecimens sampled in different corn cob layers. This represents a first attempt to assess this \nimportant parameter for corn cob, in the range 0°C – 40°C. Finally, the thermal performance of \nthe cobs has been assessed from a macro-scale point of view, by testing six different wall \nsamples filled with cobs laid in different configurations. For each configuration, the wall \nconductance value has been evaluated by means of a movable hot box to identify important \nthermal characteristics  of the investigated material [19] and not only as a component of \ncomposite material [20]. 2. Corn plant features: diffusion, production and actual end-of-life \nIn the corn production process, the main product are the grains whereas all the rest of the plant \nis generally considered as a waste component [21] and most of the corn stover (i.e. stalk, leaves, \nhusks and cobs) is commonly left in the field after grain harvesting since believed not useful for \nother purposes. The most investigated portion of the corn stover is the cob, seeing as how its \nparticular features make it valuable in the building sector for applications as insulation material \nor in the mix-design of cement-based materials. In addition, a wealth of studies confirms that \nthe cobs left in the field does not bring any important benefits to the culture. In fact, as residue \nin the field, the cobs could play a role in soil and water conservation and in soil nutrient \ndynamics since they provide surface cover and contains carbon and nutrients. However, on one \nhand in [22], erosion, runoff and nutrient loss by rainfalls  were proved to occur irrespective of  \ncobs removal, and on the other hand, in [23] carbon and nutrient dynamics monitoring during \nthe year after harvest showed a decline in cob carbon content in field proving that only small \nnutrient concentrations are made available for the crops during the first year of cob \ndecomposition. Hence, cob harvesting provides low nutrient removal. Moreover, the cobs could \nbe potentially collected during the grain harvesting operations since several combines able to\n\n6 \ncollect cobs have been developed and tested [24–26]. Thus, corn cob can be considered an \nabundant and inexpensive biomass that can be removed from the field without deleterious \neffects. Figure 1a shows the yearly geographical distribution of maize production for some \nrecent years and as reported in Figure 1b the total world maize production results rather stable \nin the years 2016-20 around 1.1 × 109 T/year [27]. As far as the potential available cob quantity is concerned, in [28] the authors have estimated \nthat in field residual after grain harvesting is about 8.9 t/ha that could generate, at European \nlevel, about 85 Mt/",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 4,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "year of corn stover. If we consider that corn cobs represent about 20% by \nweight of the stover we should estimate a yearly cob yield of about 15 million tons, only at \nEuropean level. (a) \n(b) \nFigure 1. Trend of corn (grains) production in recent years. (a) Yearly production of \ncountries/regions with the highest yield. (b) World production and sum of the productions of \nthe five countries/regions with the highest yield. 7 \n3. Experimental micro-scale tests on corn cobs \nThis paper reports the main results of the experimental tests performed on a large quantity of \ncorn cobs collected during the maize harvesting of the September 2019, in a farm located in the \nNorth of Italy. The cultivated maize class has been the PR32B10 (Pioneer seed), i.e., one of the \nmost productive white maize species for grains in temperate climatic conditions (when facing \nwith natural materials, it is extremely important to declare the crop class since properties and \nresults of the investigation could be considerably affected from the considered species). For the \nexperimental tests, about 200 kg of corn cobs have been randomly collected in field during the \nthreshing and then dried in drying-heating chamber with natural convection (Binder, ED 720) \nkeeping the cobs for 72 hours at 120°C. In a first phase, prior to the laboratory tests, five random \nsamples, each one composed of 10 cobs (see Figure 2), have been realized by selecting the cobs \nfrom different plots of land of the farm, to avoid biases in the laboratory test outcomes. Then, \nlength, maximum diameter, and weight of the 50 cobs have been measured and the average and \nthe coefficient of variation (CoV) values calculated. Table 1 collects the main results of the \ndimension characterization process. Table 1. Results of the dimension characterization process. Statistical measure \nLength \nDiameter \nWeight dry \nAverage value \n192 mm \n28 mm \n34.7 g \nCoV \n11.6 % \n5.9 % \n26.5 % \nThe values in Table 1 show that, despite the natural origin, cob dimensions are characterized by \nlittle dispersion and comparable with other natural materials (e.g., timber). In the perspective \nto adopt corn cobs as alternative building material, their principal properties must be \ndetermined. The following sub-sections report the main outcomes of the micro-scale tests \nperformed on corn cobs and aiming to increase the current level of knowledge of this material. The tests described in this Section followed procedures prescribed by international standards \nor validated in previous works and the tests were performed by using certified equipment. In\n\n8 \norder to confirm the reliability of the results, the main outcomes of the tests were then \ncompared with those available in literature. 3.1 Microstructure of a corn cob \nThe concentric macro-structure of a cob has three different layers that can be distinguished \nfrom each other even with the naked eye on the basis of colour and consistency (see Figure 2). The outer layer (i.e. layer 1 in",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 5,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "Figure 2), which supports the caryopsides, is characterized by a \ncrown with many voids alternating with thin leaflets. The darker middle layer (layer 2), with \nlow presence of cavities, much harder and with wood-like texture; an inner layer (layer 3) with \nmany polygonal cavities characterized by a soft and easily compressible consistency. The cob \nstructure is similar to that already observed in [15] and this confirms, the general result that, \nalthough the different authors have investigated various species of corn, widespread in different \nregions of the world, the main features characterizing this material are common and usually \nwell reproducible. 9 \n \n \n(c) \nFigure 2. Definition of the macro-structure of corn cob. (a) Sample of some dried cobs collected \nfor the experimental tests. (b) Transverse section and (c) longitudinal section of a corn cob. Micrographs of the cob micro-structure were taken in different corn cob portions of different \ncorn cobs collected for the experimental campaign, with a Scanning Electron Microscope (SEM) \nZEISS EVO 50 EP in Environmental mode with a pressure of 100 Pa in the chamber. As described \nbefore, the images of the various layers of corn cob highlight a significant difference in their \nmorphology and SEM micrographs taken on the same cob could display a different arrangement. The inner core of the cob (layer 3) shows (Figure 3A) an airy morphology with thin layers of \nfilmy material arranged to form cavities and porous structures. The middle portion, i.e. layer 2, \ninstead, clearly displays (Figure 3B) a denser and more compact aspect, with almost no cavities. There is no more a thin film morphology for the lignocellulosic components, that appear bulky \nand thick. The outer portion, i.e., layer 1, is the most complex from the morphologic point of \nview, since it shows both a filmy and compact aspect (e.g. Figure 3C), that sometimes displays \n( a ) \n( b )\n\n10 \nholes and cavities (see Figure 3D) that however are not as porous and airy as the morphology \nobserved in the inner core samples. Figure 3. SEM images of the micro-structure of a corn cob: (A) inner layer (1000X), (B) middle \nlayer (500X), (C) and (D) outer layer (500X). The different morphologies of the cob confer to the whole material very particular properties, \nand as discussed in the following sections, the inner layer is maybe the most interesting to study \nand characterize from a thermal point of view, in view of the potential application in building \ninsulation. 11 \n3.2 Density and water absorption \nThe material density ( ) has been investigated in laboratory on a representative sample of 30 \ncobs. Corn cobs – as well as many natural-based materials -  show density variations related to \nthe water content (W) and thus, it is difficult to define a single density value since it strongly \ndepends on the moisture of the investigated sample. In fact, it can be assumed that corn cobs \ndensity is a function of the water content of the investigated",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 6,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "sample. Thus, the material density \nhas been calculated for different water absorption values in order to evaluate the expected trend \nfor the material for some points of interest. To this regard, the water absorption capacity of the \ncobs has been calculated following the EN ISO 16535:2019 [29] which represents the standard \nfor the calculation of long-term water absorption, by immersion, of products for thermal \ninsulation of buildings. In the present study the method 2A of EN ISO 16535:2019, considering \nthe total immersion of the samples, has been considered. As a matter fact, the water absorption \nby total immersion is not directly related to conditions on site but has been recognized as a \nrelevant testing condition for some applications. Four different characteristic points have been \nconsidered: \nPoint 0: \ndried (d) condition of the samples \nPoint 1: \nsamples immerged in water for 10s providing an instantaneous (i) condition \nPoint 2: \nsample immerged in water for 72 hours providing a short term (st) condition \nPoint 3 \nsample immerged in water for 28 days providing a long term (lt) condition \nAt first, the cob dried mass was measured (Md). Afterwards, 10 sub-samples, each one with 3 \ncorn cobs, were immersed in a control volume (Vcontrol) of distilled water at a temperature of  \n20°C. The final volume (Vfinal), after the immersion of cobs and ballast, was measured (see Figure \n4). Thus, if Vballast is the known volume of the ballast preventing the buoyancy of cobs, the \ndifferential volume (V) resulting from the difference: \n \nV = Vfinal – Vcontrol - Vballast \n(1)\n\n12 \nwas quantified and considered equal to the cobs volume (Vcob). Finally, the dried density \nd of \neach sample was quantified as ratio between dried mass Md and Vcob. The mean value of the \ndried density of the corn cob was 247.23 kg/m3, with a CoV equal to 4.3%. This latter value is \nlower than that found in [16], since the CoV value reported here is calculated on average density \nof 3 cobs constituting one sample. The mean density value is in the (expected) range from 171 \nkg/m3 to 334 kg/m3 provided in [3]. This is an interesting result since it shows that corn cob \ndensity value is rather narrowed and, in general, the scattering of the density values is limited \nand comparable with those of other natural building materials. The density value of the corn \ncob results from a weighted average over the three different layers of the transverse section, \nwith the densest portion, i.e., the middle layer (2), that plays the main role in the definition of \nthe such value. As will be shown in a following sub-section this affects the thermal properties of \nthe material in a considerable way. Analogously, the density values \ni, \nst, and \nlt have been \ndetermined for the instantaneous, short-term and long-term immersion conditions respectively, \nby considering the immersion interval periods before cited. The measuring of the different cob \nmass values has been realized following th",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 7,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "e indications in EN ISO 16535:2019 so draining for \nabout 10 min the samples before weighing. The obtained average and CoV values are reported \nin Table 2. The instantaneous measures are those affected by the highest dispersion since, in \nthis case, the water quantity absorbed by the cobs in just 10 s is strongly related to the perimeter \nroughness of the cob. Instead, the dispersion of the density values after 72h and 28d is \npractically negligible. It is to noteworthy that after 72h (i.e. 3 days considered for the short term \ncondition) the cobs adsorbed practically the same amount of water as in the long term \ncondition, i.e. after 28 d of immersion. So, after 3 days the cob could be considered saturated by \nwater. Table 2. Main results of density and water absorption assessment. Density\n\n13 \nd \ni \nst \nlt \nAverage (kg/m3) \n247 \n279 \n793 \n812 \nCoV (%) \n4.3 \n8.9 \n2.2 \n2.1 \nWater absorption \nW d \nW i \nW st \nW lt \nAverage (%) \n0 \n2.96 \n54.67 \n56.53 \nFollowing the approach of the Method 2A in the EN ISO 16535:2019, the percentage water \nabsorption values have been calculated, for the above cited conditions, according to the \nfollowing equations: \n \n 𝑊𝑖=\nmi−m0\nV0\n×\n100\n𝜌w \n(2a) \n \n 𝑊𝑠𝑡=\nmst−m0\nV0\n×\n100\n𝜌w \n(2b) \n \n 𝑊𝑙𝑡=\nmlt−m0\nV0\n×\n100\n𝜌w \n(2c) \n \nwhere: mi, mst and mlt are the mass values defined before; m0 is the initial mass of the test \nspecimen assumed equal to md; V0 is the initial volume of the test specimen assumed equal to Vcob; \nw is the density of water, assumed to be 1000 kg/m3. The values calculated for the different \nconditions are reported in Table 2 where, obviously, the value of Wd is set to 0 because md = m0. According to the results reported in Table 2, the corn cobs display a noteworthy water \nabsorption capacity when totally immersed. This confirms the outcomes in [16] but at the same \ntime raises doubts about the need to perform specific durability tests for the material, especially \nwhen applied in contexts with high humidity rate. This aspect is out of the scope of the study \nbut will be object of future investigations. It is interesting to plot  values Vs. the related W \nvalues (see Figure 4b) in order to identify the expected linear relation between the two\n\n14 \nmeasures. The fitting equation for the sample investigated in this paper is reported in order to \neasily move from  to W and vice versa. (a) \n(b) \nFigure 4. Tests for the evaluation of the density of corn cobs. (a) Immersion of the cobs in \ngraduated cylinders for the determination of the material density. (b) Correlation graph \nbetween W  and . 3.3 Spectroscopic investigation \nDifferent corncob samples have been collected from inner, middle, and outer layers so to \nseparately investigate the different portions of a cob and to evaluate any variation between \nlayers in chemical composition. Fourier Transform Infrared Spectroscopy (FTIR) \nmeasurements have been performed with attenuated total reflection (ATR) sampling technique \nalongside traditional infrared spectros",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 8,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "copy by using an ATR-FTIR Alpha instrument (Bruker, \nUS). The samples have been placed on a crystal (diamond) without any prior preparation. The \nspectra of the three different layers have been obtained with 32 scans in the spectral range from \n4000 cm−1 to 400 cm−1 with a resolution of 4.0 cm−1. The spectra are reported in Figure 5. A\n\n15 \nrelevant absorption is observed at 3300 cm-1, characteristic of OH stretching of lignin. At 1730 \ncm-1 it is observed the C=O unconjugated stretching of acetyl groups from lignin and \nhemicellulose. Moreover, another peak is present at 1240 cm-1, deriving from aromatic C-O \nstretching of xylan (hemicellulose). At 1160 cm-1 and 1035 cm-1 respectively the C-O stretching \nin ester groups and C-C, C-OH, C-H ring and side group vibration of hemicellulose, cellulose and \nlignin are visible. In confirmation of [30], the reported ATR spectra revealed that the main \ncomponents are hemicellulose, cellulose, and lignin. Anyway, the three spectra are very similar \nand this leads to assume a similar chemical composition of the different layers of corncob even \nif with some little differences on the various group percentages. Wavenumber (cm-1) \nFigure 5. ATR spectra in transmittance of the different corn cob layers. 3.4 Specific heat evaluation \nFor the thermal characterization of an insulating material, probably the most representative \nparameters are the specific heat, usually defined as Cp and the thermal conductivity, usually\n\n16 \ndenoted by  \n. To this regard it seems worth to recall that Cp ( J/(g·K)) of a substance or \nmaterial is defined as the amount of energy, in the form of heat, required for one unit of mass of \nthe material in order to cause an increase of one unit in the temperature, whereas  ( W/(m·K) \n) is a measure of the ability of a substance or material to conduct heat. Both, Cp and  are \nfunction of temperature and typically they are higher at elevated temperatures [31]. On the \nother side, in the context of thermal insulation of buildings, by using nomenclature in [32,33], \nthe thermal transmittance U (W/(m2·K)) or the thermal conductance \n (W/(m2·K)) of an \nenvelope are among the most important properties to define, according to the intended use of \nthe building [34]. In fact, most of the energetic performances of a building could be directly or \nindirectly correlated to the performance of the envelope materials. In the present work Cp has been assumed as reference parameter for the evaluation of the of \ncorn cob thermal property whereas  of some corn cob configurations (discussed in a following \nsection) has been investigated as possible insulation material in building envelope. Hence all \nthe single cob layers (outer, middle and inner) have been singularly analysed in order to \ndetermine any difference in the Cp that might help to build a more thorough thermal model of \nthe behaviour of the corn cob. It is interesting to highlight that, contrarily to other bio-based \nmaterials, results on Cp value,",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 9,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "for different temperatures, for corn cob as raw material seem to \nbe not available in scientific literature [3]. Cp has been investigated by means of an experimental campaign performed using the  \ndifferential scanning calorimetry (DSC), i.e., a thermo-analytical technique that relates Cp to the \ntemperature according to the amount of heat required to increase the temperature of a sample \nis measured as a function of the temperature. The measurements have been carried out with a \nDSC Q2000 (TA Instruments, US) calorimeter equipped with a refrigerated cooling system \n(RCS90). The analyses, calibrated for the evaluation of Cp at 20°C as reference temperatures, \nhave been carried out with a 10°C/min heating rate in the temperature range from -10°C to\n\n17 \n+50°C with 1 point/second as sampling interval, after setting the zero heat flow point at 20°C \nprior the beginning of the heating scan. Then values were also extrapolated at 0°C and 40°C for \ncomparative purposes. A cell calibration is required prior to perform Cp measurements. A \nsapphire standard sample has been employed to perform the calibration. For each cob layer, i.e. outer, middle, and inner, five samples have been extracted from different corn cobs randomly \nselected and then analysed for the CP assessment. In addition, in order to investigate the thermal properties of corn cob powder for a possible \napplication as material for insulation panels, five specimens have been obtained from corn cob \nground to powder and then pressed with a pelletizer press applying a pressure of 5 bar for 20 \nminutes each one. The five pressed powdery pellets have been tested in the DSC Q2000 (TA \nInstruments, US) calorimeter with the aim to provide for a reference of the performance of the \nsame material but in a different arrangement. The main results of the calorimetric tests are reported in Figure 6 that presents the trend of Cp \nas a function of the applied temperature in the 0°C - 40°C range. As the figure shows, the five \ncompanion specimens provide limited difference in the trends and a good repeatability. The \nhighest dispersion is exhibited by the inner layer (see Figure 6c) and this finding was expected \nbecause of the irregular texture highlighted by the SEM images. 18 \n \n \n1 \n1 \n \n0 \n5 \n10 \n15 \n20 \n25 \n30 \n35 \n40 \n0 \n5 \n10 \n15 \n20 \n25 \n30 \n35 \n40 \n \nTemperature (°C) \n       \nTemperature (°C) \n \n \n1 \n1 \n \n0 \n5 \n10 \n15 \n20 \n25 \n30 \n35 \n40 \n0 \n5 \n10 \n15 \n20 \n25 \n30 \n35 \n40 \n \nTemperature (°C) \n       \nTemperature (°C) \n \n(c) \n(d) \nFigure 6. Experimental Cp curves for different corn cob layers and samples (grey line indicates \nsingle sample curve; black line indicates the average curve). (a) Outer layer.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 10,
+      "char_count": 2697
+    }
+  },
+  {
+    "text": "(b) Middle layer. (c) \nInner layer. (d) Powder pellet. For the sake of a comparison, the average Cp trends of the different sample types and the related \nCoV values are summarized in Figure 7a and 7b respectively and furthermore, Table 3 collects \nthese values for the three reference temperatures (0°C, 20°C and 40°C). Comparing the different \nlayers of corn cob it clearly appears that inner layer shows the highest Cp values, ranging from \n1.9 J/(g·°C) to about 3.8 J/(g·°C) and is about 2.6 J/(g·°C) at 20 °C temperature (the latter being \nusually assumed as reference for characterization of insulation elements). This value is higher \nthan about 50% with respect to the other layers. In fact, the outer and the middle corn cob layers \ndisplay Cp values respectively 1.68 J/(g·°C) and 1.72 J/(g·°C) at 20° C. The comparison displays \nthat the inner layer requires more energy to increase its temperature than the other corn cob \nlayers. The difference between the inner and middle/outer layers could be attributed to the \n2 \n3 \n4 \n5 \n2 \n3 \n4 \n5 \n) \nb \n( \n) \na \n( \n2 \n3 \n4 \n5 \n2 \n3 \n4 \n5\n\n19 \ndifferent morphology of the corn cob areas, as indeed observed with the SEM micrographs (see \nFigure 3). In fact, an elevated void content, could affect the main material macroscopic thermal \nproperties, like the specific heat. 1 \n0 \n \n0 \n5 \n10 \n15 \n20 \n25 \n30 \n35 \n40 \n0 \n5 \n10 \n15 \n20 \n25 \n30 \n35 \n40 \n \nTemperature (°C) \n      \nTemperature (°C) \n \n(a) \n(b) \nFigure 7. Comparison of the results obtained from the experimental tests on different types of \ncorn cob layers and samples. (a) Average Cp curves. (b) Coefficient of variation curves of the Cp \nvalues. Table 3. Average Cp ( J/(g·°C) ) and related CoV (% data in the brackets) values for different \ncorn cob sample types and different reference temperatures. Temperature \nOuter layer \nMiddle layer \nInner layer \nPowder pellet \n0° C \n1.449 (6.3) \n1.443 (9.2) \n1.954 (20.6) \n1.384 (7.1) \n20° C \n1.680 (7.4) \n1.716 (10.0) \n2.628 (17.9) \n1.590 (8.2) \n40 °C \n2.076 (8.6) \n2.200 (12.3) \n3.790 (14.3) \n1.938 (11.0) \nIt could be useful to obtain a single Cp value that take into account all the three different layers \nof a corn cob. In order to calculate a Cp value, average on the volume (Cpvol), the following \nformulation for composite materials derived from [35] can be adopted: \n \n𝑉𝑡𝑜𝑡𝑖Cpi ∙ Vi \n(3) \nwhere Cpi is the Cp value of the i-th component; Vi is the volume of the i-th component in the \nconsidered mass; Vtot is the total volume of the considered mass. The preliminary analyses, \ndescribed in the previous sub-section, provided that the volume percentages of the three single \nlayers of a corn cob (which the areas A1, A2 and A3 in Figure 2b refer), on average, are equal to\n\n20 \n60%, 26% and 14% for outer, middle and inner layer respectively. By introducing these \npercentages in Eq.(3), the Cp for a temperature equal to 20°C is 1.82 J/(g·°C). Following the \nresults provided in this paper, the latter value can be assumed as repre",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 11,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "sentative value for the \nwhole corn cob. As far as the results of the tests on powder pellet specimens are concerned, the Cp values show \na slight decrease all along the investigated temperature range (see Figure 7a), but practically \nvery similar to the trends of middle and outer layers. This is because the process of compressing \nthe corn cob powder probably eliminates most of the voids contained in the inner layer thus \nmaking the contribution of the latter negligible in the definition of the final Cp value for the \npellets. However, these values confirm that a generic material derived from the corn cob through \na compression process of the base raw material does not have a significantly worsening of the \nthermal properties with respect to the original material. Finally, the Cp values deduced by the experimental tests are comparable to those of insulating \nmaterials currently adopted, for example the expanded polystyrene (EPS) and the extruded \npolystyrene (XPS) display Cp value of 1.25 J/(g·°C) and 1.5-1.7 J/(g·°C) respectively. All this \nconfirms the reliability of the recent attention that some researchers devoted to this material. This paper further proves that corn cob could be a viable and profitable material for insulating \napplications and encourages future studies on this bio-based by-product. 4. Experimental macro-scale tests \n4.1 Thermal performance assessment \nIn order to characterize the performance of the corn cobs as raw material for building insulation, \nthe thermal conductance  of different envelopes has been evaluated by considering different \ncorn cob configurations. The experimental tests investigate the thermal behaviour of full-scale \nbuilding envelope specimens and were realized in a movable hot box (MHB). The MHB\n\n21 \napparatus [36] has been developed for laboratory purposes, for the determination of the \nconductance of insulation panels or even wall envelopes. The MHB adopted for the present \nstudy is a cubic box, with about 1m of edge, realized with five oriented strand board (OSB) \npanels insulated with expanded polystyrene (EPS). The frontal empty face houses the element \nto be studied. A sketch of the MHB apparatus is showed in Figure 8. In order to heat up air inside \nthe box, a thermal resistance (P3) was adopted. Moreover, in order to ensure a homogeneous \nair temperature inside the box, a fan (P4) was positioned above the resistance. The empty face \n(front) of the wall, was studied in order to properly house the element to test. To this regard an \ninternal wooden framework covered by an insulating thermoplastic adhesive profile (P7), \nconnected to the main box (P1), has been realized so as to provide a suitable housing for the \nelement that limits as much as possible the air leakage. The main aim of the box is to create a \nproper environment for the tests. Specifically, it should ensure a uniform internal temperature \nat least 10°C higher than the room temperature for the test duration (72 hours). 22 \n \n(c) \nF",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 12,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "igure 8. Design sketches of the MHB. (a) Global view. (b) Axonometric inner view. (c) Exploded \nview with indicated the main components. The MHB prototype have been calibrated and validated for the typical range of thermal \nconductance expected in the present study. All the details are provided in [36] and the main \ncharacteristics of the probes used in the experimental tests are summarized in Table A1 in the \nAppendix. The tests described in this Section followed procedures prescribed by international \nstandards or validated in previous works.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 13,
+      "char_count": 550
+    }
+  },
+  {
+    "text": "In order to confirm the reliability of the results, the \nmain outcomes of the tests were then compared with those available in literature. 23 \nFor plane building opaque components, the heat flow meter (HFM) method, can be effectively \napplied for the measurement of surface-to-surface thermal conductance  of the specimen, \nwhich can be calculated by the following Eq.(4): \n \n = q / (Tsi – Tse) \n(4) \nwhere: q is the density of heat flow rate =  / A; Tsi, Tse respectively are the interior surface \ntemperature of the building element and exterior surface temperature, both in °C or K;  is the \nheat flow rate and A the area crossed by . Since the raw corn cobs are an incoherent material, \nin order to be able to conduct the tests with a rigid support for the temperature sensors and \nheat flow meter sensors, the cobs have been introduced in the OSB frame (with inner \ndimensions 1010×1010×170mm3) in the front of the hot box (element P9 in Figure 8c). The \nconductance tests consider eight different configurations (labelled cfg.#0-cfg.#7) displayed in \nFigure 9 and summarized in Table 4. The stratigraphies of the various configurations are the \nfollowing: \n• \ncgf. #0: OSB panel (18mm) + air gap (170mm) + OSB panel (18mm); \n• \ncgf. #1: OSB panel (18mm) + corn cobs laid with length along X-dir (170mm) + OSB panel \n(18mm); \n• \ncgf. #2: OSB panel (18mm) + corn cobs laid with length along Y-dir (170mm) + OSB panel \n(18mm); \n• \ncgf. #3: OSB panel (18mm) + corn cobs laid with length along Z-dir (170mm) + OSB panel  \n(18mm); \n• \ncgf. #4: OSB panel (18mm) + corn cobs layered laid alternatively with length along X-dir \nand Y-dir (170mm) + OSB panel (18mm); \n• \ncgf. #5: OSB panel (18mm) + corn cobs layered laid alternatively with length along X-dir \nand Z-dir (170mm) + OSB panel (18mm); \n• \ncgf. #6: OSB panel (18mm) + corn cobs layers laid alternatively with length along Y-dir \nand Z-dir (170mm) + OSB panel (18mm); \n• \ncgf. #7: OSB panel (18mm) + ground corn cobs (170mm) + OSB panel (18mm). 24 \n \n \ncfg. #0 \ncfg. #1                     cfg. #2                    cfg. #3                     cfg. #4                      cfg. #5                      cfg. #6                      cfg. #7 \nFigure 9. Scheme of the configurations tested in the MHB. The cfg.#0 has been considered as reference since it is characterized by the empty frame with \nair inside. The cfg.#1 – cfg.#3 consider raw cobs, laid in the OSB frame, with the cob length in \ndirection X, Y and Z respectively (see Figure 10). The configurations from 4 to 6 consider cobs \nlaid in two layers in the OSB frame and obtained with cobs oriented with length parallel to \ndifferent directions. In particular cfg.#4 has two layers characterised by cobs oriented parallel \nto X and Y directions. The cfg.#5 has two layers of cobs oriented in X and Z directions (see Figure  \n10c). The cfg.#6 has two layers of cobs oriented in Y and Z directions following the scheme in \nFigure 9. Table 4. Main results of the configurations teste",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 14,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "d in the MHB (where: ag is air gap, rc is raw cobs \nand gc is ground cobs). Cfg. # \nCfg. label \nSample \nstratigraphy \nDensity \n(Kg/m3) \n  \n(W/m2K) \ncob \n(W/mK) \nYmn \n(W/m2K) \nf \n(-) \nt \n(h) \n0 \nAir gap \nOSB– ag –OSB \n- \n2.42 \n- \n- \n- \n- \n1 \nX-dir \nOSB– X rc–OSB \n195 \n0.67 \n0.14 \n0.39 \n0.63 \n6.19 \n2 \nY-dir \nOSB– Y rc–OSB \n195 \n0.82 \n0.17 \n0.48 \n0.67 \n5.69 \n3 \nZ-dir \nOSB– Z rc –OSB \n212 \n1.13 \n0.26 \n0.67 \n0.71 \n5.03 \n4 \nXY-dir \nOSB– XY rc –OSB \n198 \n0.72 \n0.15 \n0.42 \n0.64 \n6.06 \n5 \nXZ-dir \nOSB– XZ rc –OSB \n212 \n0.76 \n0.16 \n0.43 \n0.63 \n6.15 \n6 \nYZ-dir \nOSB– YZ rc –OSB \n212 \n0.66 \n0.13 \n0.34 \n0.58 \n6.74 \n7 \nground \nOSB–gc–OSB \n213 \n0.62 \n0.12 \n0.31 \n0.56 \n7.02 \nFinally, in order to test the thermal behaviour of corn cobs as particulate material, ground cob \nmixture (with particle dimension in the range 2-30mm after mechanical grinding process) has \nbeen laid in the frame realizing the cfg.#7 (see Figure 10d). The latter configuration has been \nintroduced and investigated since it should be the most viable and simple to introduce in an\n\n25 \nindustrial process aiming at marketable production of building insulation applications. Table 4 \nshows the different content density, calculated as ratio between weight of the content and gross \nvolume of the OSB frame. The differences are very limited and is to attribute to the difficult to \nproperly fill the frame volume in the configurations #1, #2 and #4. This is confirmed by the \nlower density values for these three configurations. (a) \n(b) \n \n \n(c) \n(d) \nFigure 10. View details of cobs positioned in the OSB frame. (a) Cfg.#1. (b) Cfg.#3. (c) Cfg.#5. (d) Cfg.#7. 26 \nThe data acquired during the test are then elaborated in order to assess the conductance by \nusing Eq. (4) according to the progressive average method. As reported in the ISO 9869-1:2014 \n[32], this method assumes that the conductance  is obtained by dividing the mean density of \nheat flow rate (q) by the mean temperature difference (Tsi-Tse), the average being taken over a \nlong enough period of time. An estimate of the conductance Λ is then obtained by expression: \nΛ =\n∑\n𝑞𝑗\n𝑛\n𝑗=1\n∑\n(𝑇𝑠𝑖,𝑗−𝑇𝑠𝑒,𝑗)\n𝑛\n𝑗=1\n \n                                                                 (5) \nwhere: j are the individual measurements and the other quantities are already defined above. As a representative example, Figures 11a-b show the trends of temperature (indoor the hot \nchamber and outdoor the hot chamber) and heat flow measured at the center of the specimen \nduring the first 24 hours of the experimental test on cfg.#1. It is worth to notice that outdoor \ntemperature is almost constant (between 20 and 22°C) with low variations. On the opposite, \nthe indoor temperature fluctuates between 40°C and 42°C, as expected from the setting of the \ninternal temperature sensors. The oscillating trend on the temperatures is ascribed to the cyclic \nturning on-turning off of the thermal resistance. For the present tests the temperature \ndifference Tsi-Tse has been always abun",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 15,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "dantly higher than 10°C (the one suggested by the ISO \n9869-1:2014). Moreover, Figures 11c reports the trend of the conductance value that, as \nexpected owing to the MHB dimensions, rapidly (in few hours) point towards the final value - \ncorresponding to the thermal equilibrium configuration - identified with the attainment, within \na defined tolerance, of a horizontal asymptote in the conductance curve. The attainment of the \nhorizontal asymptote in the conductance curve can be better evaluated on the graph of the \nrelative difference in Figure 11d plotting for each instant the numerical difference between the \nconductance values at current step and at previous step divided by the initial conductance value. After 72 hours of test the relative difference, expressed as order of magnitude, is about  \n1‰ of the initial conductance value confirming a substantial thermal equilibrium. 27 \n \n \n \n(c) \n(d) \nFigure 11. Trend of the main parameters obtained from the experimental test on cfg.#1. (a) \nTemperatures trend for the first 24 hours from the beginning (where Toutdoor is the temperature \noutdoor the MHB and Tindoor is the temperature measured indoor the MHB at the center of the \nsample). (b) Detail of the typical trends of the heat flow recorded during 24 hours of test. (c) \nConductance trend for the first 24 hours from the beginning of the test. (d) Relative difference \n(per mil) between the conductance values at current step and at previous step divided by the \ninitial conductance value, during the 72 hours of the thermal test. The final conductance value, obtained for each configuration, is reported in the fifth column in \nTable 4. Obviously the highest value is obtained for the air gap configuration with a conductance \nequal to 2.42 W/(m2·K). This value is not particularly important for the thermal \ncharacterization of the corn cob behaviour but provides a sort of upper limit and it was \nconsidered as reference value since the conductance reduction obtained for the other \nconfigurations can be attributed to presence and orientation of corn cobs filling the OSB frame. The conductance value ranges from 0.62 to 1.13 W/(m2·K) and it shows that the orientation of \nthe cobs plays a crucial role. The best thermal performance has been obtained with the ground \ncob, i.e. cfg.#7, and this represents an extremely important results since this configuration is \n0 \n5 \n1 0 \n1 5 \n2 0 \n2 5 \n3 0 \n3 5 \n4 0 \n4 5 \n0 \n3 \n6 \n9 \n1 2 \n1 5 \n1 8 \n2 1 \n2 4 \nT i m e ( h o u r s ) \nT o u t d o o r \nT i n d o o r \n  \n0 \n1 0 \n2 0 \n3 0 \n4 0 \n5 0 \n6 0 \n7 0 \n8 0 \n0 \n3 \n6 \n9 \n1 2 \n1 5 \n1 8 \n2 1 \n2 4 \nT i m e ( h o u r s ) \na ) \n( b ) \n( \n0 \n0 . 5 \n1 \n1 . 5 \n2 \n2 . 5 \n0 \n3 \n6 \n9 \n1 2 \n1 5 \n1 8 \n2 1 \n2 4 \nT i m e ( h o u r s ) \n  \n0 . 0 1 \n0 . 1 \n1 \n1 0 \n1 0 0 \n1 0 0 0 \n0 \n2 4 \n4 8 \n7 2 \nT i m e ( h o u r s )\n\n28 \nprobably the simplest to attain with an industrial process. Comparable conductance values have \nbeen obtained for the cfg.#1 and cfg.#6 where the latter has cobs arranged i",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 16,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "n layers differently \noriented and providing a similar resistance to the heat flow. As expected, the worst thermal performance has been observed for cfg.#3 with cobs oriented \nwith their main axis parallel to the Z direction, i.e. along the panel thickness direction. The poor \nthermal behaviour is to attribute to the corn cob texture that creates series of horizontal \nchannels facilitating the heat transmission since directly connecting the inner to the outer face \nof the sample. The other configurations, i.e. #2, #4 and #5, provide an intermediate thermal \nbehaviour but in any way worse than ground cobs sample. Moreover, as showed in Figure 12, is worth to note the absence of a correlation between content \ndensity and thermal conductance cannot be drawn for this material. Indeed, analogous \nconductance ranges can be obtained with different content density values, and this confirms \nthat cob orientation and texture play the major role for the material configurations considered \nhere. 1.2 1 \n0.8 \n0.6 \n0.4 \n0.2 \n0 \n \n190 \n200 \n210 \n220 \nContent density (Kg/m3) \nFigure 12. Analysis of the conductance results: independence from the content density. 29 \nFurthermore, in the sixth column of Table 4 the values of the apparent cob thermal conductivity \ncob are reported. Also in this case, the best performances are showed by the cob cfg. #7 \nconfirming the indications provided by the conductance values. Finally, in order to evaluate the dynamic thermal characteristics of the different configurations, \nthe evaluation of the periodic thermal transmittance (Ymn), of the decrement factor (f) and of \nthe time lag or time shift ( t) has been realized. The values of the three characteristic have been \ncalculated with the method reported in [37]. As the Table 4 shows, the value of Ymn) ranges from \n0.31 to 0.67 W/m2K for the different configurations; the value of the decrement factor goes from \n0.56 to 0.71 and the time shift ranges between 5.03 and 7.02 h. Also these analyses confirmed \nthat the best performances are showed by the cob cfg. #7 and provided promising outcomes \nwith numerical values of the same order of magnitude as for commercial products. Concluding, a similar thermal test conducted on an expanded polystyrene (EPS) panel with \ncommercial thickness t=80mm provide a conductance value equal to 0.53 W/(m2 K) (for details \nsee [36]). Even if the thickness sample, is different this comparison shows that the corn cob bio-\nbased building insulation applications can represent a viable alternative to the actual \ncommercial materials/panels with good insulation properties but fossil origin, e.g. extruded \npolystyrene, expanded polystyrene, polyisocyanurate and polyurethane foam, and it should \nstimulate other possible studies on the way to use renewable agricultural waste products. Future studies should also investigate issues related to the durability of this material and its fire \nresistance since these characteristics are very important properties require",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 17,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "d for the building \nmaterials. Some preliminary indications on this last aspect are provided in [16] where the \nauthors reported the results of fire resistance preliminary tests performed on cob samples. Based on these first outcomes, it seems worth to conclude that corn cobs have an acceptable fire\n\n30 \nresistance when compared with other thermal insulation materials. Further tests will be carried \nout by the authors in this field but they are out of the scope of this paper. 4.2 Acoustic performance assessment \nIn order to characterize the acoustic performance of corn cobs, airborne sound insulation tests \nhave been realized. The airborne sound insulation test is probably the most applied in the \ncontext of bio-based and recycled products for sound insulation [14] since these materials are \nvery likely to be introduced in both vertical walls and horizontal floors as noise barrier. The \nexperimental tests described in the following subsection have been adopted to evaluate the \nsound insulation potential of the corn cob as raw material. The sound insulation tests have been performed in the Acoustic Laboratory of the Department \nof Industrial Engineering of the University of Bologna. The tests described in this sub-Section \nfollowed procedures prescribed by international standards or validated in previous works and \nthe tests were performed by using certified equipment. In order to confirm the reliability of the \nresults, the main outcomes of the tests were then compared with those available in literature. The measurements under diffuse field conditions were performed on different lightweight walls \ncharacterized by the same perimeter frame and three different vertical stratigraphies: 1 OSB \npanel, 2 OSB panel with air gap and 2 OSB panel with corn cobs inside the gap. The wall has been installed in the transmission chambers (see Figure 13) of the laboratory and \ninsulation measurements have been performed according to the standard ISO 10140-2 [38]. The \nsource and measurement positions as well as the measurement procedure are defined by the \nstandard ISO 10140-4 [39] standard. The frequency range analysed is in the one-third of octave \nband from 100 Hz to 5000 Hz. The sound reduction index R can be evaluated according to the \nISO 10140-2 [38] as: \nS \n \nR = L1 ― L2 +10logA (dB) \n(6)\n\n31 \nwhere: L1 (dB) is the energy average sound pressure level measured in the source room; L2(dB) \nis the energy average sound pressure level in the receiving room; S is the area of the test opening \nin which the test element is installed and A is the equivalent absorption area in the receiving \nroom evaluated from Sabine’s law. Figure 14 shows the values of R measured for the three \ndifferent stratigraphies. As for the thermal tests, the stratigraphy with the air gap is considered \nas base for the assessment of the corn cob contribution. The R trends, for the three different \nstratigraphies, are rather similar with a significant improvement of the acoustic performance",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 18,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "by moving from the solution with 1 OSB layer to the solution with 2 OSB and air gap in the \nmiddle. (a)\n\n32 \n \n(b) \n(c) \nFigure 13. Layout of the acoustic room used for the tests. (a) View of the source room. (b) View \nof the receiving room. On the other side, at the low-medium frequencies (< 630 Hz) the cob contribution is almost \nnegligible. The cobs provide however a slight improvement also at the medium-high frequencies \n(> 1000 Hz). In the range of medium-high frequencies the critical frequency of the OSB panels \nis about 1600-2000 Hz, confirmed also by the configuration with corn cobs. From a practical \npoint of view, the raw corn cobs do not represent an effective sound damping material. Finally, \nfollowing the procedure in EN ISO 717-1 [40], the weighted sound reduction index Rw has been \ncalculated for the different stratigraphies. The weighted sound reduction index is considered a \nfundamental parameter for the comparison of different building systems tested in laboratory. This index considers a 1/3 octave band frequency range, between 100 Hz and 3150 Hz, which \nmay not be sufficient for a satisfactory description of the behavior at low and high frequency. To \nconsider the behavior, extended in frequency, with respect to normalized noise spectra (pink \nnoise and traffic noise), the spectrum adaptation terms C and Ctr must be introduced. The Rw \nvalues obtained are reported in Table 5 and showed in Figure 15b. The Rw value characterizing \nthe wall sample filled with corn cob confirms the low sound-absorbing properties of the \nmaterial. Thus, conversely from the good performance obtained in [14] investigating a corn cob \nparticleboard, raw corn cob does not represent an efficient material in noise reduction. (a) \n(b)\n\n33 \nFigure 14. Main results of the acoustic tests. (a) Sound reduction index R. (b) Weighted sound \nreduction index Rw. Table 5. Values of weighted sound reduction index, Rw, and spectrum adaptation terms, C and \nCtr, for the different stratigraphies. Sample stratigraphy \nC \nCtr \nRw (dB) \n1 OSB layer \n-1 \n-2 \n25 \nAir gap \n-2 \n-3 \n36 \nCorn cob \n-1 \n-2 \n37 \n5. Concluding remarks \nThe process of replacing fossil-derived materials with alternative bio-based ones is still an \nopen issue, also in the construction sector. In this context and with particular reference to \nbuilding insulating materials, the evaluation of the main physical and thermo-acoustic \nproperties is certainly one of the aspects having the greatest interest. Among these materials, \nthe corn cob – already adopted in the past centuries in some Mediterranean countries as \nbuilding insulation material – has been deeply investigated by other researchers but, despite \nthe several research and efforts, corn cob applications as insulation material are still not fully \ndeveloped and not ready for the market. Specifically, the corn cob is often investigated as a \ncomponent in composite materials, making the identification of its own specific thermal \ncharacteristics al",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 19,
+      "char_count": 2998
+    }
+  },
+  {
+    "text": "most impossible. Nevertheless, some of those characteristics are necessary to \nuse this material in the building construction sector and literature lacks of studies that analyze \nthem globally. This paper aimed at filling this gap, investigating the corn cob at different scales and under \ndifferent disciplines. Firstly, the corn cob was examined at micro scale to identify its chemical \ncomposition, structure and some physical characteristics such as density, water absorption and \nspecific heat. Then, it has been studied at macro scale designing and investigating possible \nconstructions (thought to be wall or roof constructions) to assess its thermal and acoustic \nperformances in real applications, identifying the most performing configuration. Under this\n\n34 \nlight, this work suggests a strategy to adopt to evaluate natural materials for building \nconstruction purposes. The paper presents the main results of an extensive multidisciplinary experimental campaign \nconducted on corn cob-based samples and represents a further contribution to the knowledge \nof this natural material, up to now mainly considered a maize production waste. With reference \nto the thermal properties of the material, the specific heat Cp has been evaluated for samples \nextracted by different corn cob layers. This represents a first attempt to assess this important \nparameter for the corn cob, in the range 0°C – 40°C, values not currently available in literature. The outer and the middle corn cob layers have Cp values respectively 1.68 J/(g·°C) and 1.72 \nJ/(g·°C) at 20° C. The inner layer has Cp value equal to 2.6 J/(g·°C) for 20 °C. The difference \nbetween the inner and middle/outer layers could be attributed to the different morphology and \nvoid presence, as indeed observed with the SEM micrographs. The Cp values deduced by the \nexperimental tests are comparable to those of insulating materials currently adopted, such as \nEPS and XPS. Finally, the thermal performance of the cobs has been assessed from a macro-scale point of view, \nby testing six different wall samples filled with cobs laid in different configurations. For each \nconfiguration, the wall conductance value ( ) has been evaluated by means of a movable hot \nbox. The outcomes of the conductance tests showed that \n value ranges from 0.62 to 1.13 \nW/(m2·K) and it means that the orientation of the cobs play a very important role. The best \nthermal performance has been obtained with the ground cob. This is an extremely important \nresult since this configuration is probably the simplest to provide with an industrial process and \nthus paves the way for an upscaling of this material in the building field. As last, the sound \ninsulation tests aiming at the characterization of the sound reduction index of walls filled with \nraw corn cobs have showed that the latter do not represent an effective sound damping material. 35 \nThis paper further proves the corn cob could be a viable and profitable material for insulating \napplic",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 20,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ations and encourages future studies on this bio-based by-product. Future studies will \ninvestigate practical applications and must consider and assess the durability, the fire \nresistance. 36 \nReferences \n[1] \nEuropean Commission. Building Stock Observatory 2020. [2] \nU.S. Department of Energy. Building energy data book 2020. [3] \nAsdrubali F, D’Alessandro F, Schiavoni S. A review of unconventional sustainable building \ninsulation \nmaterials. Sustain \nMater \nTechnol \n2015;4:1–17. https://doi.org/10.1016/j.susmat.2015.05.002.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 21,
+      "char_count": 531
+    }
+  },
+  {
+    "text": "[4] \nCetiner I, Shea AD. Wood waste as an alternative thermal insulation for buildings. Energy \nBuild 2018;168:374–84. https://doi.org/10.1016/j.enbuild.2018.03.019. [5] \nGöswein V, Reichmann J, Habert G, Pittau F. Land availability in Europe for a radical shift \ntoward \nbio-based \nconstruction. Sustain \nCities \nSoc \n2021;70:102929. https://doi.org/10.1016/J.SCS.2021.102929.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 22,
+      "char_count": 377
+    }
+  },
+  {
+    "text": "[6] \nSchiavoni S, D’Alessandro F, Bianchi F, Asdrubali F. Insulation materials for the building \nsector: A review and comparative analysis. Renew Sustain Energy Rev 2016;62:988– \n1011.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 23,
+      "char_count": 184
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.rser.2016.05.045. [7] \nAditya L, Mahlia TMI, Rismanchi B, Ng HM, Hasan MH, Metselaar HSC, et al. A review on \ninsulation materials for energy conservation in buildings. Renew Sustain Energy Rev \n2017;73:1352–65. https://doi.org/https://doi.org/10.1016/j.rser.2017.02.034.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 24,
+      "char_count": 297
+    }
+  },
+  {
+    "text": "[8] \nGonzález-Kunz RN, Pineda P, Bras A, Morillas L. Plant biomass ashes in cement-based \nbuilding materials. Feasibility as eco-efficient structural mortars and grouts. Sustain \nCities Soc 2017;31:151–72. https://doi.org/10.1016/J.SCS.2017.03.001.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 25,
+      "char_count": 248
+    }
+  },
+  {
+    "text": "[9] \nBriga-Sá A, Nascimento D, Teixeira N, Pinto J, Caldeira F, Varum H, et al. Textile waste as an \nalternative thermal insulation building material solution. Constr Build Mater \n2013;38:155–60.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 26,
+      "char_count": 195
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.conbuildmat.2012.08.037. [10] Gounni A, Mabrouk MT, El Wazna M, Kheiri A, El Alami M, El Bouari A, et al. Thermal and \neconomic evaluation of new insulation materials for building envelope based on textile \nwaste. Appl \nTherm \nEng \n2019;149:475–83. https://doi.org/10.1016/j.applthermaleng.2018.12.057. [11] Sierra-Pérez J, García-Pérez S, Blanc S, Boschmonart-Rives J, Gabarrell X. The use of forest-\nbased materials for the efficient energy of cities: Environmental and economic \nimplications of cork as insulation material. Sustain Cities Soc 2018;37:628–36. https://doi.org/https://doi.org/10.1016/j.scs.2017.12.008.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 27,
+      "char_count": 646
+    }
+  },
+  {
+    "text": "[12] Domínguez-Muñoz F, Anderson B, Cejudo-López JM, Carrillo-Andrés A. Uncertainty in the \nthermal conductivity of insulation materials. Energy Build 2010;42:2159–68.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 28,
+      "char_count": 167
+    }
+  },
+  {
+    "text": "https://doi.org/https://doi.org/10.1016/j.enbuild.2010.07.006. [13] Ricciu R, Besalduch LA, Galatioto A, Ciulla G. Thermal characterization of insulating \nmaterials. Renew \nSustain \nEnergy \nRev \n2018;82:1765–73. https://doi.org/https://doi.org/10.1016/j.rser.2017.06.057.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 29,
+      "char_count": 271
+    }
+  },
+  {
+    "text": "37 \n[14] Faustino J, Pereira L, Soares S, Cruz D, Paiva A, Varum H, et al. Impact sound insulation \ntechnique using corn cob particleboard. Constr Build Mater 2012;37:153–9.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 30,
+      "char_count": 173
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.conbuildmat.2012.07.064. [15] Pinto J, Paiva A, Varum H, Costa A, Cruz D, Pereira S, et al. Corn’s cob as a potential \necological \nthermal \ninsulation \nmaterial. Energy \nBuild \n2011;43:1985–90.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 31,
+      "char_count": 219
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.enbuild.2011.04.004. [16] Pinto J, Cruz D, Paiva A, Pereira S, Tavares P, Fernandes L, et al. Characterization of corn \ncob as a possible raw building material. Constr Build Mater 2012;34:28–33.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 32,
+      "char_count": 220
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.conbuildmat.2012.02.014. [17] Paiva A, Pereira S, Sá A, Cruz D, Varum H, Pinto J. A contribution to the thermal insulation \nperformance characterization of corn cob particleboards. Energy Build 2012;45:274–9.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 33,
+      "char_count": 234
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.enbuild.2011.11.019. [18] Akinyemi AB, Afolayan JO, Ogunji Oluwatobi E. Some properties of composite corn cob \nand \nsawdust \nparticle \nboards. Constr \nBuild \nMater \n2016;127:436–41.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 34,
+      "char_count": 207
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.conbuildmat.2016.10.040. [19] Czajkowski Ł, Wojcieszak D, Olek W, Przybył J. Thermal properties of fractions of corn \nstover. Constr \nBuild \nMater \n2019;210:709–12.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 35,
+      "char_count": 190
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/J.CONBUILDMAT.2019.03.092. [20] Binici H, Aksogan O, Demirhan C. Mechanical, thermal and acoustical characterizations of \nan insulation composite made of bio-based materials. Sustain Cities Soc 2016;20:17–26.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 36,
+      "char_count": 232
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.scs.2015.09.004. [21] Yahya MA, Al-Qodah Z, Ngah CWZ. Agricultural bio-waste materials as potential \nsustainable precursors used for activated carbon production: A review. Renew Sustain \nEnergy Rev 2015;46:218–35.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 37,
+      "char_count": 239
+    }
+  },
+  {
+    "text": "https://doi.org/https://doi.org/10.2134/agronj2010.0202. [23] Johnson JM-F, Barbour NW, Weyers SL. Chemical Composition of Crop Biomass Impacts \nIts \nDecomposition. Soil \nSci \nSoc \nAm \nJ \n2007;71:155–62. https://doi.org/https://doi.org/10.2136/sssaj2005.0419. [24] Varvel GE, Wilhelm WW. Cob Biomass Production in the Western Corn Belt. BioEnergy \nRes 2008;1:223–8. https://doi.org/10.1007/s12155-008-9026-6. [25] Hoskinson RL, Karlen DL, Birrell SJ, Radtke CW, Wilhelm WW. Engineering, nutrient \nremoval, and feedstock conversion evaluations of four corn stover harvest scenarios. Biomass \nand \nBioenergy \n2007;31:126–36. https://doi.org/https://doi.org/10.1016/j.biombioe.2006.07.006. 38 \n[26] Shinners KJ, Adsit GS, Binversie BN, Digman MF, Muck RE, Weimer PJ. Single-pass, \nsplitstream harvest of corn grain and stover. Trans ASABE 2007;50:355–63.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 38,
+      "char_count": 851
+    }
+  },
+  {
+    "text": "https://doi.org/10.13031/2013.22626. [27] U.S. Grains Council. Corn 2021. [28] García-Condado S, López-Lozano R, Panarello L, Cerrani I, Nisini L, Zucchini A, et al. Assessing lignocellulosic biomass production from crop residues in the European Union: \nModelling, analysis of the current scenario and drivers of interannual variability. GCB \nBioenergy 2019;11:809–31. https://doi.org/https://doi.org/10.1111/gcbb.12604. [29] International Organization for Standardization. BS EN ISO 16535:2019 Thermal \ninsulating products for building applications. Determination of long-term water \nabsorption by immersion. 2019.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 39,
+      "char_count": 615
+    }
+  },
+  {
+    "text": "[30] Viel M, Collet F, Lanos C. Chemical and multi-physical characterization of agro-resources’ \nby-product as a possible raw building material. Ind Crops Prod 2018;120:214–37. https://doi.org/https://doi.org/10.1016/j.indcrop.2018.04.025. [31] Humphrey PE. Wood: Thermal Properties. In: Buschow KHJ, Cahn RW, Flemings MC, \nIlschner B, Kramer EJ, Mahajan S, et al., editors., Oxford: Elsevier; 2001, p. 9748–50.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 40,
+      "char_count": 411
+    }
+  },
+  {
+    "text": "https://doi.org/https://doi.org/10.1016/B0-08-043152-6/01770-8. [32] International Standard Organization. ISO 9869-1:2014 Thermal insulation — Building \nelements — In-situ measurement of thermal resistance and thermal transmittance — \nPart 1: Heat flow meter method 2014:36. [33] International Standard Organization. ISO 6946:2017 Building components and building \nelements — Thermal resistance and thermal transmittance — Calculation methods \n2017:40. [34] Barbaresi A, Bovo M, Torreggiani D. The dual influence of the envelope on the thermal \nperformance of conditioned and unconditioned buildings. Sustain Cities Soc 2020;61:1– \n20. https://doi.org/10.1016/j.scs.2020.102298.",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 41,
+      "char_count": 678
+    }
+  },
+  {
+    "text": "https://doi.org/https://doi.org/10.1016/0020-7225(70)90066-2. [36] Barbaresi A, Bovo M, Santolini E, Barbaresi L, Torreggiani D, Tassinari P. Development of \na low-cost movable hot box for a preliminary definition of the thermal conductance of \nbuilding \nenvelopes. Build \nEnviron \n2020;180. https://doi.org/10.1016/j.buildenv.2020.107034. [37] International Organization for Standardization. ISO 13786:2007 - Thermal performance \nof building components — Dynamic thermal characteristics — Calculation methods. Geneva: 2017. 39 \n[38] International Standard Organization. Acoustics - Laboratory measurement of sound \ninsulation of building elements - Part 2: Measurement of airborne sound insulation \n2010:40. [39] Internatioal Standard Organization. Acoustics - Laboratory measurement of sound \ninsulation of building elements Measurement procedures and requirements 2010:45. [40] International Standard Organization. BS EN ISO 717-1:2020 Acoustics. Rating of sound \ninsulation in buildings and of building elements. Airborne sound insulation. BSI \nStandards Limited; 2020. APPENDIX \nTable A1. Main characteristics of the probes used in the experimental tests. Probe \nResolution \nAccuracy \nOperative range \nDHT 22 (Temp) \n16-bit \n± 0.1°C \n-40°C ÷ 80°C \nDHT 22 (rH) \n16-bit \n± 1% \n0% ÷ 100% \nFE01-3B (Temp) \n0.01°C \n± (0.01+0.17|t|)°C \n-20°C ÷ 60°C \nFE01-3B (Heat flux) \n0.01W/m2 \n±5% \n-300W/m2 ÷ 300W/m2",
+    "metadata": {
+      "source": "Cob_Bovo_Giani.pdf",
+      "material_category": "Cob",
+      "source_path": "data\\raw\\Cob\\Cob_Bovo_Giani.pdf",
+      "chunk_index": 42,
+      "char_count": 1403
+    }
+  }
+]

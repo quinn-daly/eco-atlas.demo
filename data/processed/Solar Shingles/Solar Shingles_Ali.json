@@ -1,0 +1,592 @@
+[
+  {
+    "text": "A review of solar photovoltaic technologies: developments, challenges, and \nfuture perspectives\nSaeed Al-Ali a,b,*, Abdul Ghani Olabi a,c, Montaser Mahmoud a\na Sustainable Energy & Power Systems Research Centre, RISE, University of Sharjah, P.O. Box 27272, Sharjah, United Arab Emirates\nb Department of Industrial and Management Engineering, University of Sharjah, P.O. Box 27272, Sharjah, United Arab Emirates\nc Mechanical Engineering and Design, Aston University, School of Engineering and Applied Science, Aston Triangle, Birmingham B4 7ET, UK\nA R T I C L E  I N F O\nKeywords:\nPhotovoltaic\nSolar energy\nRenewable energy\nTechnological advancements\nMarket dynamics\nA B S T R A C T\nSolar photovoltaic (PV) technology has emerged as a key renewable energy solution, yet its widespread adoption \nfaces several technical and economic challenges. This review examines the evolution, current advancements, and \nfuture prospects of PV systems, highlighting the development of various photovoltaic cell technologies, including \ncrystalline silicon, amorphous silicon, cadmium telluride, perovskite, and organic solar cells. The study explores \nthe operational principles of stand-alone and grid-tied PV systems and their economic significance. A historical \nperspective is provided, tracing PV technology from the discovery of the photovoltaic effect in 1839 to its latest \ninnovations, such as high-efficiency cells, bifacial panels, solar shingles, transparent solar cells, and PV-driven \nhydrogen production. The methodology involves an extensive review of recent advancements, industry trends, \nand existing literature to identify key challenges in PV deployment, including efficiency losses, high initial costs, \nand market integration barriers. Findings indicate that while significant progress has been made, further research \nand policy support are needed to enhance technology efficiency, reduce costs, and ensure seamless integration \ninto energy markets. 1. Introduction\nSolar PV is considered one of the most decarbonized electricity \ngeneration systems, offering a promising solution to mitigate climate \nchange and enhance energy security. By reducing greenhouse gas (GHG) \nemissions and providing a scalable and reliable energy source, solar PV \nplays a key role in addressing global sustainability challenges [1]. Beyond its environmental benefits, solar PV aligns with the United Na­\ntions’ SDGs “Sustainable Development Goals”, particularly SDG 7, by \nenhancing access to affordable, reliable, and sustainable energy [2]. In recent years, massive research and development (R&D) efforts \nhave been directed towards advancing solar PV technologies. These ef­\nforts have led to significant advancements in solar cell technologies, \nfocusing on improving efficiency and reducing costs. Other key ad­\nvancements include bi-facial photovoltaic panels that absorb sunlight on \nboth sides [3], solar trackers that enhance energy capture by adjusting \npanel orientation [4], solar shingles or build",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 0,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ing integrated PV that \nintegrate seamlessly into building architecture [5], and transparent \nsolar cells that can be incorporated into windows and other surfaces for \nenergy generation [6]. These breakthroughs highlight the rapid progress \nin solar PV technology, underscoring ongoing efforts to optimize per­\nformance and facilitate widespread adoption. The global solar PV industry has experienced remarkable growth in \nrecent years, with cumulative installed capacity reaching 1.6 TW in \n2023, up from 1.2 TW in 2022 [7]. According to the Global Solar \nCouncil, global PV capacity has now surpassed 2 TW, marking a rapid \nacceleration in deployment. While it took nearly seven decades \n(1954–2022) to install the first terawatt of solar power, the second \nterawatt was achieved in just two years (2022–2024). Estimates from \nthe council and SolarPower Europe indicate that around 7 billion solar \npanels and 25 million solar-powered homes are now in operation \nworldwide. With annual installations reaching approximately 500 GW \nand global manufacturing capacity at 1.1 TW, the PV industry is well- \npositioned to support the goal of tripling global renewable energy ca­\npacity by 2030. However, according to the International Renewable \nEnergy Agency (IRENA), meeting the 1.5 ◦C climate target by 2050 will \nrequire substantial financial investment, around $150 trillion in total \n[8]. However, despite these advancements, significant challenges remain \n[9–11]. High initial investment costs [12], efficiency losses due to \n* Corresponding author. E-mail address: u19102773@sharjah.ac.ae (S. Al-Ali). Contents lists available at ScienceDirect\nEnergy Conversion and Management: X\njournal homepage: www.sciencedirect.com/journal/energy-conversion-and-management-x\nhttps://doi.org/10.1016/j.ecmx.2025.101057\nReceived 11 February 2025; Received in revised form 6 April 2025; Accepted 7 May 2025  \nEnergy Conversion and Management: X 27 (2025) 101057 \nAvailable online 10 May 2025 \n2590-1745/© 2025 The Author(s). Published by Elsevier Ltd.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 1,
+      "char_count": 2040
+    }
+  },
+  {
+    "text": "This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ). environmental factors like dust and heat [13–15], and the need for \neffective recycling and disposal solutions for PV materials [16] are some \nof the obstacles impeding the full potential of solar PV technologies. Additionally, integrating solar PV into existing grid infrastructures and \nachieving cost parity with conventional energy sources continue to be \npressing concerns. Moreover, extreme weather conditions, such as \nwildfires, hurricanes, and severe heatwaves, pose additional threats to \nthe resilience of PV systems by affecting power grid stability and \nreducing solar generation efficiency [17–19]. For example, wildfire \nbyproducts, including heat, smoke, and ash, can degrade panel perfor­\nmance, while excessive heat can alter powerline capacity and overall \ngrid reliability [20]. Another example is hurricanes, which can cause \nphysical damage to PV installations, disrupt grid connectivity, and lead \nto prolonged power outages, further challenging the reliability and \nresilience of solar energy systems [21]. Addressing these challenges \nrequires sustained innovation, supportive policies, and collaborative \nefforts across governments, industries, and academia to ensure solar PV \nreaches its full potential as a cornerstone of a sustainable energy future. This review paper provides a comprehensive analysis of solar pho­\ntovoltaics, covering key aspects such as the historical development of PV \ntechnology, different photovoltaic cell types, current trends, challenges, \nand future prospects. It explores various PV technologies, including \ncrystalline silicon, amorphous silicon, cadmium telluride, and emerging \noptions like perovskite and organic solar cells. The paper also examines \nrecent innovations aimed at improving efficiency and expanding appli­\ncations. Additionally, it discusses economic and technical barriers to \nwidespread adoption, such as high initial costs, efficiency losses, and \nmarket integration issues. Unlike existing reviews that focus on specific \ntechnologies or aspects, this study offers a holistic perspective on the \nevolution of the PV sector and its challenges. By synthesizing these in­\nsights, it highlights the current state of solar PV and outline strategic \ndirections for its future growth and integration into global energy sys­\ntems. To guide this analysis, the review considers the following research \nhypotheses: \n• The expansion of the PV sector is dependent on overcoming the \ntechnology transfer and market transfer gaps, which have histori­\ncally hindered scalability and competitiveness against conventional \nenergy sources. • The large-scale deployment of PV systems remains limited due to the \nhigh cost of energy storage solutions. • Supportive policies, including government incentives, tax credits, \nand investment in grid modernization, are essential for accelerating \nPV adoption, closing diffusion gaps, and en",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 2,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "suring long-term market \nsustainability. 2. Solar photovoltaic systems: overview\nThe fundamental physical mechanism by which a PV cell turns solar \nenergy into electrical energy is known as the photovoltaic effect [22,23]. Sunlight is formed from solar energy particles named photons, which \nresemble energy accumulations. The energy of these photons varies with \ntheir wavelengths in the solar spectrum. When photons encounter a \nphotovoltaic cell, they can be either absorbed or reflected. Electricity is \nonly produced by photons that are absorbed. When this occurs, the \nphoton’s energy is converted to an electron in a cell atom (often an atom \nof silicon). In an electrical circuit, the electron can break free from its \nusual location inside the atom and join the current. In order to produce a PV cell’s electric field, manufacturers create a \njunction by joining two distinct types of semiconductors (P and N), \nwhich generates the electric field within the photovoltaic cell, as shown \nin Fig. 1. Adding an element with an extra electron or an electron \nshortage is the most common technique for producing P-type or N-type \nsilicon material. The ability of a photon to excite an electron depends on \nthe bandgap energy of the semiconductor material. When a photon \ntransfers enough energy, an electron is excited from the valence band to \nthe conduction band, creating an electron-hole pair. The built-in electric \nfield at the p-n junction then plays a crucial role in separating these \ncharge carriers. It directs the free electrons toward the n-type region and \nholes toward the p-type region, generating an electric potential differ­\nence. This movement of electrons results in the formation of an electrical \ncurrent when the circuit is closed. However, some charge carriers may \nrecombine before contributing to electricity generation, reducing effi­\nciency [24,25]. Silicon is the most frequent material utilized in the manufacturing of \nsolar cells. It has a bandgap of approximately 1.1 eV, meaning it can \nabsorb photons with energy equal to or greater than this threshold. There are 14 electrons in an atom of silicon; the four electrons in the \nfinal layer are referred to as valence electrons. Each silicon atom in a \ncrystal solid typically forms a covalent connection with another silicon \natom to share one of its four valence electrons. Five silicon atoms ar­\nranged in a covalent connection make up the silicon crystal molecule. Silicon-based PV cells are typically manufactured through a series of \nFig. 1. Schematic diagram of a photovoltaic cell. S. Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n2\n\nprocesses, including purification, crystallization, wafer production, \ndoping, and cell assembly. High-purity silicon is obtained through the \nSiemens process, where metallurgical-grade silicon is refined into pol­\nysilicon. This is then formed into either monocrystalline or poly­\ncrystalline ingots through the Czochralski or casting methods, \nre",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 3,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "spectively. The ingots are sliced into thin wafers, which are treated \nthrough doping to create p-type and n-type layers. Additional steps such \nas surface texturing, anti-reflective coating application, and metalliza­\ntion enhance efficiency by reducing energy losses and improving charge \ncollection. Emerging materials, such as perovskite and organic solar \ncells, offer alternative manufacturing techniques, often involving \nsolution-based processing or thin-film deposition, which can reduce \ncosts and improve flexibility [26,27]. Pragmatically, the structure of the PV system is considered to be \nprofoundly flexible by all means. PV modules in other words constitute \nto be the primary building blocks of the system which can be organized \ninto a method to produce as much electricity surplus as possible. On a \nnormative situation, a wide range of supporting equipment is deemed to \nbe crucial to transform energy into any meaningful form of electricity \nstorage. Hence the resulting system shall be determined purely consid­\nering the need of energy or loads in a specific application. PV systems are \ncategorized into two vital groups, stand-alone and grid-tied systems \n[28,29], which will be discussed in detail in the following subsections. Table 1 shows a comparison of these two systems in terms of key fea­\ntures, advantages, and limitations. 2.1. Stand-alone systems\nWhen a system is described as stand-alone system or in other word \ncalled off-grid system, it means that it is the only source of electricity for \nhouses and any additional uses it may have, including emergency call \nboxes on roads, distant cottages, telecom sites, water pumps, and street \nlighting. Systems that are meant to function independently usually have \nbatteries for energy storage (see Fig. 2). Energy produced during the day \nis stored in a battery bank by battery backup systems for usage during \nnighttime. Compared to other standalone systems or alternatives like \nutility line extensions, they are consistently more affordable. On the \nother hand, if the usage of PV cannot cover the power demand from \nconsumer, this will result in using the power from the utilities. The \nmonthly electric utility statement for the consumer in these circum­\nstances will simply show the consumed energy received from the utility \ncompany [30]. Stand-alone systems are not connected to the grid for electricity \ndistribution, and they include every component required to supply AC \nappliances in a typical home or business setting. The reliability could be \nincreased by adding another generator (such as a wind or biodiesel \ngenerator), but it is not always required. The type of load being supplied \nwill determine how many components the system should have. If the PV \nmodules are solely going to feed DC loads, then the inverter could be \nremoved or switched out for a DC-to-DC converter. Another approach \ninvolves directly connecting a PV array to a DC load. Living in a house or cabin off the grid means tha",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 4,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "t you are not linked \nto any utilities. The expense of bringing in electricity from the utility is \none drawback of living in a distant location. A homeowner would have \nto rely on propane gas, a generator powered by fossil fuels, or both. These days, a house or lodge unconnected to the local utility can be \npowered by a battery-powered solar photovoltaic system, which is off \nthe grid. While solar PV modules and batteries provide DC electricity, \nmost electrical loads found in homes run on AC. To transform DC elec­\ntrical current to AC electrical current, an inverter is utilized. Similar to \ncontrollers, inverters have a selection of sizes and capacities to meet the \nneeds of the customer. It is crucial to account for all of the electrical \nloads that the solar PV is able to power when building a battery-based \nsystem. The calculation will take into account the number of hours/ \nday and the number of days/month that the loads will be in use. When a \nsystem’s capacity is exceeded by additional loads, it becomes inefficient \nand must wait for the PV array to replenish the battery bank [31]. 2.2. Grid tied systems\nAn additional source of electricity to the current utility company \nsupply is provided via a “grid-connected” system [32,33]. Excess energy \nfrom a grid-connected photovoltaic system is exported to the utility \nwhen it surpasses the customer’s loads, turning the electric meter of the \nconsumer backward. These systems don’t need battery storage because \nthey are directly connected to the electric distribution network, as \npresented in Fig. 3. Depending on local energy usage patterns and day- \nto-day variations in solar resources, electricity is either purchased or \nsold from the local electric utility. Compared to conventional stand- \nalone schemes, grid-tied photovoltaic systems have numerous \nadvantages. • Smaller PV arrays can supply the same load. • Removes the requirement for energy storage and related expenses. • Benefits from the current electricity infrastructure. • Effective utilization of energy resources, as it helps generate the \nnecessary electrical grid supply when customer demand is lower than \nPV output. For added scheduling flexibility and reliability, hybrid systems that \ninclude grid connection and battery storage or a generator or together \nare feasible (at additional expense). Grid-connected systems are among \nthe PV system types with the quickest rate of growth. Grid-connected \nsystems, both residential and commercial, are popular ways to cut \nback on the amount of electricity provided by the local utility. Similar to \nthe stand-alone PV, an inverter is utilized in the grid-connected system \nto transform DC electricity into AC electricity, and a solar array is \ncomposed of connected photovoltaic modules [34]. By producing and transferring more electricity to the utility than the \nowner consumes when the PV system is operating, the owner can save \nmoney. The technique of figuring out how much electricity a property \now",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 5,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ner uses from the utility and how much power they provide to them is \nknown as net-metering. The inverter is made to shut down and not \ndeliver any power from the system to the utility in the occurrence of a \nTable 1 \nComparison of stand-alone and grid-tied solar PV systems. System\nStand-alone\nGrid-tied\nFeatures\n- Operates independently \nwithout grid connection. - Requires battery storage for \nenergy use during nighttime \nor low sunlight. - Suitable for remote locations, \nemergency power, telecom \nsites, water pumps, and street \nlighting. - Connected to the utility grid for \nenergy exchange. - No need for battery storage as \nexcess energy is fed into the \ngrid. - Common in residential, \ncommercial, and industrial \nsettings with grid access. Advantages\n- Provides electricity in areas \nwithout grid access. - Ensures power availability \nduring grid outages. - Can integrate with other \nrenewable sources like wind \nor biodiesel generators for \nreliability. - Reduces electricity bills \nthrough net metering (selling \nexcess energy to the grid). - No battery costs, reducing \ninstallation and maintenance \nexpenses. - Higher efficiency as power is \nused immediately or credited \nto the grid. Limitations\n- High initial cost due to battery \nstorage. - Battery maintenance and \nreplacement costs. - Limited power supply when \nsolar generation is low and \nbatteries are depleted. - No power supply during grid \noutages unless a backup battery \nor generator is installed. - Requires utility approvals and \ncompliance with grid \nregulations. - Potential interconnection fees \nand dependency on grid \nstability. S. Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n3\n\nutility-side power outage for safety reasons. This is intended to safe­\nguard utility employees who could be repairing power wires. Grid- \nconnect systems function well in homes when the occupants are away \nat work or school during the day and the electrical loads are low. The PV \nsystem generates credit for the owner with the local utility during the \nday when it produces more electricity than the residence’s load demand. The utility will supply electricity for the electrical demands when the \ninhabitants return at the end of the day. The initial costs of establishing a \nsystem are partially mitigated by state and federal incentives and re­\nbates. In order to supply backup electricity in the event of a utility \noutage, a grid-connected system may be supported by a battery bank or a \ngenerator. During the day, the solar array powers the system and \ncharges the battery bank. The battery bank or the electrical generator \ncan provide electricity during a cloudy condition or at night. 2.3. The economic value of solar PV systems\nThere are several economic benefits associated with the use of PV, \nincluding a reduction in utility bills, job creation, improved ability to \ncope with emergency situations, and access to installation incentives. Consumers can lower their monthly power expenditure by inv",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 6,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "esting in \nand installing solar energy systems. In addition to the clean energy \nproduced, this can help balance the expense of the household’s power \nuse. As a result, consumers will make fewer payments in the long run, \nwhich will allow investors to recover their investment costs. Unlike \nconventional electricity sources that are subject to fuel price volatility, \nsolar PV systems provide a predictable and stable energy cost, protecting \nconsumers from rising electricity prices and market fluctuations \n[35–37]. Through net metering, certain utility providers let consumers sell \nany extra energy that is produced by PV. Users will save money on their \nmonthly electricity bills and the clean energy that is produced will \nbenefit others in the community. This financial benefit not only in­\ncentivizes residential adoption but also encourages businesses to invest \nin larger-scale PV installations, leading to increased energy indepen­\ndence and reduced strain on national power grids [38,39]. More energy workers are required to meet the growing demand as \nmore consumers show interest in installing solar panels to fulfill the \nneed. This sector demands workforce participation in production, \ninstallation, and upkeep. Investing in solar energy not only boosts the \nlocal economy but also generates new employment opportunities. Ac­\ncording to industry reports, the solar sector has experienced significant \ngrowth in employment compared to fossil fuel industries, creating jobs \nin research, engineering, sales, and maintenance. Moreover, expanding \nthe PV market promotes technological innovation, leading to advance­\nments in efficiency and cost reduction, further enhancing its economic \nviability. Natural disasters such as hurricanes, floods, and earthquakes can \ninterfere with the grid’s power supply. Thankfully, in times of emer­\ngency, solar panels offer a strong substitute for conventional electricity. Fig. 2. Stand-alone solar PV system layout. Fig. 3. Grid-tied solar PV system layout. S. Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n4\n\nWhen other energy sources, like fossil fuels, are unavailable, solar panels \nwill still receive the required sunlight to generate energy. This energy \nresilience is particularly beneficial in rural and off-grid areas, where PV \nsystems provide a decentralized solution, reducing dependence on \nexpensive and vulnerable transmission infrastructure. Additionally, \nintegrating solar PV with battery storage enhances reliability, ensuring \npower availability even during nighttime or extreme weather \nconditions. Furthermore, switching to solar energy systems can reduce carbon \nemissions, which contribute to climate change and intensify natural \ndisasters. Lowering dependence on fossil fuels not only mitigates envi­\nronmental impacts but also reduces the economic burden of health- \nrelated costs associated with air pollution, such as respiratory diseases \nand cardiovascular conditions. People can qualify for",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 7,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "federal incentives like the solar investment tax \ncredit by installing solar panels. These rewards may assist in reducing \nthe cost of what has been originally paid for the installation of the solar \npanels, which boosts the economy, in both residential and commercial \napplications. Additionally, some governments provide grants, low- \ninterest loans, and tax exemptions to encourage solar deployment, \nfurther reducing the financial barriers to adoption [40]. 2.4. Types of photovoltaic cells\nThe development of PV cells has led to the creation of various types \nto address specific needs and challenges in solar energy generation. These include amorphous silicon, cadmium telluride, concentrated cells, \ndye-sensitized cells, and hybrid cells. These different types have been \ndeveloped to improve efficiency, reduce costs, enhance flexibility, and \nadapt to diverse environmental conditions and applications. Despite \nthese advancements, extensive ongoing research continues to focus on \nthe development of new types of photovoltaic cells. The following sub­\nsections present a brief description of the distinct types of PV cells, and \nFig. 4 shows a comparison of the highest verified solar cell efficiencies \nover time. 2.4.1. Crystalline silicon\nThe crystalline silicon solar cell was one of the earliest created and \ncontinues to be the most commonly used type. It still offers a very high \nefficiency and affordable price with respect to other emerging solar cell \nmaterials [42]. Silicon is the second most abundant element in the \nEarth’s crust and is widely available. However, high-purity silicon \nproduction requires significant energy inputs, contributing to its envi­\nronmental impact. The energy-intensive purification and crystallization \nprocesses result in a high carbon footprint. Additionally, the use of \nhazardous chemicals, such as hydrofluoric acid in wafer processing, \nposes environmental risks. Below is a brief overview of crystalline ma­\nterials, including both monocrystalline and multi-crystalline silicon. Fig. 5 presents the structure and main components of a silicon solar PV \nmodule. Monocrystalline silicon\nMonocrystalline materials play a crucial role in the development of \nphotovoltaic cells owing to their high efficiency, reliability, and matu­\nrity in the PV market. Most monocrystalline silicon is produced using the \nCzochralski process [1]. In this method, high-purity, semiconductor- \ngrade silicon is melted in a crucible, typically made of quartz. Precise \namounts of dopant impurities are introduced into the molten silicon to \nFig. 4. The highest confirmed conversion efficiencies for research cells for a range of photovoltaic technologies. ([]).",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 8,
+      "char_count": 2699
+    }
+  },
+  {
+    "text": "Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n5\n\ncreate n-type or p-type silicon, altering its electronic properties. A seed \ncrystal, placed on a rod, is introduced into the molten silicon. The rod is \nthen slowly pulled upward while rotating. By carefully regulating the \ntemperature gradients, pulling rate, and rotation speed, a large, single- \ncrystal cylindrical ingot can be extracted. To prevent instability in the \nmelt, temperature and speed distributions throughout the crystal growth \nprocedure are closely monitored. This procedure is usually conducted in \nan inert environment, like argon atmosphere or a quartz chamber. Multi-crystalline silicon\nMulti-crystalline solar cells are a cost-effective material for devel­\noping PV modules, but their efficiency is lower than monocrystalline \ncells and other advanced materials [43]. However, multi-crystalline \ncells have fewer defects related to metal contamination and crystal \nstructure than monocrystalline cells. Multi-crystalline silicon is pro­\nduced by melting silicon and allowing it to solidify, which causes the \ncrystals to form in a fixed direction. This process results in a rectangular \ningot of multi-crystalline silicon, which is then cut into blocks and ul­\ntimately sliced into thin wafers [44]. 2.4.2. Amorphous silicon\nSilicon in its non-crystalline state is known as a-Si “amorphous sili­\ncon”. Having been available on the market for over two decades, this \nthin-film technology is one of the most established and proven. Although \nit is commonly found in pocket calculators, it is also utilized to power \ncertain isolated facilities, buildings, and private residences. Along with \nSharp and Sanyo, United Solar Systems Corp. (UniSolar) is still a leading \nmanufacturer of a-Si solar cells. A one micrometer thick of thin coating \nof silicon material is vapor-deposited over a substrate made of glass or \nmetal to produce a-Si panels. A-Si can be formed at an extremely low \ntemperature as low as 75 ◦C, enabling sedimentation on plastic. At its \nmost basic form, the p-i-n layer sequence is the only one present in the \ncell structure [46]. 2.4.3. Cadmium telluride\nCadmium telluride (CdTe) photovoltaics is the name given to a kind \nof PV technology that utilizes a thin semiconductor layer with the ability \nto absorb sunlight and turn it into electricity. The structure of a typical \ncadmium telluride PV solar cell is depicted in Fig. 6. Conventional solar \ncells, like crystalline Si-based, in multi-kilowatt systems are more \nexpensive than cadmium telluride PV systems. Among solar energy \ntechnologies, CdTe PV has one of the lowest lifecycle carbon footprints, \nlowest water use, and fastest energy payback period. With an energy \npayback period of a year or less, CdTe enables quicker carbon reductions \nwithout causing temporary energy shortages. However, to reduce the \nenvironmental impact of cadmium toxicity, recycling CdTe modules at \nthe end of their product lifecycle should b",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 9,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "e implemented [47,48]. 2.4.4. Copper indium gallium selenide\nThe compound known as copper-indium-gallium-selenide (CIGS) is \none of the most interesting and controversial compounds in solar tech­\nnology. A few CIGS companies, like Solyndra, NanoSolar, and MiaSol´e, \nnearly became domestic names during the solar thin-film hype cycle. To \nproduce these cells, a thin layer of copper, indium, gallium, and selenide \nis applied to a glass or plastic substrate, with electrodes placed on both \nthe front and back to capture the current. Due to its high absorption \ncoefficient, this material requires a much thinner layer than typical solar \ncells, as it effectively absorbs sunlight [50]. However, the availability of \nkey elements poses challenges. Indium and gallium are scarce and pri­\nmarily obtained as byproducts of zinc and aluminum production. Their \nlimited supply and high demand in electronics may impact the long-term \nviability of CIGS technology. Additionally, the mining and processing of \nthese elements generate significant environmental waste, and selenium \ncan be toxic in high concentrations, requiring proper handling and \ndisposal. 2.4.5. Dye sensitized\nDye sensitized solar cells (DSSC) are the third generation of solar \ncells [51]. Because of the way this new form of sophisticated solar cell \nimitates the way light energy is absorbed by nature, artificial photo­\nsynthesis can be compared to it. DSSC was developed in 1988 at ´Ecole \nPolytechnique F´ed´erale de Lausanne, in Switzerland, by Michael Gr¨atzel \nand Brian O’Regan. In [52], they developed a DSSC using low-cost \nprocesses and low-to-medium-purity materials, achieving commer­\ncially viable efficiency. The cell consists of a 10-µm-thick titanium di­\noxide film coated with a charge-transfer dye, optimizing light harvesting \nand photon-to-current conversion efficiencies (over 80 %). With an \noverall energy conversion efficiency of 7.1–7.9 % under simulated solar \nlight and 12 % in diffuse daylight, alongside high current densities (>12 \nmA/cm2) and stability over five million cycles, the DSSC offers low-cost \nand practical scalability. 2.4.6. Gallium arsenide\nThe two fundamental components of gallium and arsenic combine to \nform gallium arsenide (GaAs). These two separate components combine \nto generate the aforementioned chemical, which has a number of \nintriguing properties. The semiconductor gallium arsenide has higher \nelectron mobility and saturation electron velocity than silicon. The \ndirect band gap is another unique feature of gallium arsenide, which \nindicates a substance with effective light emission. GaAs has a zinc \nblende crystal structure and a III-V direct bandgap semiconductor [53]. 2.4.7. Perovskite\nPerovskite solar cells (PSCs) have quickly become a highly promising \nPV technology, mainly due to their superior optoelectronic properties \nand simple construction process [54,55]. The configuration of a perov­\nskite PV cell is shown in Fig. 7. Among the various third-generat",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 10,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ion \nphotovoltaic devices, PSCs have received significant attention from \nthe scientific community. Introduced in 2009, PSCs were developed \nbased on DSSC technology as a potential renewable energy solution. In \nthese cells, the primary material is perovskite, an organic–inorganic \nhybrid compound with an ABX3 crystalline structure that serves as the \nactive light-harvesting layer. In this structure, “A” and “B” represent two \ndifferent cations, while “X” is an anion. Specifically, “A” can be calcium, \ncesium, methylammonium, or formamidinium; “B” can be titanium, \nlead, or tin; and “X” can be chlorine, bromine, or iodine. In contrast to conventional solar cells, PSCs offer intrinsic advan­\ntages, such as superior optical absorption, higher carrier mobility, and \nlonger carrier diffusion lengths, which have led to considerable en­\nhancements in conversion efficiency and attracted considerable interest \nfrom researchers [56]. Despite their rapid development and impressive \nefficiency gains, PSCs face significant technical and environmental \nFig. 6. Structure of a cadmium telluride solar cell. ([], open access).",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 11,
+      "char_count": 1127
+    }
+  },
+  {
+    "text": "Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n6\n\nchallenges that hinder large-scale deployment [57,58]. One of the most \ncritical issues is long-term stability, as PSCs are highly susceptible to \ndegradation when exposed to moisture, oxygen, UV radiation, and \nelevated temperatures. This instability necessitates advanced encapsu­\nlation strategies and the development of more resilient perovskite for­\nmulations. Additionally, the widespread use of toxic lead in high- \nperformance PSCs poses environmental and health concerns, particu­\nlarly regarding lead leakage from deteriorating modules. While lead-free \nperovskites, such as tin-based alternatives, are being explored, they \ncurrently suffer from lower efficiencies and reduced stability. Further­\nmore, PSC production processes involve the use of solvents and chem­\nicals that may have environmental implications, necessitating the \ndevelopment of greener manufacturing approaches to minimize their \necological footprint. Beyond technical concerns, the commercialization of PSCs faces \nmultiple economic and industrial barriers [59,60]. A primary challenge \nis scalability, as translating lab-scale efficiencies to large-scale com­\nmercial modules remains difficult due to non-uniform crystal formation \nand defects such as pinholes. Maintaining high efficiency over large- \nscale production requires optimized fabrication techniques to ensure \nconsistency and reproducibility. Additionally, manufacturing reliability \nremains a concern, as slight variations in processing conditions can \nsignificantly impact performance. Another hurdle is encapsulation and \ndurability, as PSCs degrade faster than conventional silicon solar cells, \nnecessitating robust protective coatings that add complexity and cost. Moreover, regulatory hurdles exist due to the presence of lead, which \ncould impact approvals for widespread use. While research into lead- \nfree alternatives continues, these options have yet to match the perfor­\nmance of lead-based PSCs. Lastly, market competition with well- \nestablished silicon PV technology poses an economic challenge, as \nPSCs must prove their long-term viability and cost-effectiveness to gain \ncommercial acceptance. 2.4.8. Organic solar cells\nOrganic solar cells (OSCs) mark a notable breakthrough in solar \ntechnology, featuring carbon-based materials such as polymers and \nsmall molecules that serve as organic semiconductors. This sets OSCs \napart from conventional inorganic PV cells. The distinctive attributes of \nthese materials, including flexibility, semitransparency, and low- \ntemperature processability, enhance their versatility for diverse appli­\ncations, expanding their use beyond traditional solar panels. The growth \nof OSC development began after the development of several organic \nsemiconducting polymers. Harvesting a significant number of photons is \nusually achievable with an ideal semiconducting polymer that has a low \nband gap [62]. However, organic semicon",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 12,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ducting polymers possess a \nhigher exciton binding energy compared to inorganic semiconductors, \nwhich can affect the overall performance of the PV. An OSC consists of \nvarious layers, including a substrate with a transparent conductive \noxide, a hole-transporting layer, an active layer, an electron- \ntransporting layer, and a cathode (see Fig. 8). Despite their advantages, OSCs face significant technical and envi­\nronmental challenges that hinder their large-scale adoption [63]. One \nmajor limitation is their relatively low power conversion efficiency \ncompared to silicon-based solar cells, as well as their rapid degradation \nunder environmental exposure, including UV radiation and oxygen, \nwhich reduces their operational lifespan. Similar to PSCs, stability issues \nhave prompted research into more robust encapsulation techniques and \nmaterial modifications to improve durability [64]. Additionally, the \nproduction of certain organic semiconductor materials involves the use \nof hazardous solvents and complex synthesis processes, raising envi­\nronmental and safety concerns. 2.4.9. Hybrid solar cells\nA hybrid solar cell merges both organic and inorganic semi­\nconductors. Organic components used in hybrid photovoltaics are con­\njugated polymers that absorb sunlight and act as givers and transfer \nholes. In hybrid cells, inorganic materials serve as the structure’s col­\nlector and electron transporter. The photoactive layer of hybrid solar \ncells is created by combining an organic substance with a material that \nhas a high electron transport capacity. A heterojunction-type photo­\nactive layer is formed when combining two materials, with a higher \nenergy conversion efficiency than when individual material is used \nalone. One of the components serves as both an exciton donor and a \nFig. 7. Structure of a perovskite solar cell. ([], open access).",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 13,
+      "char_count": 1871
+    }
+  },
+  {
+    "text": "Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n7\n\nphoton absorber. Exciton dissociation at the junction is facilitated by the \nother substance. Once an exciton formed in the donor is delocalized onto \na donor–acceptor complex, the charge is transferred and subsequently \nseparated. The energy compensated between the donor and acceptor’s \nlowest unoccupied molecular orbital, or conduction bands, supplies the \nenergy needed to split the exciton. A percolation network is used to \nmove the carriers to the appropriate electrodes following dissociation \n[66,67]. 2.4.10. Biohybrid\nBiohybrid solar cells are similar to hybrid cells as they both combine \ninorganic and organic materials, while biohybrid cells specifically \nincorporate biological elements (photosystem I). Fig. 9 displays the \nworking principle of a biohybrid PV based on the photosynthetic \napparatus components [68]. An example of developing a biohybrid solar \ncell is presented by Gizzie et al. [69]. To improve the overall energy \nconversion, researchers replicated the natural process of photosynthesis \nby utilizing photosystem I, a light-sensitive protein complex located in \nthe thylakoid membrane. The photosystem in biohybrid solar cells is \ncomposed of several layers. It collects photon energy, transforms it into \nchemical energy, and then uses that energy to produce a current that \nflows through the cell. The photosystem I complexes, which are injected \nand accumulated in the gold layer for several days, are the only non- \norganic substances present in the cell that differ from those found in \nother solar cells. Days later, the photosystem becomes visible and takes \nthe form of a thin layer. This thin sheet facilitates and enhances the \nconversion of energy. However, the biohybrid cell is still in the experi­\nmental stage. 2.4.11. Concentrated solar cells\nA type of photovoltaic technology is called concentrator photovol­\ntaics (CPV), which accomplishes the same conversion of light energy \ninto electrical energy as traditional PV technology. There are various \nCPV designs, some of which are distinguished from one another by the \nconcentration factor, commonly known as high and low concentrated \nPVs. In contrast to ordinary PV systems, it concentrates sunlight onto \neffective multi-junction solar cells using lenses and curved mirrors to \nenhance the overall performance of solar PV [70,71]. 2.4.12. Buried contact\nA buried contact solar cell, utilizing laser-etched grooves, serves as \nthe foundation for high-efficiency commercial solar cell technology. Many of the drawbacks of screen-printed contacts are eliminated by \nburied contact technology, which enables buried contact solar cells. The \nmetal is buried inside a silicon solar cell’s laser-formed groove, which is \na crucial component of the device’s high efficiency. This permits a high \nmetal aspect ratio of height to breadth. Thus, a great metal contact \naspect ratio eliminates the need for a broad metal strip on the t",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 14,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "op surface \nand permits the application of a great volume of metal in the contact \nfinger. Consequently, a high metal aspect ratio maintains a high trans­\nparency while enabling a huge number of metal fingers that are closely \nspaced [72]. 2.5. Balance of the PV system\nThe PV BOS “balance-of-system” refers to the equipment that chan­\nnels the DC electricity produced by PV panels through the inverter \nsystem, which transforms it into alternating current. BOS often refers to \nall components of a solar system except the modules. This covers the \nground fault detectors, fuses, switches, enclosures, cables, and wires in \naddition to the inverters and racking. BOS is an integral part of all types \nof solar applications. Around 10 %–50 % of solar installation and pur­\nchase expenses are included in BOS components, which also cover the \nmajority of maintenance needs [73]. In principle, BOS components can \nenhance PV systems, stabilize costs, and improve efficiency. Individu­\nalized planning can result in a BOS environment that is both economical \nand energy efficient, which can be performed as shown below: \nFig. 9. Schematic diagram of a biohybrid solar cell’s operation. ([], with permission number 5932310089785).",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 15,
+      "char_count": 1225
+    }
+  },
+  {
+    "text": "Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n8\n\n• Assess solar power or photovoltaic potential daily of a location \nthrough solar mapping. • Examine utility bills with a potential customer to assist them in \ncomprehending how much they pay per kilowatt-hour, as well as \nenergy usage and changes. • Examine and suggest insulation to improve energy efficiency and \nqualify for rebates. • Based on the best southern exposure, estimate and compare the \nprices of installing ground-mounted and rooftop solar PV panels. • Compute solar system installation methods to ascertain which \nbalance-of-systems components are required and which are optional. • Demonstrate short-term value by deducting the total from the \ninstallation cost of solar PV and adding monthly utility savings to \neligible rebates or incentives. • Rely on experience to suggest BOS operations that are smooth and \nrequire little maintenance. • Incorporate the most advanced and proven technologies available in \nthe market.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 16,
+      "char_count": 1011
+    }
+  },
+  {
+    "text": "3. Developments of solar photovoltaic\nLike many other historical discoveries, the history of photovoltaics \nstarted by coincidence in 1839. The following subsections will explore \nsome of the key figures, events, and facts that have shaped photovol­\ntaics, highlighting the evolution of this technology through history. Table 2 summarizes the historical key milestones in solar PV by year. 3.1. The photovoltaic effect, 1839–1887\nThe earliest stage of solar PV involved exploring the fundamental \nproperties of PV materials. In 1839, French physicist Alexandre Edmond \nBecquerel discovered the photovoltaic effect, demonstrating that light \ncould increase electrical conductance in an electrolyte-metal electrode \nsystem. In 1873, Willoughby Smith identified the PV effect in selenium, \nfollowed by William G. Adams and Richard E. Day in 1876, who \ndemonstrated a selenium-platinum junction generating electricity when \nexposed to light. This led to the development of the first selenium solar \ncell in 1877, later refined by Charles Fritts in 1883. In 1887, Heinrich \nHertz observed that ultraviolet light could affect electrical conduction, \nfurther advancing PV research [74]. 3.2. Theoretical interpretation and development of solar cells, \n1905–1932\nAlbert Einstein provided a theoretical explanation of the photovol­\ntaic effect in 1905, earning the Nobel Prize in 1921 for his contributions. In 1918, Polish scientist Jan Czochralski developed a method for pro­\nducing monocrystalline silicon, a key material for modern solar cells. In \n1932, researchers first observed the PV effect in cadmium sulfide (CdS), \nwhich remains widely used in solar technology today [74]. 3.3. Extensive space research, 1953–1969\nIn 1953, Dan Trivich conducted theoretical assessments on solar \nspectrum wavelengths and PV materials. The first practical silicon solar \ncell was developed by Bell Labs in 1954, achieving 4.5 % efficiency, later \nimproved to 6 %. In 1955, Western Electric began commercial solar cell \nproduction [75–78]. The first solar-powered satellite, Vanguard I, was \nlaunched in 1958 and operated for eight years. Subsequent advances led \nto improved efficiency: Hoffman Electronics introduced 8 % efficiency \ncells in 1957, followed by 9 % in 1958 and 14 % in 1960. In 1962, Bell \nLabs launched Telstar, the first commercial telecommunications satellite \npowered by solar cells. Sharp Corporation developed the first practical \nsilicon-based PV module in 1963. By 1966, a 1 kW photovoltaic array \nwas deployed in space, marking a significant milestone for large-scale \nsolar applications [79]. 3.4. First large utility-scale PV systems, 1980–1989\nDuring the 1980s, solar PV technology saw significant advancements \nin efficiency and cost reduction, enabling larger solar installations. Crystalline silicon cells dominated, reaching efficiency rates above 10 % \nby the decade’s end. Improved inverters facilitated better grid integra­\ntion, while policy support, such as the U.S. Public Util",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 17,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ity Regulatory \nPolicies Act of 1978, encouraged private investment in renewable en­\nergy projects. These developments laid the foundation for large-scale \nsolar adoption [80,81]. 3.5. Large-scale solar cell manufacturers, 1990–1999\nThe 1990s saw major advancements in solar cell manufacturing. In \n1990, United Solar Systems Corporation was founded as a joint venture \nbetween Energy Conversion Devices Inc. (ECD) and Canon Inc. to pro­\nduce solar cells. Siemens also expanded its presence by acquiring ARCO \nSolar and establishing Siemens Solar Industries [79,82]. Companies like \nSiemens and Sharp focused on improving crystalline silicon solar cells, \nenhancing efficiency, and reducing costs [83,84]. By 1991, manufac­\nturers, including Kyocera, explored thin-film solar cells for cost reduc­\ntion and broader applications [85]. Government incentives in Japan and \nGermany further boosted solar adoption, increasing production capacity \n[86]. Between 1994 and 1999, the industry experienced rapid growth. By 1995, declining costs and efficiency improvements drove global solar \ninstallations. Companies like Sanyo scaled up production and invested in \nnew technologies [87]. By 1999, large-scale manufacturers had \nmatured, leveraging efficiency gains and strategic partnerships to so­\nlidify their role in the renewable energy transition [85]. Table 2 \nKey technological milestones in solar photovoltaic development by decade. Decade(s)\nKey milestones\n1830s- \n1880s\n- 1839: Alexandre Edmond Becquerel discovered the photovoltaic \neffect. - 1873: Willoughby Smith observed the PV effect in selenium. - 1876: William G. Adams and Richard Day demonstrated the PV \neffect in selenium-platinum junction. - 1883: Charles Fritts developed the first selenium solar cell. 1900s- \n1930s\n- 1905: Albert Einstein provided a theoretical explanation of the PV \neffect. - 1921: Einstein received the Nobel Prize for his work on the \nphotoelectric effect. - 1918: Jan Czochralski developed a method for producing \nmonocrystalline silicon. 1932: Discovery of the PV effect in cadmium \nsulfide. 1950s- \n1960s\n- 1954: Bell Labs developed the first practical silicon solar cell (4.5 % \nefficiency). - 1958: Vanguard I became the first satellite powered by solar cells. - 1963: Sharp developed the first practical PV module. - 1964: First large-scale PV field (470 W) used in the Nimbus space \nproject. 1980s\n- 1980s: Crystalline silicon solar cells achieved efficiency greater than \n10 %. - 1982: First megawatt-scale PV power station installed in California, \nUSA. - 1989: Development of advanced inverters for grid-connected PV \nsystems. 1990s\n- 1990: United Solar Systems Corporation was founded for large-scale \nsolar cell production. - 1995: Rapid growth in global PV installations due to declining costs \nand improved efficiency. - 1999: Industry shifts focus toward high-efficiency and thin-film \ntechnologies. 2000s\n- 2001: HELIOS solar-powered aircraft reached a record altitude of \n96,863 ft. - 2003: “So",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 18,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "larpark Hemau” became the world’s largest PV plant (4 \nMW, Germany). 2004: Germany’s Renewable Energy Law (EEG) \naccelerated large-scale solar deployment. S.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 19,
+      "char_count": 157
+    }
+  },
+  {
+    "text": "Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n9\n\n3.6. Utility-scale photovoltaic power plants, 2000–2009\nThe early 2000s saw rapid growth in utility-scale photovoltaic (PV) \npower. Capital mergers in Germany led to major PV firms, while Japa­\nnese manufacturers like Sharp and Kyocera significantly increased \nproduction between 2000 and 2001, supplying modules with peak \npower comparable to Germany’s annual consumption—Europe’s most \nattractive market [88]. On August 13, 2001, NASA and AeroVironment’s \nHELIOS solar-powered aircraft set a record altitude of 96,863 ft after \nyears of research and testing [89]. Between 2002 and 2003, Germany \nsaw the construction of several large PV plants. On April 29, 2003, the \n“Solarpark Hemau” in Bayern, with a peak capacity of 4 MW, became \nthe world’s largest PV facility at the time. By 2004, multiple 5 MW \nsystems were built under Germany’s “EEG” renewable energy law, \nfurther accelerating large-scale PV deployment [90]. 4. Current trends, innovations, and challenges\n4.1. Efficiency enhancements in solar cells\nScientists are always finding new ways to boost solar cell efficiency \nbecause, despite the fact that solar energy has not yet realized its full \npotential, solar cells are now more efficient. In 2010, the average effi­\nciency of commercial Si-based solar cells was 15 % [44]. Nowadays, \nthese cells typically have average efficiencies of around 22 %, with some \nexceeding 25 %. Notably, Oxford PV has proven that mixed perovskite \nand Si-PV materials can exhibit record-breaking efficiency of up to \ntwenty-eight percent in laboratory settings. A recent cost-effective \npolymer-glass stack encapsulation technique has allowed PSCs to \ntolerate typical working conditions; however, stability and durability \nhave remained a serious concern. Even though PSCs haven’t been made \nwidely available, yet their considerable cost and performance benefits \nwill likely shape the direction of the solar energy industry going forward \n[91]. Additionally, some new research studies have reported even \nhigher PV cell efficiencies, but are still not commercially available due to \nsome challenges such as the high capital cost of such cells [77]. There \nare several causes that have contributed to this rise in efficiency, \nincluding the following: \n• Better cell design: Scientists have created new solar cell architectures \nthat transfer light from the sun more effectively into electrical power. • Novel materials: Novel materials that can be utilized to produce solar \ncells with higher efficiency include perovskites and organic \nsemiconductors. • Improved \nmanufacturing \nprocedures: \nImprovements \nin \nmanufacturing procedures have produced solar cells that result in \nmore reliable products of higher caliber. 4.2. Innovative solar PV technologies\n4.2.1. Bifacial photovoltaic panels\nBi-facial photovoltaic panels represent a remarkable advancement in \nsolar energy technology, offering notable advantages over convent",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 20,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ional \nmono-facial panels [92,93]. Unlike mono-facial systems, bi-facial PVs \ncan receive sunlight from their front and rear sides, significantly \nboosting their energy generation potential (see Fig. 10). This dual-sided \ndesign not only enhances overall efficiency but also proves more effec­\ntive under varying conditions such as partial shading, low solar radia­\ntion, or snowy environments. Research has consistently highlighted \ntheir superior performance, showing that bi-facial panels generate \nhigher energy yields, require less space, and offer greater potential for \nreducing greenhouse gas emissions. Moreover, they demonstrate \nimproved efficiency when integrated with cooling mechanisms, solar \ntrackers, or in climates impacted by snow or climate change. Their \nability to operate efficiently in diverse scenarios, combined with a lower \nlevelized cost of electricity and greater adaptability to space-constrained \nlocations, makes bi-facial PV panels a more sustainable and cost- \neffective choice for grid-connected solar systems. This combination of \ntechnical and financial benefits positions them as a transformative so­\nlution for the future of solar energy. Despite their advantages, bi-facial photovoltaic panels face several \nchallenges that may limit their widespread deployment [94,95]. The \nperformance of these systems is highly dependent on site-specific con­\nditions such as ground reflectivity (albedo), panel height, and tilt angle, \nwhich require careful optimization to maximize energy gains. Addi­\ntionally, the initial capital cost of bi-facial systems is generally higher \nthan that of conventional mono-facial panels due to more complex \nmounting structures and installation requirements. Accurate perfor­\nmance prediction and long-term reliability assessments are still \nevolving, posing uncertainties for investors and developers. Moreover, \nsoiling and rear-side shading can significantly reduce their expected \nperformance if not properly managed. 4.2.2. Solar shingles\nSolar shingles are roofing materials that integrate solar cells into a \nbuilding’s structure. They are made to resemble traditional roofing \nmaterials, such as clay or asphalt tiles, and contain either c–Si or thin- \nfilm solar cells embedded in their surface. Solar shingles are a favor­\nable advancement in the solar PV sector because they improve the \nFig. 10. Schematic diagram of (a) mono-facial and (b) bi-facial PV panels. ([], open access).",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 21,
+      "char_count": 2459
+    }
+  },
+  {
+    "text": "Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n10\n\nfeasibility and aesthetics of integrating solar energy into residential and \ncommercial structures [96,97], as illustrated below: \n• Aesthetic appeal: Unlike typical solar panels, which have a bulky \nappearance, solar shingles are aesthetically pleasing and integrate \nperfectly with a building’s overall architecture. • Space efficiency: They are appropriate for homes with limited roof \nspace since they maximize space utilization by acting as both energy \ngenerators and roofing materials. • Increased adoption: The appearance of standard solar panels may put \noff homeowners, but solar shingles make solar energy more \nappealing and accessible. • Grid resilience: By producing power at the site of demand and \nlowering transmission losses, they help to maintain grid resilience. • Environmental advantages: By minimizing GHG emissions and \ndecreasing dependence on fossil fuels, solar shingles support the \nproduction of clean, sustainable energy. However, despite their aesthetic and functional advantages, solar \nshingles face several challenges that hinder their widespread adoption. One of the main limitations is their relatively high upfront cost \ncompared to conventional solar panels, primarily due to the complexity \nof manufacturing and installation. Additionally, the efficiency of solar \nshingles is generally lower than that of standard photovoltaic modules, \nwhich may result in lower energy yields. Their integration also requires \nspecialized labor and may complicate roof maintenance or repairs. 4.2.3. Transparent solar cells\nSolar windows, also referred to as transparent solar panels or \nphotovoltaic windows, are cutting-edge building materials that use \nsunlight to create electricity while letting visible light in. Transparent PV \ncells are integrated into the glass or window frame [98]. These cells let \nthrough visible light while absorbing certain light wavelengths, mostly \nin the ultraviolet and near-infrared range. They make use of substances \nlike organic photovoltaic materials and transparent conductive oxides \n[99]. The transparent PV cells in the solar window capture solar energy \nand turn it into electrical power when sunlight touches them. The \nbuilding’s electrical appliances can subsequently be powered by this \nelectricity, or sent to the grid. Solar windows provide a more sustainable \nand effective way to harness solar energy while maintaining natural \nlight and aesthetic appeal, making them a viable alternative to con­\nventional windows. This makes them a potential choice for energy \ngeneration in buildings [100]. To improve glass’s capacity to capture \nsolar energy, light-selective coatings are occasionally put on its surface. These coatings aid in capturing sunlight and directing it towards the \nglass’s embedded transparent solar cells [101]. The deployment of solar windows is accompanied by several tech­\nnical and economic challenges. Their energy conversion ef",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 22,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ficiency is \ngenerally lower than that of conventional PV panels, as they must bal­\nance transparency with power generation. Additionally, the specialized \nmaterials and fabrication techniques required for transparent photo­\nvoltaic cells increase production costs. Issues related to long-term \ndurability, such as weathering effects, color stability, and mainte­\nnance, also need to be addressed. Furthermore, retrofitting existing \nbuildings with solar windows can be expensive and structurally com­\nplex, limiting their immediate applicability to new constructions or \nlarge-scale projects. 4.2.4. Solar tracking\nThe solar tracker is a sophisticated device designed to optimize the \npositioning of photovoltaic panels, ensuring they remain perpendicular \nto sunlight throughout the day and thereby maximizing energy capture \n[102,103]. By continuously adjusting the panels to follow the sun’s \ntrajectory, solar trackers enhance the efficiency of solar energy systems. Previous research demonstrates that solar trackers can capture 20 to 50 \n% more solar energy compared to fixed-angle photovoltaic systems, with \nspecific performance improvement influenced by geographic location, \nweather conditions, and the time of year [4,104]. This significant in­\ncrease in energy capture underscores the crucial role of solar tracking in \nenhancing the overall viability and effectiveness of solar energy tech­\nnologies, especially in locations with high solar irradiance or variable \nsunlight angles. Solar trackers are broadly classified into single and dual \naxes. The former trackers follow the sun’s movement along a single \nplane, such as east to west, and are usually utilized in large-scale PV \ninstallations due to their cost-effectiveness and relatively simple design. On the other hand, dual-axis trackers allow panels to move along two \nplanes, both horizontally and vertically, enabling precise alignment \nwith the sun at all times. These systems are particularly beneficial in \napplications where maximizing energy capture is a priority, as they can \nadapt to seasonal changes in the sun’s altitude. While dual-axis trackers \noffer higher energy gains, they are generally more expensive and require \nadditional maintenance compared to single-axis systems. The choice \nbetween these systems often depends on site-specific factors such as \nsolar \nresource \navailability, \nland \nconstraints, \nand \neconomic \nconsiderations. 4.2.5. Maximum power point tracking\nIn addition to improvements in solar cell efficiency and structural \ninnovations such as bifacial panels and solar trackers, advancements in \npower electronics and control algorithms have significantly contributed \nto the effective utilization of solar PV systems. One of the most critical \ntechnologies in this context is maximum power point tracking (MPPT) \n[105]. MPPT controllers continuously adjust the electrical operating \npoint of the photovoltaic modules to ensure that they deliver the \nmaximum possible power, regardless of",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 23,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "variations in sunlight intensity, \ntemperature, shading, or load conditions. This dynamic optimization \nincreases the overall efficiency and economic viability of solar energy \nsystems, particularly in environments characterized by fluctuating \nweather patterns or partial shading effects. 4.2.6. Photovoltaic-based hydrogen production\nOne promising area of research gaining significant attention is the \nintegration of solar PV systems with water-splitting units for green \nhydrogen generation [106]. Green hydrogen, produced from RESs like \nsolar power, is increasingly considered a key solution for decarbonizing \nvarious sectors and transitioning to a sustainable energy future \n[107,108]. Fig. 11 illustrates the main concept of green hydrogen pro­\nduction using photovoltaic-driven water splitting. This integration offers \nmultiple advantages, with one of the most critical being the efficient \nutilization of excess electricity generated by solar PV systems. Instead of \nwasting excess energy, it can be stored as hydrogen, a versatile energy \ncarrier that addresses the intermittency of RESs and ensures a steady \nenergy supply. Hydrogen enables energy storage on a large scale, \nbalancing supply and demand, and providing resilience to the energy \ngrid. Beyond energy storage, hydrogen plays a pivotal role in diverse \napplications, further emphasizing its importance. It is a clean fuel that \ncan power fuel cell vehicles, offering zero-emission transportation so­\nlutions. In the industrial sector, hydrogen is used as a feedstock for \nprocesses like ammonia production and refining. Furthermore, it holds \npotential in heating applications, replacing natural gas in residential and \ncommercial heating systems. Green hydrogen also enables the decar­\nbonization of hard-to-abate sectors such as steel manufacturing and \naviation, where direct electrification is challenging [109]. Despite its significant environmental and technical benefits, the \neconomic viability of photovoltaic-based hydrogen production remains \na key challenge. Currently, the cost of green hydrogen production via \nPV-driven water splitting is relatively high compared to hydrogen pro­\nduced from fossil fuels (commonly referred to as grey hydrogen) or blue \nhydrogen (produced from natural gas with carbon capture). The high \ncapital cost of electrolyzers, and PV systems, and the limited economies \nof scale contribute to this cost disparity. Additionally, factors such as PV \nelectricity price fluctuations, electrolyzer efficiency, and operational \nS. Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n11\n\nexpenditures further affect the economic feasibility. However, ongoing \ntechnological advancements, increasing electrolyzer capacities, and \ndeclining costs of solar PV modules are progressively narrowing this gap. Several studies project that with continued policy support, scaling up of \ninfrastructure, and technological improvements, PV-based hydrogen \nproduction could become cost-",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 24,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "competitive within the next decade, \nparticularly in regions with high solar irradiance. Therefore, while it is \nnot yet economically viable on a large scale, it holds promising potential \nfor the future energy market. 4.3. Technological challenges\nCurrent market data indicates that the available PV technologies \nachieve conversion efficiencies of less than 23 %, highlighting the crit­\nical need for further advancements in this sector. Such enhancements \nare essential not only to improve the performance of solar energy sys­\ntems but also to enhance their competitiveness against alternative en­\nergy sources. Continuous research and development efforts must be \ndirected \ntowards \noptimizing \nmaterial \nproperties, \nimproving \nmanufacturing processes, and integrating innovative technologies to \nelevate the overall performance of PV systems in a rapidly evolving \nenergy landscape [110]. The efficacy of PV systems can be influenced by \nmultiple meteorological factors, such as wind, ambient temperature, \ndust, solar radiation, and the presence of clouds. For example, the re­\ngions that have sunny weather can provide high solar energy output; \nhowever, these areas are usually high in dust accumulation [111,112]. The PV cell temperature is another crucial factor that significantly \ninfluences the PV cell performance. PV panels tend to produce less \nelectricity when their cell temperatures rise. PV system performance can \nbe greatly improved by using effective cooling and heat management \nstrategies [113,114]. 4.4. Economic considerations and market dynamics\nAccording to a technology-driven life-cycle perspective, industries \nreliant on advanced technologies follow an unpredictable path due to \nthe intricate relationships between market and competitive forces. Additionally, the survival of businesses heavily relying on funding and \nrevenue from new technologies remains uncertain. Standard-setting is \nthe main focus of the industry’s growth phase, after which the winners \nturn their attention to increasing output and cutting costs. Customers \nselect technologies at this point, and innovation focuses on scaling up \nproduction methods to reduce costs per unit and recover financial \ncommitment. During this growth phase, there are two stages: production \nand market positioning, as well as supply chain establishment. The \ndifficulty of transitioning from demonstration to scaled manufacturing \nthat permits economies of scale and competitive price is a symbol of the \ntechnology transfer gap. Many external players are frequently required \nto provide bridging for the gaps that are pertinent to these stages. Similar to the emerging phase, funding is necessary for scaling and \nmarket positioning. The technology is typically more attractive but \ngoing from a demonstration or pilot plant to production typically re­\nquires bigger sums of money. PV electricity still accounts for only a small percentage of installed \nFig. 11. Schematic diagram of a photovoltaic-driven hydr",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 25,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n12\n\nrenewable energy capacity. As the sector transitioned from demonstra­\ntion to production and market positioning, gaps in technology became \nevident. These gaps include technology transfer and market transfer. Cost barriers from demonstration to scalability have hindered technol­\nogy transmission, while cheaper electricity generation options, such as \nnatural gas, have impeded market transfer. However, renewable energy \nsources like biomass and wind are nearly as competitive as natural gas. Notably, the Japanese government’s actions in the 1980s significantly \nreduced the interest gap, which was further narrowed by the German \ngovernment’s substantial policy and subsidy commitments to photo­\nvoltaic technology in the 1990s [115]. Eventually, the expansion of the PV sector slows, prompting busi­\nnesses to shift their focus to pricing strategies, gaining market share, and \nconsolidation. Acquisitions and price competitiveness become defining \ncharacteristics of this advanced stage. A key milestone is establishing PV \ntechnology as the industry standard. Advancing from the market posi­\ntioning stage, this phase requires addressing a significant diffusion gap, \nwhich can be chronological, geographical, or both. Sustaining and \nstrengthening the market position of PV technologies involves moving \nbeyond short-term, subsidy-driven adoption or localized success. Achieving spatial expansion may depend on strategically positioned \npartnerships, while temporal growth requires fostering long-term \ncollaborations. 5. Implications and future directions\nManufacturing materials and modules that reduce the BOS “balance \nof system” costs, which constitute the majority of installed system ex­\npenses and offer the greatest potential for cost reduction, is crucial for \nthe continued growth of the solar PV industry. Using less expensive solar \ncell materials, minimizing material usage, reducing cell manufacturing \ncosts, and increasing cell efficiency are key strategies to achieve this. In \norder to achieve more notable cost savings and performance gains, R&D \nis constantly making progress in both established and developing tech­\nnologies. The photovoltaic technology portfolio is anticipated to remain \ndiverse in terms of technologies. First-generation technologies still ac­\ncount for most of the world’s yearly production, having been developed \nthroughout the whole PV value chain. Perovskite and tandem technol­\nogies also present compelling views, but only in the long run because of \nunresolved issues with durability and cost [91,116]. Technology, deployment, investment, grid integration, and socio­\neconomic factors are key drivers of the global energy transition, which \naims to reduce carbon dioxide (CO2) emissions. This transition moves \naway from fossil fuels, which contribute to climate change, towards \nclean and renewable energy. Part of this worldwide energy transition is \nthe constant incr",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 26,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ease in solar photovoltaic power generation. Renew­\nable energy is essential to achieving the Paris Agreement as well as \nlowering air pollution, enhancing health and wellbeing, and enabling \nuniversal access to affordable energy. The International Renewable \nEnergy Agency (IRENA) has released a study outlining solutions to \naccelerate deployment and completely realize the tremendous potential \nof solar photovoltaics worldwide until 2050 [117]. Despite the growing adoption of solar PV systems, the high cost of \nassociated energy storage solutions remains a significant barrier to their \nlarge-scale deployment. Several potential strategies can be implemented \nto address this challenge. For example, advancements in battery tech­\nnologies, such as lithium-ion, flow batteries, and emerging solid-state \nbatteries, are expected to reduce costs through economies of scale and \nmaterial innovations. Additionally, the implementation of hybrid stor­\nage systems combining different storage technologies can optimize \nperformance and reduce overall costs. The development of second-life \nbattery applications, where retired electric vehicle batteries are repur­\nposed for stationary energy storage, also offers a sustainable and \neconomical solution. Furthermore, policy-driven approaches, including \ngovernment incentives, tax credits, and energy storage mandates, can \nplay a vital role in lowering the financial burden on investors and \naccelerating the deployment of solar energy storage systems. Continued \nresearch and innovation, coupled with supportive policies and large- \nscale manufacturing, are essential to drive down costs and promote \nsustainable energy transitions. Moreover, the potential of Artificial Intelligence (AI) and optimiza­\ntion techniques is becoming increasingly important in enhancing the \nperformance of PV systems [118–120]. AI-driven models, particularly \nmachine learning algorithms, can significantly improve energy pro­\nduction forecasting, allowing PV systems to adapt to changing envi­\nronmental conditions. These techniques can also optimize system design \nand maintenance, identifying underperforming panels and enabling \npredictive maintenance, which helps reduce downtime and prolong \nsystem life. Additionally, AI can optimize energy management by con­\ntrolling the distribution of energy, ensuring the most efficient use of \nstored energy and grid interactions. 6. Conclusion\nSolar photovoltaic (PV) technology has evolved significantly, driven \nby continuous advancements in materials, efficiency, and system inte­\ngration. This review highlights the sector’s transition from early \nphotovoltaic discoveries to modern innovations, including bifacial \npanels, transparent solar cells, and PV-based hydrogen production. These developments have improved efficiency and cost-effectiveness, \naccelerating global adoption. However, challenges persist, particularly \nin market integration, technological limitations, and industry \nmaturation. The future of sol",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 27,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ar PV depends on overcoming these barriers through \nsustained innovation, strategic investments, and supportive policies. Key research areas include enhancing energy conversion efficiency, \nimproving energy storage integration, and reducing material costs. Policy measures, such as incentives for decentralized solar adoption and \ngrid modernization, will be crucial in fostering market expansion. Collaboration among researchers, engineers, and policymakers is \nessential to bridge existing gaps and accelerate solar PV’s role in the \nglobal energy transition. As the sector matures, solar PV can further support decentralized \nenergy systems, increasing energy security and reducing dependence on \ncentralized grids. This will be particularly beneficial for remote and off- \ngrid areas, where PV integration can promote sustainable development \nand energy resilience. By advancing solar PV technology and strength­\nening its role in diverse energy systems, the industry can contribute \nsignificantly to a cleaner, more sustainable energy future. CRediT authorship contribution statement\nSaeed Al-Ali: Writing – review & editing, Writing – original draft, \nMethodology, Investigation, Conceptualization. Abdul Ghani Olabi: \nWriting – review & editing, Writing – original draft, Supervision, Project \nadministration, Conceptualization. Montaser Mahmoud: Writing – re­\nview & editing, Writing – original draft, Supervision, Investigation, \nConceptualization. Declaration of competing interest\nThe authors declare that they have no known competing financial \ninterests or personal relationships that could have appeared to influence \nthe work reported in this paper. Data availability\nData will be made available on request. S.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 28,
+      "char_count": 1725
+    }
+  },
+  {
+    "text": "Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n13\n\nReferences\n[1] Tyagi VV, Rahim NAA, Rahim NA, Selvaraj JAL. Progress in solar PV technology: \nResearch and achievement. Renew Sustain Energy Rev 2013;20:443–61. https:// \ndoi.org/10.1016/j.rser.2012.09.028. [2] Lopez-Pascual D, Valiente-Blanco I, Morrison AP, Diez-Jimenez E. New solar \nphotovoltaics trends toward sustainable development goals. SDGs Eur Region \n2023:1205–38. https://doi.org/10.1007/978-3-031-17461-2_106.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 29,
+      "char_count": 495
+    }
+  },
+  {
+    "text": "[3] Becerra VG, Valdivia-Lefort P, Barraza R, García JG. Electrical model analysis for \nbifacial PV modules using real performance data in laboratory. Energies 2024;17 \n(23):5868.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 30,
+      "char_count": 179
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.egyr.2020.02.004. [5] Awuku SA, Bennadji A, Muhammad-Sukki F, Sellami N. Myth or gold? The power \nof aesthetics in the adoption of building integrated photovoltaics (BIPVs). Energy \nNexus 2021;4:100021. https://doi.org/10.1016/j.nexus.2021.100021. [6] Chau JLH, Chen R-T, Hwang G-L, Tsai P-Y, Lin C-C. Transparent solar cell \nwindow module. Sol Energy Mater Sol Cells 2010;94(3):588–91. https://doi.org/ \n10.1016/j.solmat.2009.12.003. [7] IEA. “Snapshot 2024.” International Energy Agency, Photovoltaic Power Systems \nProgramme. https://iea-pvps.org/snapshot-reports/snapshot-2024/ (accessed \nApril, 2, 2025). [8] P.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 31,
+      "char_count": 642
+    }
+  },
+  {
+    "text": "Molina. “Global installed PV capacity tops 2 TW.” PV Magazine. https:// \nwww.pv-magazine.com/2024/11/13/global-installed-pv-capacity-tops-2-tw/ \n(accessed April, 2, 2025). [9] Al-Shahri OA, et al. Solar photovoltaic energy optimization methods, challenges \nand issues: A comprehensive review. J Clean Prod 2021;284:125465.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 32,
+      "char_count": 322
+    }
+  },
+  {
+    "text": "https://doi. org/10.1016/j.jclepro.2020.125465. [10] Katiraei F, Agüero JR. Solar PV integration challenges. IEEE Power Energ Mag \n2011;9(3):62–71. https://doi.org/10.1109/MPE.2011.940579. [11] Hussin F, Issabayeva G, Aroua MK. Solar photovoltaic applications: opportunities \nand challenges. Rev Chem Eng 2018;34(4):503–28. https://doi.org/10.1515/ \nrevce-2016-0058. [12] Singh PP, Singh S. Realistic generation cost of solar photovoltaic electricity. Renew Energy 2010;35(3):563–9. https://doi.org/10.1016/j. renene.2009.07.020. [13] Mani M, Pillai R. Impact of dust on solar photovoltaic (PV) performance: \nResearch status, challenges and recommendations. Renew Sustain Energy Rev \n2010;14(9):3124–31.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 33,
+      "char_count": 703
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.rser.2010.07.065. [14] Almukhtar H, Tjing Lie T, Al-Shohani W. Dust impact on photovoltaic modules: \nGlobal data, predictive models, emphasis on chemical composition. Energy \nConvers Manage: X 2024;24:100764.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 34,
+      "char_count": 234
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j. ecmx.2024.100764. [15] Largot S, et al. Experimental study on the effect of operational and environmental \nconditions on photovoltaic modules productivity in El-Oued region, algeria. Energy Convers Manage: X 2024;23:100655.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 35,
+      "char_count": 250
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j. ecmx.2024.100655. [16] Chowdhury MS, et al. An overview of solar photovoltaic panels’ end-of-life \nmaterial recycling. Energ Strat Rev 2020;27:100431. https://doi.org/10.1016/j. esr.2019.100431. [17] Salimi AH, Dehghani M, Nazaripouya H. Equitable multi-objective optimization \nof electric power grids in the face of progressive wildfire. In: 2024 IEEE Power & \nEnergy Society Innovative Smart Grid Technologies Conference (ISGT); 2024. p. 1–5. 10.1109/ISGT59692.2024.10454205. [18] Okonkwo PC, et al. Solar PV systems under weather extremes: Case studies, \nclassification, vulnerability assessment, and adaptation pathways. Energy Rep \n2025;13:929–59.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 36,
+      "char_count": 679
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.egyr.2024.12.067. [19] Boˇsnjakovi´c M, Stojkov M, Katini´c M, Lackovi´c I. Effects of extreme weather \nconditions on pv systems. Sustainability 2023;15(22):16044. https://doi.org/ \n10.3390/su152216044. [20] Salimi AH, Nazaripouya H. Equitable operational resilience of power distribution \ngrids in the face of progressive wildfires. In: 2023 North American Power \nSymposium (NAPS); 2023. p. 1–6. 10.1109/NAPS58826.2023.10318605. [21] Ceferino L, Lin N. Hurricane risk of solar generation in the United States. Nat \nHazard Rev 2023;24(4):04023029. https://doi.org/10.1061/NHREFO.NHENG- \n1764. [22] Bayod-Rújula AA. Chapter 8 - Solar photovoltaics (PV). Solar Hydrogen \nProduction 2019:237–95. https://doi.org/10.1016/B978-0-12-814853-2.00008- \n4. [23] Green MA, Dunlop ED, Hohl-Ebinger J, Yoshita M, Kopidakis N, Hao X. Solar cell \nefficiency tables (version 56). Prog Photovolt Res Appl 2020;28(7):629–38. https://doi.org/10.1002/pip.3303. [24] Bisquert J. The physics of solar cells: perovskites, organics, and photovoltaic \nfundamentals. CRC Press; 2017. [25] Shah A. Solar cells: basics. Solar Cells Modules 2020:33–72. https://doi.org/ \n10.1007/978-3-030-46487-5. [26] Satpathy R, Pamuru V. Chapter 1 - Manufacturing of polysilicon. Solar PV Power \n2021:1–29. https://doi.org/10.1016/B978-0-12-817626-9.00001-0. [27] Benda V. 9 - crystalline silicon solar cell and module technology. In: \nA Comprehensive Guide to Solar Energy Systems; 2018. p.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 37,
+      "char_count": 1475
+    }
+  },
+  {
+    "text": "181–213. 10.1016/ \nB978-0-12-811479-7.00009-9. [28] Muniyandi V, Reddy Majji VK, Ravindra M, Adireddy R, Balasubramanian AK. Feature selection-based irradiance forecast for efficient operation of a stand-alone \nPV system. Green Energy Intell Transport 2025:100308. https://doi.org/ \n10.1016/j.geits.2025.100308. [29] Zaghba L, Khennane Benbitour M, Fezzani A, Mekhilef S, Borni A. Comprehensive \nperformance assessment of two grid-tied photovoltaic systems in a hot arid \nclimate: A three-year theoretical and experimental analysis. Renew Sustain \nEnergy Rev 2025;216:115643. https://doi.org/10.1016/j.rser.2025.115643. [30] Ali W, Farooq H, Rehman AU, Awais Q, Jamil M, Noman A. Design considerations \nof stand-alone solar photovoltaic systems. In: 2018 International Conference on \nComputing, Electronic and Electrical Engineering (ICE Cube); 2018. p. 1–6. https://doi.org/10.1109/ICECUBE.2018.8610970. [31] Hassan A, Al-Abdeli YM, Masek M, Bass O. Optimal sizing and energy scheduling \nof grid-supplemented solar PV systems with battery storage: Sensitivity of \nreliability and financial constraints. Energy 2022;238:121780. https://doi.org/ \n10.1016/j.energy.2021.121780. [32] Jahangir MH, Salmanpour F, Sadeghitabar E. Feasibility assessment of using \nWavestar energy converter in a grid-connected hybrid renewable energy system \n(a case study). Energy Conver Manage: X 2024;24:100784. https://doi.org/ \n10.1016/j.ecmx.2024.100784. [33] Naiem-Ur-Rahman M, et al. An asymmetric fuzzy-based self-tuned PSO- \nOptimized MPPT controller for grid-connected solar photovoltaic system. Energ \nConver Manage 2025;X:100902. https://doi.org/10.1016/j.ecmx.2025.100902. [34] Sehar F, Pipattanasomporn M, Rahman S. An energy management model to study \nenergy and peak power savings from PV and storage in demand responsive \nbuildings. Appl Energy 2016;173:406–17. https://doi.org/10.1016/j. apenergy.2016.04.039. [35] Pillai GG, Putrus GA, Georgitsioti T, Pearsall NM. Near-term economic benefits \nfrom grid-connected residential PV (photovoltaic) systems. Energy 2014;68: \n832–43. https://doi.org/10.1016/j.energy.2014.02.085. [36] Zhang L, Yu J, Shi Q, Kong Q. An evaluation of the economic benefits of rooftop \ndistributed photovoltaic projects in the whole county in China. J Clean Prod \n2023;432:139744.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 38,
+      "char_count": 2300
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.jclepro.2023.139744. [37] Xiao H, Song F, Zheng X, Chen J. Community-based energy revolution: An \nevaluation of China’s photovoltaic poverty alleviation Program’s economic and \nsocial benefits. Energy Policy 2023;177:113555. https://doi.org/10.1016/j. enpol.2023.113555. [38] Leite NH, Guzman Lascano CP, Valente Morais HG, Pereira da Silva LC. Impact of \nthe net-metering policies on solar photovoltaic investments for residential scale: \nA case study in Brazil. Renew Energy 2024;231:120788. https://doi.org/ \n10.1016/j.renene.2024.120788. [39] Jia X, Du H, Zou H, He G. Assessing the effectiveness of China’s net-metering \nsubsidies for household distributed photovoltaic systems. J Clean Prod 2020;262: \n121161. https://doi.org/10.1016/j.jclepro.2020.121161. [40] “Clean Energy Australia 2010,” 2010. [Online]. Available: https://library.bsl.org. au/jspui/bitstream/1/2206/1/Clean_Energy_Australia_Report.pdf. [41] NREL. “Best Research-Cell Efficiency Chart.” National Renewable Energy \nLaboratory. https://www.nrel.gov/pv/cell-efficiency.html (accessed March 26, \n2025). [42] Razykov TM, Ferekides CS, Morel D, Stefanakos E, Ullal HS, Upadhyaya HM. Solar photovoltaic electricity: Current status and future prospects. Sol Energy \n2011;85(8):1580–608. https://doi.org/10.1016/j.solener.2010.12.002. [43] Becker C, Sontheimer T, Steffens S, Scherf S, Rech B. Polycrystalline silicon thin \nfilms by high-rate electronbeam evaporation for photovoltaic applications – \nInfluence of substrate texture and temperature. Energy Proc 2011;10:61–5.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 39,
+      "char_count": 1568
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.egypro.2011.10.153. [44] Saga T. Advances in crystalline silicon solar cell technology for industrial mass \nproduction. NPG Asia Mater 2010;2(3):96–102. https://doi.org/10.1038/ \nasiamat.2010.82. [45] Ko J, et al. Review on separation processes of end-of-life silicon photovoltaic \nmodules. Energies 2023;16(11):4327. https://doi.org/10.3390/en16114327. [46] Koch C, Ito M, Schubert M. Low-temperature deposition of amorphous silicon \nsolar cells. Sol Energy Mater Sol Cells 2001;68(2):227–36. https://doi.org/ \n10.1016/S0927-0248(00)00249-X. [47] Kim H, Cha K, Fthenakis VM, Sinha P, Hur T. Life cycle assessment of cadmium \ntelluride photovoltaic (CdTe PV) systems. Sol Energy 2014;103:78–88. https:// \ndoi.org/10.1016/j.solener.2014.02.008. [48] Scarpulla MA, et al. CdTe-based thin film photovoltaics: Recent advances, current \nchallenges and future prospects. Sol Energy Mater Sol Cells 2023;vol. 255: \n112289. https://doi.org/10.1016/j.solmat.2023.112289. [49] Romeo A, Artegiani E. CdTe-based thin film solar cells: past, present and future. Energies 2021;14(6).",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 40,
+      "char_count": 1095
+    }
+  },
+  {
+    "text": "https://doi.org/10.3390/en14061684. [50] Bagher AM, Vahid MMA, Mohsen M. Types of solar cells and application. Am J \nOpt Photon 2015;3(5):94–113. https://doi.org/10.11648/j.ajop.20150305.17. [51] Rahmatian M, Sayyaadi H, Ameri M. Indoor photovoltaics: A numerical model of \ndye-sensitized solar cells based on indoor illumination for the Internet of Things \napplications. Energy Conv Manage: X 2024;22:100606. https://doi.org/10.1016/ \nj.ecmx.2024.100606. [52] O’Regan B, Gr¨atzel M. A low-cost, high-efficiency solar cell based on dye- \nsensitized colloidal TiO2 films. Nature 1991;353(6346):737–40.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 41,
+      "char_count": 600
+    }
+  },
+  {
+    "text": "251-256, 2017, doi: https://doi.org/10.1117/ \n12.2292673. [54] Chowdhury TA, Zafar MAB, Islam M-S-U, Shahinuzzaman M, Islam MA, \nKhandaker MU. Stability of perovskite solar cells: issues and prospects. RSC Adv \n2023;13(3):1787–810.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 42,
+      "char_count": 231
+    }
+  },
+  {
+    "text": "https://doi.org/10.1039/D2RA05903G. [55] Chang W-C, Lan D-H, Lee K-M, Wang X-F, Liu C-L. Controlled deposition and \nperformance optimization of perovskite solar cells using ultrasonic spray-coating \nS. Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n14\n\nof photoactive layers. ChemSusChem 2017;10(7):1405–12. https://doi.org/ \n10.1002/cssc.201601711. [56] Reyna Y, Salado M, Kazim S, P´erez-Tomas A, Ahmad S, Lira-Cantu M. Performance and stability of mixed FAPbI3(0.85)MAPbBr3(0.15) halide \nperovskite solar cells under outdoor conditions and the effect of low light \nirradiation. Nano Energy 2016;30:570–9. https://doi.org/10.1016/j. nanoen.2016.10.053. [57] Wojciechowski K, Forg´acs D, Rivera T. Industrial opportunities and challenges for \nperovskite photovoltaic technology. Sol RRL 2019;3(9):1900144. https://doi. org/10.1002/solr.201900144. [58] Yan J, Savenije TJ, Mazzarella L, Isabella O. Progress and challenges on scaling up \nof perovskite solar cell technology. Sustain Energy Fuels 2022;6(2):243–66. https://doi.org/10.1039/D1SE01045J. [59] Rong Y, et al. Challenges for commercializing perovskite solar cells. Science 2018; \n361(6408):eaat8235.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 43,
+      "char_count": 1180
+    }
+  },
+  {
+    "text": "https://doi.org/10.1126/science.aat8235. [60] Ahmed MI, Habib A, Javaid SS. Perovskite solar cells: potentials, challenges, and \nopportunities. Int J Photoenergy 2015;2015(1):592308. https://doi.org/ \n10.1155/2015/592308. [61] Zhou D, Zhou T, Tian Y, Zhu X, Tu Y. Perovskite-based solar cells: materials, \nmethods, and future perspectives. J Nanomater 2018;2018(1):8148072. https:// \ndoi.org/10.1155/2018/8148072. [62] Li G, Zhu R, Yang Y. Polymer solar cells. Nat Photon 2012;6(3):153–61. https:// \ndoi.org/10.1038/nphoton.2012.11. [63] Chen LX. Organic Solar Cells: Recent progress and challenges. ACS Publications; \n2019. p. 2537–9. [64] Cheng P, Zhan X. Stability of organic solar cells: challenges and strategies. Chem \nSoc Rev 2016;45(9):2544–82. https://doi.org/10.1039/C5CS00593K. [65] Dash BP, Kumar Beriha S, Naik B, Kumar Sahoo P. Organic materials based solar \ncells. Mater. Today: Proc. 2022;67:1057–63. https://doi.org/10.1016/j. matpr.2022.07.002. [66] Barranco A, Borras A, Gonzalez-Elipe AR, Palmero A. Perspectives on oblique \nangle deposition of thin films: From fundamentals to devices. Prog Mater Sci \n2016;76:59–153. https://doi.org/10.1016/j.pmatsci.2015.06.003. [67] Derouiche H, Djara V. Impact of the energy difference in LUMO and HOMO of the \nbulk heterojunctions components on the efficiency of organic solar cells. Sol \nEnergy Mater Sol Cells 2007;91(13):1163–7. https://doi.org/10.1016/j. solmat.2007.03.015. [68] Musazade E, et al. Biohybrid solar cells: Fundamentals, progress, and challenges. J Photochem Photobiol C: Photochem Rev 2018;35:134–56. https://doi.org/ \n10.1016/j.jphotochemrev.2018.04.001. [69] Gizzie EA, LeBlanc G, Jennings GK, Cliffel DE. Electrochemical preparation of \nphotosystem I–polyaniline composite films for biohybrid solar energy conversion. ACS Appl Mater Interf 2015;7(18):9328–35. https://doi.org/10.1021/ \nacsami.5b01065. [70] Pandey AK, Tyagi VV, Selvaraj JAL, Rahim NA, Tyagi SK. Recent advances in \nsolar photovoltaic systems for emerging trends and advanced applications. Renew \nSustain Energy Rev 2016;53:859–84. https://doi.org/10.1016/j.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 44,
+      "char_count": 2107
+    }
+  },
+  {
+    "text": "Available: https://www.osti.gov/biblio/1351597[Online]. Available: \nhttps://www.osti.gov/servlets/purl/1351597. [72] Vogl B, et al. The use of silicon nitride in buried contact solar cells. Sol Energy \nMater Sol Cells 2001;66(1):17–25. https://doi.org/10.1016/S0927-0248(00) \n00153-7. [73] Baumgartner F. 5 - Photovoltaic (PV) balance of system components: Basics, \nperformance. Performance Photovolt. (PV) Syst. 2017:135–81. https://doi.org/ \n10.1016/B978-1-78242-336-2.00005-7. [74] Deambi S, Power SPV. A global perspective. The Energy and Resources Institute \n(TERI). 2011. [75] “The history of solar.” U.S. Department of Energy. https://www1.eere.energy. gov/solar/pdfs/solar_timeline.pdf (accessed November 19, 2024). [76] “Start with the world’s first solar panel.” QSUPER. https://qsupersolar.com/how- \nto-enable-e-bill/ (accessed November 19, 2024). [77] Oni AM, Mohsin ASM, Rahman MM, Hossain Bhuian MB. A comprehensive \nevaluation of solar cell technologies, associated loss mechanisms, and efficiency \nenhancement strategies for photovoltaic cells. Energy Rep 2024;11:3345–66. https://doi.org/10.1016/j.egyr.2024.03.007. [78] Smith KD, Gummel HK, Bode JD, Cuttriss DB, Nielsen RJ, Rosenzweig W. The \nsolar cells and their mounting. Bell Syst Tech J 1963;42(4):1765–816. https:// \ndoi.org/10.1002/j.1538-7305.1963.tb04050.x.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 45,
+      "char_count": 1335
+    }
+  },
+  {
+    "text": "[80] J. Garofalo, An electricity regulation primer—the history of electricity regulation \nin the United States, Available at SSRN 3974880, 2021, doi: https://dx.doi.org/ \n10.2139/ssrn.3974880. [81] Yilmaz S, Dincer F. Impact of inverter capacity on the performance in large-scale \nphotovoltaic power plants – A case study for Gainesville, Florida. Renew Sustain \nEnergy Rev 2017;79:15–23.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 46,
+      "char_count": 388
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.rser.2017.05.054. [82] Green MA. Silicon photovoltaic modules: a brief history of the first 50 years. Prog \nPhotovolt Res Appl 2005;13(5):447–55. https://doi.org/10.1002/pip.612. [83] Green MA, Emery K. Solar cell efficiency tables. Prog Photovolt Res Appl 1993;1 \n(1):25–9. https://doi.org/10.1002/pip.4670010104. [84] Oliver M, Jackson T. The market for solar photovoltaics. Energy Policy 1999;27 \n(7):371–85. https://doi.org/10.1016/S0301-4215(99)00038-5. [85] Hoffmann W. PV solar electricity industry: Market growth and perspective. Sol \nEnergy Mater Sol Cells 2006;90(18):3285–311. https://doi.org/10.1016/j. solmat.2005.09.022. [86] Kılıç U, Kekezo˘glu B. A review of solar photovoltaic incentives and Policy: \nSelected countries and Turkey. Ain Shams Eng J 2022;13(5):101669. https://doi. org/10.1016/j.asej.2021.101669. [87] Maycock PD. International photovoltaic markets, developments and trends \nforecast to 2010. Renew Energy 1995;6(5):469–75. https://doi.org/10.1016/ \n0960-1481(95)00062-O. [88] Maycock PD. V-3 - world photovoltaic markets. In: Practical Handbook of \nPhotovoltaics; 2003. p.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 47,
+      "char_count": 1131
+    }
+  },
+  {
+    "text": "H. Teets Jr, “A review of solar-powered \naircraft flight activity at the Pacific missile range test facility, Kauai, Hawaii,” \n2004. [90] Lamnini S, K´ad´ar P. Survey on perspectives of PV technology and their \napplications. In: 2017 IEEE 15th International Symposium on Applied Machine \nIntelligence and Informatics (SAMI); 2017. p. 000503–10. doi: https://doi.org/ \n10.1109/SAMI.2017.7880362. [91] Diouf B, Muley A, Pode R. Issues, challenges, and future perspectives of \nperovskites for energy conversion applications. Energies 2023;16(18). https:// \ndoi.org/10.3390/en16186498. [92] Radwan A, Mahmoud M, Olabi A-G, Rezk A, Maghrabie HM, Abdelkareem MA. Thermal comparison of mono-facial and bi-facial photovoltaic cells considering \nthe effect of TPT layer absorptivity. Internat.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 48,
+      "char_count": 784
+    }
+  },
+  {
+    "text": "J. Thermofluids 2023:100306. https://doi.org/10.1016/j.ijft.2023.100306. [93] Shahverdian MH, Sayyaadi H, Sohani A. Multi-layer modeling of bifacial \nphotovoltaic panels: evaluating the accuracy of one-, three-, and five-layer \nmodels. Energy Convers Manage: X 2025;25:100879.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 49,
+      "char_count": 276
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j. ecmx.2025.100879. [94] Zhong J, et al. Development and challenges of bifacial photovoltaic technology \nand application in buildings: A review. Renew Sustain Energy Rev 2023;187: \n113706.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 50,
+      "char_count": 213
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.rser.2023.113706. [95] Kopecek R, Libal J. Bifacial photovoltaics 2021: Status, opportunities and \nchallenges. Energies 2021;14(8):2076. https://doi.org/10.3390/en14082076. [96] Schmid C, Alpert S. A review of roof integrated photovoltaics systems. In: 2022 \nInternational Conference on Electrical, Computer and Energy Technologies \n(ICECET); 2022. p. 1–4. https://doi.org/10.1109/ICECET55527.2022.9873532. [97] W¨ohrle N, et al. Solar cell demand for bifacial and singulated-cell module \narchitectures. Photovol Internat 2017;36:48–62. [98] Chow T-T, Li C, Lin Z. Innovative solar windows for cooling-demand climate. Sol \nEnergy Mater Sol Cells 2010;94(2):212–20. https://doi.org/10.1016/j. solmat.2009.09.004. [99] Nguyen TT, Patel M, Kim J. All-inorganic metal oxide transparent solar cells. Sol \nEnergy Mater Sol Cells 2020;vol. 217:110708. https://doi.org/10.1016/j. solmat.2020.110708. [100] Fu Y. Research progress and prospect of translucent organic ohotovoltaic cells. Highlights Sci Eng Technol 2024;106:450–8. https://doi.org/10.54097/ \npthvqp46. [101] Xu K, Du M, Hao L, Mi J, Yu Q, Li S. A review of high-temperature selective \nabsorbing coatings for solar thermal applications. J Materiomics 2020;6(1): \n167–82. https://doi.org/10.1016/j.jmat.2019.12.012.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 51,
+      "char_count": 1295
+    }
+  },
+  {
+    "text": "[102] Roth P, Georgiev A, Boudinov H. Cheap two axis sun following device. Energ \nConver Manage 2005;46(7):1179–92. https://doi.org/10.1016/j. enconman.2004.06.015. [103] Dekkiche M, Tahri T, Denai M. Techno-economic comparative study of grid- \nconnected PV/reformer/FC hybrid systems with distinct solar tracking systems. Energy Convers Manage: X 2023;18:100360. https://doi.org/10.1016/j. ecmx.2023.100360. [104] Quesada G, Guillon L, Rousse DR, Mehrtash M, Dutil Y, Paradis P-L. Tracking \nstrategy for photovoltaic solar systems in high latitudes. Energ Conver Manage \n2015;103:147–56. https://doi.org/10.1016/j.enconman.2015.06.041. [105] Dehghani M, Taghipour M, Gharehpetian GB, Abedi M. Optimized fuzzy \ncontroller for MPPT of grid-connected PV systems in rapidly changing \natmospheric conditions. J Mod Power Syst Clean Energy 2021;9(2):376–83. https://doi.org/10.35833/MPCE.2019.000086. [106] Abdelkareem MA, et al. Optimized solar photovoltaic-powered green hydrogen: \nCurrent status, recent advancements, and barriers. Solar Energy 2023:112072. [107] Li X, Raorane CJ, Xia C, Wu Y, Tran TKN, Khademi T. Latest approaches on green \nhydrogen as a potential source of renewable energy towards sustainable energy: \nSpotlighting of recent innovations, challenges, and future insights. Fuel 2023;334: \n126684. https://doi.org/10.1016/j.fuel.2022.126684. [108] Hosseini SE, Wahid MA. Hydrogen production from renewable and sustainable \nenergy resources: Promising green energy carrier for clean development. Renew \nSustain Energy Rev 2016;57:850–66. https://doi.org/10.1016/j.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 52,
+      "char_count": 1580
+    }
+  },
+  {
+    "text": "rser.2015.12.112. [109] Hassan Q, Algburi S, Sameen AZ, Salman HM, Jaszczur M. Green hydrogen: A \npathway to a sustainable energy future. Int J Hydrogen Energy 2024;50:310–33. https://doi.org/10.1016/j.ijhydene.2023.08.321. [110] Allouhi A, Rehman S, Buker MS, Said Z. Up-to-date literature review on Solar PV \nsystems: Technology progress, market status and R&D. J Clean Prod 2022;362: \n132339. https://doi.org/10.1016/j.jclepro.2022.132339. [111] Gupta V, Sharma M, Pachauri RK, Dinesh Babu KN. Comprehensive review on \neffect of dust on solar photovoltaic system and mitigation techniques. Sol Energy \n2019;191:596–622. https://doi.org/10.1016/j.solener.2019.08.079. S. Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n15\n\n[112] Darwish ZA, Kazem HA, Sopian K, Al-Goul MA, Alawadhi H. Effect of dust \npollutant type on photovoltaic performance. Renew Sustain Energy Rev 2015;41: \n735–44.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 53,
+      "char_count": 909
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j.rser.2014.08.068. [113] Hasanuzzaman M, Malek ABMA, Islam MM, Pandey AK, Rahim NA. Global \nadvancement of cooling technologies for PV systems: A review. Sol Energy 2016; \n137:25–45. https://doi.org/10.1016/j.solener.2016.07.010. [114] Sheik MS, Kakati P, Dandotiya D, U. R.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 54,
+      "char_count": 299
+    }
+  },
+  {
+    "text": "S. A comprehensive review on \nvarious cooling techniques to decrease an operating temperature of solar \nphotovoltaic panels. Energy Nexus 2022;8:100161.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 55,
+      "char_count": 152
+    }
+  },
+  {
+    "text": "https://doi.org/10.1016/j. nexus.2022.100161. [115] Cherp A, Vinichenko V, Jewell J, Suzuki M, Antal M. Comparing electricity \ntransitions: A historical analysis of nuclear, wind and solar power in Germany and \nJapan. Energy Policy 2017;101:612–28. https://doi.org/10.1016/j. enpol.2016.10.044. [116] Boukortt NE, Triolo C, Santangelo S, Patan`e S. All-Perovskite tandem solar cells: \nfrom certified 25% and beyond. Energies 2023;16(8).",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 56,
+      "char_count": 436
+    }
+  },
+  {
+    "text": "https://doi.org/10.3390/ \nen16083519. [117] IRENA. Global Energy Transformation: A roadmap to 2050. International \nRenewable Energy Agency, Abu Dhabi. 2018. [118] Mateo Romero HF, et al. Applications of artificial intelligence to photovoltaic \nsystems: a review. Appl.",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 57,
+      "char_count": 268
+    }
+  },
+  {
+    "text": "Sci. 2022;12(19). https://doi.org/10.3390/ \napp121910056. [119] Mohammad A, Mahjabeen F. Revolutionizing solar energy: The impact of \nartificial intelligence on photovoltaic systems. Internat J Multidiscipl Sci Arts \n2023;2(3):591856. https://doi.org/10.47709/ijmdsa.v2i1.2599. [120] Kurukuru VS, Haque A, Khan MA, Sahoo S, Malik A, Blaabjerg F. A review on \nartificial intelligence applications for grid-connected solar photovoltaic systems. Energies 2021;14(15). https://doi.org/10.3390/en14154690. S. Al-Ali et al. Energy Conversion and Management: X 27 (2025) 101057 \n16",
+    "metadata": {
+      "source": "Solar Shingles_Ali.pdf",
+      "material_category": "Solar Shingles",
+      "source_path": "data\\raw\\Solar Shingles\\Solar Shingles_Ali.pdf",
+      "chunk_index": 58,
+      "char_count": 574
+    }
+  }
+]

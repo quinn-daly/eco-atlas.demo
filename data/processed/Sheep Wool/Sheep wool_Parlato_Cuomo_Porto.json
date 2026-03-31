@@ -1,0 +1,402 @@
+[
+  {
+    "text": "Construction and Building Materials 326 (2022) 126855\nAvailable online 17 February 2022\n0950-0618/© 2022 Elsevier Ltd. All rights reserved. Natural fibers reinforcement for earthen building components: Mechanical \nperformances of a low quality sheep wool (“Valle del Belice” sheep) \nM.C.M. Parlato a,*, M. Cuomo b, S.M.C. Porto a \na Department of Agriculture, Food and Environment, University of Catania, Building and Land Engineering Section (Di3A), University of Catania, Via S. Sofia 100, 95123 \nCatania, Italy \nb Department of Civil Engineering and Architecture (DICAR), University of Catania, Viale Andrea Doria 6, 95125 Catania, Italy   \nA R T I C L E  I N F O   \nKeywords: \nNatural fibers \nSheep wool \nTensile strength \nMechanical testing \nWeibull distribution \nRaw earth materials \nA B S T R A C T   \nThe paper proposes the use of Sheep wool fibers (SWF) deriving from the fleece of domestic sheep (“Valle del \nBelice” from Sicily) as reinforcement for rammed earth building components. Addition of natural fibers to the mix \ndesign of earth-based building materials allows to improve their tensile strength, ductility, impact resistance, \ntoughness, and to reduce drying shrinkage. To this aim, an experimental campaign on more than 180 fibers has \nbeen carried out, determining the main mechanical properties of interest for their use as reinforcement. Since \nwool is highly hydrophilic, three different conditioning programs (wet, dry and an intermediate condition) were \ncompared, in order to get useful information about the preservation of the mechanical properties in wet envi­\nronments like those present in lime mixes. The dependency of the properties from the fibers’ diameter was \ninvestigated, and the results were statistically analyzed using a modified Weibull distribution as function of the \nfiber diameters, finding a strong correlation with the mechanical properties. The use of natural fibers as reinforcement could enhance the environmental sustainability of the building \ncomponents, especially when natural fibers are obtained from agricultural wastes deriving from sheep of low- \nquality wool not used in the textile industry and that must be disposed of in landfills. 1. Introduction \nEarth constructions and earth-based building-components are \nbecoming popular in the building sector due to their low environmental \nimpact and sustainability. Among traditional building materials used \nthroughout the centuries all over the world, raw earth has a prominent \nplace. As stated from Guillaud et al., [1] one third of the world’s \npopulation lives in earthen dwellings; raw earth buildings are \nwidespread from Latin America to Africa, from Central Europe to \nMiddle East. Raw earth could be extracted and transformed directly in \nthe building site, with significant reduction of environmental costs of \ntransportation and related pollution. This is of relevant importance \nbecause improves the sustainability of the building sector, for building \nrenovation or new cons",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 0,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "tructions. Raw earth materials exhibit low tensile \nstrength, so they have a reduced ability to respond to horizontal actions, \nlike those occurring in seismic areas. For this reason, reinforcement fi­\nbers could be added to raw earth mix design to improve the tensile \nstrength, ductility, impact resistance, toughness [2], and to control \ndrying shrinkage and cracking resistance [3,4]. Synthetic or natural \nfibers are suitable for this use. In literature, several studies concerning the use of natural fibers as \nsubstitute of synthetic ones in soil matrix composites have been pub­\nlished [5-7]. Natural fibers are replacing synthetic fibers because of their \neconomic and environmental sustainability, and for some peculiarities \nof their mechanical performances like their high strength to weight ra­\ntios. In fact, natural fibers, in addition to environmental advantages like \ngood availability, low cost, renewability, biodegradability, present a \nvery low density, (i.e., natural fiber density is ranged between 1.2 and \n1.6 [g/cm3] lower than glass fiber density 2.4 [g/cm3]) and generally \nare able to guarantee good mechanical properties to the composite, as \ntensile strength, stiffness, flexural strength, flexural modulus [8]. Natural fibers can be vegetable with a lignocellulose structure (e.g., \njute, hemp, sisal, banana, coir, kenaf), or animal with a protein structure \n(e.g., hair or wool derived from animal). Plant’s fibers are basically \ncomposed by cellulose, hemicellulose, lignin, pectin, waxes, and water- \nsoluble substances. Lignin is the components that gives rigidity to the plant but reduces \nthe adhesion of the fibers to clay or other kinds of matrices. The \n* Corresponding author. E-mail addresses: monica.parlato@unict.it (M.C.M. Parlato), mcuomo@dica.unict.it (M. Cuomo), simona.porto@unict.it (S.M.C. Porto). Contents lists available at ScienceDirect \nConstruction and Building Materials \njournal homepage: www.elsevier.com/locate/conbuildmat \nhttps://doi.org/10.1016/j.conbuildmat.2022.126855 \nReceived 24 July 2021; Received in revised form 10 February 2022; Accepted 11 February 2022\n\nConstruction and Building Materials 326 (2022) 126855\n2\ninteraction between vegetable fibers and composite matrix has to be \nimproved by chemical treatments [9], sometimes also necessary for \nreducing the hydrophilicity of the plant fibers. These treatments in­\ncrease costs and complexity of the production process. Animal fibers consist mainly of protein with a heterogeneous struc­\nture. Examples are silk fibers from silkworms, collagen fibers extracted \nfrom animal skins, wool fibers from sheep shearing, etc. Several studies \ndemonstrated that among animal fibers, sheep wool suites well to \nbuilding applications for both thermal and acoustic features [10], and if \nused as reinforcement for adobe clay or cement mix, also for its me­\nchanical characteristics [11,12]. The possible use of sheep wool in combination with different \nmatrices, as unfired clay adobe",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 1,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "or cement mortar, for thermal and me­\nchanical purposes has been investigated in several studies [13-16] \nStatuto et al., [17] performed compression tests on adobe clay bricks \nreinforced with two kinds of natural fiber, sheep wool and wheat straw. The compressive strength of adobe bricks introducing sheep wool fibers \nwas found considerably higher than compressive strength measured that \nof adobe clay reinforced with wheat straw. The use of wool as reinforcement for mortar was investigated by \nFantilli et al., [12] carrying out mechanical tests on small cement beams \nreinforced with untreated wool. They found that adding 10 g of un­\ntreated wool, corresponding to 1% in volume, the flexural strength in­\ncreases of 18% and the fracture toughness of 300%. In addition, the \nresearchers concluded that the results are strictly related to wool fibers \nlength and to wool dosage within the samples [18]. When not used in the textile industry, sheep wool is an agricultural \nspecial waste produced by sheep breeding and contaminated with im­\npurities, the type of impurity depending on the breed of sheep, the area \nin which the sheep are raised, and husbandry methods, with high \ndisposal costs for breeders. Instead of being landfilled in a correct \ndisposal way, often wool sheep is illegally disposed of with a strong \nenvironmental impact. In Italy, according to data supply by BDN Zootechnical Register by \nthe Ministry of Health, seven million sheep are destined to produce milk \nfor cheese. Their wool is considered of low quality and sent to special \nlandfills to be disposed of. Again, according to BDN data, each year more \nthan 8,700 tons of “greasy wool” is produced. Sardinia (3,301,837), \nSicily (906,069), Lazio (743,823), and Tuscany (422,734) are the re­\ngions with the largest number of sheep in Italy (Data provided by the \nBDN of the Zootechnical Registry established by the Ministry of Health \nat the CSN of the “G. Caporale” Institute of Teramo “IZS”). Nevertheless, wool is a renewable, recyclable and environmentally \nfriendly material, and the reuse of greasy wool could reduce both \nenvironmental pollution and energy consumption. By turning sheep \nwool in a new raw material, it is possible to produce innovative building \nmaterials and/or components fully complying with eco-friendly con­\nstruction criteria and environmental certifications (e.g., BREEAM, LEED, \nDGNB, and Green Mark). Mechanical behavior of natural fibers has been evaluated by \nconsidering its dependence on different parameters, i.e., fiber length, \nfiber weight ratio, fiber orientation, fabrication process, both consid­\nering single fiber or yarn. Tensile strength, stiffness, density, Young’s \nmodulus, elongation at break of some of the most common reinforce­\nment vegetal fibers are reported in Table 1 based on data from [8,19]. It \ncan be observed that the values differ substantially among the different \nfibers, but that in any case they are comparable to those of synthetic \nfibers [20",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 2,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "]. Due to their heterogeneous structure, the physical and mechanical \nbehavior of natural fibers is difficult to predict [21]. Experimentally \nevaluated mechanical properties of natural fibers usually show very \ndispersed values, so that a statistical analysis is required in order to \nobtain valuable information for a successive mix design [22,23]. While wool fibers as insulating materials are usually employed in \nlong bundles, the length of reinforcing fibers is in the range of few \ncentimeters, depending on the type of mix they are added to. It is well \naccepted that shorter fibers exhibit a greater tensile strength [24]. This is \na general result, observed either with artificial and natural thin fibers, \nand generally attributed to the presence of flaws in the skeleton. Strength of fibers of different length can be predicted with the aid of \nWeibull distribution statistics, based on the theory of weakest link. The \ntheory has proved valid for many types of natural fibers [25,26]: Shao \net al., applied it to bamboo fibers [27] that was also investigated by Da \nInacio et al., [28]. The latter group applied the methodology also to jute \nfibers [29]. Jute has been object of much attention, due to its suitability \nas reinforcing material [22,30,31]. Xia et al., [26] apply to jute fibers a modified Weibull distribution \noriginally proposed by Zhang et al., for accounting for the relevant \ngeometrical irregularities met in wool fibers [23]. The influence of fiber diameter (or, more generally, transversal di­\nmensions) on the mechanical properties has also been widely recog­\nnized, although a general justification for it is still lacking, and the effect \nhas been attributed to one or another physical property of the fiber. An influence of effective diameter on mechanical properties of arti­\nficial fibers (PAN graphite fibers) was originally observed by Jones and \nDuncan, who attributed the effect to the sheath and core structure of the \nfibers, generated in the polymerization process [32]. They argued that a \nthin fiber contains a larger quantity of “sheath”, whilst a thick fiber \ncontains a larger fraction of “core”. The dependency of the fiber strength \non the diameter is due to the preferential orientation of the crystallites \ncontained in the sheath. A similar explanation, related to the content of \ncellulose in the fiber, was used by Charlet et al., for interpreting the \nvariation of Agatha flax fiber strength with the diameter and the position \nwithin the stem [33]. On the contrary, A. Shahzad attributes the diam­\neter effect to the possibility that the number of flaws increases in the \nfiber with increasing diameter [34]. The hypothesis of the influence of flaws contained in the inner \nstructures should lead to a modified form of the Weibull distribution for \nthe tensile strength, as proposed in [23,26]. The weakest link assump­\ntion then should correspond to a brittle fracture of protein chains once \nthe fibrils have stretched. In this researc",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 3,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "h work, an experimental campaign has been carried \nout with the aim of investigating a possible re-use of low-quality sheep \nwool. Tensile tests on almost 200 fibers were performed, and from the \nresults the breaking tensile strength, the elongation strength and the \nstiffness properties have been evaluated. Also, a new correlation is \nproposed between fibers’ properties and fibers’ diameter, usually \noverlooked in previous investigations. The correlation between tensile \nproperties of fibers and their water content was also analyzed, in \nconsideration of the possible use of wool fibers in matrices that require \nwater for curing. The fibers investigated in this research work come from the shearing \nof “Valle del Belice” sheep, a domestic breed widespread in Sicily. This \nTable 1 \nMechanical properties of some common vegetable fibers. Fiber \nDensity \n[gr/ \ncm3] \nTensile \nstrength \n[MPa] \nYoung’s \nmodulus \n[GPa] \nElongation at \nbreak \n[%] \nJute  \n1.23 \n325–770 \n37.5–55  \n2.5 \nFlax  \n1.38 \n700–1,000 \n60–70  \n2.3 \nHemp  \n1.35 \n530–1,110 \n45  \n3.0 \nRamie  \n1.44 \n915 \n23  \n3.7 \nBamboo  \n1.50 \n575 \n27  \n2.0 \nBanana  \n1.35 \n721.5–910 \n29  \n2.0 \nHenequen  \n1.40 \n500 \n13.2  \n4.8 \nPineapple  \n1.50 \n1,020–1,600 \n71  \n0.8 \nKenaf  \n1.20 \n745–930 \n41  \n1.6 \nCoir  \n1.20 \n140.5–175 \n6  \n27.5 \nSisal  \n1.20 \n460–855 \n15.5  \n8.0 \nAbaca  \n1.50 \n410–810 \n41  \n3.4 \nCotton  \n1.21 \n250–500 \n6–10  \n7.0 \nIsora  \n1.20 \n550 \n–  \n5.5  \nM.C.M. Parlato et al. Construction and Building Materials 326 (2022) 126855\n3\narea of southern Italy is strongly characterized by the breeding of dairy \nsheep, whose fleece is not suitable for textile industry because consti­\ntuted of thick and medium length fibers. This study is the first to investigate the properties of a poor-quality \nwool, unsuitable for textile industry. In the past, “Valle del Belice” \nsheep wool was employed to make mattresses and pillows but currently \nthey are only considered as a special waste with high disposal costs for \nfarmers and the environment. 2. Materials and method \n2.1. Sheep wool fiber \nSheep wool is an animal natural fiber composed of 60% animal \nprotein fibers, 15% moisture, 10% fat, 10% sheep sweat and 5% im­\npurities. In Table 2 is reported a typical chemical composition of wool \n[35]. Sheep wool has a semi-crystalline chemical structure, and is \nconsidered an α-keratin fiber, with a very complex multilayer structure. By a physical point of view SWF has a complex hierarchical structure \nwith a predominantly α-helical conformation with microfibrils repre­\nsenting the crystalline part in the fiber structure, bounded by an amor­\nphous matrix phase [36]. In agreement with several authors [15], SWF \nhas an unique mechanical behaviour determined by its structural or­\nganization of the α-keratin fibers. The principal component of SWF is a \ncore cellular component surrounded by an outside layer with cuticle \ncells. This core is constituted by cortical cells organized in an over­\nlapping manner, following the d",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 4,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "irection of the fiber axis. These cortical \ncells are constituted by macrofibrils; each macrofibril being composed \nby several other microfibrils. Microfibrils are intermediate filaments \nproteins (α-keratin) bounded by keratin associated matrix proteins \n(KAPs) containing high levels of sulphur and tyrosine. Microfibrils are \nheld together by intermolecular and intramolecular interactions such as \nhydrogen bonds, van der Waals interactions, salt linkages and disul­\nphide bonds. The amorphous matrix is a matrix of globules connected to \neach other and with microfibrils by disulphide crosslinks. The formation \nof disulphide bonds gives the α-helical coils rigidity increasing the \nstiffness of the fiber. If these disulphide bonds are broken, wool fiber \nworks like a spring, and its dimensional stability is compromised. Tsobkallo et al., [37] analyzed the contribution of the microfibrils \nand the matrix to the deformation processes of the sheep wool fibers. In \ntheir study, they also compared different research works concerning the \ninterpretation of the structural-mechanical properties relationship of \nwool α-keratin fibers. They distinguished three regions in the stress–­\nstrain response: a Hookean region, a yield region, and a post-yield re­\ngion. Hookean region is characterized by an almost linear increase in \nload whose slope is referred as Young’s modulus of the material. In the \nyield region to a large elongation of the fiber corresponds a low increase \nin load. In the post yield-region the fiber stiffened again until the failure \noccurs. All studies agree that Hookean region depends on stretching of the \nα-helix in the intermediate filaments, while the yield region derives from \nthe unfolding of the α-helix. It is not clear in the post-yield region, the \nrole of the fiber constituents. In literature almost all studies concern \nMerino Wool (Hookean region from 0 to 2% strain, yield region from 2 \nto 25–30%, a post-yield region beyond 30% strain) and are related to \ntextile industry [38]. For this reason the interest was especially focused \non the non-failure properties and less efforts have been spent on the \nbreaking stress of wool [39]. Non-textile usage of wool is not yet \ndeveloped but some studies are investigating its potentialities [40- \n42,49]. 2.2. Experimental programme \n2.2.1. Physical properties \nA sample of fibers (around 180) was randomly selected among the \nraw material (i.e., “Valle del Belice” SWF), choosing fibers having \nroughly the same initial length (comprised between 160 and 220 mm). Each fiber, previously washed with cold water and natural soap, was \ndried in environment condition (T = 20◦C – RHU = 50%) for 1 week, \nand trimmed to 150 mm. The fiber diameter was measured with a Zeiss \nMicroscope, (software LAS Core, LEICA application suite Version 3.70), \ntaking the average of 3 measures along the length. The coefficient of \nvariation of the fiber diameter (CVD) along the longitudinal axis is \nnegligible (lower than the",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 5,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "10%), its variation ranged between 4 and 6 \nμm. Then the fibers were weighted on a precision balance Sartorius - \nmodel CP124S to obtain the density of each sample (Fig. 1, a - b). Fig. 2 \npresents a Scanning Electron Microscope (SEM) image of the wool fiber. 2.2.2. Mechanical properties \nThe mechanical tests were carried out on single wool fiber, following \nthe prescription of ASTM D 2256 – 10. The experimental campaign \nconcentrated on one-gauge length only, close to the one likely to be used \nin the reinforcement of rammed earth prototypes. For practical reasons, \na gauge length of 50 mm was selected, and kept constant. The tensile \napparatus sketched in Fig. 3 was designed for the tensile tests. The wool \nfiber was glued at the ends of the gauge length between two cork clamps. The fiber assembly was placed horizontally in the apparatus to avoid the \neffects of gravity. One edge of the fiber was rigidly fixed to the testing \napparatus, the other edge was free to slide on a Teflon sheet placed on \nthe other side of the apparatus. The free end was connected to the \nloading device, applied using direct weight. The mounting of single fiber in the tensile testing machine has been \ndone with great care to avoid damage of the fiber, misalignment of the \nload, and to prevent premature failure and errors in measurement. The selected fibers were subdivided in 3 groups of about 60 fibers \neach having roughly the same diameter distribution. Each group was \nsubjected to a different conditioning program:  \n- 1st condition: wet condition. Fibers were immersed for ten minutes \nin distilled water (ten minute was found to be a sufficient time for \nwool to reach saturation). - 2nd condition: controlled environment. SWF were immersed in \ndistilled water for ten minutes, then were left to dry for 24 h in \nambient with controlled temperature and humidity, 20◦C and HR \n50% respectively. - 3rd condition: oven-dried condition. Fibers were put in oven at 80◦C \nfor thirty minutes. After this time the fibers reached constant mass. These different test conditions were selected because of the high \nhygroscopicity of wool. Wool can absorb large quantities of water, and \nexperimental test results could be affected by this characteristic. Load and elongation were directly measured during the test. The \nnominal stress was obtained dividing the load for the area of the initial \ncross section, assumed circular and using the average value of the \ndiameter. Wool is a viscoelastic anisotropic material, whose tensile properties \ndepend on the speed of application of the load [43]. In our experiments \nthe load was slowly applied with a rate of about 2 10-2N/min. Each test \nTable 2 \nTypical Chemical composition of raw sheep wool. Chemical Composition of Raw Sheep Wool \nKeratin \n33% \nCarbon \n50% \nHydrogen \n12% \nOxygen \n10% \nNitrogen \n25% \nSulphur \n3% \nDirt \n26%   \nSuint \n28%   \nFat \n12%   \nMineral water \n1%    \nM.C.M. Parlato et al.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 6,
+      "char_count": 2946
+    }
+  },
+  {
+    "text": "Construction and Building Materials 326 (2022) 126855\n4\nlasted, therefore, from 15 to 25 min. The load was monotonically increased up to failure. Each test was \nrecorded by photo images that were subsequently elaborated to get the \nload-elongation curve. The fiber’s failure stress and strain, an estimation \nof the yield strength and strain and the secant initial stiffness modulus \nwere determined from the experiment. A typical stress–strain plot is \nshown in Fig. 4. Four phases can be distinguished: an almost initial linear range can \nbe recognized, from which the secant stiffness modulus can be deter­\nmined. Conventionally, this was defined as the secant modulus at 60% of \nthe yield load. Then occurs a non-linear phase, until the stress–strain \ncurve presents a yield, after which a plateau is reached, where the stress \ngradient sensibly decreases. At the end of this plateau the elongation can \nreach a value one order of magnitude greater than the one corre­\nsponding to the yield stress. The stress and strain at the end of the \nplateau have been labelled σp, ∊p, respectively. Finally, the stress pre­\nsents a sharp hardening; however, the last phase is not always present. Usually, breakage occurs early during this final stage. 3. Results and discussion \n3.1. Diameter and density measurements \nFig. 5 shows the distribution of the values of the diameters measured \nfor the whole population of fibers. Although most of them fall near 70 \nμm, the dispersion is considerable, and motivates the investigation \nrelative to the influence of the cross-section dimension on the mechan­\nical properties. Fig. 6 shows that there is a marked dependence of the density on the \nfiber diameter: the larger the diameter, the smaller is the density. The \ntendency curve that interpolates the data points is compatible with a \ncore and fibril internal structure of the fiber. The SWF average density is \n0.94 [gr/cm3] lower than synthetic fibers’ density (e.g., for glass fiber it \nis 2.5 [gr/cm3]), and lower than average wool density found in literature \nthat is 1.3 [gr/cm3]. 3.2. Mechanical properties \nThe following mechanical properties have been evaluated from each \ntest:  \n• Secant Stiffness Modulus. • Stress and strain at the yield (estimated as intersection between \nlinearized trends in the initial phase and in the plateau region). • Elongation at break. • Stress at break. Average values μi and standard deviations σi for these quantities, \ntogether with the fiber diameter, are reported in Table 3, separately for \nthe three testing conditions and for the whole population. Results are quite dispersed, as typically happens with natural ma­\nterials. For instance, measured breakage tensile stress ranged between \n222.37 [MPa] and 68.18 [MPa] for saturated fibers (1st test condition), \nbetween 261.50 [MPa] and 74,01 [MPa] for the 2nd test condition and \nbetween 252.65 [MPa] and 52.53 [MPa] for the 3rd test condition. However, the dispersion of the results is compatible with the",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 7,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "nature \nof the material, and it allows to characterize its mechanical behavior \nwith reasonable confidence. From the average values reported in Table 3 it can be observed that \nthe three different test conditions do not significantly affect the results; \nin any case the best performances appear to be obtained for the samples \nFig. 1. SWF diameter (a) and mass evaluation (b). Fig.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 8,
+      "char_count": 382
+    }
+  },
+  {
+    "text": "2. SEM image of the transversal section of Valle del Belice wool fiber. 50 mm\nload\nfixed edge\nfree to slide edge\nwool fibre\ncorkclamps\nFig. 3. Schematic representation of the load testing apparatus. M.C.M.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 9,
+      "char_count": 205
+    }
+  },
+  {
+    "text": "Parlato et al. Construction and Building Materials 326 (2022) 126855\n5\nwith a controlled content of moisture (condition 2), which is a valuable \ninformation because this is close to the real condition of fibers inside a \nmixture. From the values reported in Table 3 can be built average trilateral \nstress–strain curves for the three testing conditions, joining the couples \n(σy–εy), at yield, plateau stress and corresponding elongation (σp–εp), at \nthe end of the plateau region, and failure stress and strain (σr–εr). The \nresulting plots are reported in Fig. 7. This representation confirms that \nthe thermal and hygrometric conditioning do not significantly affect the \nresults. By comparing our results with a typical wool tensile stress–strain \ncurve obtained on Merino sheep, some differences can be observed. The \ninitial linear elastic region extends up to 3–7% for “Valle del Belice” SWF, \nwhile the Hookean region for Merino wool usually does not exceed 2%. The yield region extends below 30% of strain in both cases. Then frac­\nture occurs in “Valle del Belice” SWF between 40% and 45% of strain \nwhile the extension can reach 50% −\n60% for Merino wool fibers [44]. Consequently, also the breaking stress is larger for Merino wool. The average value of the mechanical strength found in our experi­\nments (137.31 MPa) is similar to those reported by Cheung et al., [45], \nranging from 120 MPa to 174 MPa, but lower than the mechanical \nstrength of wool suitable for textile industry (e.g., Merino wool, Romney \nwool), that is around 250 MPa [46]. Elongation at break, ranging between 45% and 50%, is comparable \nwith literature data and higher than for other natural fibers. The results obtained, especially those relating to strength, elonga­\ntion, and density, confirm the suitability of these fibers to be used as \nreinforcement in raw earth materials. 3.3. Influence of the diameter on the mechanical properties \nThe mechanical properties of fibers, especially their strength, are \nwell known to be strongly influenced by the fiber length. The size effect \ncan be effectively estimated with well-established methods [20]. This \nfactor is absent in the present experimental program, since all the fibers \nhad the same gauge length. However, it has also been reported that the \nFig. 4. Typical result of a tensile test. Fiber with 2nd conditioning setting. Vertical dashed lines indicate the transition of phase as reported in the text (first, second, \nthird and fourth phase). Fig.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 10,
+      "char_count": 2496
+    }
+  },
+  {
+    "text": "5. Distribution of fiber diameters in the sample. M.C.M. Parlato et al. Construction and Building Materials 326 (2022) 126855\n6\nmechanical properties of natural fibers change according to the fiber’s \ndiameter. In this section we aim to investigate to some deeper extent this \nphenomenon, that can be of some interest for optimizing the use of SWF \nas reinforcement material. Plots of Fig. 8 show the tensile strength of the three groups of fibers \nas function of the fiber diameter. There is a clear tendency of the \nbreakage stress to decrease with the diameter, for all the conditioning \nsettings, although the data present some dispersion, especially for small \nFig. 6. Correlation between fibers density and fibers diameter. Table 3 \nMechanical test results. Average values and standard deviation. σ at break \n[MPa] \nElongation at break \n[%] \nσ at yield \n[MPa] \nε at yield  \nEs \n[MPa]  \nμ \nσ \nμ \nσ \nμ \nσ \nμ \nσ \nμ \nσ \nSaturated specimens  \n134.57  \n34.10  \n42.00  \n0.11  \n75.37  \n21.92  \n0.04  \n0.02  \n2057.06  \n584.53 \nNormal conditioning  \n144.02  \n41.61  \n43.00  \n0.11  \n84.70  \n23.31  \n0.05  \n0.02  \n1903.59  \n621.32 \nDry specimens  \n133.65  \n47.22  \n43.00  \n0.19  \n85.97  \n33.59  \n0.07  \n0.03  \n1367.38  \n381.40 \nEntire population  \n137.31  \n41.37  \n42.00  \n0.14  \n81.44  \n27.15  \n0.05  \n0.02  \n1739.41  \n755.44  \n75.374\n109.728\n134.567\n0.00\n84.70\n120.31\n144.02\n0.00\n85.97\n118.35\n133.65\n0.00\n20.00\n40.00\n60.00\n80.00\n100.00\n120.00\n140.00\n160.00\n0.00\n0.10\n0.20\n0.30\n0.40\n0.50\nstress (MPa)\nstrain\nAverage stress-strain curves for the three conditioning programs\nsaturated fibers\ncontrolled\nenvironment fibers\noven dried fibers\nFig. 7. schematic representation of the stress- strain curve ([N/mm2], [%]) under 3 different test conditions. M.C.M.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 11,
+      "char_count": 1750
+    }
+  },
+  {
+    "text": "Parlato et al. Construction and Building Materials 326 (2022) 126855\n7\ndiameters. Superposing the data, as noticed in section 3.2, there is little differ­\nence in the results obtained for the tensile strength between the three \ngroups (Fig. 9). A similar dependency has been found for the other mechanical \nproperties. The plots of Fig. 10 shows that there is a direct correlation \nbetween the secant stiffness modulus (Es) and the tensile strength (σr), in \nspite of the considerable dispersion. Consequently, an analogous cor­\nrelation exists between the secant Hookean stiffness modulus and the \nfiber diameter (the greater the diameter the lower the stiffness). Fig. 8. correlation between breakage tensile stress and diameter, (a) 1st condition, (b) 2nd second condition, (c) 3rd condition. M.C.M.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 12,
+      "char_count": 802
+    }
+  },
+  {
+    "text": "Parlato et al. Construction and Building Materials 326 (2022) 126855\n8\n3.4. Statistical analysis of test results \nThe correlation between the mechanical properties and the fiber’s \ndiameter is interpreted using a statistical analysis based on Weibull \ndistribution theory. Several factors influence natural fiber tensile behavior, such as fi­\nbers’ heterogeneities, chemical structure, and failure mechanism. For \nthis reason, statistical analysis is necessary to define reliable properties \nof strength and stiffness of sheep wool fiber. Weibull probability dis­\ntribution function is a suitable tool for the interpretation of the experi­\nmental results of specimens affected by size effects. Weibull model was \nconceived to correct size dependence of unidimensional structure sub­\njected to tensile load; it considers the unidimensional structure as a \nchain constituted by different rings, each one having different strength, \nand predicts the probability of rupture of the weakest ring. Probability of \nrupture of the weakest rings is the probability P (X ≤x) that this rings \nfails for a force less or at least equal to × [47]. In literature was already \ndemonstrated that this numerical model is suitable for predicting the \ncorrelation between strength and gauge length of the fiber for natural \nfibers including sheep wool [23]. In this paper, a modified Weibull \ndistribution model is proposed for considering the dependence of \nstrength from diameter. Weibull distribution based on the weakest link theory for the failure \nstrength σf states that the probability P of failure of a fiber of volume V is \nP = 1 −Exp\n[\n1 −\nV\nV0\n( σf\nσf0\n)m ]\n(1)  \nwhere V0 is the volume of a link segment, the exponent m is the Weibull \nmodulus and σf0 is a scale parameter. The value P is estimated using the \nprobability index \nP =\ni\nN + 1\n(1)  \nwhere N is the total number of data points, and i is the rank of the generic \ndata point. The two-parameters Weibull distribution was modified by \nWatson and Smith [48] and Gutans and Tamuzs [40] introducing an \nadditional parameter, in order to account for discrepancies with the \nexperimental data. The original proposal introduces an exponent on the \nratio L/L0 assuming fibers of constant cross-section. Following this idea, \nin the case of fibers with different diameter we assume as probability \ndistribution: \nP = 1 −Exp\n[\n1 −\n( V\nV0\n)\nγ\n( σf\nσf0\n)m ]\n(2) \nthat, for the case of fibers of same gauge length, and diameter d, \nreduces to \nP = 1 −Exp\n[\n1 −\n( d\nd0\n)γ( σf\nσf0\n)m ]\n(3) \nFrom the proposed probability distribution is possible to relate the \nexpected strength of two fibers of diameters d1, d2: \nμσ,2 = μs,1\n(d2\nd1\n)−γ/m\n(4) \nThe experimental tensile strength values obtained on 180 SWF of \ndifferent diameters were statistically analyzed by Weibull distribution. Formula (4) can be manipulated to give: \nLn(1 −Ln(1 −P) ) = γLn(d) + mLn\n( σf\n)\n−γLn(d0) −mLn(σf0)\n(5) \nTherefore, a plot of Ln(1 −Ln(1 −P)) vs. Ln\n( σf\n)\n, Ln(d) should lie on a",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 13,
+      "char_count": 2998
+    }
+  },
+  {
+    "text": "plane, the coefficients of the equation of the plane allowing to identify \nthe constants m, γ, Ln(dγ\n0σm\nf0). Fig. 11 shows that the data points can effectively be interpolated by a \nplane, whose equation yields the values \nm = 1.27852γ = −0.22606Ln\n(\ndγ\n0σm\nf0\n)\n= −4.68762 \nThe correlation is quite good, the coefficient of determination being \nR2 = 0.94413. Only some points relative to the largest diameters fall \nslightly outside of the plane. The probability density distribution of equation (4) is represented in \nFig. 12 as a 3D plot as function of the breaking strength and of the \ndiameter. The data points are superposed to the plot, and closely follow \nthe distribution function. 4. Discussion of the results \nThe values found for the strength, elongation at break, initial stiff­\nness, are close to those reported in the literature for SWF. Compared to \nthe properties of vegetable fibers most commonly used for reinforce­\nment, the strength is lower, but the elongation at break is much larger. Similarly, wool fibers are less stiff than most vegetable fibers. These \nresults suggest that the use of SWF as reinforcement in raw earth-based \nFig. 9. Correlation lines between diameter and tensile strength under the 3 test conditions. M.C.M. Parlato et al. Construction and Building Materials 326 (2022) 126855\n9\n(a)\n(b)\n(c)\n0\n500\n1000\n1500\n2000\n2500\n3000\n3500\n4000\n4500\n50\n100\n150\n200\n250\nSecant modulus [MPa]\nStress at break [MPa]\nCorrelation Es\nσr of saturated fibers\n0\n500\n1000\n1500\n2000\n2500\n50\n100\n150\n200\n250\nSecant modulus [MPa]\nStress at break [MPa]\nCorrelation Es\nσr of fibers in controlled environmental\n0\n500\n1000\n1500\n2000\n2500\n3000\n50\n100\n150\n200\n250\nSecant modulus [MPa]\nStress at break [MPa]\nCorrelation Es\nσr of dry fibers\nFig. 10. correlation between secant stiffness modulus (Es) and breakage tensile strength (σr), (a) 1st condition, (b) 2nd second condition, (c) 3rd condition. M.C.M. Parlato et al. Construction and Building Materials 326 (2022) 126855\n10\ncomposites can increase their ductility and fracture energy, which is one \nof the main limitations in the use of those materials. Indeed, preliminary \ntests (that will be reported as part of a forthcoming investigation), \nconfirm that the addition of wool fibers to raw earth mixes, together \nwith a moderate increase in the flexural strength, allow to greatly in­\ncrease the ductility of the composite. As demonstrated, the dispersion of the results is mainly due to their \ndependence on the fibers’ diameter. The distribution of stress at break \n(but also of the stress at yield) are very well fitted by Weibull statistics, \nsuggesting that the model of distributed flaws can account for the found \ndependency of the fiber strength on the fiber diameter. Breakage can be \ndue to the rupture of weak bonds connecting the layers of helicoidal \nfibrils, whose density is non uniform on the wool fiber, due to their hi­\nerarchical structure. Deeper investigation is needed from a micromechanical point of \nview,",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 14,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "to validate this hypothesis. 5. Conclusions \nIn this study, for the first time physical and mechanical character­\nization of Valle del Belice wool fibers was carried out with the aim of a \npossible use of this agricultural special waste as strengthening system for \nrammed earth building components. Tensile tests were performed on selected fibers that had undergone \nthree different conditioning programs:  \n• wet condition,  \n• controlled environment,  \n• oven-dried condition. The three groups of specimens yielded very similar results. This \nmeans that the fibers can be used in composites that need water for \ncuring, like raw earth composites. Fig. 11. Interpolation of fibers’ strength vs. fibers diameter. Fig. 12. Distribution function of the of fibers’ strength vs. fibers diameter. M.C.M. Parlato et al. Construction and Building Materials 326 (2022) 126855\n11\nThe results found for the fibers’ strength, elongation at break and \nstiffness compare well to those reported in literature for other types of \nwool, although somewhat smaller than those obtained with high quality \nMerino wool; they are:  \n• average strength of 137.31 MPa. • initial secant modulus of 1.74 GPa. These values confirm the suitability of these fibers as a reinforcement \nmaterial for raw earth mixtures. As normally occurs with natural fibers, the measured mechanical and \nphysical properties result quite dispersed, however some trends clearly \nemerge. In this work fibers of the same gauge length were tested, so that \nthe correlation between mechanical properties and fibers diameter was \ninvestigated. A statistical analysis was proposed by using a modified \nWeibull distribution and a very good correlation was found for the \nbreaking stress and initial stiffness. An accurate selection of fibers’ \ndiameter can then help to reach a reasonable uniformity of the me­\nchanical properties, necessary for employing the fibers in the con­\nstruction process. In conclusion, the results appear to encourage the possibility of the \nuse of greasy wool in the building sector. This practice could decrease \nenvironmental pollution by reducing a huge amount of waste related to \nlow-quality wool from dairy sheep also bringing benefits to the breeders. CRediT authorship contribution statement \nM.C.M. Parlato: Conceptualization, Methodology, Software, \nWriting – original draft, Writing – review & editing. M. Cuomo: \nConceptualization, Methodology, Formal analysis, Data curation, \nWriting – review & editing, Supervision. S.M.C. Porto: Visualization, \nSupervision. Declaration of Competing Interest \nThe authors declare that they have no known competing financial \ninterests or personal relationships that could have appeared to influence \nthe work reported in this paper. Acknowledgement \nThe research study was funded by the University of Catania through \nthe ‘Piano incentivi per la ricerca di Ateneo 2020-2022-Linea 2’ project \non ‘Engineering solutions for sustainable development of agricultural \nbuildings and",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 15,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "land’ (ID: 5A722192152) (Acronym: LANDUS), Work­\npackage 2 “Sustainable buildings” coordinated by Simona M. C. Porto.” \nReferences \n[1] H. Guillaud, Characterizacion of earthen materials, Terra Lit. Rev.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 16,
+      "char_count": 203
+    }
+  },
+  {
+    "text": "an Overv. Res. Earthen Archit, Conserv, 2008. [2] S. Imanzadeh, A. Jarno, A. Hibouche, A. Bouarar, S. Taibi, Ductility analysis of \nvegetal-fiber reinforced raw earth concrete by mixture design, Constr. Build. Mater. 239 (2020) 117829, https://doi.org/10.1016/j.conbuildmat.2019.117829. [3] G. Araya-Letelier, J. Concha-Riedel, F.C. Antico, C. Vald´es, G. C´aceres, Influence of \nnatural fiber dosage and length on adobe mixes damage-mechanical behavior, \nConstr. Build. Mater. 174 (2018) 645–655, https://doi.org/10.1016/j. conbuildmat.2018.04.151. [4] S. Sangma, D.D. Tripura, Experimental study on shrinkage behaviour of earth \nwalling materials with fibers and stabilizer for cob building, Constr. Build. Mater. 256 (2020) 119449, https://doi.org/10.1016/j.conbuildmat.2020.119449. [5] A. Kandemir, T.R. Pozegic, I. Hamerton, S.J.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 17,
+      "char_count": 834
+    }
+  },
+  {
+    "text": "Eichhorn, M.L. Longana, \nCharacterisation of natural fibres for sustainable discontinuous fibre composite \nmaterials, Materials (Basel). 13 (9) (2020) 2129, https://doi.org/10.3390/ \nma13092129. [6] V. Sharma, B.M. Marwaha, H.K. Vinayak, Enhancing durability of adobe by natural \nreinforcement for propagating sustainable mud housing, Int. J. Sustain. Built \nEnviron. 5 (1) (2016) 141–155, https://doi.org/10.1016/j.ijsbe.2016.03.004. [7] S.M. Hejazi, M. Sheikhzadeh, S.M. Abtahi, A. Zadhoush, A simple review of soil \nreinforcement by using natural and synthetic fibers, Constr. Build. Mater. 30 \n(2012) 100–116, https://doi.org/10.1016/j.conbuildmat.2011.11.045. [8] T.K. Mulenga, A.U.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 18,
+      "char_count": 687
+    }
+  },
+  {
+    "text": "Ude, C. Vivekanandhan, Techniques for modelling and \noptimizing the mechanical properties of natural fiber composites: A review, Fibers. 9 (2021) 1–17, https://doi.org/10.3390/fib9010006. [9] Y.G. Thyavihalli Girijappa, S. Mavinkere Rangappa, J. Parameswaranpillai, \nS. Siengchin, Reinforcing rammed earth with plant fibers: A case study, Front. Mater. 6 (2019) 1–14, https://doi.org/10.3389/fmats.2019.00226. [10] S. Klari´c, E. Klari´c, M. Zametica, M. Gazdi´c, Building Thermal Insulation Material \nBased on Sheep Wool, in: Lect. Notes Networks Syst., Springer, 2020: pp.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 19,
+      "char_count": 574
+    }
+  },
+  {
+    "text": "698–711. https://doi.org/10.1007/978-3-030-18072-0_82. [11] R. Alyousef, K. Aldossari, O. Ibrahim, A.H. Jabr, H. Alabduljabbar, A.M. Mohamed, \nA. Siddika, Effect of Sheep Wool Fiber on Fresh and Hardened Properties of Fiber, \nInt. J.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 20,
+      "char_count": 233
+    }
+  },
+  {
+    "text": "Civ. Eng. Technol. 10 (2019) 190–199. [12] A.P. Fantilli, S. Sicardi, F. Dotti, The use of wool as fiber-reinforcement in cement- \nbased mortar, Constr. Build. Mater. 139 (2017) 562–569, https://doi.org/10.1016/ \nj.conbuildmat.2016.10.096. [13] C. Galan-Marin, C. Rivera-Gomez, A. Garcia-Martinez, Use of natural-fiber bio- \ncomposites in construction versus traditional solutions: Operational and embodied \nenergy assessment, Materials (Basel). 9 (6) (2016) 465, https://doi.org/10.3390/ \nma9060465. [14] C. Gal´an-Marín, C. Rivera-G´omez, J. Petric-Gray, Effect of animal fibres \nreinforcement on stabilized earth mechanical properties, J. Biobased Mater. Bioenergy 4 (2) (2010) 121–128, https://doi.org/10.1166/jbmb.2010.1076. [15] N.A.G. Johnson, E.J. Wood, P.E. Ingham, S.J. McNeil, I.D. McFarlane, Wool as a \ntechnical fibre, J. Text.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 21,
+      "char_count": 840
+    }
+  },
+  {
+    "text": "Inst. 94 (3-4) (2003) 26–41, https://doi.org/10.1080/ \n00405000308630626. [16] S. Mounir, A. Khabbazi, A. Khaldoun, Y. Maaloufa, Y. El Hamdouni, Thermal \ninertia and thermal properties of the composite material clay-wool, Sustain. Cities \nSoc.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 22,
+      "char_count": 243
+    }
+  },
+  {
+    "text": "19 (2015) 191–199, https://doi.org/10.1016/j.scs.2015.07.018. [17] D. Statuto, C. Sica, P. Picuno, Experimental development of clay bricks reinforced \nwith agricultural by-products. Sustainable Farming-SFARM View project \nMediterranean technology led incubator co-operation-MEDI-CUBE View project, \n(2018). https://www.researchgate.net/publication/324058778. [18] N. Jannat, A. Hussien, B.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 23,
+      "char_count": 389
+    }
+  },
+  {
+    "text": "Abdullah, A. Cotgrave, Application of agro and non-agro \nwaste materials for unfired earth blocks construction: A review, Constr. Build. Mater. 254 (2020) 119346, https://doi.org/10.1016/j.conbuildmat.2020.119346. [19] R. Latif, S. Wakeel, N. Zaman Khan, A. Noor Siddiquee, S. Lal Verma, Z. Akhtar \nKhan, Surface treatments of plant fibers and their effects on mechanical properties \nof fiber-reinforced composites: A review, J. Reinf.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 24,
+      "char_count": 435
+    }
+  },
+  {
+    "text": "Plast. Compos. 38 (1) (2019) \n15–30, https://doi.org/10.1177/0731684418802022. [20] F.I. Mahir, K.N. Keya, B. Sarker, K.M. Nahiun, R.A. Khan, A brief review on natural \nfiber used as a replacement of synthetic fiber in polymer composites, Mater. Eng.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 25,
+      "char_count": 250
+    }
+  },
+  {
+    "text": "Chouw, X. Yuan, Improving the mechanical properties of natural fibre \nfabric reinforced epoxy composites by alkali treatment, J. Reinf. Plast. Compos. 31 \n(6) (2012) 425–437, https://doi.org/10.1177/0731684412439494. [22] M. Fagone, H. Kloft, F. Loccarini, G. Ranocchiai, Jute fabric as a reinforcement for \nrammed earth structures, Compos. Part B Eng.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 26,
+      "char_count": 352
+    }
+  },
+  {
+    "text": "175 (2019) 107064. [23] Y. Zhang, X. Wang, N. Pan, R. Postle, Weibull analysis of the tensile behavior of \nfibers with geometrical irregularities, J. Mater. Sci. 37 (2002) 1401–1406, https:// \ndoi.org/10.1023/A:1014580814803. [24] P.K. Mallick, 2.18 Particulate Filled and Short Fiber Reinforced Polymer \nComposites☆, in: P.W.R. Beaumont, C.H. Zweben (Eds.), Compr, Compos. Mater. II, Elsevier, Oxford, 2018, pp. 360–400, https://doi.org/https://doi.org/10.1016/ \nB978-0-12-803581-8.03837-6. [25] P. Amoy Netto, G.R. Alto´e, F. Muylaert Margem, F. de Oliveira Braga, S. Neves \nMonteiro, J.I. Margem, Correlation between the density and the diameter of fique \nfibers, Mater. Sci.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 27,
+      "char_count": 678
+    }
+  },
+  {
+    "text": "Forum. 869 (2016) 377–383, https://doi.org/10.4028/www. scientific.net/MSF.869.377. [26] Z.P. Xia, J.Y. Yu, L.D. Cheng, L.F. Liu, W.M. Wang, Study on the breaking strength \nof jute fibres using modified Weibull distribution, Compos. Part A Appl.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 28,
+      "char_count": 245
+    }
+  },
+  {
+    "text": "Sci. Eng. 2013 (2013) 1–6, \nhttps://doi.org/10.1155/2013/167823. [28] W.P. Inacio, F.P.D. Lopes, S.N. Monteiro, Diameter dependence of tensile strength \nby weibull analysis: Part iii sisal fiber, Rev. Mater.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 29,
+      "char_count": 207
+    }
+  },
+  {
+    "text": "15 (2) (2010) \n117–123. [30] K.L. Pickering, G.W. Beckermann, S.N. Alam, N.J. Foreman, Optimising industrial \nhemp fibre for composites, Compos. Part A Appl. Sci. Manuf. 38 (2) (2007) \n461–468. [31] N.E. Zafeiropoulos, C.A. Baillie, A study of the effect of surface treatments on the \ntensile strength of flax fibres: Part II. Application of Weibull statistics, Compos. Part \nA Appl. Sci. Manuf. 38 (2) (2007) 629–638. [32] B.F. Jones, R.G. Duncan, The effect of fibre diameter on the mechanical properties \nof graphite fibres manufactured from polyacrylonitrile and rayon, J. Mater.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 30,
+      "char_count": 583
+    }
+  },
+  {
+    "text": "Sci. 6 \n(4) (1971) 289–293, https://doi.org/10.1007/PL00020369. [33] K. Charlet, J.P. Jernot, M. Gomina, J. Br´eard, C. Morvan, C. Baley, Influence of an \nAgatha flax fibre location in a stem on its mechanical, chemical and morphological \nproperties, Spec. Issue 12th Eur.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 31,
+      "char_count": 272
+    }
+  },
+  {
+    "text": "Conf. Compos. Mater. ECCM 69 (9) (2009) \n1399–1403, https://doi.org/10.1016/j.compscitech.2008.09.002. [34] A. Shahzad, A Study in Physical and Mechanical Properties of Hemp Fibres, Adv. Mater.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 32,
+      "char_count": 193
+    }
+  },
+  {
+    "text": "Sci. Eng. 2013 (2013) 1–9, https://doi.org/10.1155/2013/325085. M.C.M. Parlato et al. Construction and Building Materials 326 (2022) 126855\n12\n[35] M.C.M. Parlato, S.M.C. Porto, Organized framework of main possible applications \nof sheep wool fibers in building components, Sustain. 12 (3) (2020) 761, https:// \ndoi.org/10.3390/su12030761. [36] M.M. Hassan, C.M. Carr, A review of the sustainable methods in imparting shrink \nresistance to wool fabrics, J. Adv.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 33,
+      "char_count": 461
+    }
+  },
+  {
+    "text": "Res. 18 (2019) 39–60, https://doi.org/10.1016/ \nj.jare.2019.01.014. [37] K. Tsobkallo, B. Aksakal, D. Darvish, Analysis of the contribution of the microfibrils \nand matrix to the deformation processes in wool fibers, J. Appl. Polym. Sci. 125 \n(S2) (2012) E168–E179, https://doi.org/10.1002/app.36535. [38] M.G. Huson, 5 - Tensile failure of wool, in: A.R. Bunsell (Ed.), Handb, Woodhead \nPublishing, Tensile Prop. Text. Tech. Fibres, 2009, pp. 100–143, https://doi.org/ \nhttps://doi.org/10.1533/9781845696801.1.100. [39] J.W.S. Hearle, A critical review of the structural mechanics of wool and hair fibres, \nInt. J. Biol. Macromol. 27 (2) (2000) 123–138, https://doi.org/10.1016/S0141- \n8130(00)00116-1. [40] R. Alyousef, K. Aldossari, O.A. Ibrahim, H. Mustafa, A. Jabr, Effect of Sheep Wool \nFiber on Fresh and Hardened Properties of Fiber, (2019). [41] D.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 34,
+      "char_count": 857
+    }
+  },
+  {
+    "text": "Bosia, L. Savio, F. Thiebat, A. Patrucco, S. Fantucci, G. Piccablotto, D. Marino, \nSheep wool for sustainable architecture, Energy Procedia 78 (2015) 315–320, \nhttps://doi.org/10.1016/j.egypro.2015.11.650. [42] A.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 35,
+      "char_count": 213
+    }
+  },
+  {
+    "text": "Korjenic, S. Klari´c, A. Hadˇzi´c, S. Korjenic, Sheep wool as a construction material \nfor energy efficiency improvement, Energies. 8 (6) (2015) 5765–5781, https://doi.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 36,
+      "char_count": 168
+    }
+  },
+  {
+    "text": "org/10.3390/en8065765. [43] M.Y. Leung, T.-X. Yu, Dynamic characterization of micro-scaled samples using the \nHopkinson tensile bar technique, J. Strain Anal. Eng. Des. 43 (7) (2008) 595–607, \nhttps://doi.org/10.1243/03093247JSA402. [44] J. McKittrick, P.-Y. Chen, S.G. Bodde, W. Yang, E.E. Novitskaya, M.A. Meyers, The \nstructure, functions, and mechanical properties of keratin, Jom. 64 (4) (2012) \n449–468, https://doi.org/10.1007/s11837-012-0302-8.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 37,
+      "char_count": 452
+    }
+  },
+  {
+    "text": "[45] H.-Y. Cheung, M.-p. Ho, K.-T. Lau, F. Cardona, D. Hui, Natural fibre-reinforced \ncomposites for bioengineering and environmental engineering applications, \nCompos. Part B Eng. 40 (7) (2009) 655–663. [46] J.W.S. Hearle, in: Wool, Elsevier, 2002, pp. 80–129, https://doi.org/10.1533/ \n9781855737648.80.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 38,
+      "char_count": 305
+    }
+  },
+  {
+    "text": "[47] W. Weibull, A Statistical Distribution Function of Wide Applicability, J. Appl. Mech. 18 (2021) 293–297, https://doi.org/10.1115/1.4010337. [48] A.S. Watson, R.L. Smith, An examination of statistical theories for fibrous materials \nin the light of experimental data, J. Mater. Sci. 20 (9) (1985) 3260–3270, https:// \ndoi.org/10.1007/BF00545193. [49] J.A. Gutans, V.P. Tamuzh, Scale Effect of the Weibull Distribution of Fibre \nStrength, Mechanical Composite Materials 6 (1984) 1107–1109. M.C.M.",
+    "metadata": {
+      "source": "Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "material_category": "Sheep Wool",
+      "source_path": "data\\raw\\Sheep Wool\\Sheep wool_Parlato_Cuomo_Porto.pdf",
+      "chunk_index": 39,
+      "char_count": 499
+    }
+  }
+]

@@ -1,0 +1,1142 @@
+[
+  {
+    "text": "Conversion of waste into sustainable construction materials: A review of\nrecent developments and prospects\nLin Chen a,b,c, Mingyu Yang d, Zhonghao Chen e,f, Zhuolin Xie a,b, Lepeng Huang a,b,*, Ahmed\nI. Osman g,**, Mohamed Farghali h,i, Malindu Sandanayake j,***, Engui Liu e, Yong Han Ahn k,\nAla’a H. Al-Muhtaseb l,m, David W. Rooney g, Pow-Seng Yap e,****\na School of Civil Engineering, Chongqing University, Chongqing, 400045, China\nb Key Laboratory of New Technology for Construction of Cities in Mountain Area, Ministry of Education, Chongqing University, Chongqing, 400045, China\nc Department of Engineering, University of Cambridge, Trumpington Street, Cambridge, CB2 1PZ, UK\nd School of Materials Science Engineering, Nanjing University of Science and Technology, Nanjing, 210094, China\ne Department of Civil Engineering, Xi’an Jiaotong-Liverpool University, Suzhou, 215123, China\nf School of Engineering, Westlake University, Hangzhou, Zhejiang 310030, China\ng School of Chemistry and Chemical Engineering, David Keir Building, Queen’s University Belfast, Stranmillis Road, Northern Ireland, Belfast, BT9 5AG, UK\nh Department of Agricultural Engineering and Socio-Economics, Kobe University, Kobe, 657-8501, Japan\ni Department of Animal and Poultry Hygiene & Environmental Sanitation, Faculty of Veterinary Medicine, Assiut University, Assiut, 71526, Egypt\nj College of Sports, Health and Engineering, Victoria University, Melbourne, VIC, 3011, Australia\nk Department of Architectural Engineering, Hanyang University ERICA, Ansan, 15588, South Korea\nl Department of Petroleum and Chemical Engineering, College of Engineering, Sultan Qaboos University, Muscat, 123, Oman\nm Sustainable Energy Research Centre, Sultan Qaboos University, Muscat, Oman\nA R T I C L E I N F O\nKeywords:\nSustainable construction materials\nRecycled wastes\nMaterial characteristics\nEngineering performances\nSustainability\nA B S T R A C T\nThe production and use of traditional building materials contribute to environmental pollution and natural\nresource depletion. Besides, disposal of agricultural, industrial, and construction waste and other solid wastes is a\nsignificant contemporary for both developing and developed countries. Consequently, this study comprehen-\nsively examines sustainable construction materials (SCMs) sourced from waste materials. It analyzes 190 peer-\nreviewed papers, evaluating their properties, engineering suitability, and their impacts on the environment,\neconomy, and society. Findings reveal that most SCMs have good engineering performance, yet improvements\nare needed in demonstrating their environmental (33.3%), economic (40%), and social sustainability (73.3%). Also, most SCMs are in experimental stages, requiring further research on human toxicity, long-term savings,\nmaintenance costs, and other vital indicators. This review highlights some of the current challenges facing SCMs\nto promote their further studies, reduce non-renewable energy consumption and solid waste recyc",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 0,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ling, and\nfacilitate their application in green buildings. 1. Introduction\nDemand for infrastructure construction in both developed and\ndeveloping countries has increased significantly due to rapid growth in\npopulation size and economic development [1–3]. Globally, both the\nconstruction and operation phases of buildings contribute significantly\nto energy use and CO2 emissions, constituting 36% and 39%, respec-\ntively [2,4]. Actions taken within the construction industry can swiftly\nimpact global climate change, energy consumption, and economic and\nsocial realms. Construction and infrastructure are increasing all over the\nworld, and consequently, the pressure on the environment is also\nincreasing [5,6]. This surge in building construction has led to a\n* Corresponding author. ** Corresponding author. *** Corresponding author. **** Corresponding author. E-mail addresses: huang_lepeng@cqu.edu.cn (L. Huang), aosmanahmed01@qub.ac.uk (A.I. Osman), malindu.sandanayake@vu.edu.au (M. Sandanayake),\nPowSeng.Yap@xjtlu.edu.cn (P.-S. Yap). Contents lists available at ScienceDirect\nMaterials Today Sustainability\njournal homepage: www.journals.elsevier.com/materials-today-sustainability\nhttps://doi.org/10.1016/j.mtsust.2024.100930\nReceived 9 May 2024; Received in revised form 22 July 2024; Accepted 24 July 2024\nMaterials Today Sustainability 27 (2024) 100930 \nAvailable online 25 July 2024 \n2589-2347/© 2024 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ). substantial depletion of natural resources [7–9], exacerbating concerns\nabout sustainable development. The overuse and inefficient utilization\nof non-renewable resources pose significant challenges [10–13]. As a\nresult, the construction industry is grappling with two pressing chal-\nlenges: the depletion of natural resources and the limited uptake of\nsustainable construction materials (SCMs). With increasing demands for\nsustainability and the circular economy in construction, the widespread\nadoption of sustainable materials emerges as a pivotal factor in deter-\nmining the industry’s long-term viability [14]. SCMs have been identified as one of the main research topics in the\narea of sustainability in the construction industry. Nowadays, several\nstudies on sustainable materials have been conducted and used to pro-\nvide an overall overview of relevant academic work to inspire the future\ndevelopment of SCMs [15]. This body of research holds significance for\nvarious stakeholders, including engineers engaged in actual construc-\ntion, policymakers, and academics [14,16]. Because SCMs can reduce\nthe demand for natural non-renewable resources and reduce greenhouse\ngas emissions, thereby mitigating global warming [8,15]. The technical\nand environmental effects of SCMs adoption have been extensively\nstudied in the existing literature, such as the impact of SCMs use on the\nquality of cement composite products and the impact of SCMs",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 1,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "adoption\non carbon emissions. Cost factors of SCMs adoption, such as labor and\nequipment inputs, have also been considered in the use of SCMs [17]. Thus, SCMs represent a cornerstone of sustainable development in\nconstruction, with far-reaching social, economic, and environmental\nimplications [18]. The current array of sustainable materials utilized in construction,\ncoupled with the absence of a robust evaluation framework for SCMs,\nhas led to the inadvertent use of materials that do not meet SCMs\ncriteria. Thus, there is a pressing need for a systematic classification and\nevaluation system to assess SCMs performance. This review systemati-\ncally examines the various types of SCMs used within the construction\nindustry, analyzing their material characteristics, engineering perfor-\nmance, and environmental impact. Additionally, it evaluates the specific\nenvironmental implications associated with different SCMs. Diverging\nfrom previous reviews, this paper offers a comprehensive analysis of the\nsocio-economic ramifications of various SCMs, illustrating their eco-\nnomic benefits for the construction sector. Finally, the review delves\ninto the challenges and future pathways for SCMs development, aiming\nto propel the construction industry towards greater sustainability. 2. Methodology\nThe review methodology to capture the SCMs-related studies was\nbased on the text mining method, which is a popular method used in\nsimilar literature review studies [4]. Upon initial screening, it was\nobserved that certain existing review-based studies were susceptible to\nsubjectivity due to limited literature samples or pre-selection of journal\nsources within a specific research scope. To minimize subjectivity, the\ncurrent studies used keywords to shortlist the influential articles with a\nfocus on SCMs. Fig. 1 illustrates the methods flow of this literature re-\nview. Given the accessibility and widespread use of the Scopus and Web\nof Science databases, coupled with their clear and concise user interface,\nthey were chosen as the primary sources for literature research to\nenhance efficiency. The text mining approach, supplemented by specific\ncase studies, aligns well with the sustainability direction in the con-\nstruction materials industry, offering predictive insights into develop-\nment trends. The literature search targeted keywords related to SCMs,\nincluding types of SCMs, characteristics of SCMs, engineering perfor-\nmance of SCMs, environmental impacts of SCMs, and economic analysis\nof SCMs. Initially, the search spanned the last five years and yielded\nmore than 1000 papers on SCMs. Relevant articles focusing on engi-\nneering performance, environmental impact, or economic implications\nwere imported into the Endnote literature management database for\nfurther refinement. Subsequently, 190 articles underwent additional\nprocessing. These collected articles were then categorized into groups\nbased on engineering performance, environmental impact, and eco-\nnomic implications.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 2,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "Notably, the challenges and future directions of\nSCMs were further explored and synthesized through a critical review of\nthe 190 selected papers. Fig. 1. The method of literature review of sustainable construction materials. L. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n2\n\n3. Classifications of sustainable construction materials\nSCMs mainly include different types of waste materials as well as\nnatural renewable materials. The classification of SCMs into waste ma-\nterials and natural renewable materials is based primarily on the source\nof the raw material. Among them, waste materials mainly include in-\ndustrial waste, agricultural waste, and construction and demolition\n(C&D) waste [7,17,19–21]. Natural renewable materials mainly focus\non plants and plant derivatives, animal wool, and compacting earth. A\nspecific systematic classification of SCMs is shown in Fig. 2.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 3,
+      "char_count": 894
+    }
+  },
+  {
+    "text": "3.1. Waste-based sustainable construction materials\nIndustrial waste poses a significant threat to soil and groundwater,\nleading to severe environmental hazards. To address these challenges,\nresearchers globally are exploring innovative methods to recycle in-\ndustrial waste and repurpose it as valuable raw materials in the con-\nstruction sector [22]. For instance, fly ash from coal-fired power plants,\nsilica fume from ferrosilicon alloy production, and blast furnace slag\nfrom steel manufacturing have been demonstrated to enhance the\nphysical and mechanical properties of commercial concrete [23,24]. Additionally, replacing part of the fine aggregate with lathe iron waste\ndust (LIWD) increased the compressive strength, splitting tensile\nstrength, and flexural strength of concrete by 38%, 13%, and 19%,\nrespectively [25]. Another study showed that substituting 5% of cement\nwith silica stone waste (SSW) powder improved the compressive and\ntensile strength of concrete by 18.8% and 10.46%, respectively [26]. Meanwhile, low-value solid waste materials, such as asphalt rock, can be\neffectively used as construction materials by enhancing their slagging\ncharacteristics with mineral additives like CaCO3, MgO, and Kaolin. This\napproach significantly reduces the slagging ratio and pressure differ-\nence, demonstrating the potential of such waste materials in sustainable\nconstruction [27]. These materials not only improve the durability and\nstrength of concrete but also contribute to sustainability by reducing the\nneed for virgin raw materials. Rice husk is widely used as a fuel in energy generation plants and rice\nmilling processes across various countries. This combustion generates\nrice husk ash, a pozzolanic material rich in silica, comprising over 75%\nby weight. After combustion, 20% of the rice husk remains as ash, which\nis often discarded into water bodies, causing pollution. Rice husk ash\nproduced below 500\n◦C has limited pozzolanic properties due to\nincomplete combustion and the presence of unburnt carbon [28]. However, ash produced at temperatures between 550 and 700 ◦C shows\nenhanced pozzolanic characteristics due to the formation of amorphous\nsilica [29,30]. Research has explored utilizing rice husk ash as a partial substitute\nfor cement and fine aggregates in cementitious composites [28,31]. Siddika et al. [32] conducted slump tests on fresh concrete with\nwater-to-binder ratios of 0.40, 0.50, and 0.60, incorporating 10% and\n15% rice husk ash as a cement replacement. They reported that at a\nwater/binder ratio of 0.40, slump reductions were 22.5% and 37.5% for\n10% and 15% rice husk ash, respectively. For a water/binder ratio of\n0.50, the reductions were 16.1% and 35.5%, and for 0.60, the reductions\nwere 10.5% and 24.2%. The study recommended using water-reducing\nadmixtures to achieve workability comparable to control mixes. In terms\nof compressive strength, Siddika et al. [32] noted a decrease in flexural\nstrength with the addition of 10% and 15% rice",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 4,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "husk ash at all tested\nwater/binder ratios. The reductions were 6.9% and 24% at a water/-\nbinder ratio of 0.40, 8.6% and 24.6% at 0.50, and 16.6% and 27.7% at\n0.60. Similarly, Noaman et al. [33] studied composites with rice husk\nash replacing 0%, 10%, 15%, 20%, and 25% of cement at water/binder\nratios of 0.45, 0.50, and 0.55. They observed a slight improvement in\ncompressive strength at a 10% replacement ratio, but higher ratios led to\nreduced strength. Flexural strength also decreased by 10.8%, 15.4%,\n21.5%, and 27.7%, with rice husk ash replacement ratios of 10%, 15%,\n20%, and 25%, respectively. The study recommended using lower pro-\nportions of rice husk ash to improve compressive strength. Zareei et al. [34] observed improvements in compressive strength\nwhen rice husk ash was used to replace cement at varying levels: 2.1%\nfor 5%, 4.2% for 10%, 11.0% for 15%, 11.9% for 20%, and 6.9% for\nFig. 2. The classification of SCMs. L. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n3\n\n25%. This enhancement is attributed to the pozzolanic reaction, high\nspecific surface area, and reactive silica content of rice husk ash. Bie\net al. [35] studied the effect of different burning conditions on rice husk\nash’s impact on compressive strength. They found that rice husk ash\nproduced at 600 ◦C improved compressive strength, whereas ash pro-\nduced at 700 ◦C decreased it compared to the reference sample without\nrice husk ash. It was concluded that burning at approximately 600 ◦C is\noptimal, yielding rice husk ash with a high specific surface area and\namorphous SiO2, while higher temperatures may leave more residual\ncarbon. Rice husk ash also influences flexural strength in cementitious\ncomposites. Ash produced at 600 ◦C for 1 h increased flexural strength\nby 8.4%, 12.5%, and 6.5% for 5%, 10%, and 20% replacement ratios,\nrespectively. When produced at 600 ◦C for 2 h, the flexural strength\nincreased by 6.6%, 22.0%, and 18.4% for the same replacement ratios. Ash produced at 700 ◦C for 1 h led to a 5.2% decrease in flexural strength\nat a 5% replacement ratio, but at 10% and 20%, the flexural strength\nincreased by 35.5% and 47.7%, respectively. These improvements are\nattributed to the small particle size and pozzolanic properties of rice\nhusk ash. In conclusion, while higher replacement ratios of rice husk ash\ncan detrimentally affect the mechanical properties of cementitious\ncomposites, lower replacement ratios are beneficial and improve these\nproperties. Incineration waste powder is particularly effective in reducing car-\nbon emissions in cement-based composites. This approach leverages the\npozzolanic properties of incineration waste powder to partially replace\nPortland cement, thus lowering the overall carbon footprint associated\nwith cement production. Meanwhile, municipal solid waste incineration\n(MSWI) fly ash, a hazardous waste from incineration plants, can be\neffectively recycled into eco-friendly binders through flue gas-enhanced\nwet carbonation tr",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 5,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "eatment. This process not only immobilizes poten-\ntially toxic elements and sequesters CO2 but also produces binders with\nsignificantly higher compressive strength and reduced carbon emissions\ncompared to traditional cement-based binders, highlighting its potential\nin sustainable construction and waste management [36]. Furthermore, industrial incineration waste rich in silicates and alu-\nminates shows great potential in the preparation of alkali-activated\ncementitious materials. These materials undergo a chemical activation\nprocess using alkaline solutions, forming a stable three-dimensional\naluminum silicate network. This network not only enhances the me-\nchanical properties and durability of the composite but also provides a\nnew pathway for the preparation of effective, sustainable building ma-\nterials without the use of traditional cement [27]. Integrating these in-\ndustrial by-products into cementitious composites addresses multiple\nenvironmental issues. It not only reduces the amount of waste sent to\nlandfills but also lowers the risk of soil and water contamination and\nreduces greenhouse gas emissions associated with traditional cement\nproduction. The development and application of alkali-activated mate-\nrials from incineration waste exemplify the circular economy concept,\nwhere waste materials are continuously repurposed, thus minimizing\nenvironmental impact and promoting sustainability in the construction\nindustry. Meanwhile, research and development of SCMs from agricul-\ntural waste is also gaining significant popularity due to prevalent\nphysical properties and the availability of waste materials in abundance. With the expansion of agricultural production, the generation of more\nagricultural waste could result in pressure on the management of agri-\ncultural waste and a potential risk of environmental problems. Partial or\nfull reuse of agricultural waste and by-products in the development of\nconstruction materials is a viable interim solution to reduce agricultural\nwaste and also minimize the extraction of virgin construction raw ma-\nterials [7]. With urbanization and rapid urban renewal, a large amount of con-\nstruction waste is generated due to the demolition of abandoned\nbuildings. An investigation revealed that up to 80% of building and\nconstruction waste can be recycled for use in new construction projects. Materials like waste concrete, bricks, and glass can be repurposed as raw\nmaterials, offering a sustainable construction approach [37]. C&D waste\nis divided into two main categories: human-made resources and\nnatural-made resources. Human-made resources include construction\nresidues, construction sludge, construction waste, demolition waste, and\ndecoration waste. Natural-made resources include disaster sites after\nearthquakes, floods, hurricanes, and tsunamis [38,39]. The construction\nwaste originating from high-rise and infrastructure buildings may result\nin a considerable amount of construction materials being wasted at the\nconst",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 6,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ruction site due to improper disposal [40–42]. Therefore, devel-\noping C&D waste recycling strategies to reduce the negative impacts of\nwaste is an important way to achieve a sustainable construction\nindustry. Recently, nanoparticles derived from plant extracts and agro-wastes\nhave attracted consideration as supplementary cementitious materials\nin cement-based construction materials owing to their environmental\nfriendliness, cost-effectiveness, and low energy consumption [43]. Ainomugisha et al. [43] conducted a scientometric analysis and\ncomprehensive review of 56 studies from 2005 to 2023, sourced from\nWeb of Science, Scopus, PubMed databases, and gray literature. The\nreview revealed that various agro-based nanoparticles, particularly\nnano-silica particles, show significant potential as supplementary\ncementitious materials. These nanoparticles notably enhance the\nmicrostructure of cementitious materials, making them denser, more\nmicroporous, and reducing cracks, while increasing the presence of\nC–S–H\nhydration\nproducts. This\nleads\nto\nimproved\nquality\nof\ncement-based construction materials. The review concluded that\nagro-based nanoparticles enhance the performance properties of\ncementitious materials, including strength, microstructure, and dura-\nbility, except for rheological properties. Optimal benefits are observed at\nlow dosages (up to 5%), while higher proportions can be detrimental. Among the reviewed studies, the highest recorded improvements\nincluded a 92.5% increase in compressive strength at 28 days with 4%\nnano rice husk ash in high-strength control, a 211.1% rise in tensile\nstrength using 10% nano palm oil fuel ash in mortar, and a 61% increase\nin flexural strength in ultra-high-performance composites. Three types of agricultural waste— pineapple leaf, banana rachis,\nand sugarcane bagasse—have been utilized for isolating nanocelluloses. Among these, sugarcane bagasse has demonstrated superior perfor-\nmance in terms of crystalline index, thermal stability, substrate\ncomplexity, and crystal uniformity [44]. Nanocelluloses show promising\npotential as reinforcement materials in cement. The addition of 0.15%–\n0.2% cellulose nanofibers to cement paste enhances both its flexural and\ncompressive strength [44,45]. In related research, incorporating 0.2%\nby weight of cellulose nanofibers was found to significantly increase the\nformation of calcium-silicate-hydrate gel within the cement matrix,\nresulting in a strength increase of 42–45% compared to traditional\ncement mortar [46]. Additionally, cellulose nanofibers improve me-\nchanical properties by 15–25% and enhance flexural toughness by up to\n74% [47]. Bacterial nanocellulose has also been used to improve fiber-cement\ncomposites’ mechanical properties and maximum hydration tempera-\nture [48]. Nanocelluloses in cementitious materials improve hardening\nand bonding strength, reduce fiber pull-out, and decrease shrinkage. They aid in bridging microcracks, enhance fiber-matrix interaction,\nprotect",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 7,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "the fiber lumen from mineralization, accelerate hardening near\nthe nanocelluloses surface, and reduce autogenous shrinkage [49]. The\ninherent characteristics of nanocelluloses, such as high surface area,\nhigh tensile strength, high aspect ratio, and elastic modulus, positively\ninfluence their interaction with cementitious materials [50]. The high\ncrystallinity index of nanocelluloses increases the compressive strength\nof cementitious materials and helps eliminate pores formed during hy-\ndration. Their hydrophilic nature and highly reactive surface act as\nnucleation sites for early-stage cement hydration, leading to the for-\nmation of more homogeneous and compact microstructures [51]. Additionally, their superior water adsorption capacity allows them to\nfunction as water reservoirs, gradually releasing water in dry conditions\nto sustain hydration, which further refines pores and seals microcracks\nL. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n4\n\n[51]. Due to their high aspect ratio, nanocelluloses also help capture the\nspread of microcracks and enhance stress transfer at the cementitious\nmaterial–nanocelluloses interface [51]. Nanocelluloses have garnered significant interest from the scientific\ncommunity as materials for 3D printing. This technology allows for the\nproduction of items without the need for dies and casting forms,\nresulting in less waste material. It is highly energy-efficient and operates\nusing air pressure rather than heat [52]. Various strategies for incor-\nporating nanocellulose composites in 3D printing, highlight their envi-\nronmental applications [53]. Another study noted that nanocelluloses\nhold great promise as renewable, biocompatible, and functional\nstrengthening agents in 3D-printed components [54]. Additionally,\n3D-printed nanocelluloses have been investigated for use in electro-\nchemical devices and energy [55]. Films made from graphene- and\nnanocellulose-based pastes and inks, known for their high chemical\nstability, have been employed in creating liquid-phase electronic devices\n[56]. In conclusion, the incorporation of nanoparticles, especially nano-\ncelluloses derived from agricultural wastes, significantly enhances\nconstruction materials. These nanoparticles improve cement’s strength,\ndurability, and microstructure, with notable benefits observed from\nsugarcane bagasse. Cellulose nanofibers boost flexural and compressive\nstrength, aid in forming calcium-silicate-hydrate gel, and improve me-\nchanical properties. Nanocelluloses also enhance bonding strength,\nreduce shrinkage, and act as nucleation sites for cement hydration,\ncreating more compact microstructures and aiding in sustained hydra-\ntion. Their application in 3D printing offers energy-efficient, waste-\nreducing solutions, making them valuable for sustainable construction\nand advanced electronic devices. 3.2. Natural and renewable-based sustainable construction materials\nNatural plant materials or fibrous materials derived from plants are\ne",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 8,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "merging as modern construction raw materials due to their sustain-\nability and rapid growth. Bamboo, for example, matures for construction\npurposes within just 4–6 years, making it a highly sustainable option\n[57]. These plant-based materials are widely acknowledged for their\nenvironmentally friendly attributes and sustainability [17]. Additionally, animal hair, such as sheep’s wool, is finding use as a\nsustainable construction material, particularly for thermal insulation in\nbuildings or as a fiber material to enhance the mechanical properties of\nbuilding components [58]. Natural wool materials offer an effective\nalternative to traditional acoustic materials, boasting reduced produc-\ntion costs and environmental benefits [20]. Utilizing sheep’s wool and\ntextile waste cotton as raw materials can improve the acoustic perfor-\nmance of construction materials, aligning with sustainability goals. Sheep’s wool, in particular, offers notable advantages such as high\nstrength, toughness, and elasticity, making it a sought-after material in\nthe construction industry [59]. In terms of renewable resources, rammed earth is once again a viable\nand environmentally friendly construction option, as it is reusable [60]. Compared to other building materials, rammed earth consumes signifi-\ncantly less energy and produces lower greenhouse gas emissions. The\nraw materials for rammed earth can also be sourced locally with mini-\nmal preparation or handling, further reducing its environmental impact\n[21]. Ciancio and Beckett [61] found through their investigation of\nrammed earth construction projects that using locally sourced materials\nfor rammed earth construction significantly reduces environmental\nimpact compared to sourcing and transporting materials from distant\nlocations. Compared to typical concrete houses, the energy consumed in\ntransportation for rammed earth houses can be reduced by 85%. Addi-\ntionally, the embodied energy of rammed earth structures is reduced by\n62% compared to reinforced concrete framed structures and by 45%\ncompared to fired clay brick masonry and reinforced concrete solid slab\nconstruction. All of these SCMs have the characteristics of sustainable\nmaterials mentioned in the previous section: low health impact, energy\nefficiency, and renewability. In this paper, different types of SCMs were\nselected for specific investigation and analysis, as shown in Table 1. 4. Characteristics of sustainable construction materials\nDetermining the sustainability of a material typically requires a\nmultifaceted assessment. It’s crucial to acknowledge that no material\ncan have a net zero impact on the environment. However, it’s feasible to\nevaluate a material based on its characteristics to ascertain its sustain-\nability. An ideal SCMs should be environmentally friendly, cost-\neffective, and offer social benefits. This section delves into the charac-\nteristics of SCMs concerning health impacts, energy efficiency, and the\nuse of renewable resources (Fig. 3). 4",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 9,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": ".1. Low impact on health\nConventional building materials are a major source of indoor air\npollutants, and their impact is very broad, extending from indoors to\noutdoors, thus affecting human health and safety. Specific health impact\nindicators include indoor air quality (such as concentrations of volatile\norganic compounds, formaldehyde, and particulate matter PM2.5 and\nPM10), toxicity levels (such as the presence and concentration of heavy\nmetals, asbestos, and lead), allergen levels (such as substances that can\ntrigger asthma or other respiratory issues), microbial growth (such as\nthe growth of mold and bacteria), and thermal comfort (such as the\nimpact of materials on the indoor thermal environment). Thomas et al. [80] revealed the irreversible damage non-sustainable construction\nmaterials may cause to human health, emphasizing the urgent need for a\nshift towards more environmentally friendly materials. In response,\nMardani et al. [81] proposed that sustainable construction materials\nincorporate non-toxic, natural, and organic components, significantly\nreducing overall impacts on human health. These materials demonstrate\npositive ecological and health effects throughout their life cycle,\nincluding stages of resource acquisition, production, use, processing,\ndisposal, and recycling. Moreover, research by Bheel et al. [66] high-\nlighted the particularly beneficial impact of plant-derived cellulose in\nsustainable building materials on human health. This finding not only\nemphasizes the health benefits of natural materials but also promotes\nthe broader application of renewable resources. Simultaneously, Aneke\nand Shabangu [8] emphasized that recycling waste plastics and con-\nstruction debris as building materials can mitigate health risks and push\nthe construction industry towards more sustainable practices. Specif-\nically, SCMs based on bamboo and wood have been proven to have a\ndirect positive impact on human health and safety [58,82]. These\nstudies underscore the potential of natural plant materials in improving\nindoor and outdoor air quality, enhancing the quality of living envi-\nronments, and promoting healthy living. Overall, the importance of integrating SCMs into modern building\npractices lies not only in the fight against growing environmental\nproblems but also in their positive contribution to enhancing public\nhealth and safety. As the impact of environmental pollution on human\nhealth becomes more prominent, the negative effects of traditional\nbuilding materials are increasingly recognized. In addition, a shift is\nurgently needed, and SCMs offer the possibility of such a shift. By\nintroducing non-toxic, environmentally friendly and recyclable mate-\nrials, not only can the construction industry reduce its reliance on and\nconsumption of natural resources, but it can also minimize the negative\nimpacts on the environment and human beings throughout a building’s\nlife cycle. In addition, the use of SCMs promotes the recycling of waste\nmaterials",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 10,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": ", which not only helps to reduce the pressure of construction\nwaste on the environment but also provides a way to create a healthier\nliving environment. 4.2. Energy efficiency\nIn an in-depth analysis of how SCMs contribute to energy efficiency\nL. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n5\n\nin buildings, we recognize that their benefits extend beyond only\nreducing energy consumption during construction. More importantly,\nSCMs optimize the overall energy management of a building through the\ninnovative use and efficient recycling of waste resources, resulting in\nsignificant improvements in energy efficiency. This approach not only\nresponds to the principles of the circular economy but also provides a\npractical path for the sustainable development of the construction\nindustry. Firstly, through the reutilization of industrial, construction,\nand agricultural waste, SCMs diminish the dependency on virgin re-\nsources and simultaneously reduce the energy demand in the material\nproduction process. Studies have indicated that the employment of in-\ndustrial waste as a supplementary cementitious material can achieve up\nto a 30%–70% reduction in energy consumption during production and\napproximately a 25%–40% decrease in CO2 emission [10,15,83]. This\nTable 1\nTypes of SCMs. Classification of SCMs\nTypes of SCMs\nAvailable of SCMs\nMain application areas of SCMs\nReferences\nWaste materials\nCork\nThe waste from cork oak (Quercus suber) trees, which are\ngrown in the Mediterranean\n■Insulation board\n■Acoustic panels\n■Green vertical systems\n■Electrical conductivity\n[62–64]\nStraw bales\nAgriculture waste\n■Insulation board\n■Partial replacement of cement\n[65,66]\nRecycled plastic\nThe solid waste from urban, plant, and construction\n■Constituent materials in composite mortar\nand concrete\n■Green, efficient masonry bricks\n[8,67]\nPrecast concrete\nPrefabricated component factory\n■Structural frame\n■Slab\n■Wall\n[2,68]\nFerrock\nThe waste from iron industries\n■Greener substitute for cement\n[69]\nTimbercrete\nExtracted sawdust from the agricultural waste\n■Architecture elements\n■Replacement of fine aggregate\n[70,71]\nTerrazzo\nMade with an epoxy resin, which\n■Flooring\n■As a cementing material to enhance the\nperformance of concrete\n[72,73]\nNatural and renewable\nmaterials\nBamboo\nBamboo forest land\n■Trusses/roof\n■Walls\n■Flooring\n■Foundation\n■Scaffolding\n[57]\nSheep’s wool\nObtained from sheep\n■Insulation board\n■Acoustic panels\n■Moisture absorption\n■Partial replacement of cement\n[20,58,\n59]\nRammed earth\nObtained from compacting soils\n■Structural elements\n[60,74]\nHempcrete\nExtracted hemp fiber from plants\n■Insulation board\n■Acoustic panels\n[8,75]\nPlant-based rigid\npolyurethane foam\nExtracted from plants\n■Insulation board\n■Acoustic panels\n[76,77]\nMycelium\nObtained from natural biological process\n■Insulation board\n■Acoustic panels\n[78,79]\nFig. 3. The main factors that make SCMs enhance human health, energy efficiency, and renewable resources. L. Chen et al. Materials Today Sustainabi",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 11,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "lity 27 (2024) 100930 \n6\n\ndata not only highlights the contribution of SCMs towards energy con-\nservation and emission reduction but also underscores their potential to\nenhance the efficiency of building material production. Moreover, the integration of animal and plant fibers into construc-\ntion materials not only augments their thermal insulation capabilities\nbut also enhances their structural stability. The use of animal fibers, such\nas sheep’s wool, as natural thermal insulation materials has been shown\nto significantly improve the thermal efficiency of buildings. Research\nindicates that incorporating sheep’s wool as insulation can substantially\nenhance the thermal performance of buildings [20,84]. The application\nof these natural insulating materials not only diminishes the reliance on\nfossil fuels but also contributes to a healthier and more sustainable living\nenvironment within buildings. Meanwhile, Xia et al. [85] conducted a\nstudy that recycled iron-rich industrial waste into radiation-shielding\nfunctional composites, significantly enhancing compressive strength\nand gamma-ray shielding capability while minimizing health impacts\ndue to reduced toxic emissions. This sustainable approach lowers carbon\nemissions and energy consumption by over 60%, offering a low-cost,\neco-friendly solution for industrial waste management and promoting\nzero-waste cities and a circular economy. Therefore, the integrated application of SCMs plays a crucial role in\npromoting the construction industry towards a more energy-efficient,\nenvironmentally friendly and efficient development. By effectively uti-\nlizing renewable resources, enhancing the performance of building\nmaterials, and implementing energy-efficient building design strategies,\nSCMs provide effective solutions to current environmental issues and\nenergy crises. These practices not only help to mitigate over-reliance on\nand consumption of natural resources and reduce energy demand during\nthe building process and use phase but also directly combat the negative\nimpacts of climate change by reducing greenhouse gas emissions. At the\nsame time, the application of SCMs promotes technological innovation\nin the construction industry, laying a solid foundation for the long-term\nsustainable development of the construction industry by improving the\nrecycling rate and life cycle efficiency of materials. 4.3. Renewable resources\nThe search for sustainable and renewable resources is increasingly\nbecoming a focus of research within the current field of construction\nmaterials. In particular, resources such as agricultural residual ash, in-\ndustrial and construction wastes as supplementary cement material have\nreceived much attention due to the remarkable reactivity, cost-\neffectiveness, and ease of accessibility they exhibit in concrete mix-\ntures [80,86]. These properties not only mitigate the reliance on con-\nventional cement but also promote the efficient utilization of waste,\nthereby reducing the overall environme",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 12,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ntal footprint of the construction\nindustry. Further, Maraveas [1] stated that the use of renewable re-\nsources, such as agricultural residual ash in construction materials,\neffectively slows down the rate of depletion of non-renewable resources,\nwhich not only optimizes the recycling of resources but also contributes\npositively to ecosystem conservation. More importantly, these wastes\nalso have renewable properties and have the potential to be a more\nrenewable resource as long as these powdery wastes are subjected to\nappropriate treatment processes (crushing, grinding, activation, and\nothers) [87–89]. Furthermore, the application of renewable technologies extends to\nthe development of new sustainable building materials, such as\nmycelium-based materials [90–92]. Such materials not only exemplify\nthe potential of renewable materials technologies for application in\nbuilding practice but also open up a whole new category of materials\nscience that combines biological principles with engineering design and\npushes the boundaries of building materials innovation [93,94]. Thus, the application of renewable and sustainable resources to the\nresearch and development of building materials not only provides the\nconstruction industry with an effective way to minimize environmental\nimpacts and conserve natural resources but also promotes technological\ninnovation and collaboration within interdisciplinary fields. This prog-\nress indicates that through in-depth research and application of\nrenewable technologies and resources, the development of sustainable\nbuilding materials is expected to provide a solid scientific foundation\nand technological support for the realization of more environmentally,\neconomically, and socially sustainable building practices. 5. Engineering performances of sustainable construction\nmaterials\nThe importance of a stable supply of materials should be considered a\ncrucial factor in the evaluation of new building materials. Ensuring a\nstable and reliable supply of materials is essential for various reasons. It\nsupports the long-term sustainability of construction practices by pre-\nventing resource depletion and ensuring continuous availability. This\nstability is vital for maintaining the balance between supply and de-\nmand, thereby avoiding potential shortages that could disrupt con-\nstruction projects. The stability of material supply also plays a critical\nrole in maintaining economic stability within the construction industry. Supply fluctuations can lead to price volatility, increasing construction\ncosts and extending project timelines. Economic predictability is crucial\nfor effective project planning and execution. Transporting materials\nover long distances can significantly impact the environment. By\nsourcing materials locally or regionally, a stable supply chain can reduce\nthe carbon footprint associated with transportation, thus promoting\nmore sustainable construction practices. Furthermore, consistent quality\nand performance of buil",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 13,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ding materials are imperative for meeting con-\nstruction standards and safety requirements. A reliable supply ensures\nthat these standards are upheld throughout the construction process by\nproviding consistent access to high-quality materials. Therefore, the\nstable supply of materials is a fundamental prerequisite for discussing\ntheir engineering performance, directly influencing the practical appli-\ncation and sustainability of building materials. Concrete is the most widely used building material in construction\nprojects; therefore, incorporating SCMs into concrete mixing and\nproportioning design is particularly crucial for achieving sustainable\ndevelopment within the construction industry. It is essential to reduce\nthe environmental pollution and health hazards associated with con-\nventional concrete materials while maintaining the practical perfor-\nmance of concrete. This includes ensuring that the strength design\nvalues and workability of the concrete meet industry requirements. When replacing traditional components such as cement, sand, and ag-\ngregates with various SCMs, it is vital to carefully consider their impact\non the workability and strength performance of the concrete. This ho-\nlistic approach not only addresses environmental and health concerns\nbut also ensures that the resulting concrete remains functional and\nreliable for construction purposes [73,95,96]. Meanwhile, in the actual\nuse of the building, the thermal insulation performance of the building\nand the sound insulation performance are also important considerations\nin engineering performance [63,65,75]. A building with good thermal\ninsulation can reduce energy consumption during actual use and thus\nfurther improve sustainability [78]. At the same time, the performance\nof the building in terms of acoustic insulation will largely determine the\nquality of life of the people living in the building [20]. Hence, in the\nengineering performance section, four main benchmarks are proposed\nto assess the engineering performance of the popular SCMs, as shown in\nTable 2. 6. Sustainability performance of sustainable construction\nmaterials\nMost traditional construction materials have been developed from\nthe practical value of the material itself, for example, its mechanical\nproperties such as high strength, high durability, and high suitability. However, material sustainability has been neglected, thus consuming\nlarge amounts of non-renewable energy and releasing toxic gases [106,\nL. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n7\n\nTable 2\nEngineering performances of selected SCMs. Type of SCMs\nWorkability\nStrength\nThermal insulation\nAcoustic insulation\nReferences\nBamboo\n●Bamboo fibers can\nreduce the workability\nof concrete\n●The tensile strength is almost\nequal to steel. The ultimate\ntensile strength of bamboo\nvaries between 140 MPa and\n280 MPa. ●Bamboo fibers can effectively\nenhance the mechanical\nproperties of concrete. No contribution\nNo contribution\n[57,\n97–100]\nCork\n●Wo",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 14,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "rkability and plastic\nviscosity are\nsignificantly reduced\n●Under different curing methods,\nthe cork-cement composite ma-\nterial was cured in water for 14\ndays and then air-cured to obtain\nthe highest compressive strength\ndue to water contained in the\ncork composite to continue\nhydration. ●Thermal conductivity is very\nlow, and the thermal\nconductivity of samples in water\nand air are 0.46 and 0.38 W/(m-\nk), respectively. ●Excellent sound absorption\nperformance\n[62,63]\nStraw bales\n●The content of straw\nfiber increases, and the\nworkability of concrete\ndecreases. ●Under the condition of curing for\n28 days, when the amount of\nstraw fiber added is 0.50%, the\ncompressive, splitting, tensile,\nand flexural strengths are\nincreased by 32.88 MPa, 3.80\nMPa, and 5.30 MPa, respectively\n●Straw bales can be a good way\nto enhance the thermal\ninsulation of building materials. ●Good performance in terms of\nacoustic properties. [65,66,\n101]\nRecycled plastic\n●The number of recycled\nwaste plastic particles\nincreases, its\nworkability decreases. ●The test results show that as the\nnumber of recycled waste plastic\nparticles increases, its\ncompressive strength decreases. ●The thermal conductivity of\nconventional concrete is 1.7 W/\nmK, whereas that of recycled\nplastic aggregate concrete\nranges from 1.1 to 0.5 W/mK,\nindicating better thermal\ninsulation. ●Recycled plastic has improved\nacoustic insulation\n[42,67,\n102,103]\nRecycled wood\n●High construction\nconvenience and strong\nworkability. ●Recycled wood is characterized\nby high strength per weight and\nease of use\n●Particleboard based on recycled\nwood achieves a higher porosity\nand provides better insulation\nproperties (11.7% reduction in\nthermal conductivity)\n●The use of recycled wood in\nthe building has a good sound\ninsulation effect. [82,104]\nRecycled steel\n●Recycled steel can\nreduce the workability\nof concrete\n●The addition of recycled steel\nfibers increases the fatigue\nstrength of concrete by 50%–\n65%. No contribution\nNo contribution\n[96]\nPlant-based\nrigid\npolyurethane\nfoam\n●Polyurethane foam has a\ncertain ease of\nconstruction\n●The porosity (>90%) also shows\nthat the chemical treatment\nincreases the interfacial\nadhesion between the foam filler\nand the polyurethane matrix. The compressive strength has\nincreased by about 20%. Similarly, the impact strength\nand flexural strength have also\nincreased by 48% and 6%,\nrespectively. ●The polyurethane foam cell size\nis small, the closed cell rate is\nhigher, and it has good heat\ninsulation performance. ●Polyurethane foam is widely\nused in architectural acoustics,\nand it can effectively reduce\nnoise pollution. [77,105]\nSheep’s wool\n●Concrete with a wool\nfiber content of less than\n5% has a lower capillary\nabsorption rate and\ngood workability. ●Compared with ordinary\nPortland cement concrete, its\ncompressive and flexural\nstrength is higher. ●Better thermal conductivity of\nconcrete with sheep wool fiber\n●The wool-based material has\ngood sound absorption perfor-\nmance, and the sound absorp",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 15,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "-\ntion coefficient value is greater\nthan 0.7 in the frequency range\nof 800–3150 Hz. [20,59]\nRammed earth\n●In-situ material\nsourcing, convenient\nand fast construction. ●The compressive and tensile\nstrength of concrete can be\nincreased by up to 20%. No contribution\nNo contribution\n[21,74]\nHempcrete\n●Needs to add more water\nto ensure workability\n●Because of its poor compressive\nstrength, it cannot be used as a\nload-bearing material for load-\nbearing wall structures. ●Good thermal insulation\nperformance and can be used as\nthe filling material and thermal\ninsulation material of the\nstructural frame. Good sound insulation\nperformance\n[8]\nMycelium\nNo contribution\n●The study found that the chitin-\nglucan extract extracted from\nthe mycelium has quite a strong\nmycelial binder (tensile strength\ncan reach 25 MPa, and the ten-\nsile strength of the fruit body\nextract can reach 200 MPa\n●The plant fiber bundled with\nmycelial growth has low\nthermal conductivity\n(0.04–0.08 W/m-K), which\nmakes it an excellent thermal\ninsulation material. ●Mycelium itself is an excellent\nsound absorber, showing\nstrong inherent low-frequency\nabsorption (<1500 Hz)\n[78,91]\nFerrock\n●Ferrock decreases the\nworkability of concrete\nwith increasing dosage. ●8% cement replacement has the\nbest mechanical strength\nNo contribution\nNo contribution\n[69]\n(continued on next page)\nL. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n8\n\n107]. As the world continues to advance towards sustainable develop-\nment goals, sustainable building materials are surfacing in the con-\nstruction industry, which can effectively reduce resource consumption,\nwaste emissions, and environmental loads and promote waste recycling. In addition, sustainable building materials are also environmentally,\neconomically, and socially sustainable and are an effective measure to\nachieve carbon neutrality in the construction industry [9,12]. Climate change, human toxicity, and solid waste are the leading\nindicators for assessing the environmental benefits of materials for\nsustainable construction [9,27]. The construction industry is also paying\nmore attention to controlling these three categories of indicators to save\nenergy, reduce climate change and human impact, and reduce solid\nwaste generation as development objectives to promote sustainable\nconstruction continuously [108]. Climate change refers to the change in\nglobal temperature caused by the greenhouse effect resulting from the\nrelease of ‘greenhouse gases’ such as carbon dioxide from human ac-\ntivities [109,110]. Previously, the scientific consensus was that these\nincreased emissions were having a clear impact on the climate. Increased global temperatures are expected to lead to climate disrup-\ntion, desertification, sea-level rise, and spreading. Human toxicity aims\nto quantify the extent to which a particular substance causes damage to\nliving organisms [111]. Toxicity is assessed based on acceptable con-\ncentrations in air and water, daily intake, and guideline",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 16,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "s for acceptable\nhuman toxicity intake. Solid waste represents the environmental prob-\nlems associated with the loss of resources implied by the final disposal of\nwaste and any waste disposed of in landfills or incinerated without en-\nergy recovery [112,113]. The solid waste generated by construction\nmaterials, the application of materials, the disposal of demolished\nstructures, and the solid waste generated by construction materials is\nenormous. Hence, certain authors have undertaken studies to evaluate the\nenvironmental impact of various SCMs, aiming to assess their environ-\nmental performance and promote their reuse or recycling. However,\ndespite these efforts, the widespread adoption of these materials for\nsustainable construction remains limited, often confined to experi-\nmental and laboratory stages in specific cases [114]. This section pro-\nvides a summary of the environmental impacts associated with these\nSCMs, examining whether each SCMs aligns with the three categories of\nenvironmental benefit impact indicators outlined in Table 3. The ten types of SCMs listed in Table 3 present a dual role, as they\nhave both negative and positive contributions to achieving environ-\nmental benefits. Some SCMs possess the capacity to mitigate the con-\nsequences of the global climate, human well-being, and the management\nof solid waste. Distinct material categories yield diverse ramifications\nupon the environment, yet they collectively culminate in the pursuit of\nsustainability. While it remains true that a trifecta of pivotal benchmarks\nfails to encapsulate the entirety of each SCMs’ essence, the scrutiny\ndelineated within Table 3 presents a compendium of the majority of\nSCMs, chronicling their ecological merits. This exposition underscores\nthe evolution of SCMs as a conduit toward the realization of urban\ncenters characterized by enduring ecological equilibrium, concurrently\nassuaging the adversities posed by the escalating specter of global\ntemperature elevation [131]. Therefore, future research is needed to\noptimize the study of SCMs by showing how each type of SCMs achieves\nsustainable development goals and rationalizes the selection and use of\nSCMs according to environmentally beneficial goals and material\ntargets. Additionally, it is important to consider not only the environmental\nsustainability of SCMs but also their cost-effective [132]. Economic\nfactors relate to the cost and benefit aspects of SCMs, such as the initial\ninvestment in the material, the benefits, and the payback time. When\nnew construction materials or technologies are introduced into the\nconstruction industry, the economic factor is usually one of the primary\nconsiderations of the owner [133]. The use of SCMs can improve the\nenvironment’s performance, enhance the image of the construction in-\ndustry, and create more jobs for society [133]. However, if the initial\ninvestment cost of SCMs is substantial and the payback period is pro-\nlonged, it can greatly influence the adoption o",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 17,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "f SCMs by owners and\nfinancial institutions. Hence, the consideration of SCMs extends beyond\ntheir environmental suitability to ensure cost-effectiveness as well\n[134]. Table 4 presents a summary of the economic benefits analysis of\nvarious SCMs, serving as a valuable reference for investors, owners, and\nusers. The economic and cost-effectiveness of SCMs across various project\ntypes in India, Egypt, the USA, Australia, and Pakistan are outlined in\nTable 4. The analysis shows that, except for terrazzo, timber, and steel\nfiber, most sustainable materials provide economic efficiency benefits. Financial assessments vary, some calculating costs for an entire building\nand others per building unit, encompassing materials derived from\nexperimental studies and computer simulations throughout a building’s\nlife cycle. It can be concluded that bamboo-reinforced prefabricated\nwalls are more cost-effective and stronger than traditional walls in India\n[57]. Constructing walls with straw bale directly reduces costs [157]. The application of recycled PET bottles in housing results in consider-\nable savings per unit [158]. In Egypt, using rammed earth for walls\nsignificantly reduces costs compared to conventional methods [137]. However, in the USA, wood construction is slightly more expensive than\nconcrete [139]. Life-cycle cost analysis indicates that terrazzo flooring is\nthe most expensive among commercial options [159]. Ferrock, as an\nalternative to traditional cement, proves cost-effective in experiments\n[160]. In Australia, sourcing mycelium composites for raw materials is\nrelatively\ninexpensive\n[140]. Conversely,\nin\nPakistan,\nsteel\nfiber-reinforced pavements do not offer economic benefits in enhancing\nthe mechanical efficiency of concrete compared to glass and poly-\npropylene fibers [141]. The costs associated with SCMs are influenced by building design,\nsite selection, local labor costs, material additives, repairs, maintenance,\nand other factors, making it challenging to derive clear economic ben-\nefits from a single material [161]. The use of sustainable materials not\nonly contributes to societal benefits [162], but also supports the\nadvancement of green building theories and the application of life cycle\ntheories in construction, significantly altering attitudes and practices\n[163]. Furthermore, sustainable materials play a crucial role in the\ninterdisciplinary development of sciences, contributing to the explora-\ntion of natural laws and the construction of resource-efficient societies\nglobally [164]. A resource-saving society optimizes resource use in\nproduction, distribution, and consumption to maximize economic and\nsocial benefits and achieve sustainable development [165]. The con-\nstruction industry’s shift towards innovative materials and SCMs aligns\nwith global sustainable development goals [166]. However, the social\nsustainability of sustainable materials like bamboo [167], straw bales\n[168], recycled plastic [169], and recycled wood [170] needs",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 18,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "more\nTable 2 (continued)\nType of SCMs\nWorkability\nStrength\nThermal insulation\nAcoustic insulation\nReferences\n(compression, split tensile, and\nbending tests) and sustainability. Timbercrete\n●Timber sawdust reduces\nthe workability of\nconcrete\n●5% timber sawdust can partially\nreplace the fine aggregate to\nmeet the strength requirements\nand can be used for structural\npurposes. ●Timbercrete board has good\nthermal insulation performance. ●Good sound insulation\nperformance of timbercrete\nboard\n[70,71]\nL. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n9\n\nTable 3\nEnvironmental performance of SCMs. Type of\nSCMs\nClimate\nchange\nHuman\ntoxicity\nSolid\nwaste\nKey findings\nReferences\nBamboo\n▴\n▴\n▴\nReduces the\nclimate’s carbon\ndioxide by about\n35% and releases a\nlarge amount of\noxygen as it grows. The surface of\nbamboo has a\nnatural waxy layer\nthat reduces paint\nuse and reduces the\ndanger of paint to\nhuman health. Bamboo recycling\ncan be made into\nbamboo fiber\ncomposite\nconcrete, reducing\nthe disposal of solid\nwaste. [115]\nStraw\nbales\n▴\n△\n▴\nUsually burned\ndirectly, releasing\ntoxic gases that\npollute the\nenvironment. It can\nbe used in bricks\nand walls, reducing\nthe release of\ncarbon dioxide. The\nuse of straw in\nconstruction\nreduces the need\nfor solid waste\ndisposal. [116]\nRammed\nearth\n▴\nN/A\n▴\nRammed earth\nmaterials have a\nrelatively low\nenvironmental\nimpact and energy\ncontent compared\nto industrially\nproduced\nmaterials. Earthen\nmaterials are\nelementary to\nrecycle and can be\nre-used in new\nbuildings at a low\nenvironmental\ncost, which reduces\nthe need for climate\nchange and waste\ndisposal. [117–119]\nHempcrete\n▴\n△\nN/A\nThe total amount of\ncarbon dioxide\nabsorbed by Hemp\nduring its growth is\ngreater than the\ntotal amount\nreleased when\nused, but the\nfertilizers and\npesticides that need\nto be applied affect\nhuman toxicity and\nreduce climate\nchange as a\nsustainable\nmaterial. [120,121]\nRecycled\nplastic\n▴\n▴\n▴\nWaste plastics can\nreinforce concrete,\nimprove waste\ndisposal, and\n[122]\nTable 3 (continued)\nType of\nSCMs\nClimate\nchange\nHuman\ntoxicity\nSolid\nwaste\nKey findings\nReferences\nreduce the resource\nconsumption and\ncarbon emissions of\nrecycled plastic\nfibers produced\nthrough the\nmechanical\nrecycling of plastic\nwaste. Wood\n▴\n▴\n▴\nTrees sequester\ncarbon dioxide and\nrelease oxygen\nthrough\nphotosynthesis. Sawdust and waste\nwood can be\nbioenergy recycled\nto promote the\nenergy balance of\nwood products and\nreduce solid waste. [123]\nMycelium\n▴\nN/A\n▴\nIt can be used in\nparticleboard and\ninsulation. Packaging\nmycelium foam is a\nnatural and\nrenewable resource\nthat reduces carbon\ndioxide emissions\nand solid waste\ndisposal, making it\nan ideal natural\nalternative to\nwood, lightweight\nconcrete, cork, and\nplastic. [79,124,\n125]\nFerrock\n▴\nN/A\n▴\nWith specific\ntreatment, it is an\nexcellent\ncondensing\nmaterial, ideal for\nuse in saline\nenvironments. When dry ferrock\nabsorbs and binds\nlarge amounts of\ncarbon dioxide,\nhelping to trap\ngreenhouse gases\nand reduce the\nimpact of climate\nchange",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 19,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": ". [126–128]\nTerrazzo\n▴\nN/A\n▴\nA product made of\ncrushed stone,\nglass, quartzite, or\nother aggregates\nmixed into cement\nbonding material\nand then ground\nand polished on the\nsurface, it can\neffectively reduce\nthe disposal of solid\nwaste, and its reuse\ncan reduce the\nrelease of carbon\ndioxide. [129]\nRecycled\nsteel\n▴\nN/A\n▴\nCan be used as a\nwhole or partial\nreplacement for\ncommercial bulk\nsteel fibers in\ncementitious repair\napplications,\n[130]\n(continued on next page)\nL. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n10\n\nfocus to guide the global construction industry towards building a\nresource-efficient society. Future assessments should strengthen the\nevaluation of the social sustainability of mainstream sustainable build-\ning materials, providing crucial data for global sustainability efforts. 7. Environmental, social, and governance (ESG) impacts of\nsustainable construction materials\nEnvironmental, social, and governance (ESG) are the three key pil-\nlars for evaluating an investment or project’s sustainability and ethical\nimplications. This section offers a concise overview of the SCMs covered\nin this review, focusing on those derived roughly from natural sources\nand industrial waste through ESG criteria (Table 5). 7.1. Natural materials\nNatural materials such as bamboo, cork, straw bales, sheep’s wool,\nrammed earth, and mycelium offer significant environmental benefits\nby reducing carbon emissions, conserving energy, and minimizing\nwaste. These materials are considered renewable and biodegradable,\nwhich helps reduce landfill waste and pollution. For instance, bamboo\ngrows rapidly and absorbs CO2 at a similar or even higher rate than\ntrees. Studies show that bamboo forests have a relatively high carbon\ndensity, ranging between 169 and 260 tons of carbon per hectare of land\n[171,172]. Similarly, cork harvesting supports carbon sequestration\nfrom the atmosphere and green building development in the built\nenvironment. Research has shown that the cork captures, on average, 5\ntons of CO2 per hectare annually. Additionally, a cork tree with an\naverage diameter of 38 cm yields about 11 kg of cork over 10 years,\nmeaning that cork production can reach approximately 6590 kg per\nhectare in 10 years [173]. These findings suggest a promising future for\nCO2 storage in biomass and offer a new resource for green building\nmaterials. In the context of construction, these materials often deliver\noutstanding benefits, including structural strength and safety [174] and\ninsulation [175], among others, resulting in significant energy savings\nand enhanced durability of buildings [176]. Socially, natural materials\nsupport rural economies by creating jobs and improving livelihoods\n[177]. As indicated earlier, they enhance indoor air quality and overall\nbuilding safety, with studies indicating positive health impacts from\nusing natural materials in construction. Governance practices for natural\nmaterials focus on sustainability, transparency, and adherence to",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 20,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "stan-\ndards [178,179] to enhance supply security and resource efficiency. Industries using these materials should commit to environmentally and\nsocially responsible practices. This can be achieved by adhering to\nspecific regulations set by government authorities and industry stan-\ndards [180]. 7.2. Industrial and waste materials\nIndustrial and waste materials such as precast concrete, recycled\nplastic, plant-based rigid polyurethane foam, recycled wood, recycled\nsteel, hempcrete, ferrock, timbercrete, and terrazzo play a crucial role in\nconstruction sustainability. This is primarily achieved by applying\ninnovative and diverse material technologies and combining industrial\nsolid wastes to develop value-added engineering materials for con-\nstruction. For example, precast concrete [181] minimizes waste through\nprecise manufacturing in a factory setting, unlike onsite casting. It\nfrequently uses recycled materials, reducing the need for new resources. Factory curing processes are more efficient in energy and time,\nenhancing material quality and reducing carbon emissions. Precast\nconcrete enhances safety at construction sites by manufacturing off-site\nand benefits communities by shortening construction periods and\ndecreasing disturbances. Building and environmental regulations, such\nas ACI (American Concrete Institute) and LEED (Leadership in Energy\nand\nEnvironmental\nDesign)\nstandards,\ngovern\nprecast\nconcrete\nmanufacturing and construction to promote best practices. Using recy-\ncled steel can cut energy consumption by about 70% and carbon emis-\nsions by 60% compared to new steel production [182], significantly\nlowering the carbon footprint. These materials help divert waste from\nlandfills and promote recycling industrial by-products, such as recycled\nTable 3 (continued)\nType of\nSCMs\nClimate\nchange\nHuman\ntoxicity\nSolid\nwaste\nKey findings\nReferences\neffectively\nimproving the high\ncarbon footprint of\nthe construction\nindustry and\nreducing the\nimpact on climate\nchange and the\ndisposal of steel\nwaste. Note: ▴indicates positive impact. △indicates a negative impact. N/A indicates\nno mention. Table 4\nEconomics performance of SCMs. Project\ndescription\nApplication\ntype\nCountry\nEconomics\nperformance\nReferences\nBamboo-\nenhanced\nprefabricated\nwall panels\nWall\nIndia\nOffers cost-\neffectiveness and\nmaintains strong\ndurability\ncompared to\npartition brick\nwalls\n[135]\nStraw bale for\nrural\nresidences\nWall\nIndia\nAchieves notable\ndirect cost savings\nfor wall\nconstruction\n[136]\nRammed earth\nin modern\nconstruction\nWall\nEgypt\nCosts a fraction of\ntraditional\nconstruction\nmethods, providing\nsignificant savings\n[137]\nPET bottles as\nalternative\nbricks\nassessment\nBrick\nIndia\nUsing PET bottle\ncells leads to\nconsiderable\nsavings per house\n[138]\nCost dynamics\nanalysis of\ntimber and\nconcrete\nBuilding\nUSA\nTimber\nconstruction costs\nslightly more than\nmodeled concrete\nbuildings\n[139]\nEconomic\nanalysis of\nengineered\nmycelium\ncomposites\nComposite\nAustralia\nCompetitively\npriced against\nsynt",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 21,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "hetic foams and\nwood, mycelium\ncomposites provide\na low raw material\ncost\n[140]\nEconomic\nanalysis of\nconcrete and\npavement\nPavement\nPakistan\nSteel fiber is less\neconomical\ncompared to glass\nand polypropylene\nfiber\n[141]\nLife-cycle cost\nanalysis of\ncommercial\nflooring\nFlooring\nUSA\nTerrazzo, rubber,\nand ceramic tile are\namong the most\nexpensive flooring\nalternatives\n[142]\nLife cycle\nassessment of\nFerrock and\nPortland\ncement\nMaterials\nUSA\nFerrock reduces\nbuilding time and\ncosts, enhancing its\ndesirability\n[143]\nL. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n11\n\nwood and timbercrete. Socially, they create jobs in recycling industries\nand contribute to community well-being by reducing environmental\npollution [183]. Recycled products used in construction meet the same\nquality standards as new materials, ensuring they comply with all codes\nand standards, such as industrial by-products used in concrete. Using\nrecycled and waste materials can also boost a project’s market appeal\nbecause of its higher sustainability profile, as shown by the life cycle\nanalysis. 8. Challenges and future outlooks\nCurrently, the construction sector consumes about 40% of the total\nenergy produced by human activity in industry, agriculture, and trans-\nport [184]. As a result, many countries promote and implement sus-\ntainable\ndevelopment,\ncontinuously\nimproving\nall\nthree\naspects:\nenvironmental, social, and economical. However, in analyzing and\naggregating SCMs, we found that the 15 most common materials were\nprogressively not analyzed in the three processes of engineering per-\nformance, environmental, economic, and social analysis, as too few or\nno researchers were currently working on this aspect. In addition, in the\nindividual analysis of each material, we found that only some of the\nindicators for SCMs were analyzed through the researchers identifying\nthe most significant indicators for the material. These indicators were\ncarried out in terms of environmental, economic, and social aspects. On\nthe environmental aspect, the three key indicators for sustainable ma-\nterials are human toxicity, climate change, and solid waste. On the social\naspect, adaptability, thermal comfort, local resources, and housing are\nthe four key social indicators for SCMs. On the economic aspect, the five\nkey economic indicators for SCMs are maintenance costs, operating\ncosts, initial costs, long-term savings, and longevity [185]. Furthermore, the majority of extant sustainable materials continue to\nreside within the confines of laboratory experimentation, thereby\nomitting comprehensive evaluation encompassing the trifecta of envi-\nronmental, societal, and economic dimensions. Consequently, a sub-\nstantial proportion of SCMs remains entrenched in the nascent sphere of\nlaboratory investigation. Certain materials necessitate more exhaustive\nscrutiny of human toxicity, enduring cost benefits, maintenance ex-\npenditures, habitation considerations, and other pivotal benchmarks, as\nillustra",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 22,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ted in Fig. 4. It is worth noting that the methodology for\nanalyzing the sustainability indicators of SCMs draws directly from the\ncited references, using an established integrated assessment methodol-\nogy, and these indicators include environmental, economic, and social\naspects [9,27,185]. In addition, in order to clearly demonstrate the\ncurrent research status of the mainstream 15 SCMs, Table 6 systemati-\ncally marked the performance of these materials in terms of engineering,\nenvironmental, economic, and social perspectives with a check mark (✓)\nTable 5\nlisting the ESG impacts of each of the sustainable construction materials in review. Material\nEnvironmental\nSocial\nGovernance\nReferences\nBamboo\n●Renewable, fast-growing\n●Absorbs CO2\n●Improves soil\n◆Supports rural economies\n◆Safer, easier construction\n◆Improves indoor air quality\n■Regulated to ensure sustainability\n■Adheres to building codes and environmental\nregulations\n[57]\nPrecast concrete\n●Reduces waste through\nmanufacturing\n●Incorporates recycled materials\n●Energy-efficient production\n◆Improved construction safety\n◆Enhances building safety\n◆Reduced construction time\n■Adheres to building codes and environmental\nregulations\n[144]\nCork\n●Renewable and biodegradable\n●Carbon sequestration\n◆Improves indoor air quality and acoustic\ninsulation\n◆Supports rural economies\n■Regulated to ensure sustainability\n■Adheres to building codes and environmental\nregulations\n[145]\nStraw bales\n●By-product of agriculture,\nreducing waste\n●Carbon sequestration\n◆Reduces building costs\n◆Reduced environmental footprint\n■Regulated to ensure sustainability\n■Adheres to building codes and environmental\nregulations\n[146]\nRecycled plastic\n●Reduces plastic waste\n●Conserves energy compared to\nnew plastic\n◆Supports local economies\n◆Reduced environmental pollution\n■Regulations ensure product quality and safety\n■Compliance with standards\n[147]\nRecycled wood\n●Reduces deforestation, waste, and\nemission\n●Conserves energy\n◆Supports sustainable forestry and local\neconomies\n◆Reduced waste and resource conservation\n■Adherence to building codes and\nenvironmental regulations\n[148]\nRecycled steel\n●Cuts energy use and carbon\nemission\n●Minimizes waste\n◆Provides jobs and economic benefits\n◆Reduced environmental impact\n■Follows recycling and production regulations\n■Compliance with industry standards\n[149]\nPlant-based rigidp\nolyurethane\nfoam\n●Renewable materials,\n●Biodegradable, less toxic\n◆Safer handling and installation\n◆Improves indoor air quality\n◆Energy-efficient buildings\n■Adheres to environmental regulations and\nstandards\n[150]\nSheep’s wool\n●Renewable and biodegradable\n●Excellent insulation\n●Low environmental impact\n◆Supports rural communities\n■Compliance with environmental and\nindustrial standards\n[151]\nRammed earth\n●Uses natural materials\n●Low carbon footprint\n●Locally sourced materials\n◆Supports local economies\n■Building codes ensure safety and\nsustainability\n[152]\nHempcrete\n●Made from renewable hemp fibers\n●Sequesters carbon\n◆Supports",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 23,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "rural economies\n◆Improved indoor air quality and comfort\n■Compliance with environmental and\nindustrial standards\n[153]\nMycelium\n●Biodegradable\n●Low environmental impact\n◆Supports innovative agricultural and\nengineering practices\n◆Reduced waste and sustainable materials\n■Compliance with environmental and\nindustrial standards\n[78]\nFerrock\n●Made from waste\n●Sustainable alternative to concrete\n◆Supports recycling industries\n◆Innovative materials with reduced\nenvironmental impact\n■Compliance with environmental and\nindustrial standards\n[154]\nTimbercrete\n●Incorporates waste, reducing\nwaste\n●Lower carbon footprint\n◆Supports sustainable forestry and local\neconomies\n◆Reduced waste and sustainable construction\nmaterials\n■Adheres to building codes and environmental\nregulations\n[155]\nTerrazzo\n●Incorporate recycled materials\n●Durable and long-lasting\n●Energy-efficient production\n◆Provides job opportunities in recycling and\nproduction\n◆Improves aesthetic appeal and safety\n■Adheres to building codes and environmental\nregulations\n[156]\nL. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n12\n\nif there is a study related to these four aspects in the previously analyzed\nreferences and a cross ( × ) if there is not, and percentage calculations\nwere made based on the statistical results, which identified the need to\nstrengthen the research in the future on these specific aspects of the\nmaterial. Overall, Table 6 outlines the aggregate metrics of the SCMs’ efficacy\nbased on the preceding analysis. The results illustrate that a significant\nportion of the studies validate the commendable engineering prowess of\nSCMs. However, one-third underscore the need to elucidate their\necological sustainability, 40% the economic sustainability, and a stag-\ngering 73.3% the societal sustainability. Markedly, certain materials are\ndeficient in workability, thermal shielding, and sonic insulation. Of the\n15 SCMs assessed, only quintessential materials like cork, straw bales,\nsheep’s wool, hempcrete, and timbercrete boast exhaustive engineering\nperformance evaluations. Hence, the remaining ten exhibit lapses in\ndiverse performance realms. It would be judicious for scholars to pri-\noritize these gaps, particularly focusing on workability, thermal barrier\nproperties, and sound insulation in subsequent investigations. In the environmental analysis of SCMs, the number of materials\nconsidered decreased from 15 to 10, as shown in Table 6. While\nreviewing papers and summarizing the environmental benefits of\nvarious materials, it was found that few researchers have analyzed the\nFig. 4. Summary of sustainability for SCMs. Table 6\nComprehensive performance of SCMs. No. Type of SCMs\nEngineering performance\nEnvironmental performance\nEconomics performance\nSocial performance\n1\nBamboo\n✓\n✓\n✓\n✓\n2\nPrecast concrete\n✓\n×\n×\n×\n3\nCork\n✓\n×\n×\n×\n4\nStraw bales\n✓\n✓\n✓\n✓\n5\nRecycled plastic\n✓\n✓\n✓\n✓\n6\nRecycled wood\n✓\n✓\n✓\n✓\n7\nRecycled steel\n✓\n✓\n✓\n×\n8\nPlant-based rigid polyurethane foam\n✓\n×\n×\n×\n9\nSheep’s wool\n✓",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 24,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "×\n×\n×\n10\nRammed earth\n✓\n✓\n✓\n×\n11\nHempcrete\n✓\n✓\n×\n×\n12\nMycelium\n✓\n✓\n✓\n×\n13\nFerrock\n✓\n✓\n✓\n×\n14\nTimbercrete\n✓\n×\n×\n×\n15\nTerrazzo\n✓\n✓\n✓\n×\nNote: √indicates that it has been studied. × indicates that it has not been studied.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 25,
+      "char_count": 217
+    }
+  },
+  {
+    "text": "Chen et al. Materials Today Sustainability 27 (2024) 100930 \n13\n\nenvironmental benefits of precast concrete, cork, plant-based rigid\npolyurethane foam, sheep’s wool, and timbercrete. Furthermore, the\nenvironmental performance of SCMs shows that most of the materials\nare not analyzed for human toxicity indicators or directly impact peo-\nple’s health. Therefore, researchers could conduct environmental\nbenefit analyses and indicator analyses for the five SCMs in future\nstudies. Besides, the number of SCMs analyzed in terms of economic per-\nformance has been reduced from 10 in the previous environmental\nanalysis to 9, as shown in Table 6. Almost no researcher analyzed the\neconomic performance of the six materials: precast concrete, cork, plant-\nbased rigid polyurethane foam, sheep’s wool, timbercrete, and hemp-\ncrete. Furthermore, in the economic performance, some sustainable\nmaterials are economically beneficial, but most of the materials are not\nanalyzed for their maintenance costs and long-term savings, and some\neven cost more than existing materials. Therefore, researchers should\ndelve into the economic performance of SCMs across various indicators,\nrecognizing their pivotal role for investment decision-makers. Moreover, regarding social aspects, the housing indicator describes\nhousing affordability for everyone in society, but most of the materials\nare only analyzed in terms of adaptability, thermal comfort, and local\nresources, as these indicators are more relevant to the positive impact of\nsustainable development on society [186]. SCMs are evaluated in terms\nof environmental, economic, and social aspects, and their performance\nin terms of economic, environmental, and social sustainability is\nessential in the investment decision process [187]. In addition, in terms\nof social sustainability, there are uncontrolled factors in applying and\npromoting SCMs, such as government policies, legal support, and\nconsensus [188]. Therefore, in each new study of sustainable materials\nin the future, the impact and analysis of the material on each indicator\nshould be considered. This is the current challenge and opportunity for\nSCMs, which need to find a balance between the material’s environ-\nmental, economic, and social aspects so that it becomes a truly SCMs\nrather than showing sustainability is only one aspect [189]. Finally, to\nachieve sustainability in construction, changes are also needed in four\nareas: technology, management, economics, and policy [190]. 9. Conclusion\nThis study provides a systematic review of recent developments of\nSCMs in the building construction industry. It offers an overview of the\ncurrent research status of various SCMs and evaluates their character-\nistics, engineering performance, environmental impact, economic\nviability, and social sustainability. The findings demonstrate that SCMs\ntypically exhibit properties marked by minimal impact on health and the\nenvironment, along with high energy efficiency and reliance on\nrenewable re",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 26,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "sources. However, while SCMs generally possess good\nstrength and workability, some materials may lack adequate thermal\nand sound insulation properties. Moreover, while many SCMs contribute\nto reducing carbon dioxide emissions, mitigating climate change, and\nminimizing solid waste, certain materials may not address or directly\nimpact human toxicity concerns. Furthermore, the economic perfor-\nmance of SCMs remains relatively understudied, with most materials\ncosting relatively little in terms of building components, but a subset\nmay incur higher total costs, particularly concerning regional economic\nfactors. Moreover, a considerable number of SCMs are still in the labo-\nratory stage or have limited applicability. In summary, this study not\nonly elucidates the current landscape of SCMs but also serves as a\ncompelling call for increased scholarly engagement with the economic\nresilience, social sustainability, and technical viability of these mate-\nrials. It brings to the forefront the critical importance of SCMs within the\narchitectural and construction sectors, showcasing their pivotal role in\nsteering the industry toward carbon neutrality. In the future, the landscape of SCMs is marked by an urgent need to\nextend research beyond the laboratory and into comprehensive, real-\nworld applications that thoroughly evaluate their environmental,\neconomic, and social impacts. Besides, future studies should predomi-\nnantly aim to address significant research gaps, particularly focusing on\nhuman toxicity, long-term economic viability, and social adaptability. This requires broadening the scope of environmental impact studies to\ninclude lesser-studied materials such as precast concrete, cork, and\nplant-based foams. Additionally, there is a need to enhance economic\nanalyses to encompass the full lifecycle costs, including maintenance\nand longevity, of all SCMs. Socially, research should also move beyond\nmere adaptability and thermal comfort to encompass broader societal\nimpacts, such as housing affordability and contributions to community\nwell-being. Collectively, these efforts require a multi-disciplinary\napproach and collaboration between academia, industry, and govern-\nment to ensure SCMs contribute holistically to sustainability goals. Future studies should also incorporate adaptive frameworks that\nconsider evolving government policies, market dynamics, and commu-\nnity needs to ensure that SCMs meet the triple bottom line of sustaina-\nbility—environmentally\nsound,\neconomically\nviable,\nand\nsocially\nacceptable—thus paving the way for their broader adoption and\nimplementation in global construction practices. CRediT authorship contribution statement\nLin Chen: Writing – original draft, Validation, Methodology, Formal\nanalysis, Data curation, Conceptualization. Mingyu Yang: Writing –\noriginal draft, Validation, Methodology, Formal analysis, Data curation. Zhonghao Chen: Writing – original draft, Methodology, Formal anal-\nysis, Conceptualization. Zhuolin Xie: Writ",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 27,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ing – original draft, Valida-\ntion, Methodology. Lepeng Huang: Writing – review & editing,\nValidation, Project administration, Methodology, Formal analysis,\nConceptualization. Ahmed I. Osman: Writing – review & editing,\nValidation, Project administration, Funding acquisition. Mohamed\nFarghali: Writing – original draft, Validation. Malindu Sandanayake:\nWriting – review & editing, Validation, Resources, Project administra-\ntion. Engui Liu: Writing – review & editing, Validation, Supervision. Yong Han Ahn: Writing – review & editing, Validation, Resources. Ala’a H. Al-Muhtaseb: Writing – review & editing, Validation. David\nW. Rooney: Writing – review & editing, Validation, Resources. Pow-\nSeng Yap: Writing – review & editing, Supervision, Validation, Re-\nsources, Project administration, Conceptualization. Declaration of competing interest\nThe authors declare that they have no known competing financial\ninterests or personal relationships that could have appeared to influence\nthe work reported in this paper. Data availability\nNo data was used for the research described in the article. References\n[1] C. Maraveas, Production of sustainable construction materials using agro-wastes,\nMaterials 13 (2) (2020). [2] S.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 28,
+      "char_count": 1224
+    }
+  },
+  {
+    "text": "Son, K. Park, H. Fitriani, S. Kim, Embodied CO2 reduction effects of composite\nprecast concrete frame for heavily loaded long-span logistics buildings,\nSustainability 13 (3) (2021). [3] L. Chen, Z. Chen, Z. Xie, L. Wei, J. Hua, L. Huang, P.-S. Yap, Recent developments\non natural fiber concrete: a review of properties, sustainability, applications,\nbarriers, and opportunities, Developments in the Built Environment 16 (2023)\n100255. [4] S. Kc, D. Gautam, Progress in sustainable structural engineering: a review,\nInnovative Infrastructure Solutions 6 (2) (2021) 68. [5] T. Liu, L. Chen, M. Yang, M. Sandanayake, P. Miao, Y. Shi, P.-S. Yap,\nSustainability considerations of green buildings: a detailed overview on current\nadvancements and future considerations 14 (21) (2022) 14393. [6] A.I.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 29,
+      "char_count": 792
+    }
+  },
+  {
+    "text": "Osman, L. Chen, M. Yang, G. Msigwa, M. Farghali, S. Fawzy, D.W. Rooney, P.-\nS. Yap, Cost, environmental impact, and resilience of renewable energy under a\nchanging climate: a review, Environmental Chemistry Letters, 21(2) (2023) 741-\n764. L. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n14\n\n[7] P. Ricciardi, E. Belloni, F. Merli, C. Buratti, Sustainable panels made with\nindustrial and agricultural waste: thermal and environmental critical analysis of\nthe experimental results, Appl. Sci.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 30,
+      "char_count": 506
+    }
+  },
+  {
+    "text": "11 (2) (2021). [8] F.I. Aneke, C. Shabangu, Green-efficient masonry bricks produced from scrap\nplastic waste and foundry sand, Case Stud. Constr. Mater. 14 (2021) e00515. [9] L. Chen, L. Huang, J. Hua, Z. Chen, L. Wei, A.I. Osman, S. Fawzy, D.W. Rooney,\nL. Dong, P.-S. Yap, Green construction for low-carbon cities: a review, Environ. Chem.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 31,
+      "char_count": 340
+    }
+  },
+  {
+    "text": "Lett. 21 (3) (2023) 1627–1657. [10] S.A. Zamora-Castro, R. Salgado-Estrada, L.C. Sandoval-Herazo, R.A. Melendez-\nArmenta, E. Manzano-Huerta, E. Yelmi-Carrillo, A.L. Herrera-May, Sustainable\ndevelopment of concrete through aggregates and innovative materials: a review,\nAppl. Sci.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 32,
+      "char_count": 279
+    }
+  },
+  {
+    "text": "11 (2) (2021). [11] L. Chen, Z. Chen, Y. Zhang, Y. Liu, A.I. Osman, M. Farghali, J. Hua, A. Al-Fatesh,\nI. Ihara, D.W. Rooney, P.-S. Yap, Artificial intelligence-based solutions for climate\nchange: a review, Environ. Chem.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 33,
+      "char_count": 221
+    }
+  },
+  {
+    "text": "Lett. 21 (5) (2023) 2525–2557. [12] L. Chen, G. Msigwa, M. Yang, A.I. Osman, S. Fawzy, D.W. Rooney, P.-S. Yap,\nStrategies to achieve a carbon neutral society: a review, Environ. Chem. Lett. 20\n(4) (2022) 2277–2310. [13] M. Farghali, A.I. Osman, I.M.A. Mohamed, Z. Chen, L. Chen, I. Ihara, P.-S. Yap, D.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 34,
+      "char_count": 302
+    }
+  },
+  {
+    "text": "Lett. 21 (4) (2023) 2003–2039. [14] M. Yang, L. Chen, J. Wang, G. Msigwa, A.I. Osman, S. Fawzy, D.W. Rooney, P.-\nS. Yap, Circular economy strategies for combating climate change and other\nenvironmental issues, Environ. Chem. Lett. 21 (1) (2023) 55–80. [15] H.M. Hamada, B.S. Thomas, F.M. Yahaya, K. Muthusamy, J. Yang, J.A. Abdalla,\nR.A. Hawileh, Sustainable use of palm oil fuel ash as a supplementary\ncementitious material: a comprehensive review, J. Build.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 35,
+      "char_count": 459
+    }
+  },
+  {
+    "text": "Eng. 40 (2021) 102286. [16] M. Yang, L. Chen, G. Msigwa, K.H.D. Tang, P.-S. Yap, Implications of COVID-19\non global environmental pollution and carbon emissions with strategies for\nsustainability in the COVID-19 era, Sci. Total Environ.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 36,
+      "char_count": 236
+    }
+  },
+  {
+    "text": "809 (2022) 151657. [17] F. Tahmasebinia, Y. Ma, K. Joshua, S.M. Sepasgozar, Y. Yu, J. Li, S. Sepasgozar, F. A. Marroquin, Sustainable architecture creating arches using a bamboo grid shell\nstructure: numerical analysis and design, Sustainability 13 (5) (2021). [18] M. Manjunatha, S. Preethi, Malingaraya, H.G. Mounika, K.N. Niveditha, Ravi, Life\ncycle assessment (LCA) of concrete prepared with sustainable cement-based\nmaterials, Mater. Today: Proc.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 37,
+      "char_count": 451
+    }
+  },
+  {
+    "text": "47 (2021) 3637–3644. [19] Z. He, A. Shen, H. Wu, W. Wang, L. Wang, C. Yao, J. Wu, Research progress on\nrecycled clay brick waste as an alternative to cement for sustainable construction\nmaterials, Constr Build Mater 274 (2021) 122113. [20] S.I. Borlea, A.-E. Tiuc, O. Nemes¸, H. Vermes¸an, O. Vasile, Innovative use of sheep\nwool for obtaining materials with improved sound-absorbing properties,\nMaterials 13 (3) (2020). [21] A.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 38,
+      "char_count": 428
+    }
+  },
+  {
+    "text": "Karrech, V. Strazzeri, M. Elchalakani, Improved thermal insulance of cement\nstabilised rammed earth embedding lightweight aggregates, Construct. Build. Mater. 268 (2021) 121075. [22] F. Althoey, M.A. Hosen, Physical and mechanical characteristics of sustainable\nconcrete comprising industrial waste materials as a replacement of conventional\naggregate, Sustainability 13 (8) (2021) 4306. [23] H. El-Chabib, 11 - properties of SCC with supplementary cementing materials, in:\nR. Siddique (Ed.), Self-Compacting Concrete: Materials, Properties and\nApplications, Woodhead Publishing, 2020, pp. 283–308. [24] D. Dey, D. Srinivas, B. Panda, P. Suraneni, T.G. Sitharam, Use of industrial waste\nmaterials for 3D printing of sustainable concrete: a review, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 39,
+      "char_count": 757
+    }
+  },
+  {
+    "text": "Prod. 340\n(2022) 130749. [25] F. Althoey, M.A. Hosen, Physical and mechanical characteristics of sustainable\nconcrete comprising industrial waste materials as a replacement of conventional\naggregate 13 (8) (2021) 4306. [26] S. Abbasi, M.H. Jannaty, R.H. Faraj, S. Shahbazpanahi, A. Mosavi, The effect of\nincorporating silica stone waste on the mechanical properties of sustainable\nconcretes 13 (17) (2020) 3832. [27] J.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 40,
+      "char_count": 419
+    }
+  },
+  {
+    "text": "Xiang, X. Zhang, F. Yi, S. Zhang, H. Yang, J.a. Shao, X. Wang, H. Chen,\nImproved Slagging Characteristics of Low-Value Solid Waste Fuel Asphalt Rock\nby Mineral Additives of CaCO3, MgO, and Kaolin under Fluidized Bed Condition,\nWaste Disposal & Sustainable Energy, 2024. [28] X.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 41,
+      "char_count": 277
+    }
+  },
+  {
+    "text": "Li, D. Qin, Y. Hu, W. Ahmad, A. Ahmad, F. Aslam, P. Joyklad, A systematic\nreview of waste materials in cement-based composites for construction\napplications, J. Build. Eng. 45 (2022) 103447. [29] G.R. De Sensale, Effect of rice-husk ash on durability of cementitious materials,\nCement Concr. Compos. 32 (9) (2010) 718–725. [30] R. Zerbino, G. Giaccio, G.C. Isaia, Concrete incorporating rice-husk ash without\nprocessing, Construct. Build. Mater. 25 (1) (2011) 371–378. [31] J. Alex, J. Dhanalakshmi, B. Ambedkar, Experimental investigation on rice husk\nash as cement replacement on concrete production, Construct. Build. Mater. 127\n(2016) 353–362. [32] A. Siddika, M.A.A. Mamun, M.H. Ali, Study on concrete with rice husk ash,\nInnovative Infrastructure Solutions 3 (2018) 1–9. [33] M.A. Noaman, M.N. Islam, M.R. Islam, M.R. Karim, Mechanical properties of\nbrick aggregate concrete containing rice husk ash as a partial replacement of\ncement, J. Mater.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 42,
+      "char_count": 951
+    }
+  },
+  {
+    "text": "Civ. Eng. 30 (6) (2018) 04018086. [34] S.A. Zareei, F. Ameri, F. Dorostkar, M. Ahmadi, Rice husk ash as a partial\nreplacement of cement in high strength concrete containing micro silica:\nevaluating durability and mechanical properties, Case Stud. Constr. Mater. 7\n(2017) 73–81. [35] R.-S. Bie, X.-F. Song, Q.-Q. Liu, X.-Y. Ji, P. Chen, Studies on effects of burning\nconditions and rice husk ash (RHA) blending amount on the mechanical behavior\nof cement, Cement and Concrete Composites 55 (2015) 162–168. [36] M.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 43,
+      "char_count": 512
+    }
+  },
+  {
+    "text": "Lu, W. Ge, Y. Xia, C. Sun, X. Lin, D.C.W. Tsang, T.-C. Ling, Y. Hu, L. Wang,\nJ. Yan, Upcycling MSWI fly ash into green binders via flue gas-enhanced wet\ncarbonation, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 44,
+      "char_count": 175
+    }
+  },
+  {
+    "text": "Prod. 440 (2024) 141013. [37] M. Sandanayake, Y. Bouras, R. Haigh, Z. Vrcelj, Current sustainable trends of\nusing waste materials in concrete—a decade review 12 (22) (2020) 9622. [38] A.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 45,
+      "char_count": 186
+    }
+  },
+  {
+    "text": "Nawaz, J. Chen, X. Su, Exploring the trends in construction and demolition\nwaste (C&DW) research: a scientometric analysis approach, Sustain. Energy\nTechnol. Assessments 55 (2023) 102953. [39] K. Chen, J. Wang, B. Yu, H. Wu, J. Zhang, Critical evaluation of construction and\ndemolition waste and associated environmental impacts: a scientometric analysis,\nJ. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 46,
+      "char_count": 365
+    }
+  },
+  {
+    "text": "Prod. 287 (2021) 125071. [40] U.A. Umar, N. Shafiq, F.A. Ahmad, A case study on the effective implementation\nof the reuse and recycling of construction & demolition waste management\npractices in Malaysia, Ain Shams Eng. J.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 47,
+      "char_count": 222
+    }
+  },
+  {
+    "text": "12 (1) (2021) 283–291. [41] Z.-h. He, X.-d. Han, M.-y. Zhang, Q. Yuan, J.-y. Shi, P.-m. Zhan, A novel\ndevelopment of green UHPC containing waste concrete powder derived from\nconstruction and demolition waste, Powder Technol. 398 (2022) 117075.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 48,
+      "char_count": 243
+    }
+  },
+  {
+    "text": "[42] V.S.N.S. Goli, A. Mohammad, D.N. Singh, Application of municipal plastic waste\nas a manmade neo-construction material: issues & wayforward, Resour. Conserv. Recycl. 161 (2020) 105008. [43] S. Ainomugisha, M. Matovu, M. Manga, Application of green agro-based\nnanoparticles in cement-based construction materials: a systematic review,\nJ. Build.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 49,
+      "char_count": 347
+    }
+  },
+  {
+    "text": "Eng. 87 (2024) 108955. [44] A. Kumari, S. Kumar Yadav, Moving towards sustainable nanoengineered\nbuilding materials with less energy consumption, Energy Build. 318 (2024)\n114475.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 50,
+      "char_count": 178
+    }
+  },
+  {
+    "text": "[45] T. Fu, F. Montes, P. Suraneni, J. Youngblood, J. Weiss, The influence of cellulose\nnanocrystals on the hydration and flexural strength of Portland cement pastes,\nPolymers 9 (9) (2017) 424. [46] O.A.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 51,
+      "char_count": 203
+    }
+  },
+  {
+    "text": "Hisseine, W. Wilson, L. Sorelli, B. Tolnai, A. Tagnit-Hamou, Nanocellulose\nfor improved concrete performance: a macro-to-micro investigation for disclosing\nthe effects of cellulose filaments on strength of cement systems, Construct. Build. Mater. 206 (2019) 84–96. [47] F. Mohammadkazemi, K. Doosthoseini, E. Ganjian, M. Azin, Manufacturing of\nbacterial nano-cellulose reinforced fiber−cement composites, Construct. Build. Mater. 101 (2015) 958–964. [48] A. Balea, E. Fuente, A. Blanco, C. Negro, Nanocelluloses: natural-based materials\nfor fiber-reinforced cement composites. A critical review, Polymers 11 (3) (2019)\n518. [49] L.O. de Souza, M. Liebscher, L.M.S. de Souza, F. de Andrade Silva,\nV. Mechtcherine, Effect of microcrystalline and nano-fibrillated cellulose on the\nmechanical behavior and microstructure of cement pastes, Construct. Build. Mater. 408 (2023) 133812. [50] F.A.S. Hansted, A.L.S. Hansted, E.R.D. Padilla, J.C. Caraschi, D. Goveia, C. In´acio\nde Campos, The use of nanocellulose in the production of medium density\nparticleboard panels and the modification of its physical properties, Bioresources\n14 (3) (2019). [51] E.G.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 52,
+      "char_count": 1148
+    }
+  },
+  {
+    "text": "Deze, E. Cuenca, A.M.L. N´asner, M. Iakovlev, S. Sideri, A. Sapalidis, R. P. Borg, L. Ferrara, Nanocellulose enriched mortars: evaluation of nanocellulose\nproperties affecting microstructure, strength and development of mixing\nprotocols, Mater. Today: Proc.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 53,
+      "char_count": 257
+    }
+  },
+  {
+    "text": "54 (2022) 50–56. [52] L.Y. Ee, S.F.Y. Li, Recent advances in 3D printing of nanocellulose: structure,\npreparation, and application prospects, Nanoscale Adv. 3 (5) (2021) 1167–1208.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 54,
+      "char_count": 180
+    }
+  },
+  {
+    "text": "Larsson, L. Wågberg, Ambient-dried, 3D-printable and\nelectrically conducting cellulose nanofiber aerogels by inclusion of functional\npolymers, Adv. Funct. Mater. 30 (12) (2020) 1909383. [54] A.S. Finny, O. Popoola, S. Andreescu, 3D-Printable nanocellulose-based\nfunctional materials: fundamentals and applications, Nanomaterials 11 (9)\n(2021) 2358. [55] J.M. Gonz´alez-Domínguez, A. Baigorri, M.´A. ´Alvarez-S´anchez, E. Colom,\nB. Villacampa, A. Ans´on-Casaos, E. García-Bordej´e, A.M. Benito, W.K. Maser,\nWaterborne graphene-and nanocellulose-based inks for functional conductive\nfilms and 3D structures, Nanomaterials 11 (6) (2021) 1435. [56] B. Kumar, D.H. Pham, J. Kim, Strong, highly porous and sustainable\nnanocellulose foam made using bioderived hyperbranched crosslinker for thermal\ninsulation and sound absorption, Carbohydrate Polymers 334 (2024) 122016. [57] M. Yadav, A. Mathur, Bamboo as a sustainable material in the construction\nindustry: an overview, Mater. Today: Proc.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 55,
+      "char_count": 986
+    }
+  },
+  {
+    "text": "43 (2021) 2872–2876. [58] T.M. Tiza, S.K. Singh, L. Kumar, M.P. Shettar, S.P. Singh, Assessing the potentials\nof Bamboo and sheep wool fiber as sustainable construction materials: A review,\nMaterials Today, Proceedings 47 (2021) 4484–4489. [59] I. Ahmad Wani, R. ul Rehman Kumar, Experimental investigation on using sheep\nwool as fiber reinforcement in concrete giving increment in overall strength,\nMater. Today: Proc.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 56,
+      "char_count": 419
+    }
+  },
+  {
+    "text": "45 (2021) 4405–4409. [60] S.S. Narani, P. Zare, M. Abbaspour, A. Fahimifar, S. Siddiqua, S.M. Mir\nMohammad Hosseini, Evaluation of fiber-reinforced and cement-stabilized\nrammed-earth composite under cyclic loading, Construct. Build. Mater. 296\n(2021) 123746. [61] D. Ciancio, C. Beckett, Rammed earth: an overview of a sustainable construction\nmaterial, in: Proceedings of the Third International Conference on Sustainable\nConstruction Materials and Technologies, 2013, pp. 18–21.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 57,
+      "char_count": 480
+    }
+  },
+  {
+    "text": "Kyoto, Japan. [62] S. Merabti, S. Kenai, R. Belarbi, J. Khatib, Thermo-mechanical and physical\nproperties of waste granular cork composite with slag cement, Construct. Build. Mater. 272 (2021) 121923. L. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n15\n\n[63] A. Cortˆes, A. Tadeu, M.I. Santos, J. de Brito, J. Almeida, Innovative module of\nexpanded cork agglomerate for green vertical systems, Build. Environ. 188 (2021)\n107461. [64] R.M. Novais, L. Senff, J. Carvalheiras, A.M. Lacasta, I.R. Cantalapiedra, J. A. Labrincha, Simple and effective route to tailor the thermal, acoustic and\nhygrothermal properties of cork-containing waste derived inorganic polymer\ncomposites, J. Build. Eng. 42 (2021) 102501. [65] B. Dorsey, Refocusing on sustainability: promoting straw bale building for\ngovernment-assisted, self-help housing programs in Utah and abroad,\nSustainability 13 (5) (2021). [66] N.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 58,
+      "char_count": 908
+    }
+  },
+  {
+    "text": "Bheel, S. Sohu, P. Awoyera, A. Kumar, S.A. Abbasi, O.B. Olalusi, Effect of\nwheat straw ash on fresh and hardened concrete reinforced with jute fiber, Adv. Civ.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 59,
+      "char_count": 159
+    }
+  },
+  {
+    "text": "Eng. 2021 (2021) 6659125. [67] O. Olofinnade, S. Chandra, P. Chakraborty, Recycling of high impact polystyrene\nand low-density polyethylene plastic wastes in lightweight based concrete for\nsustainable construction, Mater. Today: Proc.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 60,
+      "char_count": 234
+    }
+  },
+  {
+    "text": "38 (2021) 2151–2156. [68] R. Chippagiri, H.R. Gavali, R.V. Ralegaonkar, M. Riley, A. Shaw, A. Bras,\nApplication of sustainable prefabricated wall technology for energy efficient\nsocial housing, Sustainability 13 (3) (2021). [69] D.S.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 61,
+      "char_count": 233
+    }
+  },
+  {
+    "text": "22\n(2020) 781–787. [70] S.N.C. Deraman, M.A.D.A. Rashid, S.A. Saad, N.M. Husain, S.A. Masjuki, Effects\nof durian sawdust as a partial replacement of fine aggregate in concrete, IOP\nConf. Ser. Mater. Sci. Eng. 1144 (1) (2021) 012027. [71] C. Setter, R.R. de Melo, J.F. do Carmo, D.M. Stangerlin, A.S. Pimenta, Cement\nboards reinforced with wood sawdust: an option for sustainable construction, SN\nAppl. Sci.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 62,
+      "char_count": 406
+    }
+  },
+  {
+    "text": "2 (10) (2020) 1631. [72] R. Fürst, T. Vlach, M. Pokorný, V. M´ozer, Study of Behavior of Textile-Reinforced\nConcrete with Epoxy Resin Matrix in Fire, Fire Technology, 2021. [73] G.F. Huseien, A.R. Sam, I. Faridmehr, M.H. Baghban, Performance of epoxy resin\npolymer as self-healing cementitious materials agent in mortar, Materials 14 (5)\n(2021). [74] S.S.D. Raavi, D.D. Tripura, Ultrasonic pulse velocity and statistical analysis for\npredicting and evaluating the properties of rammed earth with natural and brick\naggregates, Construct. Build. Mater. 298 (2021) 123840. [75] P. Saravanakumar, E. John Bisher, R.A. Aravinndh, K. Sanjay Kumar, Usage of\nfibre content in hemp as a material in building construction, IOP Conf. Ser. Mater. Sci. Eng. 1145 (1) (2021) 012057. [76] Y. Cheng, Z. Xu, S. Chen, Y. Ji, D. Zhang, J. Liang, The influence of closed pore\nratio on sound absorption of plant-based polyurethane foam using control unit\nmodel, Appl. Acoust. 180 (2021) 108083. [77] I. Singh, S.K. Samal, S.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 63,
+      "char_count": 1003
+    }
+  },
+  {
+    "text": "Mohanty, S.K. Nayak, Recent advancement in plant oil\nderived polyol-based polyurethane foam for future perspective: a review, Eur. J. Lipid Sci. Technol. 122 (3) (2020) 1900225. [78] M. Jones, A. Mautner, S. Luenco, A. Bismarck, S. John, Engineered mycelium\ncomposite construction materials from fungal biorefineries: a critical review,\nMater. Des.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 64,
+      "char_count": 348
+    }
+  },
+  {
+    "text": "187 (2020) 108397. [79] S. Manan, M.W. Ullah, M. Ul-Islam, O.M. Atta, G. Yang, Synthesis and\napplications of fungal mycelium-based advanced functional materials, Journal of\nBioresources and Bioproducts 6 (1) (2021) 1–10. [80] B.S. Thomas, J. Yang, K.H. Mo, J.A. Abdalla, R.A. Hawileh, E. Ariyachandra,\nBiomass ashes from agricultural wastes as supplementary cementitious materials\nor aggregate replacement in cement/geopolymer concrete: a comprehensive\nreview, J. Build.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 65,
+      "char_count": 470
+    }
+  },
+  {
+    "text": "Eng. 40 (2021) 102332. [81] A. Mardani, D. Streimikiene, R. Rostami, M. Ismail, R. Mohamad zin,\nM. Khoshnava, The role of green building materials in reducing environmental\nand human health impacts, Int. J. Environ. Res. Publ. Health 17 (2020). [82] P. Pelli, Service innovation and sustainable construction: analyses of wood vis-\n`a-vis other construction projects, Cleaner Engineering and Technology 2 (2021)\n100061. [83] H. Wang, T. Qi, G. Feng, X. Wen, Z. Wang, X. Shi, X. Du, Effect of partial\nsubstitution of corn straw fly ash for fly ash as supplementary cementitious\nmaterial on the mechanical properties of cemented coal gangue backfill, Constr\nBuild Mater 280 (2021) 122553. [84] Y. Abdellatef, M. Kavgic, Thermal, microstructural and numerical analysis of\nhempcrete-microencapsulated phase change material composites, Appl. Therm. Eng. 178 (2020) 115520. [85] Y. Xia, D. Shi, R. Zhao, K. Yu, M. Liu, H. Mei, L. Xu, Y. Zhao, L. Wang, J. Yan, Iron-\nrich industrial waste enhanced low-carbon radiation shielding functional\ncomposites, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 66,
+      "char_count": 1053
+    }
+  },
+  {
+    "text": "Prod. 449 (2024) 141649. [86] Z. Tang, W. Li, V.W.Y. Tam, C. Xue, Advanced progress in recycling municipal\nand construction solid wastes for manufacturing sustainable construction\nmaterials, Resour. Conserv. Recycl. X 6 (2020) 100036. [87] P. Jędrzejczak, M.N. Collins, T. Jesionowski, Ł. Klapiszewski, The role of lignin\nand lignin-based materials in sustainable construction – a comprehensive review,\nInt. J.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 67,
+      "char_count": 410
+    }
+  },
+  {
+    "text": "Biol. Macromol. 187 (2021) 624–650. [88] A. Det Udomsap, P. Hallinger, A bibliometric review of research on sustainable\nconstruction, 1994–2018, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 68,
+      "char_count": 154
+    }
+  },
+  {
+    "text": "Prod. 254 (2020) 120073. [89] M.U. Hossain, S.T. Ng, P. Antwi-Afari, B. Amor, Circular economy and the\nconstruction industry: existing trends, challenges and prospective framework for\nsustainable construction, Renew. Sustain. Energy Rev. 130 (2020) 109948. [90] K. Joshi, M.K. Meher, K.M. Poluri, Fabrication and characterization of bioblocks\nfrom agricultural waste using fungal mycelium for renewable and sustainable\napplications, ACS Appl. Bio Mater. 3 (4) (2020) 1884–1892. [91] E. Elsacker, S. Vandelook, A. Van Wylick, J. Ruytinx, L. De Laet, E. Peeters,\nA comprehensive framework for the production of mycelium-based\nlignocellulosic composites, Sci. Total Environ.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 69,
+      "char_count": 671
+    }
+  },
+  {
+    "text": "725 (2020) 138431. [92] Y. Lu, Z.A. Khan, M.S. Alvarez-Alvarado, Y. Zhang, Z. Huang, M. Imran, A critical\nreview of sustainable energy policies for the promotion of renewable energy\nsources 12 (12) (2020) 5078. [93] P.A.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 70,
+      "char_count": 220
+    }
+  },
+  {
+    "text": "Østergaard, N. Duic, Y. Noorollahi, H. Mikulcic, S. Kalogirou, Sustainable\ndevelopment using renewable energy technology, Renew. Energy 146 (2020)\n2430–2437. [94] M.R. Munaro, S.F. Tavares, L. Bragança, Towards circular and more sustainable\nbuildings: a systematic literature review on the circular economy in the built\nenvironment, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 71,
+      "char_count": 342
+    }
+  },
+  {
+    "text": "Prod. 260 (2020) 121134. [95] D.N. Tawasil, E. Aminudin, N.H. Abdul Shukor Lim, N.M. Nik Soh, P.C. Leng, G. H. Ling, M.H. Ahmad, Coconut fibre and sawdust as green building materials: a\nlaboratory assessment on physical and mechanical properties of particleboards,\nBuildings 11 (6) (2021). [96] Y. Paluri, V. Noolu, H. Mudavath, R. Kumar Pancharathi, Flexural fatigue\nbehavior of steel fiber-reinforced reclaimed asphalt pavement–based concrete: an\nexperimental study, practice periodical on structural design and construction 26\n(1) (2021) 04020053. [97] L. Molari, J.J. García, On the radial variation of the transverse mechanical\nproperties of bamboo, J. Build. Eng. 33 (2021) 101557. [98] P. Yogesh, K. Ravi, R. Karthik, M. Bhavana, S. Muthukumar, D. Sathyan, Strength\nand workability characteristics of hybrid bamboo and steel fiber reinforced\nconcrete, Mater. Today: Proc.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 72,
+      "char_count": 878
+    }
+  },
+  {
+    "text": "Mater. 7 (11) (2019) 1231–1250. [100] S. Singh, A. Chourasia, R.S. Bisht, S. Yadav, Thermal and Acoustic Performance of\nCement Fibreboard and Bamboo Buildings, 2021. [101] S.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 73,
+      "char_count": 174
+    }
+  },
+  {
+    "text": "Cascone, R. Rapisarda, D. Cascone, Physical properties of straw bales as a\nconstruction material, A Review 11 (12) (2019) 3388. [102] S.I. Basha, M.R. Ali, S.U. Al-Dulaijan, M. Maslehuddin, Mechanical and thermal\nproperties of lightweight recycled plastic aggregate concrete, J. Build.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 74,
+      "char_count": 285
+    }
+  },
+  {
+    "text": "Eng. 32\n(2020) 101710. [103] D.V. Marques, R.L. Barcelos, H.R.T. Silva, P. Egert, G.O.C. Parma, E. Girotto,\nD. Consoni, R. Benavides, L. Silva, R.F. Magnago, Recycled polyethylene\nterephthalate-based boards for thermal-acoustic insulation, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 75,
+      "char_count": 249
+    }
+  },
+  {
+    "text": "Prod. 189\n(2018) 251–262. [104] V. Uemura Silva, M.F. Nascimento, P. Resende Oliveira, T.H. Panzera, M. O. Rezende, D.A.L. Silva, V. Borges de Moura Aquino, F.A. Rocco Lahr, A. L. Christoforo, Circular vs. linear economy of building materials: a case study for\nparticleboards made of recycled wood and biopolymer vs. conventional\nparticleboards, Construct. Build. Mater. 285 (2021) 122906. [105] C. Kuranchie, A. Yaya, Y.D. Bensah, The effect of natural fibre reinforcement on\npolyurethane composite foams – a review, Scientific African 11 (2021) e00722. [106] M. Norouzi, M. Ch`afer, L.F. Cabeza, L. Jim´enez, D. Boer, Circular economy in the\nbuilding and construction sector: a scientific evolution analysis, J. Build. Eng. 44\n(2021). [107] G.L.F. Benachio, M.D.C.D. Freitas, S.F. Tavares, Interactions between lean\nconstruction principles and circular economy practices for the construction\nindustry, J Constr Eng Manage 147 (7) (2021). [108] H.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 76,
+      "char_count": 948
+    }
+  },
+  {
+    "text": "Huang, T. Wang, B. Kolosz, J. Andresen, S. Garcia, M. Fang, M.M. Maroto-\nValer, Life-cycle assessment of emerging CO2 mineral carbonation-cured concrete\nblocks: comparative analysis of CO2 reduction potential and optimization of\nenvironmental impacts, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 77,
+      "char_count": 261
+    }
+  },
+  {
+    "text": "Prod. 241 (2019). [109] S.M. Musavi, F. Barahuie, M. Irani, A. Safamanesh, A. Malekpour, Enhanced\nproperties of phase change material -SiO2-graphene nanocomposite for\ndeveloping structural–functional integrated cement for solar energy absorption\nand storage, Renew. Energy 174 (2021) 918–927. [110] J. Brozovsky, S. Corio, N. Gaitani, A. Gustavsen, Evaluation of sustainable\nstrategies and design solutions at high-latitude urban settlements to enhance\noutdoor thermal comfort, Energy Build. 244 (2021).",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 78,
+      "char_count": 503
+    }
+  },
+  {
+    "text": "[111] G. S´anchez-Barroso, M. Botejara-Antúnez, J. García-Sanz-Calcedo, F. Zamora-\nPolo, A life cycle analysis of ionizing radiation shielding construction systems in\nhealthcare buildings, J. Build.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 79,
+      "char_count": 198
+    }
+  },
+  {
+    "text": "Eng. 41 (2021). [112] S.E. Hale, A.J. Roque, G. Okkenhaug, E. Sørmo, T. Lenoir, C. Carlsson,\nD. Kupryianchyk, P. Flyhammar, B. ˇZlender, The reuse of excavated soils from\nconstruction and demolition projects: limitations and possibilities, Sustainability\n13 (11) (2021). [113] F.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 80,
+      "char_count": 279
+    }
+  },
+  {
+    "text": "Colangelo, I. Farina, M. Travaglioni, C. Salzano, R. Cioffi, A. Petrillo,\nInnovative materials in Italy for eco-friendly and sustainable buildings, Mater 14\n(8) (2021). [114] L. Chen, Y. Zhang, Z. Chen, Y. Dong, Y. Jiang, J. Hua, Y. Liu, A.I. Osman,\nM. Farghali, L. Huang, D.W. Rooney, P.-S. Yap, Biomaterials technology and\npolicies in the building sector: a review, Environ. Chem.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 81,
+      "char_count": 382
+    }
+  },
+  {
+    "text": "Lett. 22 (2) (2024)\n715–750. [115] R. Manandhar, J.H. Kim, J.T. Kim, Environmental, social and economic\nsustainability of bamboo and bamboo-based construction materials in buildings,\nJ. Asian Architect. Build Eng. 18 (2) (2019) 52–62. [116] C. Cornaro, V. Zanella, P. Robazza, E. Belloni, C. Buratti, An innovative straw bale\nwall package for sustainable buildings: experimental characterization, energy and\nenvironmental performance assessment, Energy Build. 208 (2020).",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 82,
+      "char_count": 471
+    }
+  },
+  {
+    "text": "[117] J. Fernandes, M. Peixoto, R. Mateus, H. Gerv´asio, Life cycle analysis of\nenvironmental impacts of earthen materials in the Portuguese context: Rammed\nearth and compressed earth blocks, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 83,
+      "char_count": 201
+    }
+  },
+  {
+    "text": "Prod. 241 (2019) 118286. L. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n16\n\n[118] J. Fernandes, M. Peixoto, R. Mateus, H. Gerv´asio, Life cycle analysis of\nenvironmental impacts of earthen materials in the Portuguese context: rammed\nearth and compressed earth blocks, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 84,
+      "char_count": 294
+    }
+  },
+  {
+    "text": "Prod. 241 (2019). [119] V. Toufigh, E. Kianfar, The effects of stabilizers on the thermal and the\nmechanical properties of rammed earth at various humidities and their\nenvironmental impacts, Constr Build Mater 200 (2019) 616–629. [120] F.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 85,
+      "char_count": 238
+    }
+  },
+  {
+    "text": "Scrucca, C. Ingrao, C. Maalouf, T. Moussa, G. Polidori, A. Messineo,\nC. Arcidiacono, F. Asdrubali, Energy and carbon footprint assessment of\nproduction of hemp hurds for application in buildings, Environ. Impact Assess. Rev. 84 (2020). [121] R. Haik, G. Bar-Nes, A. Peled, I.A. Meir, Alternative unfired binders as lime\nreplacement in hemp concrete, Constr Build Mater 241 (2020). [122] P.O. Awoyera, A. Adesina, Plastic wastes to construction products: status,\nlimitations and future perspective, Case Stud. Constr. Mater. 12 (2020). [123] B. D’Amico, F. Pomponi, J. Hart, Global potential for material substitution in\nbuilding construction: the case of cross laminated timber, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 86,
+      "char_count": 688
+    }
+  },
+  {
+    "text": "Prod. 279\n(2021). [124] C. Bruscato, E. Malvessi, R.N. Brandalise, M. Camassola, High performance of\nmacrofungi in the production of mycelium-based biofoams using sawdust —\nsustainable technology for waste reduction, J. Clean. Prod. 234 (2019) 225–232. [125] P.P. Dias, L.B. Jayasinghe, D. Waldmann, Investigation of Mycelium-Miscanthus\ncomposites as building insulation material, Results in Materials 10 (2021)\n100189. [126] D.S.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 87,
+      "char_count": 430
+    }
+  },
+  {
+    "text": "Express 6 (2)\n(2024) 025122. [128] M.S. Ali, S. Shukri, M. Patel, A. Ahad, Alternative Building Materials for\nSustainable Development in Ethiopian Construction, 2020. [129] T. Sravani, R. Prasanna Venkatesan, A. Madhumathi, A comparative LCA study of\npassive cooling roof materials for a residential building: an Indian Case study,\nMater. Today: Proc.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 88,
+      "char_count": 351
+    }
+  },
+  {
+    "text": "64 (2022) 1014–1022. [130] K.M. Liew, A. Akbar, The recent progress of recycled steel fiber reinforced\nconcrete, Construct. Build. Mater. 232 (2020) 117232. [131] M.A. Omer, T.J.S.C. Noguchi, Society, A Conceptual Framework for\nUnderstanding the Contribution of Building Materials in the Achievement of\nSustainable Development Goals (SDGs), vol. 52, 2020 101869.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 89,
+      "char_count": 362
+    }
+  },
+  {
+    "text": "[132] N. Sathiparan, A. Anburuvel, V.V. Selvam, Utilization of agro-waste groundnut\nshell and its derivatives in sustainable construction and building materials – a\nreview, J. Build. Eng. 66 (2023) 105866. [133] S. Meshram, S.P. Raut, K. Ansari, M. Madurwar, M. Daniyal, M.A. Khan, V. Katare,\nA.H. Khan, N.A. Khan, M.A. Hasan, Waste slags as sustainable construction\nmaterials: a compressive review on physico mechanical properties, J. Mater. Res. Technol. 23 (2023) 5821–5845. [134] A. Bala, S. Gupta, Engineered bamboo and bamboo-reinforced concrete elements\nas sustainable building materials: a review, Construct. Build. Mater. 394 (2023)\n132116. [135] P. Varun Raj, P. Surya Teja, K. Sai Siddhartha, J.S. Kalyana Rama, Housing with\nlow-cost materials and techniques for a sustainable construction in India-A\nreview, Mater. Today: Proc.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 90,
+      "char_count": 839
+    }
+  },
+  {
+    "text": "43 (2021) 1850–1855. [136] M. Verma, P. Singh, M. Dhanorkar, Sustainability in residue management: a\nreview with special reference to Indian agriculture, Paddy Water Environ. 22 (1)\n(2024) 1–15.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 91,
+      "char_count": 194
+    }
+  },
+  {
+    "text": "[137] E. Hany, N. Fouad, M. Abdel-Wahab, E. Sadek, Investigating the mechanical and\nthermal properties of compressed earth bricks made by eco-friendly stabilization\nmaterials as partial or full replacement of cement, Construct. Build. Mater. 281\n(2021) 122535. [138] L. Pradeep, S. Pragyan Dash, D. Jivan Pati, N. Mary Boby, Determining the\nfeasibility of using PET bottles as construction material in urban context, Mater. Today: Proc.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 92,
+      "char_count": 436
+    }
+  },
+  {
+    "text": "60 (2022) 384–393. [139] S. Ahmed, I. Arocho, Analysis of cost comparison and effects of change orders\nduring construction: study of a mass timber and a concrete building project,\nJ. Build. Eng. 33 (2021) 101856. [140] M. Jones, A. Mautner, S. Luenco, A. Bismarck, S.J.M. John, Design, Engineered\nMycelium Composite Construction Materials from Fungal Biorefineries: A Critical\nReview, 187, 2020 108397. [141] I.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 93,
+      "char_count": 411
+    }
+  },
+  {
+    "text": "Hussain, B. Ali, T. Akhtar, M.S. Jameel, S.S. Raza, Comparison of mechanical\nproperties of concrete and design thickness of pavement with different types of\nfiber-reinforcements (steel, glass, and polypropylene), Case Stud. Construct. Mater. 13 (2020) e00429. [142] T.-P. Huynh, H.-P. Phan, V.-H. Pham, V.-A. Ngo, H.-T. Luu, Utilization of waste\nincineration bottom ash as fine aggregate in the production of terrazzo tiles for\npavement, in: J.N. Reddy, C.M. Wang, V.H. Luong, A.T. Le (Eds.), ICSCEA 2021,\nSpringer Nature Singapore, Singapore, 2023, pp. 555–565. [143] M. Al Shdifat, M.L. Jal´on, E. Puertas, J. Chiachío, A quantitative group decision-\nmaking methodology for structural eco-materials selection based on qualitative\nsustainability attributes 13 (22) (2023) 12310. [144] R.W.M. Wong, B.P.Y. Loo, Sustainability implications of using precast concrete in\nconstruction: an in-depth project-level analysis spanning two decades, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 94,
+      "char_count": 948
+    }
+  },
+  {
+    "text": "Prod. 378 (2022) 134486. [145] R.M. Novais, L. Senff, J. Carvalheiras, M.P. Seabra, R.C. Pullar, J.A. Labrincha,\nSustainable and efficient cork - inorganic polymer composites: an innovative and\neco-friendly approach to produce ultra-lightweight and low thermal conductivity\nmaterials, Cem. Concr.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 95,
+      "char_count": 296
+    }
+  },
+  {
+    "text": "Compos. 97 (2019) 107–117. [146] C. Cornaro, V. Zanella, P. Robazza, E. Belloni, C. Buratti, An innovative straw bale\nwall package for sustainable buildings: experimental characterization, energy and\nenvironmental performance assessment, Energy Build. 208 (2020) 109636.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 96,
+      "char_count": 270
+    }
+  },
+  {
+    "text": "[147] P.O. Awoyera, A. Adesina, Plastic wastes to construction products: status,\nlimitations and future perspective, Case Stud. Constr. Mater. 12 (2020) e00330. [148] B. Yu, A. Fingrut, Sustainable building design (SBD) with reclaimed wood library\nconstructed in collaboration with 3D scanning technology in the UK, Resour. Conserv. Recycl. 186 (2022) 106566. [149] A. Kanyilmaz, M. Birhane, R. Fishwick, C. del Castillo, Reuse of steel in the\nconstruction industry: challenges and opportunities, International Journal of Steel\nStructures 23 (5) (2023) 1399–1416. [150] A.M. Alsuhaibani, M.S. Refat, S.A. Qaisrani, F. Jamil, Z. Abbas, A. Zehra,\nK. Baluch, J.-G. Kim, M. Mubeen, Green buildings model: impact of rigid\npolyurethane foam on indoor environment and sustainable development in\nenergy sector, Heliyon 9 (3) (2023) e14451. [151] S. Hetimy, N. Megahed, O.A. Eleinen, D. Elgheznawy, Exploring the potential of\nsheep wool as an eco-friendly insulation material: a comprehensive review and\nanalytical ranking, Sustain. Mater.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 97,
+      "char_count": 1030
+    }
+  },
+  {
+    "text": "Technol. 39 (2024) e00812. [152] M. Gomaa, S. Schade, D.W. Bao, Y.M. Xie, Automation in rammed earth\nconstruction for industry 4.0: precedent work, current progress and future\nprospect, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 98,
+      "char_count": 195
+    }
+  },
+  {
+    "text": "Prod. 398 (2023) 136569. [153] L. Essaghouri, R. Mao, X. Li, Environmental benefits of using hempcrete walls in\nresidential construction: an LCA-based comparative case study in Morocco,\nEnviron. Impact Assess.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 99,
+      "char_count": 209
+    }
+  },
+  {
+    "text": "Rev. 100 (2023) 107085. [154] N. Shinde, R. Gobinath, S. Chidambaram, M. Shewale, An experimental\ninvestigation on concrete blocks using Ferrock as a green binding material,\nMaterials Today, Proceedings (2023). [155] I.J. Mogaji, S.A. Makanjuola, O. Alake, Study on density and water absorption\nproperties of timbercrete block, Mater. Today: Proc.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 100,
+      "char_count": 347
+    }
+  },
+  {
+    "text": "(2023). [156] H. Liang, W. Xie, P. Wei, Y. Zhou, Z. Zhang, The effect of the decorative surface\nlayer on the dynamic properties of a symmetric concrete slab 13 (7) (2021) 1174. [157] H. Peng, P. Walker, D. Maskell, B. Jones, Structural characteristics of load bearing\nstraw bale walls, Construct. Build. Mater. 287 (2021) 122911. [158] M.S. Haque, Sustainable use of plastic brick from waste PET plastic bottle as\nbuilding block in Rohingya refugee camp: a review, Environ. Sci.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 101,
+      "char_count": 478
+    }
+  },
+  {
+    "text": "Pollut. Control\nSer. 26 (36) (2019) 36163–36183. [159] Y. Zhou, V.W.Y. Tam, K.N. Le, Sensitivity analysis of design variables in life-cycle\nenvironmental impacts of buildings, J. Build. Eng. 65 (2023) 105749. [160] A.V. Orhon, M. Altin, Utilization of alternative building materials for sustainable\nconstruction, in: I. Dincer, C.O. Colpan, M.A. Ezan (Eds.), Environmentally-\nBenign Energy Solutions, Springer International Publishing, Cham, 2020,\npp. 727–750. [161] S. Gounder, A. Hasan, A. Shrestha, A. Elmualim, Barriers to the use of sustainable\nmaterials in Australian building projects, Eng. Construct.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 102,
+      "char_count": 608
+    }
+  },
+  {
+    "text": "Architect. Manag. 30 (1)\n(2023) 189–209. [162] S. Barbhuiya, B.B. Das, Life Cycle Assessment of construction materials:\nmethodologies, applications and future directions for sustainable decision-\nmaking, Case Stud. Constr. Mater. 19 (2023) e02326. [163] A. Luca, G. Antonio, L. Scalia Giada, L. Fata Concetta Manuela, M. Rosa, Life cycle\nassessment of a new industrial process for sustainable construction materials,\nEcol. Indicat.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 103,
+      "char_count": 431
+    }
+  },
+  {
+    "text": "148 (2023) 110042. [164] E. Allen, J. Iano, Fundamentals of Building Construction: Materials and Methods,\nJohn Wiley & Sons, 2019. [165] K. Schanes, J. J¨ager, P. Drummond, Three scenario narratives for a resource-\nefficient and low-carbon europe in 2050, Ecol. Econ.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 104,
+      "char_count": 267
+    }
+  },
+  {
+    "text": "155 (2019) 70–79. [166] H. Fitriani, S. Ajayi, Investigation of requisite measures for enhancing sustainable\nconstruction practices in Indonesia, Eng. Construct. Architect. Manag. 30 (6)\n(2023) 2602–2620. [167] S. Madhushan, S. Buddika, S. Bandara, S. Navaratnam, N. Abeysuriya, Uses of\nbamboo for sustainable construction—a structural and durability perspective—a\nreview 15 (14) (2023) 11137. [168] C.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 105,
+      "char_count": 402
+    }
+  },
+  {
+    "text": "Chang, X. Yin, Are straw bales better insulation\nmaterials for constructions? A review, Developments in the Built Environment 15\n(2023) 100209. [169] M. Jawaid, B. Singh, L.K. Kian, S.A. Zaki, A.M. Radzi, Processing techniques on\nplastic waste materials for construction and building applications, Curr. Opin. Green Sustainable Chem. 40 (2023) 100761. [170] J. Iˇzdinský, Z. Vidholdov´a, L. Reinprecht, Particleboards from recycled wood 11\n(11) (2020) 1166. [171] L. Yiping, L. Yanxia, K. Buckingham, G. Henley, Z. Guomo, Bamboo and Climate\nChange Mitigation: a Comparative Analysis of Carbon Sequestration, vol. 30,\nInternational Network for Bamboo and Rattan, 2010. [172] A.S. Devi, K.S. Singh, Carbon storage and sequestration potential in aboveground\nbiomass of bamboos in North East India, Sci. Rep.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 106,
+      "char_count": 804
+    }
+  },
+  {
+    "text": "11 (1) (2021) 837. [173] G. Spampinato, D.E. Massimo, C.M. Musarella, P. De Paola, A. Malerba,\nM. Musolino, Carbon Sequestration by Cork Oak Forests and Raw Material to Built\nup Post Carbon City, International Symposium on New Metropolitan Perspectives,\nSpringer, 2018, pp. 663–671.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 107,
+      "char_count": 282
+    }
+  },
+  {
+    "text": "[174] J. Vengala, B. Mohanthy, S. Raghunath, Seismic performance of Bamboo\nhousing–an overview, Proc. World Bamboo Congr 1 (2015) 389–407. [175] J. Wang, C. Demartino, Y. Xiao, Y. Li, Thermal insulation performance of bamboo-\nand wood-based shear walls in light-frame buildings, Energy Build. 168 (2018)\n167–179.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 108,
+      "char_count": 312
+    }
+  },
+  {
+    "text": "[176] S. Madhushan, S. Buddika, S. Bandara, S. Navaratnam, N. Abeysuriya, Uses of\nbamboo for sustainable construction—a structural and durability perspective—a\nreview, Sustainability 15 (14) (2023) 11137. L. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n17\n\n[177] D. Akwada, E.T. Akinlabi, Economic, social and environmental assessment of\nbamboo for infrastructure development, in: International Conference on\nInfrastructure Development in Africa, 2016, pp. 1–15.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 109,
+      "char_count": 478
+    }
+  },
+  {
+    "text": "[178] S. Bringezu, J. Potoˇcnik, H. Schandl, Y. Lu, A. Ramaswami, M. Swilling, S. Suh,\nMulti-scale governance of sustainable natural resource use—challenges and\nopportunities for monitoring and institutional development at the national and\nglobal level, Sustainability 8 (8) (2016) 778. [179] Y.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 110,
+      "char_count": 295
+    }
+  },
+  {
+    "text": "Krozer, F. Coenen, J. Hanganu, M. Lordkipanidze, M. Sbarcea, Towards\ninnovative governance of nature areas, Sustainability 12 (24) (2020) 10624. [180] L. Shen, J. Yang, R. Zhang, C. Shao, X. Song, The benefits and barriers for\npromoting bamboo as a green building material in China—an integrative analysis,\nSustainability 11 (9) (2019) 2493. [181] R.W. Wong, B.P. Loo, Sustainability implications of using precast concrete in\nconstruction: an in-depth project-level analysis spanning two decades, J. Clean.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 111,
+      "char_count": 506
+    }
+  },
+  {
+    "text": "Prod. 378 (2022) 134486. [182] M.R. Factsheet, EuRIC AISBL–Recycling: Bridging Circular Economy & Climate\nPolicy, URL: https://www.euric-aisbl.eu/[in English]. [183] F. Di Maio, P.C. Rem, A robust indicator for promoting circular economy through\nrecycling, J. Environ. Protect. 6 (10) (2015) 1095–1104. [184] A.M. Maglad, M. Houda, R. Alrowais, A.M. Khan, M. Jameel, S.K.U. Rehman,\nH. Khan, M.F. Javed, M.F. Rehman, Bim-based energy analysis and optimization\nusing insight 360 (case study), Case Stud. Constr. Mater. 18 (2023) e01755. [185] S. Dalirazar, Z. Sabzi, Strategic analysis of barriers and solutions to development\nof sustainable buildings using PESTLE technique, International Journal of\nConstruction Management 23 (1) (2023) 167–181. [186] M.-L. Tseng, S.-X. Li, C.-W.R. Lin, A.S.F. Chiu, Validating green building social\nsustainability indicators in China using the fuzzy delphi method, Journal of\nIndustrial and Production Engineering 40 (1) (2023) 35–53. [187] M.A. Abdelaal, S.M. Seif, M.M. El-Tafesh, N. Bahnas, M.M. Elserafy, E. S. Bakhoum, Sustainable assessment of concrete structures using BIM–LCA–AHP\nintegrated approach, Environ. Dev. Sustain. (2023). [188] G. Kaur, R. Kander, The sustainability of industrial hemp: a literature review of its\neconomic, Environmental, and Social Sustainability 15 (8) (2023) 6457. [189] Q.",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 112,
+      "char_count": 1346
+    }
+  },
+  {
+    "text": "Chang, L. Liu, M.U. Farooqi, B. Thomas, Y.O. ¨Ozkılıç, Data-driven based\nestimation of waste-derived ceramic concrete from experimental results with its\nenvironmental assessment, J. Mater. Res. Technol. 24 (2023) 6348–6368. [190] N. Murtagh, L. Scott, J. Fan, Sustainable and resilient construction: current status\nand future challenges, J. Clean. Prod. 268 (2020) 122264. L. Chen et al. Materials Today Sustainability 27 (2024) 100930 \n18",
+    "metadata": {
+      "source": "Cork_Chen.pdf",
+      "material_category": "Cork",
+      "source_path": "data\\raw\\Cork\\Cork_Chen.pdf",
+      "chunk_index": 113,
+      "char_count": 439
+    }
+  }
+]

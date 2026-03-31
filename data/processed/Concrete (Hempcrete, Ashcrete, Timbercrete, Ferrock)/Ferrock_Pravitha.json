@@ -1,0 +1,552 @@
+[
+  {
+    "text": "Construction and Building Materials 396 (2023) 132289\nAvailable online 6 July 2023\n0950-0618/© 2023 Elsevier Ltd. All rights reserved. Mechanical properties and microstructural characterization of ferrock as \nCO2–negative material in self-compacting concrete \nJ. Jeffy Pravitha *, R. Ninija Merina, N. Subash \nDepartment of Civil Engineering, University College of Engineering Nagercoil, Tamil Nadu, India   \nA R T I C L E  I N F O   \nKeywords: \nSelf-compacting concrete \nFerrock \nBond strength \nCO2 –negative \nCement–use efficiency index \nXRD \nSEM \nA B S T R A C T   \nThe construction industry is one of the major sources of pollution and global warming, with the utilization of \ncement being a significant contributor. This study aimed to minimize cement usage in construction while \nmaintaining overall strength through the development of sustainable and eco-friendly concrete. A self- \ncompacting concrete (SCC) was created by replacing cement with eco-friendly ferrock, aggregates and super­\nplasticizers at levels of 5%, 10%, 15%, 20% and 25%. The optimal blend was determined based on fresh and \nmechanical behaviour parameters. Rheological analysis of the fresh concrete was conducted using L-box, Slump \ncone, V-funnel equipment and visual stability index. The SCC was then cured through water immersion, CO2 \nexposure and a combination of both. The performance of the ferrock SCC was evaluated under different curing \nconditions to determine its hardened and microstructural properties. The addition of ferrock altered the prop­\nerties of the concrete, and changing the curing method also influenced the behaviour of the hardened concrete. CO2 curing achieved about 40% of the concrete strength within four hours, while combined water and CO2 \ncuring produced higher-quality concrete, as shown by UPV, SEM, and XRD results. The incorporation of ferrock \nalmost doubled the strength of the concrete in combined curing. At an optimum replacement level of 10%, the \ncompressive strength values of water, CO2, and combined curing increased by 21.9%, 25.9% and 32.6%, \nrespectively, after 28 days. The bond strength also increased by 20% at this level of ferrock addition for com­\nbined curing. Comparison with normal SCC indicated that the ferrock-based SCC was physically stronger at an \noptimum replacement level of 10%, with a higher degree of compaction and dense matrix. These findings suggest \nthe superiority of ferrock SCC, which offers potential for use in future construction. 1. Introduction \nThe activities of the construction industry have almost reached its \npeak in recent decades and the heights of buildings are increasing at a \nlarge pace every day. In such an event, the usage of normal concrete is \nfairly difficult for being compacted at heights. Also, in the case of narrow \nbeams or where there is less working space normal concreting has \nbecome tedious [1,2]. In such a situation, SCC can eliminate the issue \nfaced in the compaction of concrete in high-scrap buildings",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 0,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": ". Besides, it \nminimizes the duration of construction. The concept of self-compacting \nconcrete came into being in the late 1980s, offering good flowability and \nideal compaction under its self-weight [3]. Owing to its advantages, its \napplication spreads widely in the construction of dams, bridges, high- \nrise buildings and infrastructures. Contrary to the claim, the utilization of SCC in the construction in­\ndustry has to deal with a large quantity of portland cement and chemical \nsubstances imposing limitations on the sustainability of concrete tech­\nnology. This issue can be solved by recycling industrial byproducts to \nmaintain the freshness and durability of the concrete [4–6]. Also, the \nworld’s thirst for materialization and industrialization is increasing in \nan alarming way increasing carbon intrusion into the atmosphere. The \nconstruction sector accounts for the emission of 38% of carbon forming a \nreason for climate change, says the UN report [7] which compels re­\nsearchers to look for a suitable carbon-negative material. One such \nmaterial is ferrock, developed from the combination of industrial resi­\ndues with an absolute capacity of absorbing CO2 in the air like a sponge. It is a less expensive material developed by researchers equal to that of \nPortland cement concrete having ideal mechanical and flexural prop­\nerties [8]. Ferrock is a combination of iron dust, fly ash, metakaolin and lime­\nstone powder with a major proportion of iron scraps from steel in­\ndustries [8,9]. In recent times, India has become the second-largest \n* Corresponding author.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 1,
+      "char_count": 1590
+    }
+  },
+  {
+    "text": "E-mail address: jeffypravitha@gmail.com (J. Jeffy Pravitha). Contents lists available at ScienceDirect \nConstruction and Building Materials \njournal homepage: www.elsevier.com/locate/conbuildmat \nhttps://doi.org/10.1016/j.conbuildmat.2023.132289 \nReceived 10 February 2023; Received in revised form 16 June 2023; Accepted 23 June 2023\n\nConstruction and Building Materials 396 (2023) 132289\n2\nsector of steel manufacturing in the world. The global production of such \na demanded material is fully yielded by several steel units all over the \ncountry. The ministry of steel in India reported a huge turnover of 99.57 \nmillion tonnes of steel around the global year 2020–2021. In such a \nscenario, environmental management and energy efficiency becomes \nthe crucial elements to be under control to balance environmental \ndestruction [10]. In favour, the ministry of steel has offered the possible \nuse of slag waste from the iron and steel industries in the construction \ndepartment with the provision of developing codes and guidelines for \nlandfilled hazardous materials. Eventually, the increase in the iron and \nsteel market expected a dropout of 2,40,643 tonnes of mill-scale waste, \niron dust and other solid wastes into the dry lands [11]. These scraps \noccur either as metallic iron or as iron oxides in the form of wustite \n(FeO), haematite (Fe2O3) and magnetite (Fe3O4) [12,13]. It is as well \nassociated with iron specks of dust which were liberated during the fume \npurification process with a copious amount of iron oxide in it [14]. These \nresidues can harmfully spoil the soil morphology of the dumped areas. As a matter of recycling the above, researchers have utilized them as \nreplacements in concrete and acquired satisfactory results. Partial \nreplacement of iron particles for cement has been reported, which states \nthe traces of silica present in the iron slag is converted to calcium silicate \nand aluminate which serves as an activation factor in filling the voids \nthrough the interfacial transition zone (ITZ) of the concrete. The SEM studies of the above concrete showed a well-developed \ncrystalline structure along with ettringite causing a denser matrix with \niron slag [15]. Moreover, studies have been extended to analyze the \ndegree of durability issues while incorporating iron in concrete. The \niron-filled SCC performs relatively well in acid and sulfate exposure with \ngood resistance to chloride ions [16]. Besides its solid nature, the iron \nfillings gave greater strength to the concrete due to its angular texture \nwhich actively fills the voids thereby enhancing the mechanical prop­\nerties [17]. Studies have also proved the material greenness of these \niron-packed engineered composites in minimizing primary energy usage \nand CO2 emission [18]. Additionally, the pozzolanic materials in ferrock \nconcrete like fly ash, metakaolin and micro sized limestone powder \nenhanced the filling effect in the concrete and build a better bond be­\ntween the aggregate a",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 2,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "nd the cement paste [19–23]. Equally, the addi­\ntion of 10% silica fume in SCC does not find to hinder the performance of \nconcrete but instead helps in maintaining the flow partially [24]. On \nconcern with flowability, researchers focused the potential use of \nsuperplasticizers (SP) and viscosity modifying agents (VMA) in SCC, \nwhich assist in maintaining the fluidity and stability of concrete, \nconsequently reducing bleeding and segregation problems [25]. This \nincreases the ease of working and prevents the problem of the aggregates \nget clogging between the reinforcement [9]. The well-settled idea of using pozzolanic materials in concrete is \nneeded to be revisited in the context of utilizing industrial waste ma­\nterials and byproducts such as iron dust, fly ash, metakaolin and lime­\nstone powder in the form of ferrock in SCC. Furthermore, ferrock is an \nold revolutionary material entirely composed of waste materials, its use \nis restricted in the construction industry owing to its less affordability for \nlarge scale projects. One of the alternatives for rehabilitating the ferrock \ntechnology is blending this source material with cement and finding the \npossibility of curing without external CO2 sequestration. The study aims \nin the aforementioned statement by finding the optimum replacement of \nferrock in SCC to compromise the concrete strength and to analyze the \nfeasibility of preparing ferrock-based SCC without CO2 curing. This \npaper presents a novelty of finding an economic method of repurposing \nthe thrown out hazardous by products from industries in the form of \nferrock to develop an environmentally friendly high strength self com­\npacting concrete which can possibly be the futures’ preference. The ferrock, developed by David Stone is purely a non-cement ma­\nterial which hardens by the carbonation of pozzolanic materials in the \npresence of oxalic acid. The chemical reaction between iron dust and \nCO2 yields iron carbonate which initiates the strength of the ferrock \nconcrete [8,26]. The present study tries to incorporate this eco-friendly \nmaterial in combination with cement and analyses the feasibility of \ndeveloping a hybrid ferrock concrete under water curing. The behavior \nof ferrock in SCC under different curing regimes was studied. The in­\nfluence of ferrock on the flow characteristics of the fresh SCC and the \nhardening phenomena of the concrete formed part of the study. Micro­\nstructural characterization was carried out to evaluate the porous nature \nof the concrete matrix and the bonding of the aggregate-cement mortar. The compatibility of ferrock with SCC under conventional and non- \nconventional methods of curing was studied and the optimum percent­\nage of ferrock with satisfactory results were reported. 2. Materials and methods \n2.1. Materials \nThe cement used is OPC grade-53 with a specific gravity of 3.15 and a \nfineness modulus of 5% on 90µ sieve, conforming to the standards of BIS \n12269 [27]. The oxides and phase mine",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 3,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ralogy composition were iden­\ntified by XRF (Table: 1) and the SEM and XRD data analysis were as \nshown in Fig. 1. The calcium content is greater than 60%, comprising \nalite and belite crystals with traces of silicate and aluminate. The SEM \nimages an irregular rough texture of cement particles as seen in Fig. 1. Ferrock is a complex material comprising iron dust, fly ash, meta­\nkaolin and limestone powder. Required iron dust was collected from an \niron & steel industry from Karnataka (India), where its disposal is re­\nported to be difficult and cost-intensive. As the above material was \nsourced from the disposal yard, the size of the particles was not uniform \nwhich necessitated screening in the sieve (90 µ). The ferrock is then \nprepared using 60% iron dust 20% fly ash, 10% limestone and 10% \nmetakaolin. The cumulative particle size distribution as analysed by PSA \n(particle size analyzer) gave a mean particle size of 75 µm (Fig. 4), which \ncorrelates the compatibility of ferrock micro-particles with that of \ncement. The fly ash used here is of class F with specifications conforming \nto BIS: 3812-1987 [28] and the limestone and metakaolin were of size \nless than 100 µm. The oxidal composition is presented in Table 1. The \nstructural composition of minerals in ferrock was analyzed by X-ray \ndiffraction (XRD) conducted at 2θ in the range of 10◦to 80◦and the peak \nmineral components were identified. The sharp narrow peaks charac­\nterize the crystalline phases of hematite (Fe2O3) and aluminium-bearing \nhematite (Fe1.84Al0.16O3). The analysis also confirmed the presence of \ndiopside [Ca0.59Mg1.41SiO6], andradite (Ca3Fe2SiO4) and meta-silli­\nmanite (Al2SiO5) as major components. The surface morphology and \nmineral phase distribution of ferrock (Fig. 2) confirm the occurrence of \niron oxide as a major component constituted by small-sized particles \nwith high surface area [29,30]. Iron oxide is a naturally occurring \ncompound that can exist in several forms, including hematite, magne­\ntite, and goethite. These forms of iron oxide have distinct crystal \nstructures and exhibit characteristic peaks in their X-ray diffraction \npatterns. Therefore, the presence of iron oxide in a material can result in \na narrow peak configuration that is indicative of a highly crystalline \nmaterial [31]. On the other hand, the calcite, silicate and aluminate \nphases are minerals that typically have less well-defined crystal struc­\ntures. These phases can exist in various forms, including amorphous or \npoorly crystalline, which can make the material appear more amorphous \noverall. Therefore, the combination of these two types of phases in a \nmaterial can result in a material that exhibits both highly crystalline and \namorphous properties. This can make it challenging to characterize the \nmaterial accurately, as it may exhibit a mixture of narrow and broad \npeaks in its X-ray diffraction pattern. Overall, the presence of iron oxide \nmay contribute to a narrow peak configurat",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 4,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ion, but the other phases \npresent can make the material appear more amorphous in nature. The silica fume with an average particle size of 25 µm is used in this \nstudy (Fig. 4). The PSA showed a cumulative diameter ranging from 4.2 \nµm (10%) to 54 µm (90%). XRD results in Fig. 3 display the SiO2 content \nin the form of quartz, which accounted for a high percentage followed by \ntraces of MgO, K2O and Na2O (Table 1). J. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n3\nAlso, good quality manufactured sand from rock dust (M-sand) of \nsize below 4.75 mm was used as a fine aggregate. As high as 96% of the \nabove sand particles passed through 4.75 mm sieve. The specific gravity \nwas determined to be 2.26 and the fineness modulus was 3.31 con­\nforming to zone II of IS 383–1970 [32]. Coarse aggregate of crushed \ngranite to a maximum size of 12 mm was used. The specific gravity and \nfineness were 2.56 and 6.5 respectively in accordance with IS 2386 (Part \nI)-1983 [33]. The grading of the aggregates was presented in Fig. 4. The superplasticizer used in this study was a poly-carboxylate based \nether (PCE) with a specific gravity of 0.02 to 1.10. PCE is a new gen­\neration polymerized superplasticizer conformed to BIS: 9103:1999 [34], \nwith a high molecular weight that performs superior to other water \nretarders in maintaining the slump at the usual setting time of the \nconcrete [35]. The viscosity modifying agent used was also a polymer­\nized form of poly-carboxylate ether solution obtained locally from a \nchemical manufacturing industry. It was a colorless to light hazy liquid \nwith a pH of 6 and a specific gravity of 1.10. Normal tap water was used \nfor the mixing. The calculated quantity of the components was mixed to get ferrock- \nbased SCC to qualify for EFNARC standard [36]. Despite the existence of \nsome standards, it is more important to conduct some tests on several \ntrails in order to improve component ratios and rheological standardi­\nzation for filling and segregation. For a high strength, self-compacting \nconcrete of grade M40, a combination in the proportions 1:1.27:1.32 \nwas developed. Table 2 indicates the replacement level of cement with \nferrock. Ferrock was substituted at different levels (5, 10, 15, 20 and \n25%) of cement with a control mix. Silica fume was substituted at a \nconstant level of 10 % of cement in all mixes. The water-to-binder ratio \nwas kept at a constant range of 0.32 with a fine aggregate content \nmaintained within the specified limit of 48–55% of the total aggregate \n[36]. The volume ratio of paste to the concrete mixture was 0.42 and the \npaste content in the mix was 409.5 l/m3. Generally, SCC is developed \nwith high powder content at a low water/cement ratio [37] for which \nthe flowability is achieved by the addition of superplasticizers and vis­\ncosity modifying agents. The superplasticizer used was 1.5% of the \nbinder content and water content (190 ± 10 l/m3) and was marginally \nadjusted t",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 5,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "o achieve the performance of the fresh mix. The mixing was done as follows: The components in dry form were \nmixed well using a mixer machine for one minute. Around 70% of the \nFig. 1. SEM and XRD data for cement. Table 1 \nOxide composition in percent of cement, ferrock and silica fume. Oxide \nCement \nFerrock \nSilica fume \nCaO  \n68.05  \n6.50 \n2.05 \nSiO2  \n17.51  \n27.23 \n86.85 \nAl2O3  \n9.75  \n20.88 \n1.88 \nMgO  \n2.59  \n11.22 \n1.28 \nFe2O3  \n–  \n32.66 \n1.88 \nSO3  \n–  \n0.04 \n0.90 \nNa2O  \n1.22  \n0.56 \n1.00 \nK2O  \n0.88  \n0.22 \n4.30 \nTiO2  \n–  \n0.69 \n\\mathord{-} -  \nFig. 2. SEM and XRD data for ferrock. J. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n4\nFig. 3. SEM and XRD data for silica fume. Fig. 4. Particle size distribution of ferrock, silica fume, and fine and coarse aggregates used in the study (upper and lower limits of fine and coarse aggregates \ncorresponds to IS 383-1970). Table 2 \nMaterial Composition of SCC. Mix ID* \nCement (Kg/ m3) \nSilica fume \n(Kg/ m3) \nFerrock \n(Kg/ m3) \nFine aggregate \n(Kg/m3) \nCoarse aggregate \n(Kg/m3) \nWater \n(l/m3) \nSP (%) \nVMA (%) \nSCCF0 \n550 \n50 \n0 \n764 \n790 \n180  \n1.5  \n0.1 \nSCCF5 \n522.5 \n50 \n27.5 \n764 \n790 \n180  \n1.5  \n0.1 \nSCCF10 \n495 \n50 \n55 \n764 \n790 \n186  \n1.5  \n0.1 \nSCCF15 \n467.5 \n50 \n82.5 \n764 \n790 \n190  \n1.5  \n0.1 \nSCCF20 \n440 \n50 \n110 \n764 \n790 \n196  \n1.5  \n0.1 \nSCCF25 \n412.5 \n50 \n137.5 \n764 \n790 \n200  \n1.5  \n0.1 \n*SCCF0 represents the control mix and SCCF5, SCCF10, SCCF15, SCCF20, SCCF25 represent ferrock-SCC at 5, 10, 15, 20 and 25% respectively. J. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n5\ntotal water required is then added and mixed for another minute. Superplasticizer is added to the concrete mixture with the remaining \n20% of water [21]. Finally, the remaining 10% water and viscosity \nmodifying agent were added and blended with SCC. The SCC thus pre­\npared is tested for its workability requirements and then cast into cubes \nwith the side measurement of 150 mm and cylinders (150 mm dia. and \n200 mm height). The fresh SCC poured into moulds was placed under \nambient room temperature for one day to enable the setting. After 24 h, \nthey were unmoulded and subjected to three different curing conditions. −\nC1 curing by hydration with a relative humidity of 100 %, for \n7,14,28 and 56 days  \n−\nC2 curing in a closed environment containing CO2 at an initial \npressure of 340–380 kPa [38] for 4 h followed by air curing under \nambient temperature for 7, 14, 28 and 56 days. −\nC3 curing under CO2 for 4 h with similar conditions of C2 followed \nby water ponding until 7,14,28 and 56 days of testing. The CO2 curing was carried out in a closed chamber with an outlet \nvalve and an inlet pressurized valve for the supply of CO2 and its \nregulation. The demoulded SCC specimens were kept in a sealed \nchamber containing CO2 gas of 99.9% purity and the gas is allowed to \npenetrate the samples under high pressure of about 350 kPa (350 ± 10 \nkPa). After 4 h the",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 6,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "samples were taken out of the chamber and exposed \nto the above mentioned curing conditions. 2.2. Methods \n2.2.1. Test setup and procedures \nThe rheological study on the passing and filling ability of the viscous \nSCC characterizes the flowability criteria. Slump test, T500, V- funnel, \nV-funnel at T5 min and L-box test were carried out as per IS 1199 part 6 \n[39]. Also, visual observation was done to assess the possibility of \nsegregation and bleeding in concrete. Also, concrete in its hardened \nstate was tested for compression, tension and density to assess the \nrobustness under differential curing regimes. Three cubes of the size \n150x150x150 mm were compressed under a Universal Testing Machine \n(UTM) according to IS 516 (1959) [40] and the average ultimate \nstrength was evaluated. Similarly, cylindrical specimens were tested \nunder UTM for tension along the horizontal axis as per IS 5816 (1999) \n[41]. An Ultrasonic Pulse Velocity test was also carried out in accor­\ndance with ASTM C 597-02 [42], to infer the porous nature and quality \nof the solid concrete material. The Bond test is done in accordance with RILEM RC6 [43]. Pull-out \nspecimens are customized by supporting a 16 mm reinforced rod to the \nfull depth of the cube specimen through its vertical axis. After 28 days of \nrelevant curing, the pull-out specimens are tested under UTM and the \nnominal bond strength τbond was determined [44,45] using the Eqn. (1): \nτbond = Fmax\nπdl\n(1) \nIn exercising the above formula, it is assumed that the distribution of \nbond stress along the embedded length of the steel bar was uniform. Here the value ‘l’ was kept constant for every mix specimen as 150 mm. 2.2.2. CO2 uptake and cement-use efficiency \nThe quantity of CO2 absorbed was estimated as per the mass-curve \nmethod [38,46]. Eqn. (2) is used to know the degree of carbonation \nfor the CO2-exposed samples by proportioning the mass increment on \nthe samples. The change in mass directly correlates to the amount of \nreacted CO2. CO2 uptake (%) = Mf\nMi\n× 100\n(2) \nIn the above equation, Mf denotes the increase in mass of the sample \nsubjected to CO2 whereas Mi, is the initial mass of the sample. Cement- \nuse efficiency index calculation is made to arrive at the reduced usage of \ncement in ferrock-based SCC production. Eqn. (3) calculates by deter­\nmining the total amount of binder necessary to develop 1 MPa of \nstrength [47,48]. The SCC performance based on this index serves as the \ndeciding factor for satisfactory surveillance of ferrock in a hazard free \nenvironment. Ci = b\np\n(3) \nWhere, Ci- cement use efficiency Index, b- the total amount of cement \nconsumed, p -performance of the system which is mainly compressive \nstrength. 2.2.3. Micro-structure characterization \nBroken concrete pieces were crushed to powder and sieved in a 90- \nµm sieve. A sample containing 5 g was tested in an X-Ray Diffractometer \nat a range of diffraction angle (2θ) between 10◦and 90◦with a step \nwidth of 0.02◦. The XRD spectral",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 7,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "patterns obtained are then analyzed by \ncomparing the peaks with the JCPDS chart of inorganic compounds. For \nmorphological analysis, a high-vacuum scanning electron microscope \nwith secondary electron detectors was used at 10 kV, picturing the \nmineralogical components formed during the process of hydration and \ncarbonation. 3. Results and discussions: \n3.1. Fresh concrete analysis \nThe firmness and the viscosity of flow determine the stability of SCC \nwhich is characterized from the fresh concrete examination by slump \ntest, T500 test, V – funnel and L – box tests. Visual observation on \nsegregation and bleeding was done to avoid deformability and the high \nrisk of drying shrinkage in concrete. The amount of water added to an \nSCC mix impacts the workability of the concrete in a number of ways \n[19]. Since ferrock is relatively a water-absorbing firm [49], estimated \nslump flow diameter was designated to a maximum limit (725 mm), \nwhich would not likely affect the flow with the addition of ferrock. On \nenquiring about the slump specifications, all the values fall under the \nslump class of SF2, where EFNARC suggest a safe applicable limit for the \nnormal construction of walls and columns [36]. Upon addition of fer­\nrock, the slump flow was found a whit restricted as expected, although \nresilient in its properties against 25% replacement of ferrock as shown in \nFig. 5. Each increment in ferrock content decreases the slump rate by an \naverage of 10 mm as the iron powder in ferrock retards the flow rate of \nthe fresh mix, whereas the presence of fly ash, metakaolin and limestone \npowder was found to increase the working ability in its fresh state [50]. These ultra fine particles tend to fill the voids existing among the binder \nparticles, thereby decreasing the ratio of voids between the cementing \nsubstances. It can be said to balance the water content absorbed by the \niron powder [51]. Furthermore, the existence of limestone in the sup­\nplementary material creates a positive synergetic action with the fly ash \npromoting the liquid state behavior of SCC due to its structural config­\nuration and filling capability [52,53]. L-box test values were defined in the range of 0.8 – 1 [36]. All the \nmixes with ferrock have been found to possess its marginal distribution \nof values between the limits except SCCF25 as in Fig. 5. However, it was \nsuggested to have the L-box values from 0.6 to 1, as a criterion of \nblocking resistance necessitating passing ability [54]. Thus, all the SCC \nmixes can be accepted for its satisfactory performance under the filling \nand passing ability. The viscosity of the mix is remarkable by its \nperception under T500 and V-funnel tests. Fig. 6 reveals a drop in flow \nseconds indicating an impingement in filling ability for higher replace­\nment of ferrock. Such hindrance may be due to the high-level packing \ndensity of minerals which would progressively lower the rate of flow in \nthe mix [55]. The flow concerning plastic viscos",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 8,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "ity is smooth up to 15% \nreplacement of ferrock, thereafter the flow rate tends to outrage the \nJ. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n6\nlimitations specified by EFNARC [36]. The addition of fines tends to \nincrease the viscosity of the mix, thus decreasing the flow rate followed \nby an increased time of flow which is in agreement with earlier works \n[50,56]. The segregation was analyzed by visual stability index (VSI) and V- \nfunnel at T5 min and the values are given in Table 3. Mix SCCF25 \ndemonstrated an unsatisfactory time of flow, besides the mix looked \nunstable with a minimal threat of segregation and bleeding, which falls \nunder the category of VSI I. All the other mixes were found to have an \nacceptable performance of + 3 sec in T5 min and incurred a visual \nstability index of VSI 0. The discrepancy is due to an increase in plastic \nvelocity that gradually decreases the settlement rate of coarse aggre­\ngates improving the property of segregation resistance [4]. The rela­\ntionship between bulk density and fluidity in concrete is apparent, as a \nhigher bulk density results in a lower rate of fluidity. However, the \naddition of pozzolanic fines with a ball-bearing effect can increase the \nrate of flow by reducing cohesion between particles, which may lead to \nsegregation and bleeding in self-consolidating concrete (SCC) [57]. To \ncounterbalance this effect, the introduction of iron powder with an \nenlarged bulk density aims to negotiate the possibility of segregation \nand bleeding by counteracting the ball-bearing effect of other fines in \nthe mix. 3.2. Hardened properties \n3.2.1. Compressive strength \nThe mechanical strength at the 7, 14, 28 and 56th day was ascer­\ntained by concrete compression test using a universal testing machine. The real-time strength variation is compared and presented in Fig. 7 (a), \n(b) and (c). Fig. 7(a) shows the compressive strength exhibited by C1 \ncured samples as a function of the replacement of ferrock in percentage. To understand the relationship of compressive strength with replace­\nment and period of curing polynomial expressions are established and \ncorrelated. The experimental results show a good increase in strength, \nup to 10% substitution of ferrock. The samples SCCF15C1, SCCF20C1, \nappear to have relatively low strength, and the mix SCCF25C1 shows a \npoor performance than the control mix. The mix SCCF10C1 showed a \npeak value of 63.41 MPa and 67 MPa on the 28th and 56th day of water \ncuring (C1). The intruded materials such as metakaolin, fly ash and \nlimestone in ferrock, thus improved the mechanical strength of the \nconcrete by increasing the pozzolanic action with the cement hydrating \nmaterials [25,45]. Further, the presence of iron dust in ferrock enhances \nthe crushing value by making the concrete dense and compact \n[15,37,59]. The strength was higher by11.8%, 21.9% and 20.2% for \nSCCF5C1, SCCF10C1 and SCCF15C1 at 28 days in the C1 type of curing, \nand",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 9,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "the values were low in SCCF20C1 and SCCF25C1 (-2.3 and \n−10.7%). This is because of the reduction in the amount of Ca (OH)2 \ncrystallites due to the accelerating hydration effects of the iron fines in \nconcrete [60]. Concerning the compressive strength of C2 samples, they endeavour \nalmost a similar performance as that of C1 type curing. The test results of \nthe samples, immediately after 4 h of CO2 curing and at 7,14,28 and 56 \ndays were graphically explained in Fig. 7(b). It was found that the \napplication of CO2 at an early age improves the crystalline form of \nFig. 5. Influence of ferrock on the properties of slump and L-box ratio (Slump flow of 660–750 mm is maintained which notifies class of SF2 according to EFNARC). Fig. 6. Influence of ferrock on the properties of T500 and V-funnel time. Table 3 \nSegregation and bleeding properties in fresh SCC. Properties \nSCC mix \nSCCF0 \nSCCF \n5 \nSCCF \n10 \nSCCF \n15 \nSCCF \n20 \nSCCF \n25 \nSegregation \nresistance (V \nFunnel at T5 min) \n1.25 s \n1.65 s \n2.41 s \n2.73 s \n2.98 s \n3.50 s \nBleeding resistance \n(Visual Stability \nIndex) \nVSI 0 \nVSI I \n*VSI 0 indicates a highly stable mix with no evidence of segregation or bleeding \nand VSI I indicates a stable mix with a slight observation of bleeding and \nsegregation[58]. J. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n7\ncarbonates, thereby acquiring 40% of its strength at an early age. The \nreactions of calcium silicates (C3S and C2S) when they get in contact \nwith CO2, contribute to earlier strength in CO2-cured samples. The for­\nmation of C-S-H in turn accelerates the carbonation of calcium hy­\ndroxide which undergoes a precipitation reaction in the pores of the \ncement mortar paste resulting in the confinement of pores [61]. This is \nthe primary reason for enhancing the density and durability of carbon­\nated prototypes. Upon addition of ferrock, the absorption and reaction \nget ameliorated, developing an additional stable ferrous compound \n(FeCO3) which forms rust, acting like reinforcement for the concrete \nmatrix. This enables improvement in the strength of SCCF10C2 and \nSCCF15C2 by 25.9% and 24.7% over the control mix (SCCF0C2) at 28 \ndays. Moreover, the pressure maintained in the chamber and the period \nof exposure to CO2, probably affect the efficiency of C2 curing [38]. This \nprofound behavior of the concrete under CO2 curing was rapidly studied \nin recent times, with an outcome that increased time of exposure to CO2 \naccelerates the carbonation reaction [62] ultimately leading to a better \nconstruction material comparable to water-bound concrete. It is worth \nnoting that Ca (OH)2 resulting from the hydration process is known to \nboost up the pozzolanic reactions at later ages. Ultimately, the reduction \nin Ca(OH)2 during carbonation, cannot activate the silicaceous materials \nthereby reducing the C-S-H phases in the concrete matrix in later days, \nimpeding the performance of SCC [51]. Even though, the CO2 curing \nadopted i",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 10,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "s sufficient in forming a self-compacting concrete of M40 grade \nwith satisfactory results. The compressive strength pattern for the C3 type of curing is in line \nwith C1 and C2. But the samples exhibited an extreme strength rate than \nthe others as observed in Fig. 7(c). The samples show a rapid increase in \nstrength for SCCF5C3 and SCCF10C3 followed by a depression at a \nhigher-level incorporation of ferrock at the 28th day. The mixes \nFig. 7a. Variation of compressive strength with respect to curing duration for C1 curing. Fig. 7b. Variation of compressive strength with respect to curing duration for C2 curing. J. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n8\nSCCF0C3, SCCF5C3, SCCF10C3 and SCCF15C3 exhibit a high early \nstrength of 42.32, 46.41, 48.5 and 49.73 MPa at 7 days which reaches a \npeak of 63.9, 69.5, 73.48 and 71.26 MPa at 56 days. This early strength \nincrease was due to the expeditious reaction of iron particles with CO2 \nduring the first four hours [38]. And during the water curing, the hy­\ndration process of C2S and C3S expands the quantity of Ca (OH)2 \nresulting in an intense strength. Since this type of curing facilitates the \nevolution of both Ca (OH)2 and Fe2O3, it greatly enhances the \nFig. 7c. Variation of compressive strength with respect to curing duration for C3 curing. Fig. 8. Comparision of compressive strength at (a) 7 days (b) 14 days (c) 28 days and (d) 56 days. J. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n9\nperformance of the concrete. The curve for SCCF15C3 was found to \nincrease gradually for 28 days but exhibited a slight decrease at later \nages as seen in Fig. 7(c). This in-efficient performance may be due to the \npresence of high silica content in ferrock which supports the dilution \neffect of C2S and C3S hindering the pozzolanic reactions occurring at \nlater stages [63]. Fig. 8 provides a comparison of strength development at various \ncuring ages. Notably, while water curing does not allow for immediate \nstrength determination within the first day of setting, CO2 curing en­\nables testing after a mere 4 h once the samples are removed from the \ncuring tank. Even at 7 days, the SCCF20C2 and SCCF15C3 mixes exhibit \nnearly double the strength of the control mix SCCF0C1, with observed \nincreases of 47.7% and 53.9% respectively. These results emphasize the \nsuperior effectiveness of CO2 curing when compared to conventional \nwater curing, especially during the early stages of curing. Upon reaching \n28 and 56 days, the compressive strength of the specimens becomes \nalmost equivalent, for which the SCCF10 mix shows a minimal increase \nin strength of only 1.5% between 28 and 56 days. Remarkably, at the \n56th day, the specimen SCCF10C3, which undergoes both types of \ncuring, demonstrates a 30% higher strength compared to SCCF0 with C1 \ncuring alone, as well as a 32.5% higher strength than C2. These findings \nhighlight the positive impact of incorporating 1",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 11,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "0% ferrock composite \nmaterial into the self-compacting concrete. 3.2.2. Tensile strength \nThe tensile strength of the concrete at 7, 14, and 28 days for C1, C2 \nand C3 are evaluated by UTM testing. The behavior of the samples under \nhorizontal compression is compared and presented in Table. 4. The \neffort on the addition of ferrock to SCC, influences the performance of \nthe concrete at a higher level with an increasing rate of strength for up to \n10% replacement. A high strength was observed for each addition of \nferrock than the control mix (SCCF0) under C1curing. Under C2 curing, \nthe quality of concrete is enhanced by the onsite reaction of iron parti­\ncles with CO2, producing a compound of ferric carbonate (FeCO3) as in \nEqn. (4) [26], accelerating the disintegration of iron particles which \nfurther happens to fill the voids and pores neglecting strength loss [64]. Fe + CO2 + H2O → FeCO3 + H2 (4). Upon analyzing the findings, it is observed that the strength per­\ncentage varies significantly when ferrock is added, regardless of the \nduration of testing or the conditions of curing. The control specimens, \nwhich underwent C1 and C2 curing, exhibited similar behavior, as evi­\ndenced by a minimal 3.3% increase in tensile strength. Under C1 curing, \nevery addition of ferrock exhibited higher strength compared to the \ncontrol mix (SCCF0) except SCCF20 and SCCF25. While introducing \n10% ferrock resulted in a remarkable and consecutive 17%–22% in­\ncrease in strength across three different curing methods. At all curing \nages of 7, 14 and 28 days, maximum resistance was offered by SCCF10, \nas shown in Table 4. Obviously for the above-said specimen, a maximum \ntensile strength of 5.23 MPa, 5.31 MPa and 5.57 MPa was observed for \nC1, C2 and C3 curing at 28 days. These results show the superior \nbehaviour of combined curing C3 over the other cases. The C3 curing \nexerts a maximum of 30% increase in strength for a 10% addition of \nferrock than 28 days water cured control specimen (SCCF0C1). It is also \nto be noted that after 28 days of C1 and C2 curing, both exhibit almost \nequal strength development, with a slight variation between 1.5% and \n5.7%. Concerning C2 curing, a 20.68% variation was observed between \nSCCF10 and SCCF0, whereas C1 curing showed a variation of 22.8% for \nthe same. It is worth noting that C2 curing primarily exhibits early-stage \nstrength development with almost 75% of its strength at 7 days but with \nthe incorporation of 10% ferrock, 90% of its strength is achieved early. This early age strength in C2 is due to the dilution and nucleation effect \nof the ferrock iron powder [59]. The addition of ferrock up to 10%, \nimproves the quality of the mortar paste thereby possessing a good \nresistance against tension. Works of literature confirm SCC with higher \nstrength at higher paste content [65]. Also, the ferrock imparts addi­\ntional strength to the SCC by the angular morphology of its iron parti­\ncles. The iron particles having a rough",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 12,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "surface texture form a sturdy \ninterfacial transition zone (ITZ), creating a solid bond between the \ncement matrix and aggregates thereby improving the strength [66]. Nevertheless, the fine particles in ferrock with its micro filling capacity \nand pozzolanic activity augment the formation of calcium and \naluminium silicates in the silicate and amorphous phases and readily \nform hydrates empowering concrete. Although, when fly ash and met­\nakaolin were combinedly used in concrete, it may hinder the perfor­\nmance due to the lack of sufficient generation of calcium hydroxide \nnecessary for the formation of C-S-H in the concrete matrix, as a result of \nwhich silica particles are left unreacted probably ending in strength \nreduction [56]. 3.2.3. Ultrasonic pulse velocity \nUPV yields information on the quality of the concrete in the attri­\nbution of pores, voids and packing density of materials. Higher the \ndensity of concrete higher will the values in UPV [15]. The determined \nvalues of UPV are tabulated in Table. 5. SCC with the inclusion of ferrock \nin different curing regimes are found satisfactory with values greater \nthan 4000 m/s except for SCCF25C1. As stipulated, the mix with a ve­\nlocity range of 4500 m/s and above is said to acquire excellent quality \nwhereas 3500 to 4500 m/s are set under good quality concrete speci­\nmens [67]. In the present study, good quality of SCC for the control \nspecimen (SCCF0) was observed for C1, C2 and C3 curing. These ob­\nservations are in turn enhanced with the addition of ferrock at 5, 10 and \nTable 4 \nSplitting tensile test results (MPa). SCC mix \nAverage tensile strength (in days) \nC1 curing \nC2 curing \nC3 curing \n7 \n14 \n28 \n7 \n14 \n28 \n7 \n14 \n28 \nSCCF0  \n3.28  \n3.34  \n4.26  \n3.15  \n3.52  \n4.40  \n4.16  \n4.43  \n4.76 \nSCCF5  \n4.37  \n4.52  \n4.80  \n4.46  \n4.63  \n4.91  \n4.55  \n4.83  \n5.04 \nSCCF10  \n4.77  \n5.01  \n5.23  \n4.80  \n4.98  \n5.31  \n4.91  \n5.18  \n5.57 \nSCCF15  \n4.01  \n4.63  \n5.08  \n4.22  \n4.86  \n5.07  \n4.47  \n4.96  \n5.43 \nCCF20  \n3.13  \n3.41  \n4.16  \n3.52  \n4.02  \n4.34  \n3.84  \n4.18  \n4.52 \nSCCF25  \n3.04  \n3.21  \n4.02  \n3.27  \n3.76  \n4.25  \n3.53  \n3.88  \n4.08  \nTable 5 \nUltrasonic pulse velocity of SCC samples at 28 days of different curing conditions \nin m/s. SCC mix \nCuring environment \nQuality of Concrete* \nC1 \nC2 \nC3 \nSCCF0 \n4142 \n4155 \n4243 \nGood \nSCCF5 \n4318 \n4361 \n4512 \nGood – Excellent \nSCCF10 \n4676 \n4687 \n4922 \nExcellent \nSCCF15 \n4345 \n4526 \n4850 \nGood – Excellent \nSCCF20 \n4035 \n4228 \n4414 \nGood \nSCCF25 \n3386 \n4045 \n4079 \nMedium – Good \n*UPV values ranging between 3500 and 4500 m/s are classified as good quality \nwhereas values above 4500 m/s are represented as excellent [67]. J. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n10\n15% in all types of curing. The UPV of SCCF10C1 exhibits a high quality of 4676 m/s of ve­\nlocity, which reduced the pore structure under morphological study. Similarly, for greater replacement in the C1 category, medium-quality \nconcrete was c",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 13,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "haracterized by weak packing density and increased \npores that do not qualify for the standards. Poor mixing of concrete and \nentrapped air bubbles is yet another reason for the reduction in quality. In CO2 curing (C2), all mixes were rated as good quality concrete and \nSCCF5, SCCF10 and SCCF15 excelled compared to other mixes. Simi­\nlarly, a medium to excellent quality was ensured in the C3 curing for 5 \nand 10% replacement. Reduction in quality may be subjected to the \nunreacted compounds present in the mixes, lacking the capacity of \nfilling the voids. The results obtained are quite in compliance with the \npreviously reported results [15,68], for which they used iron slag as a \nreplacement material for fine aggregate and found improvement in the \nquality of the concrete. The presence of more fine materials thus pro­\nduces a condensed matrix and compromises the quality of the hardened \nSCC. 3.3. Bond strength \nAny failure of the structurally reinforced members is usually initiated \nby its bond failure for the assessment of bonding strength becomes \ncrucial in any study. The data as determined by the pull-out test infer the \nactual interfacial bond behavior between steel rebar and the encom­\npassed concrete materials [69]. The peak load at which the bond be­\ntween the embedded steel and concrete gets distorted generally \nrepresents the bonding strength of the concrete. Fig. 9 illustrates the \nbonding behavior of various SCC specimens used in the study on the \n28th day. The bond strength of the control mix was found 24.3 MPa \nunder C1 curing which gets elevated to 26.34 MPa at combined curing \n(C3). This infers that the curing conditions play a major role in con­\ntrolling the strength of the SCC specimens. However, the development of \ncompressive and tensile strength seems closely related to the bonding \nstrength with the addition of ferrock, regardless of the curing conditions. At any rate, the incorporation did not impact negatively up to an opti­\nmum percentage of 15% ferrock by weight of the cement. The increase \nin bond strength for ferrock-incorporated specimens in water curing \ndenoted an enhanced hydration mechanism facilitating pozzolanic re­\nactions at later stages and the filling effect of ultra-fine particles in fer­\nrock at an earlier stage [45]. The improved microstructure of the \ncarbonated specimen (SCCF0C2, SCCF5C2, SCCF10C2, SCCF15C2, \nSCCF20C2 and SCCF25C2) experiences an enhanced strength than the \nC1 cured samples by 1.6%, 1.4%, 2.9%, 1%, 0.5% specifically due to the \nmass increase of carbonation products. For combined curing, the spec­\nimens achieved an enhancement of 8.3%, 7.11%, 13.2%, 11.2%, 7% and \n−0.7% strength variation than the conventional water curing. Thus, \nimproved bond strength was attained at an optimized quantity of 10% \nsubstitution of ferrock. Maximum bond strength was achieved for SCCF10C3 at a range of \n29.82 MPa, reporting that impregnating ferrock in cement improves the \npull-out resistance by minimizin",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 14,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "g the propagation of cracks through the \ndense-compacted SCC-ferrock matrix. The reason is due to the confine­\nment at the substrate-concrete interface, which physically improves the \nfriction between cementitious compounds and complements the me­\nchanical bonding offering resistance to pull-out [44,70]. However, the \nresistance to pull-out gets reduced beyond an optimum range (0 – 15% \nby weight of cement), due to the reduction in hydration and carbonation \nby-products. An increase in the content of ferrock significantly increases \nthe un-hydrated particles resulting in a weak bonding relationship. In \nthis study, SCCF25 acquired lower bond strength than the other mixes, \nlimiting its resistance against pull-out. 3.4. CO2 uptake \nTechnically, high pressure of CO2 sequestration would positively \nresult in accelerating the early-age carbonation reactions in a sample \n[71]. Also, the efficiency of carbonation is influenced by the duration \nwith which the pressure level is maintained in the chamber. The results \nobtained by calculating the CO2 uptake with Eqn.2 are presented in \nFig. 10. The figure depicts the CO2 uptake for an atmospheric condition \nof 3 bar CO2 maintained under a high pressure of 350 kPa, for 4 h \ninitially. The carbonated products formed (as mass representation) will \npresent an uptake on the amount of CO2 absorbed by the specimens. The \nmass of the samples depends on the reactions of the alite and belite \ncompounds of cement with CO2, producing abundant quantities of \nCalcium Silicate Hydrates (C-S-H) and calcium carbonates (CaCO3) [72] \nas expressed in Eqn. (5), (6) and (7) [38]:  \n3C3S + (3 −\nx) CO2 + nH → CxSHn + (3 −\nx) CaCO3                        \n(5)  \n2β −\nC2S + (2 −\nx) CO2 + nH → CxSHn + (2 −\nx) CaCO3                 \n(6)  \nFig. 9. Bond strength variation for SCC specimens under miscellaneous curing. J.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 15,
+      "char_count": 1861
+    }
+  },
+  {
+    "text": "Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n11\nCa (OH)2 + CO2 → CaCO3 + H2O                                                    \n(7) \nThe development and precipitation of these chemical components \nrequire CO2 to be supplied at a continuous rate for a sufficient duration \nfor complete carbonation to take place. Also, the availability of ferrock \nwhich is naturally a CO2-absorbing material speeds up the carbonation \nreaction resulting in the earlier formation of carbonated by-products. A \nmaximum percentage of intake (1.5%) was observed in SCCF10 samples \nwithin 4 h of absorption. However, an increase in the percentage of \nferrock was found to lower the properties at its hardened state as dis­\ncussed in previous sections. SCCF25 samples had a least absorbed per­\ncentage of 0.53%. The effectiveness of the 3-bar curing is reasonably the \ncause for this gradual decrease. Because of the low content of ferrock in \nSCCF0, SCCF5 and SCCF10 the CO2 sequestration paves way for deeper \npenetration of CO2 gas into the pores of these sample mixtures. As the \nconcentration of ferrock increases, CO2 tends to react instantly with the \nferrock particles at the surface which subsequently reduces the infusion \nprocess, thus reducing the rate of reactions deeper inside the samples. This ultimately supports large voids and porosity during hardening, thus \ncausing uncertainty in the properties of strength. Thus, these samples \nare likely to be carbonized at the surface and found to have no deeper \npenetration depth. In addition, the duration of carbonation act as a \nmajor factor in determining the strength of the concrete. On increasing \nthe carbon uptake duration, the CO2 penetrates deeper into the core \nestablishing a reduced mass loss between the surface and core [9]. For \n5,10 and 15% ferrock infusion, increasing the time of curing will ulti­\nmately lead to an increase in properties. When iron dust in Ferrock is \nexposed to carbon dioxide, it transforms into a solid material that is five \ntimes stronger than regular concrete and has a higher CO2 absorption \ncapacity [26]. However, when combined with cement, its effectiveness \nis underestimated. 3.5. Cement use efficiency \nThe sensational achievement of the incorporation of any industrial \nwaste depends on its performance of sustainability. The sustainability of \nthe SCC-ferrock combination is the reduction in procurement of CO2- \nemitting material for a good cause. Fig. 11 shows the cement use effi­\nciency indexes obtained for 28 days of cured samples under different \ncuring domains. The indexes obtained for ferrock -SCCs were subse­\nquently lower than the control SCC mixes. In practical applications of \nwater curing, the cement use efficiency was deduced from 10.6 kgm−3 \nMPa−1 to 7.48 kgm−3 MPa. It is because of the contribution of nucle­\nation sites by the limestone powder, improved silica content from fly ash \nand cohesive nature of metakaolin imparted in the ferrock [9]. The re­",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 16,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "sults correlate to the study of Pelisser et al [73], which marked an index \nof 7.8 kgm−3 Mpa-1. Long et al [48] tried to develop a low binder SCC \nand acquired similar sustainability cement indices. On CO2 curing, cement use efficiency was reduced to 7.42 kgm−3 \nMPa−1 from an extremity of 10.9 kgm−3 MPa−1. A peak reduction was \nobserved for the third type of curing which depreciates the index from \n9.26 to 6.19 kgm−3 MPa−1, which was found most beneficial. On \ninterpretation of the results, ferrock replaced with cement by 10%, \npossesses a compromising strength with a significant cement use effi­\nciency index. The study was found to potentially enhances the \nFig. 10. CO2 uptake (in percentage) by the SCC specimens for the initial 4 h. Fig. 11. Cement use efficiency of SCC specimens cured at C1, C2 and C3 environment. J. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n12\nsustainability behavior of ferrock on self-compacting concrete by cred­\nitably decreasing the cement content in concrete. 3.6. Microstructural characterization \n3.6.1. X-ray diffraction (XRD) \nThe different patterns of the mineralogical composition obtained for \nthe samples cured under different conditions of curing are visualized in \nFig. 12. The formation of hydrated and carbonated by-products with \ntheir peak composition are analyzed and compared. Six samples were \neventually analyzed, of which three were control specimens under the \nC1, C2 and C3 type of curing, whereas the other three were 10% ferrock- \nincorporated SCC specimens. Fe, Mg, Si, Al bearing reactive compounds \nwere observed in respective samples along with the commonly visible \npeaks of Ca(OH)2 (otherwise called portlandite), calcium silicate hy­\ndrate (C-S-H), calcium alumina silicate hydrate (C-A-S-H) and quartz \nform of silica (SiO2). Quartz was observed commonly in all the speci­\nmens at major peaks. Water-cured samples SCCF0C1 in Fig. 12(a) show \npeaks of quartz, portlandite, calcium silicate hydrates, CASH and minor \nquantities of calcite crystal and ettringite formation. Whereas, ferrock \nincorporated SCCF10C1 possess a traceable amount of hedenbergite \n(CaFe2Si2O6), magnesium ferrite (MgFe2O4), and calcium - magnesium \nalumina silicate (CMAS) phases due to the prominent reaction of C2S \nand C3S with supplementary cementitious add-on material (ferrock). Specimens cured at C2, showed calcite (CaCO3) as the predominant \nmineral of carbonation, followed by metastable phases of CaCO3 rarely \navailable as aragonite as indicated in Fig. 12(b). The effectiveness of the \ncuring hours may influence the conversion of these metastable by- \nproducts to a stable calcite form. However, the early age strength of \nSCC is contributed by the formation of the above-mentioned meta-stable \ncompounds. The carbonation reactions also support the formation of \nCSH, CASH, magnesite (MgCO3) and quartz which facilitates the \ndevelopment of a strong interfacial transition zone (ITZ) and a dense \nmatrix stru",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 17,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "cture. Ferrock-based SCC when undergoing carbonation \ntends to produce siderite (FeCO3), a solid carbonate of iron particles, \nwhich often indicates the rusting of iron artefacts. Herein the study, this \nmineral composition tends to improve the microstructure by filling the \nvoids left even after the formation of CSH, thereby improving the porous \nnature of the SCC Matrix [60]. Distinct peaks of cumulative mineral phases of C1 and C2 were \nobserved for C3 samples as represented in Fig. 12(c). 4 h of carbonation \nfollowed by hydration consequently reduces the intensity of peaks for \ncalcium phases (calcite, Portlandite & Dolomite). Apart from C2 curing, \nthese samples show a balanced formation of Calcite and Portlandite \nformation with abundant C-S-H. Since calcite and aragonite are poly­\nmorphs of calcium carbonate, this type of curing allows the formation of \nstable CaCO3, eliminating aragonite and resulting in high strength and \nperformance. In turn, the availability of Fe2O3 in ferrock emphasizes the \nformation of ettringites (Ca6Al2(SO4)3 OH12 26H2O), in reaction with \ncalcium hydroxides [74]. The mineralogical phases of iron were found \ndominant under all reactions because of the inert nature of other ma­\nterials (fly ash, metakaolin and limestone) in the mix. Further, C-S-H and \nC-A-S-H phases were abundant in all the samples due to the excess \nFig. 12a. XRD for specimens SCCF0 and SCCF10 under C1 curing. Fig. 12b. XRD for specimens SCCF0 and SCCF10 under C2 curing. J. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n13\nsilicates and aluminates, which impart additional strength to the SCC \n[63]. 3.6.2. Scanning electron microscope (SEM) \nThe microstructural characterization forms the deciding factors for \nthe strength and rheological properties of the concrete and is yet to be \nstudied in its deeper concept. The micrographs obtained from SEM \nanalysis for the typical SCC specimens were presented in Fig. 13. The \nfigure depicts the presence of hydrated phases of calcium in portlandite, \ncalcite and C-S-H. Fig. 13(a) representing the specimen SCCF0C1 pic­\ntures the absence of dense C-S-H gel, but with ample availability of Ca \n(OH)2, ettringite and CaCO3. The bond between the particles was quite \nundesirable, as the propagation of hairline cracks was visible through \nthe concrete matrix and pores were widely distributed. For the mix made \nwith ferrock (SCCF10C1), the visualization looks similar but with a \nslight improvement in the dense C-S-H gel formation. Fig. 12 (a) images \nthe presence of ettringite and calcium iron silicates (Hedenbergite) with \na substantial reduction in pores and voids providing better performance \nthan SCCF0C1. The CaCO3 is formed as the immediate by-product of carbonation, \nrepresenting a stable solid product contributing strength in SCC. Fig. 13 \n(b), specifies the availability of denser C-S-H gel than C1 samples with \namorphous phases of calcite and aragonite. However, improving the \ndur",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 18,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ation of CO2 curing could sufficiently enhance the homogeneity of \nthe carbonated specimens. For SCCF10C2, CaCO3 and calcium silicates \nare formed in addition to iron carbonate due to the ample availability of \nCa, Si and Al ions provided by ferrock as cementing materials. The SEM images for SCCF0C3 show reduced content of ettringites, \nportlandite and calcite with uneven calcium silicate hydrate (CSH) \nlayers formed from the carbonation and continuous hydration. But the \nferrock-infused SCC samples (SCCF10C3) under C3 curing provide a \nuniform dense C-S-H formation with prominent iron carbonates which \nbecomes responsible for its mechanical strength and voids reduction. The existence of an interfacial transition zone between the cement paste \nand aggregates is also clearly seen in Fig. 13(c). Concatenating the SEM \nmicrographs with XRD inference and mechanical behavior, the pro­\ngressive growth in strength is primarily dependent on the development \nof the C-S-H gel structure within the matrix [2]. The refinement in pore \nstructure is due presence of micro-fillers in ferrock which significantly \nfills the gap between cement particles and supports pozzolanic reactions \nat later stages. The SEM microstructure is expected to be at its best at 90 \nand 365 days since pozzolanic reactions found its way of slow \nprogression. 4. Conclusion \nIn summary, the experimental investigation in this study aimed to \nidentify the optimal replacement of ferrock in SCC while maintaining \nconcrete strength and to assess the feasibility of developing ferrock- \nbased SCC without CO2 curing. The results showed that SCC mixes \nFig. 12c. XRD for specimens SCCF0 and SCCF10 under C3 curing. Fig. 13a. Micro-photographs of specimens SCCF0 and SCCF10 under C1 curing (Ettringite represents needle-like structures, CH– Calcium hydroxide, FS- Ferro- \nsilicate, CSH- Calcium silicate hydrate). J. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n14\ncontaining up to 15% ferrock exhibited satisfactory properties in terms \nof viscosity and flowability, and the addition of 10% ferrock to SCC \nresulted in excellent hardened characteristics at 7, 14, 28, and 56 days. All curing methods yielded reliable performance up to 15% of ferrock. The tensile performance of SCC mixes improved by 20% with 10% fer­\nrock substitution in all curing regimes, and the ultrasonic pulse velocity \ntest indicated good and excellent concrete quality for up to 15% \nreplacement of ferrock. Moreover, the use of ferrock in SCC enhanced the material’s effi­\nciency in CO2 uptake and cement consumption, yielding positive envi­\nronmental benefits. The experimental results suggest an optimum of \n10% ferrock for developing sustainable concrete. Differences in strength \ndue to variations in curing conditions were negotiable, indicating the \npractical application of conventional water curing instead of CO2 curing. This initiative could reduce industrial waste dumping on fertile lands \nand provide pr",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 19,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "actical applications for strengthening reinforcements in \nconcrete. However, further studies are required to investigate the flexural \nproperties and crack patterns of structural elements developed using the \noptimized ferrock percentage in SCC. Long-term durability behavior on \nwater absorption, sulphate resistance, acid attack, stress–strain \nbehavior, and shrinkage assessment need further investigation. Addi­\ntionally, studies on CO2 absorption and emission characteristics could \npave the way for sustainability in adopting this carbon-negative \nmaterial. In conclusion, the present study demonstrates the potential of ferrock \nin SCC as a sustainable and environmentally friendly construction ma­\nterial. The findings of this research could be beneficial for engineers, \narchitects, and construction professionals in the development of sus­\ntainable construction practices, while reducing the negative impact on \nthe environment. Author Contributions \nJ. Jeffy Pravitha, R. Ninija Merina and N. Subash contributed to the \nimplementation of the research and writing of the manuscript. All au­\nthors have written, read and agreed to the published version of the \nmanuscript. Declaration of Competing Interest \nThe authors declare that they have no known competing financial \ninterests or personal relationships that could have appeared to influence \nthe work reported in this paper. Data availability \nData will be made available on request. Fig.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 20,
+      "char_count": 1453
+    }
+  },
+  {
+    "text": "13b. Micro-photographs of specimens SCCF0 and SCCF10 under C2 curing (CH represents Calcium hydroxide, α-CaCO3- Calcite, β-CaCO3- Aragonite, FeCO3- \nSiderite, CSH- Calcium silicate hydrate. Fig. 13c. Micro-photographs of specimens SCCF0 and SCCF10 under C3 curing (CH represents Calcium hydroxide, α-CaCO3- Calcite, β-CaCO3 fully consumed, \nFeCO3- Siderite, CSH- Calcium silicate hydrate, ITZ- Interfacial transition zone). J. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n15\nAcknowledgements \nThe authors gratefully acknowledge the publication support given by \nthe Department of Civil Engineering, University College of Engineering, \nNagercoil. References \n[1] A. Karimipour, M. Ghalehnovi, J. de Brito, M. Attari, The effect of polypropylene \nfibres on the compressive strength, impact and heat resistance of self-compacting \nconcrete, Structures. 25 (2020) 72–87, https://doi.org/10.1016/j.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 21,
+      "char_count": 924
+    }
+  },
+  {
+    "text": "istruc.2020.02.022. [2] B.C. Xavier, E. Verzegnassi, A.D. Bortolozo, S.M. Alves, R.C. Cecche Lintz, \nL. Andreia Gachet, W.R. Os´orio, Fresh and Hardened States of Distinctive Self- \nCompacting Concrete with Marble- and Phyllite-Powder Aggregate Contents, \nJ. Mater.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 22,
+      "char_count": 265
+    }
+  },
+  {
+    "text": "Civ. Eng. 32 (2020), https://doi.org/10.1061/(asce)mt.1943- \n5533.0003103. [3] H. Okamura, M. Ouchi, Self-Compacting Concrete, ACT 1 (1) (2003) 5–15. [4] M.R. Md Zain, C.L. Oh, S.W. Lee, Investigations on rheological and mechanical \nproperties of self-compacting concrete (SCC) containing 0.6 μm eggshell as partial \nreplacement of cement, Constr. Build. Mater. 303 (2021), https://doi.org/ \n10.1016/j.conbuildmat.2021.124539. [5] V. Jayanthi, S. Avudaiappan, M. Amran, K.P. Arunachalam, D.N. Qader, M. C. Delgado, E.I. Saavedra Flores, R.S.M. Rashid, Innovative use of micronized \nbiomass silica-GGBS as agro-industrial by-products for the production of a \nsustainable high-strength geopolymer concrete, Case Stud, Constr. Mater.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 23,
+      "char_count": 730
+    }
+  },
+  {
+    "text": "18 \n(2023) e01782. [6] N. Subash, S. Avudaiappan, S. Adish Kumar, M. Amran, N. Vatin, R. Fediuk, \nR. Aepuru, Experimental investigation on geopolymer concrete with various \nsustainable mineral ashes, Materials (Basel). 14 (24) (2021) 7596. [7] Unep, Global Status Report for Buildings and Construction, Glob. Status Rep. 2020 \n(2020) 20–24. http://www.un.org/Depts/. [8] A. Lanuza, A.T. Achaiah, J.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 24,
+      "char_count": 398
+    }
+  },
+  {
+    "text": "Bello, T. Donovan, Ferrock: a Life Cycle Comparison To \nOrdinary Portland Cement, (2017) 1–24. http://ironkast.com/wp-content/ \nuploads/2017/11/USC-Ferrock-Final-Paper-4.24.17.pdf. [9] S.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 25,
+      "char_count": 187
+    }
+  },
+  {
+    "text": "Das, B. Souliman, D. Stone, N. Neithalath, Synthesis and properties of a novel \nstructural binder utilizing the chemistry of iron carbonation, ACS Appl. Mater.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 26,
+      "char_count": 159
+    }
+  },
+  {
+    "text": "Interfaces. 6 (2014) 8295–8304, https://doi.org/10.1021/am5011145. [10] G. of I. Ministry of Steel, Ministry of Steel - Government of India, Annu. Rep.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 27,
+      "char_count": 151
+    }
+  },
+  {
+    "text": "2019- \n20. (2019). [12] K. Katam, M.P. Gundupalli, D. Bhattacharyya, Urbanization Challenges in \nEmerging Economies, in: Urban. Challenges Emerg. Econ. Energy Water \nInfrastructure; Transp. Infrastructure; Plan. Financ. - Sel.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 28,
+      "char_count": 226
+    }
+  },
+  {
+    "text": "Pap. from ASCE India \nConf. 2017, 2017: pp. 278–287. [13] J. Kargin, L.D.L.S. Valladares, L.E. Borja-Castro, J. Xize, D.G. Mukhambetov, Y. V. Konyukhov, N.O. Moreno, A.G.B. Dominguez, C.H.W. Barnes, Characterization \nof iron oxide waste scales obtained by rolling mill steel industry, Hyperfine \nInteract. 243 (2022), https://doi.org/10.1007/s10751-022-01800-7.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 29,
+      "char_count": 361
+    }
+  },
+  {
+    "text": "[14] A. Lorenzi, D. Rastelli, A. Biavati, M. Poncini, I. Alfieri, F. Albertini, E. Gombia, \nL. Romaniello, A. Montenero, Immobilization of iron rich steel industry waste and \nproducts characterization, J. Environ. Chem. Eng. 3 (2015) 196–201, https://doi. org/10.1016/j.jece.2014.11.024. [15] G. Singh, R. Siddique, Strength properties and micro-structural analysis of self- \ncompacting concrete made with iron slag as partial replacement of fine aggregates, \nConstr. Build. Mater. 127 (2016) 144–152, https://doi.org/10.1016/j. conbuildmat.2016.09.154. [16] G. Singh, R. Siddique, Effect of iron slag as partial replacement of fine aggregates \non the durability characteristics of self-compacting concrete, Constr. Build. Mater. 128 (2016) 88–95, https://doi.org/10.1016/j.conbuildmat.2016.10.074. [17] S. Sarsam, S. Issa Sarsam, Influence of Nano Materials Addition as Partial \nReplacement of Cement in the Properties of Concrete Pavement Warm Mix Asphalt \nConcrete View project NDT FOR EVALUATING ASPHALT CONCRETE View project \nInfluence of Nano Materials Addition as Partial Replacement of Cement in the \nProperties of Concrete Pavement, 2016. http://www.aiscience.org/journal/ \njnnhttp://creativecommons.org/licenses/by-nc/4.0/. [18] X. Huang, R.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 30,
+      "char_count": 1251
+    }
+  },
+  {
+    "text": "Civ. Eng. 25 (2013) \n923–931, https://doi.org/10.1061/(asce)mt.1943-5533.0000674. [19] P. Nanthagopalan, M. Santhanam, Fresh and hardened properties of self- \ncompacting concrete produced with manufactured sand, Cem. Concr. Compos. 33 \n(2011) 353–358, https://doi.org/10.1016/j.cemconcomp.2010.11.005. [20] M. Mehrinejad Khotbehsara, E. Mohseni, T. Ozbakkaloglu, M.M. Ranjbar, \nRetracted: Durability Characteristics of Self-Compacting Concrete Incorporating \nPumice and Metakaolin, J. Mater.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 31,
+      "char_count": 491
+    }
+  },
+  {
+    "text": "Civ. Eng. 29 (2017), https://doi.org/10.1061/ \n(asce)mt.1943-5533.0002068. [21] S.T. Aly, A.S. El-Dieb, M.R. Taha, Effect of High-Volume Ceramic Waste Powder as \nPartial Cement Replacement on Fresh and Compressive Strength of Self- \nCompacting Concrete, J. Mater.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 32,
+      "char_count": 263
+    }
+  },
+  {
+    "text": "Civ. Eng. 31 (2019), https://doi.org/10.1061/ \n(asce)mt.1943-5533.0002588. [22] O.R. Kavitha, V.M. Shanthi, G. Prince Arulraj, P. Sivakumar, Fresh, micro- and \nmacrolevel studies of metakaolin blended self-compacting concrete, Appl. Clay Sci. 114 (2015) 370–374, https://doi.org/10.1016/j.clay.2015.06.024. [23] N. Subash, S. Adish Kumar, A simplified geopolymer concrete mix design \nconsidering five mineral admixtures, Eur. J.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 33,
+      "char_count": 428
+    }
+  },
+  {
+    "text": "Environ. Civ. Eng. 26 (15) (2022) \n7572–7585. [24] A. Singh, S. Arora, V. Sharma, B. Bhardwaj, Workability Retention and Strength \nDevelopment of Self-Compacting Recycled Aggregate Concrete Using Ultrafine \nRecycled Powders and Silica Fume, J. Hazardous, Toxic, Radioact. Waste. 23 \n(2019), https://doi.org/10.1061/(asce)hz.2153-5515.0000456. [25] R. Prakash, S.N. Raman, N. Divyah, C. Subramanian, C.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 34,
+      "char_count": 401
+    }
+  },
+  {
+    "text": "Vijayaprabha, \nS. Praveenkumar, Fresh and mechanical characteristics of roselle fibre reinforced \nself-compacting concrete incorporating fly ash and metakaolin, Constr. Build.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 35,
+      "char_count": 175
+    }
+  },
+  {
+    "text": "Mater. 290 (2021) 123209. [26] D.S. Vijayan, Dineshkumar, S. Arvindan, T. Shreelakshmi Janarthanan, Evaluation \nof ferrock: A greener substitute to cement, Materials Today: Proceedings 22 (2020) \n781–787. [27] IS 12269: 2013, IS 12269 : 2013- 53 grade ordinary Portland cement — \nSPECIFICATION, 1967. [28] BIS:3812-1981, Specification for fly ash for use as pozzolana and admixture, Bur. Indian Stand.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 36,
+      "char_count": 401
+    }
+  },
+  {
+    "text": "Legodi, D. de Waal, The preparation of magnetite, goethite, hematite and \nmaghemite of pigment quality from mill scale iron waste, Dye. Pigment. 74 (2007) \n161–168, https://doi.org/10.1016/j.dyepig.2006.01.038. [30] J. Dunkley, M. Martín, F. L´opez, M.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 37,
+      "char_count": 252
+    }
+  },
+  {
+    "text": "Rahman, S. Bhattacharjee, S. Islam, F. Zahan, B. Biswas, N. Sharmin, A study on \nthe preparation and characterization of maghemite (γ-Fe2O3) particles from iron- \ncontaining waste materials, J. Asian Ceram. Soc. 8 (2020) 1083–1094, https://doi. org/10.1080/21870764.2020.1812838. [32] Indian Stand. 383 (1970) 1–24. [33] IS:2386 (Part I), Method of test for aggregate for concrete (Particle size and shape), \n1963. [34] IS 9103, Specification for Concrete Admixtures, Bur. Indian Stand.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 38,
+      "char_count": 486
+    }
+  },
+  {
+    "text": "Alhozaimy, M. Iqbal Khan, Visual-Based \nEvaluation Method for Optimizing the Dosage of PCE-Based Superplasticizer for \nSCC Paste and Concrete Mixtures, J. Mater.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 39,
+      "char_count": 161
+    }
+  },
+  {
+    "text": "Civ. Eng. 30 (2018), https://doi.org/ \n10.1061/(asce)mt.1943-5533.0002374. [36] EFNARC, The European Guidelines for Self-Compacting Concrete: Specification, \nProduction and Use, 2005. www.efnarc.org. [37] M.A. Largeau, R. Mutuku, J. Thuo, Effect of Iron Powder (Fe<sub>2</ \nsub>O<sub>3</sub>) on Strength, Workability, and Porosity of the Binary \nBlended Concrete, Open, J. Civ. Eng. 08 (2018) 411–425, https://doi.org/ \n10.4236/ojce.2018.84029. [38] S.H. Han, Y. Jun, T.Y. Shin, J.H. Kim, CO2 curing efficiency for cement paste and \nmortars produced by a low water-to-cement ratio, Materials (Basel). 13 (17) (2020) \n3883. [39] F. Concrete, IS-1199-2018 Fresh Concrete, in: 2018. [40] IS 516, Method of Tests for Strength of Concrete, Bur. Indian Stand. (1959) 1–30. [41] IS 5816-1999, Indian standard Splitting tensile strength of concrete- method of \ntest, Bur. Indian Stand. (1999) 1–14. [42] American Society for Testing and Material, ASTM C 597-02, Standard test Method \nFor Pulse Velocity Through Concrete, 2003. [43] RILEM TC, RC 6 Bond test for reinforcement steel. 2. Pull-out test, in: RILEM \nRecomm. Test. Use Constr. Mater., 1994. https://doi.org/10.1617/ \n2351580117.081. [44] M. Gesoǧlu, E. Güneyisi, R. Alzeebaree, K. Mermerdas¸, Effect of silica fume and \nsteel fiber on the mechanical properties of the concretes produced with cold \nbonded fly ash aggregates, Constr. Build. Mater. 40 (2013) 982–990, https://doi. org/10.1016/j.conbuildmat.2012.11.074. [45] H.-A. Nguyen, T.-P.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 40,
+      "char_count": 1495
+    }
+  },
+  {
+    "text": "Chang, J.-Y. Shih, Engineering Properties and Bonding \nBehavior of Self-Compacting Concrete Made with No-Cement Binder, J. Mater. Civ. Eng. 30 (2018), https://doi.org/10.1061/(asce)mt.1943-5533.0002136. [46] M. Mahoutian, Z. Ghouleh, Y. Shao, Carbon dioxide activated ladle slag binder, \nConstr. Build. Mater. 66 (2014) 214–221, https://doi.org/10.1016/j. conbuildmat.2014.05.063. [47] B.L. Damineli, F.M. Kemeid, P.S. Aguiar, V.M. John, Measuring the eco-efficiency \nof cement use, Cem. Concr. Compos. 32 (2010) 555–562, https://doi.org/10.1016/ \nj.cemconcomp.2010.07.009. [48] W.J. Long, Y. Gu, J.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 41,
+      "char_count": 599
+    }
+  },
+  {
+    "text": "Liao, F. Xing, Sustainable design and ecological evaluation of \nlow binder self-compacting concrete, J. Clean. Prod. 167 (2017) 317–325, https:// \ndoi.org/10.1016/j.jclepro.2017.08.192. [49] A. Joshaghani, M. Balapour, M. Mashhadian, T. Ozbakkaloglu, Effects of nano- \nTiO2, nano-Al2O3, and nano-Fe2O3 on rheology, mechanical and durability \nproperties of self-consolidating concrete (SCC): An experimental study, Constr. Build.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 42,
+      "char_count": 428
+    }
+  },
+  {
+    "text": "Mater. 245 (2020) 118444. [50] M.A.S. Anjos, A. Cam˜oes, P. Campos, G.A. Azeredo, R.L.S. Ferreira, Effect of high \nvolume fly ash and metakaolin with and without hydrated lime on the properties of \nself-compacting concrete, J. Build.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 43,
+      "char_count": 233
+    }
+  },
+  {
+    "text": "Huo, Y. Guo, Experimental study of \nmechanical and fresh properties of HVFA-SCC with and without PP fibers, Constr. Build. Mater. 267 (2021) 121010. [52] D. Wang, C. Shi, N. Farzadnia, Z. Shi, H. Jia, A review on effects of limestone \npowder on the properties of concrete, Constr. Build. Mater. 192 (2018) 153–166, \nhttps://doi.org/10.1016/j.conbuildmat.2018.10.119. [53] P.R. da Silva, J. de Brito, Durability performance of self-compacting concrete (SCC) \nwith binary and ternary mixes of fly ash and limestone filler, Mater. Struct.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 44,
+      "char_count": 535
+    }
+  },
+  {
+    "text": "Constr. 49 (2016) 2749–2766, https://doi.org/10.1617/s11527-015-0683-6. J. Jeffy Pravitha et al. Construction and Building Materials 396 (2023) 132289\n16\n[54] N. Diamantonis, I. Marinos, M.S. Katsiotis, A. Sakellariou, A. Papathanasiou, \nV. Kaloidas, M. Katsioti, Investigations about the influence of fine additives on the \nviscosity of cement paste for self-compacting concrete, Constr. Build. Mater. 24 \n(2010) 1518–1522, https://doi.org/10.1016/j.conbuildmat.2010.02.005. [55] A.S. Gill, R. Siddique, Strength and micro-structural properties of self-compacting \nconcrete containing metakaolin and rice husk ash, Constr. Build. Mater. 157 (2017) \n51–64, https://doi.org/10.1016/j.conbuildmat.2017.09.088. [56] B. Felekoǧlu, S. Türkel, B. Baradan, Effect of water/cement ratio on the fresh and \nhardened properties of self-compacting concrete, Build. Environ.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 45,
+      "char_count": 861
+    }
+  },
+  {
+    "text": "Zhang, Q.F. Li, Combined effect of polypropylene fiber and silica fume on \nworkability and carbonation resistance of concrete composite containing fly ash, \nProc. Inst.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 46,
+      "char_count": 168
+    }
+  },
+  {
+    "text": "Mech. Eng. Part L J. Mater. Des. Appl. 227 (2013) 250–258, https://doi. org/10.1177/1464420712458198. [58] Astm c1611,, Standard Test Method for Slump Flow of Self-Consolidating Concrete, \nASTM Int. i (2018) 6.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 47,
+      "char_count": 210
+    }
+  },
+  {
+    "text": "[59] F. Han, Y.u. Zhou, Z. Zhang, Effect of gypsum on the properties of composite binder \ncontaining high-volume slag and iron tailing powder, Constr. Build.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 48,
+      "char_count": 157
+    }
+  },
+  {
+    "text": "Omale, T.S.Y. Choong, L.C. Abdullah, S.I. Siajam, M.W. Yip, Utilization of \nMalaysia EAF slags for effective application in direct aqueous sequestration of \ncarbon dioxide under ambient temperature, Heliyon. 5 (10) (2019) e02602.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 49,
+      "char_count": 229
+    }
+  },
+  {
+    "text": "Gupta, R. Nagar, Impact on fresh, mechanical, and \nmicrostructural properties of high strength self-compacting concrete by marble \ncutting slurry waste, fly ash, and silica fume, Constr. Build.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 50,
+      "char_count": 193
+    }
+  },
+  {
+    "text": "Heo, T. Noguchi, Effect of iron powder on inhibition of carbonation \nprocess in cementitious materials, ISIJ Int. 55 (2015) 1522–1530, https://doi.org/ \n10.2355/isijinternational.55.1522.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 51,
+      "char_count": 187
+    }
+  },
+  {
+    "text": "[65] G. Rodriguez de Sensale, I. Rodriguez Viacava, A. Aguado, Simple and Rational \nMethodology for the Formulation of Self-Compacting Concrete Mixes, J. Mater. Civ. Eng. 28 (2016), https://doi.org/10.1061/(asce)mt.1943-5533.0001375. [66] M.J. Miah, M.K. Ali, S.C. Paul, A. John Babafemi, S.Y. Kong, B. ˇSavija, Effect of \nrecycled iron powder as fine aggregate on the mechanical, durability, and high \ntemperature behavior of mortars, Materials (Basel). 13 (5) (2020) 1168. [67] IS 13311 (Part 1), Method of Non-destructive testing of concret, Part 1: Ultrasonic \npulse velocity, Bur. Indian Satandards. (1992) 1–7. [68] K. Prakash A, J. Helena H, P. Oluwaseun Awoyera, F. Colangelo, Optimization of \nMix Proportions for Novel Dry Stack Interlocking Concrete Blocks Using ANN, Adv. Civ.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 52,
+      "char_count": 787
+    }
+  },
+  {
+    "text": "Eng. 2021 (2021) 1–15. [69] M. John Robert Prince, B. Singh,, Bond behavior of deformed steel bars embedded \nin recycled aggregate concrete, Constr. Build. Mater. 49 (2013) 852–862, https:// \ndoi.org/10.1016/j.conbuildmat.2013.08.031. [70] P.O. Awoyera, T.A. Nworgu, B. Shanmugam, K. Prakash Arunachalam, I. Mansouri, \nL.M.B. Romero, J.-W. Hu, Structural retrofitting of corroded reinforced concrete \nbeams using bamboo fiber laminate, Materials (Basel). 14 (21) (2021) 6711.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 53,
+      "char_count": 475
+    }
+  },
+  {
+    "text": "Sci. 240 (1972) 16–18. [73] F. Pelisser, A. Vieira, A.M. Bernardin, Efficient self-compacting concrete with low \ncement consumption, J. Clean. Prod. 175 (2018) 324–332, https://doi.org/ \n10.1016/j.jclepro.2017.12.084. [74] M.S. Amin, S.M.A. El-Gamal, F.S. Hashem, Effect of addition of nano-magnetite on \nthe hydration characteristics of hardened Portland cement and high slag cement \npastes, J. Therm.",
+    "metadata": {
+      "source": "Ferrock_Pravitha.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Ferrock_Pravitha.pdf",
+      "chunk_index": 54,
+      "char_count": 402
+    }
+  }
+]

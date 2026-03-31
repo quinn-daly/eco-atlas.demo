@@ -1,0 +1,322 @@
+[
+  {
+    "text": "Journal of Building Engineering 84 (2024) 108359\nAvailable online 12 January 2024\n2352-7102/© 2023 Published by Elsevier Ltd. Contents lists available at ScienceDirect\nJournal of Building Engineering\njournal homepage: www.elsevier.com/locate/jobe\nFull length article\nHygrothermal performance of hempcrete in a multi-layer wall\nenvelope\nBaiba Jirgensone a, Mihails Birjukovs a,∗, Maris Sinka b, Andris Jakovics a,\nDiana Bajare c\na Institute of Numerical Modelling, University of Latvia (UL), Jelgavas street 3, Riga, 1004, Latvia\nb 3D Concrete Printing Laboratory, Institute of Materials and Structures, Riga Technical University (RTU), Paula Valdena street\n1, Riga, 1048, Latvia\nc Institute of Materials and Structures, Riga Technical University (RTU), Kalku street 1, Riga, 1658, Latvia\nA R T I C L E\nI N F O\nKeywords:\nHempcrete\nLong-term monitoring\nHygrothermal performance\nNumerical modeling\nMaterial models\nA B S T R A C T\nHempcrete is a promising self-bearing thermal insulation material, as it has low thermal\nconductivity and a minor to negative CO2 footprint. It is also believed to be applicable\nnot only in building construction, but also for renovation or additional insulation, since\nhempcrete hygrothermal properties are compatible with wooden structural elements. To utilize\nit efficiently, it must be possible to make predictions regarding hempcrete hygrothermal\nperformance and whether it is up to the modern standards — this requires a verified material\nmodel for use in numerical simulations. Previously, we have shown that hempcrete by itself\nperforms well as insulation for building wall envelopes, and we have validated a material mode\nfor hempcrete. This study assesses, both experimentally numerically, if hempcrete is suitable for\nuse in multi-layer envelopes. A multi-layered wall envelope of a wooden multi-story building\nwas insulated from the inside with hempcrete blocks. Relative humidity and temperature within\nthe wall, as well as heat flow, were monitored over ∼2 years. The wall envelope was modeled\nnumerically using WUFI. Temperature and humidity dynamics predicted numerically are in\ngood enough agreement with experimental observations. In addition, the mold risk forecast\nderived from simulation and experiment results agree rather well with actual observations —\nno mold risk was predicted, and no mold was observed upon inspection. All of this suggests\nthat hempcrete could indeed be used as a part of multi-layer building insulation envelopes, at\nleast for climate conditions sufficiently similar to Latvian. 1. Introduction\nCurrently, the main challenge in the building materials industry is to ensure higher energy efficiency and to maximize CO2\nneutrality [1,2]. There are several legislators who set targets and conditions to achieve near-zero energy buildings [3–5]. However,\nreducing the operational energy consumption of a building may result in solutions that significantly increase the effective amount\nof energy expended to construct a building, an",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 0,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "d the related CO2 emissions [6]. Therefore, energy efficiency must be considered in\ncombination with the impact of building materials on the environment to create truly sustainable and optimal long-term solutions. Hemp concrete (hempcrete) is a material with low embodied carbon due to high organic particle content [7]. It has relatively low\nthermal conductivity and high vapor permeability [8]. This set of properties contributes to both indoor comfort and sufficiently good\n∗Corresponding author. E-mail addresses:\nbaiba.jirgensone@lu.lv (B. Jirgensone), mihails.birjukovs@lu.lv (M. Birjukovs), maris.sinka@rtu.lv (M. Sinka). https://doi.org/10.1016/j.jobe.2023.108359\nReceived 7 July 2023; Received in revised form 12 December 2023; Accepted 18 December 2023\n\nJournal of Building Engineering 84 (2024) 108359\n2\nB. Jirgensone et al. thermal performance. However, sometimes relative humidity (RH) in hempcrete walls can reach up to 80–90%, enough to promote\nmold growth in the long term [9]. Hempcrete could also be more sensitive in this regard compared to traditional mineral-based\nbuilding materials, because hempcrete aggregate, hemp shives, are biologically produced [10,11]. Hempcrete is mostly used in\nnewly constructed buildings, but it is also used in renovations for historic buildings. In such cases, the insulation layer is assembled\nfrom the inside, but this may create additional mold risks [7]. We have previously shown that over a ∼2 year interval, the mold growth risk in Latvian-like climate seems entirely negligible\neven if the hempcrete block has initial RH near unity after its installation within the wall envelope [12]. However, despite this\npromising outcome, more and longer in-situ observations are necessary, since desired building exploitation time scales are roughly\nan order of magnitude greater, and other types of wall assemblies may show different results. In general, long-term monitoring data\nand studies with different outdoor climate conditions are not widely available for building structures containing hempcrete layers\nor pure hempcrete walls, so for now it is necessary to mostly rely on numerical calculations to predict long-term temperature and\nRH dynamics. A considerable hurdle is verifying that hempcrete performs according to today’s standards, i.e., that its hygrothermal performance\nis adequate in the long term. While we have demonstrated that hempcrete by itself performs well as insulation for building wall\nenvelopes, and we have validated a numerical model for hempcrete hygrothermal properties [12], it is still necessary to test\nwhether integrating hempcrete layers into wall envelopes of buildings leads to excessive accumulation of water mass, condensation\nof water vapor, mold formation, etc. [13–22]. This is especially true because some of the hempcrete properties important for\nnumerical modeling and forecasting building performance have been, or even can be, readily measured directly. Another issue is that\nmeasurement results must",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 1,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "be verified via monitoring in laboratory or field conditions, since property uncertainties are inevitable,\nand, without extra validation, could lead to inadequate material models [23–25]. In [12], we provide an overview of numerical and experimental (laboratory and in situ) studies involving hempcrete and its\nmaterial model. However, to establish context while avoiding repetition, a brief summary is in order. On the numerical modeling side, while the amount of research reporting significant advances in understanding hempcrete\nbehavior (e.g., moisture sorption hysteresis and its temperature dependence [26–29]) would seem sufficient, most of the work\nvalidates the simulations in laboratory conditions, and the experiments are rather short-term (the longest reported run is ∼85\ndays [29]) when compared to time scales considered for building performance (years) [26,29–32]. In in situ studies, on the other hand, are much less common. To our knowledge, there are four instances involving either a\nstandalone hempcrete layer or a wall envelope with an integrated hempcrete layer [33–36]. The longest of these studies accumulated\n1 year of monitoring data for a hempcrete only wall with various coatings, coupled with numerical modeling using for the entire\nobservation period. And while we were not the first to model a single layer of hempcrete in our previous paper [12], more\nindependent monitoring datasets with different climate conditions and insulating envelopes containing a hempcrete layer. Concerning the latter point, here we continue our previous efforts by considering a multi-layered wall envelope of a wooden\nmulti-story building, additionally insulated from the inside with hempcrete blocks. RH and temperature were monitored at different\nwall depths, and heat flow through the envelope was measured. Experimental data was accumulated over ∼2 years (versus ∼8\nmonths in [12]), and the insulation envelope and its hygrothermal behavior was reproduced numerically using WUFI software. We\nshow that temperature and RH dynamics predicted numerically are in good enough agreement with experimental observations. In\naddition, the mold risk forecast derived from simulation and experiment results corresponds well with the actual observations — no\nmold risk is predicted, and no mold is observed upon envelope inspection. All of this suggests that the utilized material model for\nthe hempcrete material is adequate and that hempcrete could indeed be used as a part of multi-layer building insulation envelopes,\nat least for climate conditions sufficiently similar to Latvian (Dfb type according to the Koppen–Geiger classification [37]). 2. Materials & methods\n2.1. Materials\nExperimentally manufactured hempcrete blocks were used in the internal insulation of an existing building. Blocks were made by\nmixing hemp shives with formulated hydraulic lime (FHL) in a 1:2 ratio by mass, obtaining a material with a density of 350 kg∕m3,\na thermal conductivity of 0.076 W∕(m2 K) and a compr",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 2,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "essive strength of ∼0.15 MPa. The latter allows this material to be used as a\nself-supporting insulation material [12]. Manufacturing technology, methods for testing the material properties and other mixture\nproportions are outlined in [12]. Properties used for numerical modeling are given in Table 1. The blocks were completely dried at\nthe time of installation and were held in place by a silicon sealant around the perimeter of each block to minimize the effect of an\nadditional gluing layer. 2.2. Experiments\nA multi-story wooden building constructed in 1936 (Fig. 1) was insulated from the inside with the experimentally made hemp\nblocks. By default, its walls consist of load-bearing wooden posts with a wooden filling/insulation layer between them. Fig. 1 shows\nthe front facade of the building — on the second floor, there is a wall insulated with hemp blocks where sensors for monitoring are\nplaced. The facade is facing the SSE cardinal direction, and it is partially shaded by a nearby tree. The wall insulated with the hemp blocks is located in the living room of a two-room apartment with a corresponding RH regime\n(no special sources of humidity). The wall section can be seen in Fig. 2b without hempcrete and 2a with hempcrete and the sensors. Journal of Building Engineering 84 (2024) 108359\n3\nB. Jirgensone et al. Table 1\nHygrothermal coefficients used for hempcrete in simulations. Property\nUnit\nValue\nDensity\nkg/m3\n350\nPorosity\nN/A\n0.8\nDry specific heat capacity\nJ/(kg K)\n1270\nDry thermal conductivity (20 ◦C)\nW/(m K)\n0.076\nWater vapor diffusion resistance factor (0% RH)\nN/A\n6.58\nFig. 1. A wooden multi-story building insulated from inside with hemp blocks. Fig. 2. The experimental setup of a wall envelope (a) with hempcrete and (b) without hempcrete. The wires shown in (a,b) are inserted into the wall with\ntheir respective sensors, as illustrated in [12]. The assembly consists of cement-lime plaster, two layers of pine supports, lime plaster and hempcrete. Sensors were placed in the\nassembly to collect data on RH and temperature at relevant locations. RH and temperature at different wall depths, as well as heat flow through the structure, were measured with wired sensors. The data was used for numerical model validation and mold growth risk assessment. The information regarding the sensor system\nis given in [38]. Sensors were placed by drilling tilted (45 degrees) holes in the wall or hempcrete (shown in Section 2.3). The\nheat-flux sensor was placed between the existing wall and the hempcrete layer to give an accurate measurement of the heat flow\n\nJournal of Building Engineering 84 (2024) 108359\n4\nB. Jirgensone et al.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 3,
+      "char_count": 2659
+    }
+  },
+  {
+    "text": "3. Wall envelope model schematics: (a) with and (b) without a hempcrete layer. The sensors are numbered 1 through 6 and their locations (depths/material)\nare given in Table 2. Table 2\nThe depth of sensor positions within the wall, with respect to the exterior surface\n(Fig. 3). Nr. Depth, mm\nComments\n1. 0\nOuter surface\n2. 120\nPine layer middle\n3. 190\n30 mm from the pine layer inner surface\n4. 230\nHempcrete/lime plaster boundary\n5. 270\nHempcrete layer middle\n6. 310\nInner surface\nthrough the assembly. The experiment was performed from April 9, 2017 to April 27, 2019, over ∼2 years. After the measurements,\nthe hempcrete blocks were dismantled to visually observe whether mold had formed on the contact surface with the lime plaster. 2.3. Numerical modeling\nThe two wall envelopes described in Section 2 were reproduced numerically using WUFI, which uses finite volume method-based\nsolvers for one-dimensional temperature and moisture transfer equations. The numerical model used here is the same as in [12],\nwhich is based on [39]. The schematics for the WUFI wall envelope models are shown in Fig. 3. The structure consists of cement-lime\nplaster, pine supports that act as insulation in the original structure, lime plaster and a hempcrete layer for additional insulation. Both plasters and pine layer form the original construction of the building, with hempcrete as an additional insulation to increase\nthe thermal resistance of the wall, and to bring it more up to date with the energy efficiency requirements. This inner insulation\nlayer could be constructed using more traditional insulation materials, such as mineral wool, but this would require additional vapor\ninsulation to prevent the risk of condensation. The locations of virtual temperature and RH sensors (i.e., locations for which solution\ndata is stored) correspond to the locations of sensors in the experimental setup, and are highlighted in Fig. 3 and listed in Table 2. The total thickness of this envelope was 0.31 m, with 𝑅= 2.41 (m2K)∕W (𝑈= 0.386 (m2K)∕W). In addition, temperature and RH time series from January 20, 2017 to April 8, 2017 were recorded before the hempcrete layer\nwas installed. This was done because the envelope includes a thick old wood layer, which may present difficulties in terms of\nnumerical modeling, because of uncertainties in the material model for this specific old pine wood. The additional data is meant\nto check if, indeed, an adequate material model is used for the wood layer. The key properties of wood were determined [40–43]\nand adjusted to approximate the experimental results. Therefore, a case without the hempcrete layer was considered, which can be\nseen in Fig. 3b. Sensor 4 in this setup measures the indoor temperature and RH. This envelope variant was also simulated in WUFI. The total thickness of this envelope was 0.23 m, with 𝑅= 1.38 (m2K)∕W (𝑈= 0.641 (m2K)∕W). For both numerical models, a one-dimensional mesh (Fig. 3) consists of 1500 elements with geometric inflatio",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 4,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "n (size in-\ncrease/decrease coefficient is 1.05) at the material and wall construction boundaries. The maximum time step 1 h with adaptive\nrefinement as described in [12]. 3. Results\nHeat flux time series from experiments and simulations for an envelope both with (Fig. 4) and without the hempcrete layer (Fig. 5)\nwere obtained, and the experiments match the output of numerical models fairly well. The difference between numerical results and\nexperimental data in winter months is greater, because this coincides with greater disparity between experimentally measured and\n\nJournal of Building Engineering 84 (2024) 108359\n5\nB. Jirgensone et al. Fig.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 5,
+      "char_count": 650
+    }
+  },
+  {
+    "text": "4. Heat flux 𝑄, W∕m2 for the wall envelope with hempcrete: time series from the heat flux sensor (yellow) and the numerical model (blue) for the entire\nmonitoring period. 𝑄< 0 means heat flux directed towards the inner surface. The heat flux sensor is attached to the interior wall surface. (For interpretation of\nthe references to color in this figure legend, the reader is referred to the web version of this article.)\nFig. 5. Heat flux for the wall envelope without hempcrete: time series from the heat flux sensor (yellow) and the numerical model (blue). (For interpretation\nof the references to color in this figure legend, the reader is referred to the web version of this article.)\nsimulated RH. RH differences, in turn, mean unequal local (and global) water content, resulting in perceivably different thermal\nconductivities, and therefore heat flux. The measured heat flux in the winter months is lower than in the simulations, thus hempcrete\nshows even better energy efficiency than expected. The results of numerical modeling in comparison with the experimentally obtained data for temperature and RH dynamics in\nthe envelope with hempcrete are shown in Figs. 6–11, which indicate temperature and RH dynamics at various depths within the\nassembly. Temperature dynamics plots overlap very well between experiments and simulations. For RH dynamics, the plots match\nquite well in Figs. 6 and 11, but in Figs. 7–10 there are notable differences, especially in Fig. 7, which corresponds to the old pine\nlayer. During winter, the difference is greater. However, as seen in Figs. 12 and 13, the relative errors should be within acceptable\nbounds. While differences are observed in the wood layer (Figs. 7 and 8), note that they are quite small within hempcrete (Figs. 9 and\n10). The error could be due to slight mismatch between the initial RH conditions specified for WUFI and the actual RH levels within\nthe assembly; another possibility is that the sensors are not actually in the specified locations, i.e., there are sensor placement errors,\netc. The differences in the wood layer could mainly arise because it is difficult to find the properties that would exactly match the\nspecific old wood grown in Latvian conditions, and therefore the utilized wood material model may not be fully representative,\nparticularly the sorption curve, which affects the RH dynamics the most out of all the material properties. Journal of Building Engineering 84 (2024) 108359\n6\nB. Jirgensone et al. Fig. 6. (a) Temperature, ◦C, and (b) RH (dimensionless) dynamics over the monitoring period at control point 1 (outer surface): experiment (yellow) versus\nsimulation (light blue). (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)\nFig. 7. (a) Temperature and (b) RH dynamics over the monitoring period at control point 2 (the middle of the pine layer): experiment (yellow) versus simulation\n(light blue). (For interpretation of th",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 6,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "e references to color in this figure legend, the reader is referred to the web version of this article.)\nFig. 8. (a) Temperature and (b) RH dynamics over the monitoring period at control point 3 (30 mm from the pine layer inner surface): experiment (yellow)\nversus simulation (light blue). (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)\nFig. 6 exhibits a temperature range from −10 ◦C to +30 ◦C, while in Fig. 11 one has from +18 ◦C to +28 ◦C, suggesting that\nthe structure is indeed a good heat insulator and temperature oscillation dampener, the latter being important for indoor thermal\ncomfort. Observe that the amplitude of RH fluctuations decreases as well, which also promotes more stable indoor conditions and\ndecreases mold growth risk throughout the envelope. To better evaluate the discrepancies between experiments and simulations, consider the relative error for RH seen in Figs. 12\nand 13, where sub-figures (a) show the mean error across all sensors, and (b) display errors for individual sensors. Evidently, the\nerror magnitudes are within reasonable bounds. The calculated errors in the average RH of each sensor is shown in Fig. 12a. As\nseen in Fig. 13a, the mean relative error is in the (0.00; 0.15) range, with the most likely value interval being (0.05; 0.1). The greatest\n\nJournal of Building Engineering 84 (2024) 108359\n7\nB. Jirgensone et al. Fig. 9. (a) Temperature and (b) RH dynamics over the monitoring period at control point 4 (hempcrete/lime plaster boundary): experiment (yellow) versus\nsimulation (light blue). (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)\nFig. 10. (a) Temperature and (b) RH dynamics over the monitoring period at control point 5 (middle of the hempcrete layer): experiment (yellow) versus\nsimulation (light blue). (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)\nFig. 11. (a) Temperature and (b) RH dynamics over the monitoring period at control point 6 (inner surface): experiment (yellow) versus simulation (light blue). (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)\nerror contribution is due to sensor 5 (Fig. 13b) which is in the middle of the hempcrete layer, and the smallest error is for sensor 4\nwhich is at the outer hempcrete surface. However, it must also be noted that it is due to normalization to lower RH values overall\n(versus sensors within the wood layer). Note also that the RH time series for sensors within hempcrete conform to the experiments\nrather well, despite greater error peaks than what is seen in the wood layer. The ranges of temperature, RH and water content over the simulated time interval within the envelope with hempcrete are shown\nin Fig. 14. Note the RH peak at the lime plast",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 7,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "er and hempcrete boundary, indicating the risk of mold growth must be checked. To\ndo this, consider the plots showing mold growth risk history and intensity in Figs. 15–18. Journal of Building Engineering 84 (2024) 108359\n8\nB. Jirgensone et al. Fig.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 8,
+      "char_count": 249
+    }
+  },
+  {
+    "text": "12. Differences in RH dynamics between WUFI and experiments: (a) mean relative error ⟨𝜖rel⟩(dimensionless) and (b) relative errors 𝜖rel for sensors 2-5. ‘‘CP’’ in the plot legends stands for ‘‘control point’’. Fig.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 9,
+      "char_count": 214
+    }
+  },
+  {
+    "text": "13. Relative error probability density 𝜌: (a) averaged over all sensors and (b) individual for sensors 2 through 5. Fig. 14. Temperature (red, ◦C), RH (green) and water content (blue) ranges within the envelope. The curves plotted within the ranges are instantaneous profiles\nat the end of the simulation run. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)\nThe mold growth risk can be assessed in terms of how much time the temperature/RH at a location are above the critical\nLIM (lowest isopleth for mold). Consider Figs. 15–18 — there, LIM 0 corresponds to an optimal culture medium; LIM I —\nbiologically degradable building materials (e.g., hempcrete); LIM II — biologically adverse materials (e.g., renderings, mineral\nbuilding materials). LIM 0 to II therefore classify materials that are progressively more difficult to biologically degrade. For WUFI\nresults shown in Figs. 17–18, LIM curves cannot be seen, since all the temperature/RH events are below these curves, indicating no\nrisk. After the experimental measurements, the hempcrete blocks were dismantled, and it was visually observed that no mold had\nformed on the contact surface with lime plaster or on the blocks themselves. The experiment and the numerical results agree very\nwell in this regard. Notice that Figs. 15a and 17 show that at the beginning of the numerical calculation the mold risk is low, it grows\n\nJournal of Building Engineering 84 (2024) 108359\n9\nB. Jirgensone et al. Fig.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 10,
+      "char_count": 1541
+    }
+  },
+  {
+    "text": "15. Mold growth risk dynamics derived from (a) WUFI output and (b) sensor data at control point 4 (outer hempcrete surface). The temperature/RH events\nare color coded in order of appearance, dark blue to yellow. The LIM (limiting isopleth for mold) 0, I and II curves are gray, blue and red, respectively —\nevents above the lines indicate risk. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)\nFig. 16. Mold growth risk intensity derived from (a) WUFI output and (b) sensor data at control point 4 (outer hempcrete surface). The color map represents\nthe relative number density of temperature/RH events, with higher values above the LIM curves indicating greater mold growth risk (LIM I for hempcrete). White contours are lines of constant number density. somewhat, but then stabilizes below LIM 0 over time. Therefore, hempcrete has been shown both experimentally and numerically\nto have a low risk of mold in this case, where it interacts with other materials. This is certainly promising in that this material is a\npotential alternative to standard insulation solutions like wood wool, mineral wool, etc., typically used in wall envelopes. 4. Conclusions & outlook\nContinuing the study started in [12] with a single hempcrete layer, here we have assessed the hygrothermal performance of\nhempcrete in a multi-layer wall envelope. To this end, an experimental setup was assembled and ∼2 year field tests in Latvian\nclimate have been conducted, with temperature and relative humidity readings recorded at key locations in the envelope, including\nthe hempcrete layer. The experiment was mirrored by numerical models in WUFI, utilizing the hempcrete material model used\nin [12]. Numerical simulations have given results that are within reasonable bounds with respect to the experimental observations, further\nreinforcing the conclusion from [12] that the developed hempcrete material for hempcrete should be valid. In addition, the mold\nrisk forecast derived from both the numerical modeling results and sensor readings coincides with actual observations — that is,\nin all cases no mold risk was predicted for the tested wall envelope over the course of ∼2 years, and no mold was observed\nupon inspecting the assembly on site. This reinforces the proposed idea of using hempcrete as a substitute for more conventional\ninsulation solutions (wood wool, mineral wool, etc.) in multi-layer building envelopes. Of course, the above can only be stated with\n\nJournal of Building Engineering 84 (2024) 108359\n10\nB. Jirgensone et al. Fig.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 11,
+      "char_count": 2608
+    }
+  },
+  {
+    "text": "17. Mold growth risk dynamics derived from (a) WUFI output and (b) sensor data at sensor 5 (middle of the hempcrete layer). Fig. 18. Mold growth risk intensity derived from (a) WUFI output and (b) sensor data at control point 5 (middle of the hempcrete layer). any confidence for climate conditions that are sufficiently similar to Latvian. However, the created models allow calculations for\nother climate conditions as well, making it possible to evaluate the applicability of hempcrete for these conditions. Hempcrete is being used in construction more and more frequently, so the authors are continuing their research, currently\ncreating an experimental building entirely made of hempcrete. It will be used to research how to use hempcrete in various building\nenvelopes. In addition, hempcrete is also used in wall 3D printing, where its hygrothermal properties help create walls without\nadditional layers of insulation. While the numerical models implemented in WUFI that are utilized here and in [12] (based on the Kunzel model [39]) seem to be\nadequate for the hempcrete being tested in our cases, it is certainly important to transition to more advanced models. It is planned to\nshift towards using COMSOL, where material models can be customized, and the sorption curve with a temperature dependence can\nbe introduced. In addition, COMSOL has an optimization module, which should both enable a more rigorous approach to material\nmodel derivation based on experiments, and help optimize building envelopes for performance. The latter, of course, would require\nvalidated material models. It would also be of interest to check the hempcrete models proposed by other research groups against\nour data. Our hempcrete model introduced in [12] and further validated here should be of value for anyone who wished to use hempcrete\nin building envelopes, and wishes to assess their long-term performance in realistic climate conditions. While not the first material\nmodel out there for hempcrete, our result is nonetheless important as one more reference, which can be verified against other\nexisting material models. It is also based on more experimental data than in other instances. Also, the few currently available\nmodels were established/tested in different climate conditions (even if in similar climate zones) or in laboratories, as well as for\ndifferently manufactured hempcrete, which is another reason why input from more and diverse in situ monitoring sites is required. The results presented here, in [12], as well as in the references cited in the Introduction section, could also potentially be a\nreference/baseline for studying insulating composites made of a wood wool and hempcrete [44]. Journal of Building Engineering 84 (2024) 108359\n11\nB. Jirgensone et al. CRediT authorship contribution statement\nBaiba Jirgensone: Writing – original draft, Visualization, Validation, Methodology, Investigation, Formal analysis, Data curation,\nConceptualization. Mihails Birjukovs: Writing – orig",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 12,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "inal draft, Validation, Supervision, Software, Methodology, Investigation, Data\ncuration, Conceptualization. Maris Sinka: Writing – original draft, Methodology, Investigation, Data curation, Conceptualization. Andris Jakovics: Writing – review & editing, Supervision, Resources, Project administration. Diana Bajare: Writing – review &\nediting, Supervision, Resources, Project administration. Declaration of competing interest\nThe authors declare that they have no known competing financial interests or personal relationships that could have appeared\nto influence the work reported in this paper. Data availability\nData will be made available on request. Acknowledgments\nThis study was conducted with the financial support of European Regional Development Fund (ERDF), as a part of the project\n‘‘Development and approbation of complex solutions for optimal inclusion of capillary heat exchangers in nearly zero energy building\nsystems and reduction of primary energy consumption for heating and cooling’’ (1.1.1.1/19/A/102). Maris Sinka was supported by the European Regional Development Fund within the Activity 1.1.1.2 ‘‘Post-doctoral Research\nAid’’ of the Specific Aid Objective 1.1.1 ‘‘To increase the research and innovative capacity of scientific institutions of Latvia and the\nability to attract external financing, investing in human resources and infrastructure’’ of the Operational Programme ‘‘Growth and\nEmployment’’ (1.1.1.2/VIAA/3/19/394). References\n[1] L.F.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 13,
+      "char_count": 1473
+    }
+  },
+  {
+    "text": "Cabeza, L. Boquera, M. Chàfer, D. Vérez, Embodied energy and embodied carbon of structural building materials: Worldwide progress and barriers\nthrough literature map analysis, Energy Build. 231 (2021) 110612.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 14,
+      "char_count": 208
+    }
+  },
+  {
+    "text": "Bodrato, L. Marenco, From nearly zero energy buildings (NZEB) to positive energy buildings (PEB): The next challenge\n- The most recent European trends with some notes on the energy analysis of a forerunner PEB example, Dev. Built Environ. 3 (March) (2020) 100019. [3] EU, Energy and climate framework 2030, European council 23/24 October 2014 – conclusions, EUCO 169/14, 2014, URL https://ec.europa.eu/clima/\npolicies/strategies/2030_en#tab-0-1. [4] EU, Directive 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings, 2010. [5] European Commission, Proposal for a regulation of the European Parliament and of the council establishing the framework for achieving climate neutrality\nand amending regulation (EU) 2018/1999 (European climate law) EN, 2020, pp. 1–58, Brussels, 4.3.2020 COM(2020) 80 final. [6] L.F. Cabeza, L. Boquera, M. Chàfer, D. Vérez, Embodied energy and embodied carbon of structural building materials: Worldwide progress and barriers\nthrough literature map analysis, Energy Build. 231 (2021) 110612.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 15,
+      "char_count": 1077
+    }
+  },
+  {
+    "text": "Sabbadini, G. Dotelli, Life cycle assessment of natural building materials: the role of carbonation, mixture\ncomponents and transport in the environmental impacts of hempcrete blocks, J. Clean.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 16,
+      "char_count": 193
+    }
+  },
+  {
+    "text": "Prod. 149 (2017) 1051–1061. [8] F. Collet, S. Pretot, Thermal conductivity of hemp concretes: Variation with formulation, density and water content, Constr. Build. Mater. 65 (2014)\n612–619. [9] P. Johansson, A. Ekstrand-Tobin, T. Svensson, G. Bok, Laboratory study to determine the critical moisture level for mould growth on building materials,\nInt. Biodeterioration Biodegrad. 73 (2012) 23–32. [10] M. Palumbo, A.M. Lacasta, A. Navarro, M.P. Giraldo, B. Lesar, Improvement of fire reaction and mould growth resistance of a new bio-based thermal\ninsulation material, Constr. Build. Mater. 139 (2017) 531–539. [11] M. Viel, F. Collet, Y. Lecieux, M. Louis, M. Franois, V. Colson, C. Lanos, A. Hussain, M. Lawrence, Resistance to mold development assessment of bio-based\nbuilding materials, Composites B 158 (September 2018) (2019) 406–418. [12] M.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 17,
+      "char_count": 847
+    }
+  },
+  {
+    "text": "Jakovics, D. Bajare, Combined in situ and in silico validation of a material model for hempcrete, Constr. Build. Mater. 321\n(2022) 126051, URL https://www.sciencedirect.com/science/article/pii/S0950061821037831. [13] C. Xu, M. Mudunuru, K. Nakshatrala, Material degradation due to moisture and temperature. Part 1: Mathematical model, analysis, and analytical solutions,\nContin. Mech. Thermodyn. 28 (2015). [14] N. Liyana Othman, M. Jaafar, W. Harun, F. Ibrahim, A case study on moisture problems and building defects, Proc. Soc.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 18,
+      "char_count": 529
+    }
+  },
+  {
+    "text": "Behav. Sci. 170 (2015) 27–36. [15] L. Boukhattem, B. Mustapha, H. Hamdi, B. Benhamou, F. Aitnouh, Moisture content influence on the thermal conductivity of insulating building materials\nmade from date palm fibers mesh, Constr. Build.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 19,
+      "char_count": 233
+    }
+  },
+  {
+    "text": "Mater. 148 (2017) 811–823. [16] H. Viitanen, Moisture and bio-deterioration risk of building materials and structures, 2011, http://dx.doi.org/10.5772/21184. [17] C.G. Carll, T.L. Highley, Decay of wood and wood-based products above ground in buildings, J. Test.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 20,
+      "char_count": 262
+    }
+  },
+  {
+    "text": "Eval. 27 (2) (1999) 150–158. [18] I. Irbe, I. Andersone, Wood decay fungi in latvian buildings including cultural monuments, in: Proceedings of the international conference, COST Action\nIE0601 in Braga (Portugal), 5-7 November 2008, 2008, pp. 94–100.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 21,
+      "char_count": 250
+    }
+  },
+  {
+    "text": "[19] D. Haas, J. Habib, H. Galler, W. Buzina, R. Schlacher, E. Marth, F. Reinthaler, Assessment of indoor air in Austrian apartments with and without visible\nmold growth, Atmos. Environ. 41 (2007) 5192–5201. [20] M. Andersson, M. Nikulin, U. Kõljalg, M. Andersson, F. Rainey, K. Reijula, E.-L. Hintikka, M. Salkinoja-Salonen, Bacteria, molds, and toxins in water-damaged\nbuilding materials, Appl. Environ. Microbiol. 63 (1997) 387–393. [21] A. Afshari, H. Ross Anderson, A. Cohen, E. De Oliveira Fernandes, J. Douwes, R. Górny, M.-R. Hirvonen, J. Jaakkola, S. Kirchner, J. Kurnitski, H. Levin,\nM. Mendell, L. Mølhave, L. Morawska, A. Nevalainen, M. Richardson, P. Rudnai, H. Schleibinger, P. Schwarze, M. Krzyzanowski, WHO guidelines for\nindoor air quality: dampness and mould, 2009. Journal of Building Engineering 84 (2024) 108359\n12\nB. Jirgensone et al. [22] C. Bornehag, G. Blomquist, F. Gyntelberg, B. Järvholm, P. Malmberg, L. Nordvall, A. Nielsen, G. Pershagen, J. Sundell, Nordic interdisciplinary review of\nthe scientific evidence on associations between exposure to dampness in buildings and health efefts (NORDDAMP), Indoor Air 11 (2001) 72–86. [23] T.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 22,
+      "char_count": 1163
+    }
+  },
+  {
+    "text": "Colinart, T. Vinceslas, H. Lenormand, A. Menibus, E. Hamard, T. Lecompte, Hygrothermal properties of light-earth building materials, J. Build. Eng. 29\n(2020) 101134. [24] T. Vinceslas, T. Colinart, H. Lenormand, A. Menibus, E. Hamard, T. Lecompte, Hygrothermal properties of light earth insulation materials: evaluation of\nuncertainties and consequences, Acad. J.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 23,
+      "char_count": 363
+    }
+  },
+  {
+    "text": "Civ. Eng. 37 (2019) 198–203. [25] T. Defraeye, B. Blocken, J. Carmeliet, Influence of uncertainty in heat–moisture transport properties on convective drying of porous materials by numerical\nmodelling, Chem. Eng.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 24,
+      "char_count": 211
+    }
+  },
+  {
+    "text": "Res. Des. 91 (1) (2013) 36–42. [26] Y. Aït Ouméziane, M. Bart, S. Moissette, C. Lanos, S. Prétot, F. Collet, Hygrothermal behaviour of a hemp concrete wall : influence of sorption isotherm\nmodelling, in: 9th Nordic Symposium on Building Physics, Vol. 2, NSB 2011, Tampere, Finland, 2011, pp.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 25,
+      "char_count": 291
+    }
+  },
+  {
+    "text": "[27] T. Colinart, P. Glouannec, Temperature dependence of sorption isotherm of hygroscopic building materials. Part 1: Experimental evidence and modeling,\nEnergy Build. 139 (2017) 360–370. [28] T. Colinart, P. Glouannec, M. Bendouma, P. Chauvelon, Temperature dependence of sorption isotherm of hygroscopic building materials. Part 2: Influence\non hygrothermal behavior of hemp concrete, Energy Build. 152 (2017) 42–51.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 26,
+      "char_count": 419
+    }
+  },
+  {
+    "text": "[29] T. Colinart, D. Lelièvre, P. Glouannec, Hygrothermal behavior of bio-based building materials including hysteresis effects: Experimental and numerical\nanalyses, Energy Build. 84 (2014).",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 27,
+      "char_count": 190
+    }
+  },
+  {
+    "text": "[30] T. Colinart, P. Glouannec, T. Pierre, P. Chauvelon, Hygrothermal behaviour of a hemp concrete wall: Comparison between experimental and numerical\nresults, in: Proceedings of BS 2013: 13th Conference of the International Building Performance Simulation Association, 2013. [31] S. Dubois, A. Evrard, F. Lebeau, Hygrothermal modelling of lime-hemp concrete used as building material and indoor climate buffering characterization,\nin: Proceedings of International Conference of Agricultural engineering, Valence, Espagne, 2012 july 8th to 12th, 2012. [32] T. Colinart, D. Lelievre, P. Glouannec, Experimental and numerical analysis of the transient hygrothermal behavior of multilayered hemp concrete wall,\nEnergy Build. 112 (2016) 1–11.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 28,
+      "char_count": 738
+    }
+  },
+  {
+    "text": "[33] E. Latif, M.A. Ciupala, D.C. Wijeyesekera, The comparative in situ hygrothermal performance of hemp and stone wool insulations in vapour open timber\nframe wall panels, Constr. Build. Mater. 73 (2014) 205–213. [34] A. Piot, T. Béjat, A. Jay, L. Bessette, E.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 29,
+      "char_count": 261
+    }
+  },
+  {
+    "text": "Wurtz, L. Barnes-Davin, Study of a hempcrete wall exposed to outdoor climate: Effects of the coating, Constr. Build. Mater. 139 (2017) 540–550. [35] T. Bejat, A. Piot, A. Jay, L. Bessette, Study of two hemp concrete walls in real weather conditions, Energy Procedia 78 (2015) 1605–1610, 6th International\nBuilding Physics Conference, IBPC 2015. [36] P. Aversa, A. Marzo, C. Tripepi, S. Sabbadini, G. Dotelli, P. Lauriola, C. Moletti, V. Luprano, Hemp-lime buildings: thermo-hygrometric behaviour of two\ncase studies in North and South Italy, Energy Build. 247 (2021) 111147.",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 30,
+      "char_count": 574
+    }
+  },
+  {
+    "text": "[37] M.C. Peel, B.L. Finlayson, T.A. McMahon, Updated world map of the Köppen-Geiger climate classification, Hydrol. Earth Syst. Sci. 11 (5) (2007) 1633–1644. [38] M. Sinka, D. Bajare, S. Gendelis, A. Jakovics, In-situ measurements of hemp-lime insulation materials for energy efficiency improvement, Energy Procedia\n147 (2018) 242–248. [39] H. Kunzel, Simultaneous heat and moisture transport in building components. One- and two-dimensional calculation using simple parameters, Fraunhofer\nIBP (1995). [40] Determination of Effective Diffusion Coefficient and Mechanical Stress of Pine Wood during Convective Drying URL https://www.balticforestry.mi.lt/bf/\nPDF_Articles/2011-17[1]/Tamme_2011%2017(1)_110_117.pdf. [41] M. Jalili, A. Anca-Couce, N. Zobel, On the uncertainty of a mathematical model for drying of a wood particle, Energy Fuels 27 (2013). [42] Pine Wood – Density – Strength – Melting Point – Thermal Conductivity URL https://material-properties.org/pine-wood-density-strength-melting-point-\nthermal-conductivity/. [43] Liquid Transport Coefficients URL https://www.wufi-wiki.com/mediawiki/index.php/Details:LiquidTransportCoefficients. [44] P. Argalis, M. Sinka, D. Bajare, A preliminary study of mechanical treatments’ effect on the reactivation of hydrated cement paste, 2423, 2023, 012008,",
+    "metadata": {
+      "source": "Hempcrete_Jirgensone.pdf",
+      "material_category": "Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)",
+      "source_path": "data\\raw\\Concrete (Hempcrete, Ashcrete, Timbercrete, Ferrock)\\Hempcrete_Jirgensone.pdf",
+      "chunk_index": 31,
+      "char_count": 1307
+    }
+  }
+]

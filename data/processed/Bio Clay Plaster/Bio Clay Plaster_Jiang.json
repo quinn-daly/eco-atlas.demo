@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Moisture buffer, ﬁre resistance and insulation potential of novel bio-clay\nplaster\nYunhong Jiang a,d,⇑, Annabelle Phelipot-Mardele b,⇑, Florence Collet b, Christophe Lanos b, Manfred Lemke c,\nMartin Ansell a, Atif Hussain a, Michael Lawrence a\na BRE Centre for Innovative Construction Materials, Department of Architecture and Civil Engineering, University of Bath, Bath, UK\nb Université de Rennes, Laboratoire Génie Civil et Génie Mécanique, BP 90422 Rennes, France\nc Claytec, Viersen, Germany\nd Biotechnology in the Built Environment, Department of Applied Sciences, Northumbria University, Newcastle upon Tyne, UK\nh i g h l i g h t s\n\u0001 The bio-clay plaster can reduce material costs and environmental impact. \u0001 The bio-clay plaster has good insulating and hygric properties. \u0001 The bio-clay plaster exhibited improved ﬁre resistance. \u0001 The bio-clay plaster protective layer can maintain high water vapour permeation and improve indoor comfort for the building. a r t i c l e\ni n f o\nArticle history:\nReceived 29 July 2019\nReceived in revised form 7 January 2020\nAccepted 3 February 2020\nAvailable online 12 February 2020\nKeywords:\nBio-clay plaster\nMicrostructure\nMoisture buffer value\nThermal conductivity\nFire resistance\na b s t r a c t\nThe novel bio-clay plaster was formulated by adding hemp powder to clay plaster to improve the perfor-\nmance of buildings by moisture buffering the indoor climate, providing a ﬁre insulation layer to encap-\nsulate inﬂammable bio-based substrates and enhancing air tightness within the system by closing joints. The results showed the plaster formulation inﬂuences drying shrinkage, thermal conductivity, density\nand the moisture buffer value of the plaster. The thermal conductivity of the novel bio-clay plaster\ndecreased with a decreasing proportion of Earthen Clay. The proportion of hemp powder had little effect\non the thermal conductivity of the plaster, whereas the amount of hemp powder had a slightly effect on\nthe moisture buffering property. The novel bio-clay plaster exhibited improved ﬁre resistance. The\ndetailed hygrothermal characterization using the measurement of moisture buffer value and thermal\nconductivity analysis indicated that the novel bio-clay plaster showed a good moisture buffering capabil-\nity, even for small thicknesses, and low thermal conductivity, with the potential to develop industrially\nviable products. \u0001 2020 Elsevier Ltd.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 0,
+      "char_count": 2406
+    }
+  },
+  {
+    "text": "1. Introduction\nThe use of bio-based insulation materials in the construction\nsector experienced an impressive expansion during the last dec-\nades with a growing awareness of the need to reduce the environ-\nmental\nimpact\nof\nthe\nconstruction\nsector\n[1–3]. Bio-based\nmaterials possess thermal performances similar or close to tradi-\ntional insulation materials (mineral and synthetic), which are\nalready commercialized [4]. There is a growing interest in the\nutilization of natural bio-aggregates as organic ﬁllers and for the\nreinforcement of lightweight bio-composites in sustainable con-\nstruction [5–7]. The bio-composite of hemp concrete, which is\ncomposed of hemp shiv, as the plant aggregate, mixed with lime\nas binder and water, has been extensively studied. Because hemp\nshiv has low density, low thermal conductivity, high hygric proper-\nties and low processing costs [8–11]. The hemp concrete has a low\nthermal conductivity between 0.08 and 0.16 W/(m.K) depending\non density, mix ratio and humidity [4,12]. The hygric property of\nhemp concrete have been reported to be over 2 g/(m2. %RH), which\nrepresents excellent moisture buffering using the NORDTEST\nprotocol [13–15]. Hemp concrete has the ability to regulate humid-\nity inside buildings by absorbing and releasing water vapour\nhttps://doi.org/10.1016/j.conbuildmat.2020.118353\n0950-0618/\u0001 2020 Elsevier Ltd. All rights reserved. ⇑Corresponding authors at: BRE Centre for Innovative Construction Materials,\nDepartment of Architecture and Civil Engineering, University of Bath, Bath, UK (Y. Jiang). E-mail addresses: yunhong.jiang@northumbria.ac.uk (Y. Jiang), annabelle.pheli-\npot@univ-rennes1.fr (A. Phelipot-Mardele). Construction and Building Materials 244 (2020) 118353\nContents lists available at ScienceDirect\nConstruction and Building Materials\njournal homepage: www.elsevier.com/locate/conbuildmat\n\nmolecules due to its low density and complex microstructure\nwhich improves the thermal comfort of buildings. Moujalled et al\nexperimental and numerical evaluation of the hygrothermal\nperformance of a hemp lime concrete building in a long-term case\nstudy. The results showed the hemp lime concrete has an excellent\nmoisture buffer performance [16]. The large surface area of plas-\ntered walls and their exposure to the internal climate offers signif-\nicant potential to passively assist in the regulation of the internal\nenvironment for improved occupant wellbeing. There has been\ngrowing interest in the use of exposed lime hemp plaster surfaces\nfor the passive regulation of indoor temperature and humidity\nlevels. A number of studies have demonstrated that the lime hemp\nplaster can enhance moisture buffering potential compared to\nmany other conventional materials [17,18]. In addition, the\nTable 1\nBio-clay plaster composition. Type\nBinder\nBio-aggregates\nMineral aggregates\nAdditives\nClay3\nEarthen Clay 57w%\nHemp powder 4w%\nPumice 0–1: 28w%\nSand 0–2: 11w%\nClay5\nEarthen Clay 60w%\nHemp powder 2.5w%\nPumice 0–1: 25w%\nSand 0–2: 1",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 1,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "0w%\nThermosilit 2.5w%\nClay6\nEarthen Clay 50w%\nHemp powder 2w%\nPumice 0–1: 20w%\nPumice 0–3 : 20w%\nSand 0–2: 8w%\nClay3\nClay5\nClay6\nFig. 1. Pictures of each mixed clay plasters. Table 2\nMean density (kg/m3) of specimens. Type\nBatch1\nBatch2\nClay3\n1399.86 ± 6.01\n1503.38 ± 7.40\nClay5\n1280.56 ± 8.74\n1377.56 ± 3.76\nClay6\n1287.98 ± 14.79\n1303.10 ± 4.48\nFig. 2. Photo images of specimens for moisture buffer testing. 2\nY.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 2,
+      "char_count": 413
+    }
+  },
+  {
+    "text": "Jiang et al. / Construction and Building Materials 244 (2020) 118353\n\npresence of clay can improve the mechanical and ﬁre retardancy\nproperties of the composite material. McGregor et al. reported that\nunﬁred clay masonry has a much higher moisture buffering value,\nwhich can be used to regulate indoor humidity [19]. However, clay\nis not good thermal insulator. Several studies have added hemp\nshiv to clay composites to reduce the thermal conductivity\n[20,21]. The results of the experiments showed that hemp clay\ncomposites had a similar thermal conductivity to hemp concrete\nwith the potential to use clay as an alternative to lime in order\nto reduce the environmental impact. Studies showed that clay\nplaster has signiﬁcant potential to control indoor air quality due\nto its direct exposure to the indoor environment and large surface\narea [22,23]. Natural clay plasters are breathable, non-toxic,\nrelease no volatile organic compounds (VOCs) into the atmosphere\nand are 100% biodegradable. The incorporation of bio-aggregates\nwithin clay plasters has potential to improve indoor environment\nquality through passive humidity buffering. In this study, novel\nbio-clay plasters containing hemp powder were studied in combi-\nnation with different binders and mineral aggregates. The hygric\nand thermal properties of novel bio-clay plasters were measured. The ﬁre resistance and hygric properties were tested. These novel\nbio-clay plasters are constituents of the ISOBIO panel system (ISO-\nBIO European project) for internal wall construction. They can pro-\nvide a ﬁre and liquid water protective layer to the insulation\nsystem allowing high water vapour permeation and improved\nindoor comfort by moisture buffering. The industrial production\nof novel bio-clay plasters will be a step forward in introducing\nbio-based solutions into construction markets. 2. Materials and experiment\n2.1. Materials\nIt is well known that the physical properties of materials are\ninﬂuenced by manufacturing process including curing conditions,\nage of concrete, kind and content of binder. The standard for indus-\ntrial produced clay-based plaster in Europe is the German standard\nDIN 18,947 [24]. The standard is valid for all clay plaster with thick-\nnesses greater than 3 mm. Such clay plaster can be used as under\ncoat or upper coat on different substrates. The standard deﬁnes\nthe constituents of clay plaster including allowed components and\nexcluded components [25]. The components selected for this\nresearch, permitted by DIN 18947, were natural earthen clay (Clay-\ntec Company, Germany) and hemp powder (Cavac Company,\nFrance). The hemp plant was sourced and harvested in North West\nFrance. The hemp powder was produced by mechanical de-ﬁbring,\nchopping, grading and de-dusting by the CAVAC cooperative\n(France). Its chemical and multi-physical properties are given in\n[11]. Other aggregate was were sand (Claytec Company, Germany)\nand mineral binder was pumice (Claytec Company, Germany). 2.2. Mix proportion an",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 3,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "d composite production\nThe compositions were made by the mechanical mixing of\nwetted mineral materials and added hemp powder on an existing\nproduction line by Claytec (Germany). Nine different under coat\nand upper coat plasters were prepared according to DIN 18947. Three experimental mixtures (Clays 3, 5 and 6) were ﬁnally\nselected and tested, based on priorities including heat transfer\nand workability. The composition of the Bio-clay plaster is pre-\nsented in Table 1. For reasons of comparison, a mineral addition\ncommonly used to improve the ﬁre resistance of mixes was added\nto experimental mixture Clay5. The ‘‘Thermosilit” ﬁre resistant\naddition is an extruded volcanic silicate produced in Austria and\nis mainly used in lime plaster formulations. No additional water\nand no additional energy for drying are necessary for the\nproduction of the novel mixtures. The basic mineral ingredients\nclay, sand and pumice were mixed in a natural damped state as\nshown in Fig. 1. Hemp powder was added to the mixing machine\nseparately. For Clay3, Clay5 and Clay6, 10–15 vol% (i.e. 33, 35\nand 37w% respectively) of mixing water was required for plaster\napplication One batch, batch1, is produced to ensure equivalent\nrheology and the second, batch2, is produced using the same water\ncontent. The clay specimens were prepared in 140x160 mm (batch1) and\n150 \u0003 150 mm (batch2) moulds with a thickness of 13–70 mm. The\ncast clay panel was covered and left to set for 5 days in a condition-\ning room. Then the specimen was removed from the mould and left\nto cure for 28 days in the conditioning room (at 23 \u0003C and 50 %RH\nfor drying). Measurements of the thickness of specimens were\nreported to the nearest 0.1 mm. The mean density of the specimens\nis given in Table 2 for each batch. 2.3. Characterisation\nThe microstructure of the bio-clay composite was characterised\nusing a Scanning Electron Microscope (SEM) (JEOL SEM-6480LV,\nTokyo, Japan). All images were taken at an accelerating voltage of\n10 kV. The sample surfaces were coated with a thin layer of gold\nusing an HHV500 sputter coater (Crawley, UK) to provide electrical\nconductivity, sending electrons to earth [26]. 2.4. Thermal properties\nThe thermal conductivity was measured using an ISOMET 2114\nelectronic thermal properties analyzer (based on IEC EN 61010\nstandard) with a surface probe ranging from 0.04 to 1.0 W/(m.K). This measurement was based on analysis of the temperature\nresponse of the composites to heat ﬂow impulses. Heat ﬂow was\nexcited by electrical heating of the resistor heater inserted into\nthe probe, which was in direct heat contact with the tested speci-\nmen. The specimens were pre-conditioned at 23 \u0003C with a relative\nhumidity of 50%. The measurements were made under ambient\nconditions in triplicate on 16 mm thickness specimens from\nbatch2. 2.5. Moisture buffering value measurement\nThe hygric behaviour of the clay plaster was studied by measur-\ning the moisture buffer value of the materials according to the\nTable 3",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 4,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "WVS-Classiﬁcation DIN 18947. CLASSES\nWater Vapour Adsorption of Clay Plasters\nafter\n0,5h\n1 h\n3 h\n6 h\n12 h\ng/m2\nWS I\n\u00043,5\n\u00047,0\n\u000413,5\n\u000420,0\n\u000435,0\nWS II\n\u00045,0\n\u000410,0\n\u000420,0\n\u000430,0\n\u000450,0\nWS III\n\u00046,5\n\u000413,0\n\u000426,5\n\u000440,0\n\u000465,0\nY. Jiang et al. / Construction and Building Materials 244 (2020) 118353\n3\n\nNORDTEST method [27]. A set up was designed where specimens\nof each material were introduced in a climatic chamber. For\nbatch1, three specimens were produced for each clay plaster and\neach thickness: 13, 40 and 70 mm. For batch2, three specimens\nare produced with a thickness of 16 mm. The required thickness\nrecommended by Claytec for novel plasters is about 15 mm. The\nhigher thicknesses allowed the study of the effect of thickness on\nperformances. Fig.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 5,
+      "char_count": 746
+    }
+  },
+  {
+    "text": "3. Charring depth of timber using Cross-Section Method (a) and image of timber cladded with clay plaster after ﬁre test (b). Fig. 4. Microstructure SEM images of Clay3 specimens (a) sand and pumice particles in a clay matrix and (b) cellular hemp powder in a clay matrix. 4\nY. Jiang et al. / Construction and Building Materials 244 (2020) 118353\n\nThe specimens were sealed on ﬁve out of six sides using alu-\nminium ﬁlm as shown in Fig. 2 to ensure vapour exchange only\noccur through a single face of the specimen. The specimens (be-\nforehand dried for batch1) were pre-conditioned at 23 \u0003C at a rel-\native humidity of 50%. The specimens were exposed to a daily\ncyclic variation of ambient relative humidity (8 h at 75%RH and\n16 h at 33 %RH) in a climate chamber (Vötsch VC4060). The mois-\nture buffer value was then calculated from moisture uptake and\nrelease with the formula:\nMBV ¼ Dm=ðAðRHhigh \u0005 RHlowÞÞ\nð1Þ\nwhere MBV is the moisture buffer value (g/(m2. %RH)), Dm is the\nmoisture uptake/release during the period (g) measured with a\nbalance, A is the open surface area (m2), RHhigh/low is the high/low\nrelative humidity level (%). For each material, the MBV was the\naverage value of the tested specimens. Temperature and relative\nhumidity were measured continuously with sensor SHT75 and with\nthe sensor in the climatic chamber; the air velocity in the surround-\nings of the specimens ranged from 0.1 to 0.4 m/s for horizontal\nvelocity and was lower than 0.15 m/s for vertical velocity. For some\nof the tests, a computer was connected to the balance and automat-\nically recorded the weight of specimens. The speciﬁc validated standard for clay plaster in Europe is\nDIN18947 [24]. According to DIN 18947, the highest water vapour\nadsorption class is III under the following test procedure. Water\nvapour sorption of clay plaster has to be determined with clay\nplaster specimens of at least 15 mm thickness. The test specimen\nis sealed (e.g. steel moulds) at ﬁve edges, to ensure that sorption\ncan only get through one area. This testing area has a size of\n1.000 cm2. To reach the sufﬁcient thickness of 15 mm thin layer\nclay plasters are applied on undercoat plaster of compatible mate-\nrial (according to producer advice) up to 15 mm thickness for a\nvalid testing specimen. After hardening of the surface of a clay\nplaster specimen, according to product speciﬁcation, the air mois-\nture sorption has to be determined. The specimen of the same size\nis conditioned in a climate chamber at 23 (±2)\u0003C temperature and\n5% (±5%) relative air humidity until a constant mass is reached. Constant mass is the results of two subsequent weightings at an\ninterval of 24 h that do not vary by more than 0.2%. The humidity\nshould be increased at constant air temperature up to (80 ± 5) %\nrelative humidity. The increase in mass of the specimen after\n0.5 h, 1 h, 3 h, 6 h and 12 h has to be determined. The measure-\nments were performed with a balance having an accuracy of \u0006 0. 01 g. The measured values were ext",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 6,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "rapolated over an area of one\nsquare meter. The classiﬁcation was based on classes for Water\nVapour Sorption (WVS) described in Table 3. 2.6. Fire resistance\nThe ﬁre behaviour of novel bio-clay plaster as a protective layer\nfor bio-based substrates was studied according to the revision of\nthe EN1995-1-2:2022 standard [28]. The ﬁre resistance time tins\nof the bio-based elements depends on the sum of protection times\n(tprot,i) of each element which can be calculated by:\ntins ¼\nXn\u00051\ni\u00051 tprot;i þ tins;n\nð2Þ\nwhere tins is the temperature increase time on the unexposed side\nof the wall, tins,n plus the sum of the fall-off time of each layer\ntprot,i. In the case of timber constructions with clay claddings, the\ndelay in starting carbonization due to protection tch is calculated\nas follows:\ntch ¼ tprot;clay ¼ hp \u0005 7\nð3Þ\nwhere hp is the thickness of clay plaster in mm and results in tch\nminutes. The tests were tested on ISOBIO hemp panels (50 mm\nthickness, 200 kg/m3 made of hemp shiv glued with a bio-binder)\nTable 4\nThermal properties of Clay specimens measured by ISOMET. Aver k (W/(m.K))\nSt. Dev. (%)\ncp (106J/m3.K)\nSt. Dev. (%)\nTmean (\u0003C)\nDT (K)\nClay3-1\n0.6509\n0.092\n1.4389\n0.077\n25.492\n9.8313\nClay3-2\n0.645\n0.122\n1.4392\n0.028\n25.314\n9.8436\nClay3-3\n0.6372\n0.09\n1.4774\n0.028\n25.756\n9.8362\nClay5-1\n0.5839\n0.214\n1.4432\n0.051\n25.81\n9.8393\nClay5-2\n0.5975\n0.147\n1.5224\n0.05\n25.314\n9.8112\nClay5-3\n0.5918\n0.292\n1.4667\n0.041\n25.471\n9.8401\nClay6-1\n0.5265\n0.138\n1.3911\n0.042\n25.446\n9.812\nClay6-2\n0.5289\n0.143\n1.368\n0.052\n25.875\n9.8464\nClay6-3\n0.5174\n0.137\n1.4029\n0.105\n25.872\n9.8568\nFig. 5. Thermal conductivity of clay specimens as a function of density. Fig. 6. Volumetric heat capacity of different solid building materials. Y. Jiang et al. / Construction and Building Materials 244 (2020) 118353\n5\n\nwith 10 mm novel clay plaster as protection layer compared to\nunprotected ISOBIO hemp panels. The ‘‘Cross Section Method” was employed to calculate the\ncharring depth dchar of timber after ignition until a critical mass\nloss occurs. Fig. 3b shows the charring depth of timber clad with\nclay plaster and clay board (total thickness 40 mm) after ﬁre test\n(CONE calorimeter). The unprotected charring rate ß0 of timber\nand other wooden building material is known and given. The pro-\ntection layers delay the starting time (tch) of charring ß0 (green line\nin Fig. 3a) and reduce the unprotected charring rate by a factor of\nk2 (yellow line in Fig. 3a). After fall-off or failure of the protection\nlayer (tf) the charring rate increases again but at a different rate. The protection layers can shift the charring curve down giving an\nextended period of resistance. 2.7. Drying shrinkage\nIn order to fully validating the ﬁnal formulation of clay plaster\nto be used for the ISOBIO system, a set of tests were performed\nto evaluate the behaviour of the different formulations during\nthe drying phase. Test specimens of batch1 were produced with\n3 different thicknesses: 13, 40 and 70 mm. 3. Results and dis",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 7,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "cussion\n3.1. Morphology characterisation\nFig. 4 shows the microstructure of Clay3 specimens. It is clear\nthat sand and pumice particles were well mixed in the clay matrix\nand the clay binder was well adhered to the mineral aggregates\n(Fig. 4a). Fig. 4b clearly shows that the cellular hemp powder\nwas well mixed with sand particles and the clay plaster well\nadhered to hemp powder. The pores in the hemp powder were\nnot ﬁlled by clay plaster. The supporting information compares\nthe microstructure of the three clay plaster compositions at\nincreasing magniﬁcation from x50 to x2000. Results showed all\nspecimens contained hemp powder, which was not always appar-\nent in cross-sections. Fig.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 8,
+      "char_count": 690
+    }
+  },
+  {
+    "text": "7. Determination of MVB from dynamic measurements. (Clay3 – batch2). Fig. 8. Moisture buffer value of clay specimens as a function of density. 6\nY. Jiang et al. / Construction and Building Materials 244 (2020) 118353\n\n3.2. Thermal properties\nThe measurement of thermal conductivity, thermal diffusivity,\nvolume heat capacity at a mean temperature of 25 \u0003C are shown\nin Table 4 and Fig. 5. It is evident that Clay3 specimens had the\nhighest thermal conductivity of about 0.64 W/(m.K). Clay6 speci-\nmens had the lowest thermal conductivity of around 0.52 W/(m. K). This is due to the Clay6 specimens having the lowest density\nat 1306 kg/m3, which relates to the lower proportion of Earthen\nClay binder (50%), while Clay3 and Clay5 have 57% and 60% of\nthe Earthen Clay binder respectively. Clay3 and Clay5 had a similar\nvolumetric heat capacity about 1.45 \u0003 106 J/m3.K., while Clay6\nspecimens had a volumetric heat capacity of 1.38 \u0003 106 J/m3.K. Thermal conductivity data for clay in the literature shows that it\nincreases with an increase in density and moisture content, rang-\ning from 0.8 to 1.0 W/(m.K) [29]. The results showed that the ther-\nmal conductivity of bio-clay plaster was lower than the thermal\nconductivity of normal clay due to the presence of hemp powder. However, the thermal conductivity of bio-clay plaster did not\ndecrease with an increase of the ratio of hemp powder, but\nremained proportionate to density, with the higher density speci-\nmens having higher thermal conductivity. Pumice reduced the density of novel mixture in combination\nwith hemp powder below the level of standard undercoat plaster. Typical undercoat clay plasters have a density class of 1.8 and 1.9\nor according to DIN 18,947 equivalent densities ranging between\n1.800 kg/m3 and 2.000 kg/m3. The bio-clay plaster was in the range\nbetween 1.400 kg/m3 and 1.600 kg/m3. Thick layer clay plaster as\nClay3, 5 and 6 display a thermal inertia behaviour. Fig. 6 compares\nthe volumetric heat capacity of different solid building materials. For example, the mixture Clay3 can be ranked at the same level\nas lime and sandstone. Derived from product data beton (concrete)\nand lime/cement mortar showed a 10–20% higher heat capacity\ncompared to Clay3. Fig. 9. Moisture buffer value of clay specimens versus specimen thickness – batch1. Fig. 10. Water vapour adsorption of clay plaster according to DIN 18,947. Y. Jiang et al. / Construction and Building Materials 244 (2020) 118353\n7\n\n3.3. MBV measurements\nFig. 7 shows the measured weight change per square meter\nresponse of one of the specimens (Clay3 - batch2) when it was sub-\njected to cycles that varied the ambient humidity between 33% and\n75% relative humidity for 16 and 8 h respectively. The choice of\nstable cycles and the moisture uptake were marked in Fig. 7. All the specimens showed good moisture buffer values between\n1.2 and 1.6 g/(m2.%RH) based on the NORDTEST project classiﬁca-\ntion, shown in Fig. 8. The results showed that the moisture buffer\nFig. 1",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 9,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "1. Mass loss of Cavac hemp composites under ﬁre test without and with 10 mm clay plasters 3, 5 and 6. Clay 3 - 13mm\nClay 5 - 40mm\nClay 6 - 70mm\nFig. 12. Images of bio-clay plaster specimens in the mould after drying test. Table 5\nDrying shrinkage measurements of bio-clay plaster (mean of the three specimens). DL/L mm/m\nL = Length\nDW/W mm/m\nW = Width\nDT/T mm/m\nT = Thickness\nDV/V dm3/m3\nV = Volume\nDensity (kg/m3)\nClay3 13 mm\n8.6\n0.4\n202.6\n211.7.0\n1400.9 ± 0.9\nClay3 \u0005 40 mm\n16.4\n18.7\n45.2\n80.2\nClay3 \u0005 70 mm\n3.36\n21.5\n43.9\n68.8\nClay5 \u0005 13 mm\n8.9\n3.6\n189.6\n202.1\n1281.3 ± 0.5\nClay5- 40 mm\n23.6\n19.6\n50.4\n93.6\nClay5 \u0005 70 mm\n3.0\n17.6\n47.5\n68.1\nClay6 \u0005 13 mm\n6.9\n0.8\n123.8\n131.5\n1289.1 ± 0.8\nClay6 \u0005 40 mm\n20.9\n13.6\n39.4\n73.8\nClay6 \u0005 70 mm\n\u00051.6\n9.9\n25.5\n33.8\n8\nY. Jiang et al. / Construction and Building Materials 244 (2020) 118353\n\nvalue was not a function of the bulk density of the materials. It\ndepends on the moisture transfer and moisture storage capacity\nof the materials, which is highly linked to the porosity and chem-\nical composition, pore size distribution and the pore structure\n[30,31]. MBV values of Clay6 are lower than those of Clay3 and Clay5\nplasters for both batches. It appears to be attributed to the lowest\npercentage of hemp powder and highest pumice content in Clay6. The Clay3 specimen showed the higher ratio of hemp powder,\nwhich confers extra porosity and pore surface area. For all the\ntested thicknesses (Fig. 9), the best MBV value is obtained with\nClay5. The specimen thickness clearly more inﬂuences the evolu-\ntion of MBV than density. According to Nordtest protocol, all tested\nplasters are classiﬁed as good hygric regulators (MBV ranging\nbetween 1 and 2 g/(m2.%RH)). Fig. 9 underlines that the MBV\nincreases with thickness due to moisture penetration depth. How-\never, this effect is not so much and it is thus not necessary to\nincrease the thickness in order to increase MBV (from 10 to\n70 mm, the MBV increases by 15% max). Few millimetres of plaster\nare sufﬁcient to bring the main part of the performances. The mois-\nture buffer value of the bio-clay plaster was higher than the classic\nbuilding materials listed in the NORDTEST project. For example,\nthe moisture buffer value of gypsum board is between 0.6 and\n0.8 g/(m2.%RH). 3.4. WVS-Classiﬁcation\nThe dotted lines in Fig. 10 characterize the classiﬁcation of\nmoisture sorption properties with the lowest class as WS I and\nthe highest class as WS III. The blue coloured curves describes\nthe performance of Clay3 plaster, the red curve presents the perfor-\nmance of Clay6 plaster, the green curve near WS III line represents\nClay5 plaster (lowest curve). The time intervals and the condition-\ning of the specimens differ between the DIN and Nordtest stan-\ndards. Despite differences in methods between DIN and Nordtest,\nthe water vapour sorption performance value can be deduced from\nthe Nordtest test and would be 50 g/m2 after 8 h (Fig. 7). This result\ngives good reasons to expect a WS III classiﬁcation",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 10,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "according to\nDIN 18947. 3.5. Fire resistance\nThe component additive method was used to test ﬁre resistance\nconferred by clay plaster to the Cavac hemp panel according to\nmass loss, which indicated improved performance. Fig. 11 shows\nthat the mass loss of CAVAC hemp panels protected by a 10 mm\nplaster (grey, orange and blue curves), was signiﬁcantly lower than\nunprotected\nhemp\ncomposites\nwhich\nshowed\na\nmass\nloss\nof greater than 70%. This can be seen as a tendency, which is rele-\nvant not only for direct application of clay plaster on rigid hemp\ninsulation panels, e.g interior insulation but also for the ISOBIO\nsystem, where 15 mm clay plaster is applied. In addition, the Clay3\nand Clay6 plaster layer showed a similar ﬁre protection behaviour\ncompared to Clay5 plaster layer, which had a 2.5% mineral ﬁre\nretardant in the mixture. 3.6. Drying shrinkage\nFig. 12 shows that some cracks appeared at the surface of the\nthinnest specimens (13 mm). A large detachment can be observed\naround the specimen for the other thicknesses. After weight stabi-\nlization in a conditionning chamber (23 \u0003C and 50% of humidity),\nspecimen density is measured. As a shrinkage appears, all speci-\nmens are dimensioned to estimate accurately the apparent density\nand axial and volumetric shrinkages as shown in Table 5. Axial shrinkage is major for the thickness for all formulations. The\nhigh reduction was nearly 2 mm for the 13 mm thickness specimens. Volumetric drying shrinkage is presented in Fig. 13. For the lower\ninitial thickness (13 mm), the shrinkage is the same for the three\ntypes of clay formulations. The volumetric variation due to drying\ncannot be ignored (13 to 21%) for all the formulations. The shrinkage\ndecreases with the increase of the thickness of the specimen; but\nwhile Clay3 and Clay5 present a similar evolution, it is more marked\nfor Clay6 formulation. This appears to be associated with the lower\npercentage of hemp powder and higher pumice content. 4. Conclusions\nIn this work, the novel use of hemp powder as a component in\nclay plaster was studied on their speciﬁc mixture in combination\nFig. 13. Evolution of the relative volume vs initial thickness for the three bio-clay plasters. Y. Jiang et al. / Construction and Building Materials 244 (2020) 118353\n9\n\nwith different binders and mineral aggregates. The bio-clay plaster\nhas a great potential for a lightweight solution compared to the\nready-to-use coatings currently used for the protection of the ther-\nmal insulating composite system. It provides a ﬁre and insulation\nprotective layer to the insulation system while maintaining high\nwater vapour permeation and improved indoor comfort through\nthe provision of thermal inertia and moisture buffering. The ther-\nmal conductivity of bio-clay plaster was lower than the thermal\nconductivity of normal clay due to the presence of hemp powder. This presence reduced also the ﬁnal density. The moisture buffer\nvalue of the bio-clay plaster was higher than classic building mate",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 11,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "-\nrials. This hygric properties increase with thickness and a thickness\nof 15 mm appears as a good compromise. The proportion of hemp\npowder had little impact on the thermal conductivity of the plas-\nter, but a limited impact on the moisture buffering characteristics. Despite differences in methods between DIN and Nordtest, the\nwater vapour sorption performance according to the Nordtest\nshowed a good agreement with the measurement results according\nto DIN 18947. The ﬁre test showed that the bio-clay plaster offered\ngood ﬁre protection to the ISOBIO panel. Shrinkage tests showed\nthat the shrinkage decreases with the increase of the thickness of\nthe specimen. The industrial production of novel clay-based plaster\nwill be a step forward to market penetration in construction mar-\nkets with developed and tested bio-based solutions. Authors contributions\nY. Jiang, A. Phelipot Mardele and M. Lemke carried out the\nexperiment. Y. Jiang wrote the manuscript with support from M. Ansell and A. Hussain. M. Lawrence, F. Collet, C. Lanos and M. Lemke conceived of the presented idea and supervised the ﬁndings\nof this work. All authors provided critical feedback and helped\nshape the research, analysis and manuscript. Declaration of Competing Interest\nThe authors declare that they have no known competing ﬁnan-\ncial interests or personal relationships that could have appeared\nto inﬂuence the work reported in this paper. Acknowledgements\nThis study was supported by the ISOBIO project funded by the\nHorizon 2020 programme (grant number 636835-ISOBIO-H2020-\nEeb-2014-2015). References\n[1] M. Rahim, O. Douzane, A.D. Tran Le, G.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 12,
+      "char_count": 1629
+    }
+  },
+  {
+    "text": "Mater. 102 (Part 1) (2016) 679–687. [2] D.M. Nguyen,\nA.-C. Grillet,\nT.M.H. Diep,\nC.N. Ha\nThuc,\nM. Woloszyn,\nHygrothermal properties\nof\nbio-insulation building\nmaterials based on\nbamboo ﬁbers and bio-glues, Constr. Build. Mater. 155 (Supplement C)\n(2017) 852–866. [3] S. Liuzzi, C. Rubino, P. Stefanizzi, A. Petrella, A. Boghetich, C. Casavola, G. Pappalettera, Hygrothermal properties of clayey plasters with olive ﬁbers,\nConstr. Build.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 13,
+      "char_count": 436
+    }
+  },
+  {
+    "text": "Mater. 158 (Supplement C) (2018) 24–32. [4] F. Collet, J. Chamoin, S. Pretot, C. Lanos, Comparison of the hygric behaviour of\nthree hemp concretes, Energy Build. 62 (Supplement C) (2013) 294–303.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 14,
+      "char_count": 195
+    }
+  },
+  {
+    "text": "[5] A. Laborel-Préneron, J.E. Aubert, C. Magniont, C. Tribout, A. Bertron, Plant\naggregates and ﬁbers in earth construction materials: A review, Constr. Build. Mater. 111 (Supplement C) (2016) 719–734. [6] A. Bourdot, T. Moussa, A. Gacoin, C. Maalouf, P. Vazquez, C. Thomachot-\nSchneider, C. Bliard, A. Merabtine, M. Lachi, O. Douzane, H. Karaky, G. Polidori,\nCharacterization of a hemp-based agro-material: Inﬂuence of starch ratio and\nhemp shive size on physical, mechanical, and hygrothermal properties, Energy\nBuild. 153 (Supplement C) (2017) 501–512.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 15,
+      "char_count": 555
+    }
+  },
+  {
+    "text": "[7] B. Seng, S. Lorente, C. Magniont, Scale analysis of heat and moisture transfer\nthrough bio-based materials — Application to hemp concrete, Energy Build. 155 (Supplement C) (2017) 546–558.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 16,
+      "char_count": 191
+    }
+  },
+  {
+    "text": "[8] A. Korjenic, V. Petránek, J. Zach, J. Hroudová, Development and performance\nevaluation of natural thermal-insulation materials composed of renewable\nresources, Energy Build. 43 (9) (2011) 2518–2523.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 17,
+      "char_count": 202
+    }
+  },
+  {
+    "text": "[9] D. Lelievre, T. Colinart, P. Glouannec, Hygrothermal behavior of bio-based\nbuilding materials including hysteresis effects: Experimental and numerical\nanalyses, Energy Build. 84 (Supplement C) (2014) 617–627.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 18,
+      "char_count": 212
+    }
+  },
+  {
+    "text": "[10] M. Rahim, O. Douzane, A.D. Tran Le, G. Promis, B. Laidoudi, A. Crigny, B. Dupre,\nT. Langlet, Characterization of ﬂax lime and hemp lime concretes: Hygric\nproperties and moisture buffer capacity, Energy Build. 88 (Supplement C)\n(2015) 91–99.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 19,
+      "char_count": 245
+    }
+  },
+  {
+    "text": "Collet, C. Lanos, Chemical and multi-physical characterization of\nagro-resources’ by-product as a possible raw building material, Industrial\nCrops and Product. 120 (2018) (2018) 214–237.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 20,
+      "char_count": 186
+    }
+  },
+  {
+    "text": "Collet, S. Pretot, Thermal conductivity of hemp concretes: variation with\nformulation, density and water content, Constr. Build. Mater. 65 (Supplement\nC) (2014) 612–619. [13] H.-R. Kymäläinen, A.-M. Sjöberg, Flax and hemp ﬁbres as raw materials for\nthermal insulations, Build. Environ. 43 (7) (2008) 1261–1269. [14] F. Collet, M. Bart, L. Serres, J. Miriel, Porous structure and water vapour\nsorption of hemp-based materials, Constr. Build.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 21,
+      "char_count": 440
+    }
+  },
+  {
+    "text": "Mater. 22 (6) (2008) 1271–\n1280. [15] E. Latif,\nM.A. Ciupala,\nS. Tucker,\nD.C. Wijeyesekera,\nD.J. Newport,\nHygrothermal performance of wood-hemp insulation in timber frame wall\npanels with and without a vapour barrier, Build. Environ.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 22,
+      "char_count": 233
+    }
+  },
+  {
+    "text": "92 (Supplement C)\n(2015) 122–134. [16] B. Moujalled, Y.A. Oumeziane, S. Moissette, M. Bart, C. Lanos, D. Samri,\nExperimental and numerical evaluation of the hygrothermal performance of a\nhemp lime concrete building: A long term case study, Build. Environ.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 23,
+      "char_count": 255
+    }
+  },
+  {
+    "text": "136\n(2018) 11–27. [17] E. Latif, M. Lawrence, A. Shea, P. Walker, Moisture buffer potential of\nexperimental wall assemblies incorporating formulated hemp-lime, Build. Environ.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 24,
+      "char_count": 175
+    }
+  },
+  {
+    "text": "93 (2015) 199–209. [18] D. Maskell, A. Thomson, M. Lawrence, A. Shea, P. Walker, The impact of bio-\naggregate addition on the hygrothermal properties of lime plaster, 15th\nInternational Conference on Non-conventional Materials and Technologies\n(NOCMA 2015), 2015. [19] F. McGregor, H. Andrew, S. Andrew, L. Michael, The moisture buffering\ncapacity of unﬁred clay masonry, Build. Environ.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 25,
+      "char_count": 387
+    }
+  },
+  {
+    "text": "82 (2014) 599–607. [20] R. Fernea, D. Manea, D. Tamas-Gavrea, I. Rosca, Hemp-clay building materials –\nAn investigation on acoustic, thermal and mechanical properties, Procedia\nManuf. 32 (2019) 216–223.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 26,
+      "char_count": 202
+    }
+  },
+  {
+    "text": "Environ. Civ. Eng. (2017) 1–\n11. [22] R. Delinière, J.E. Aubert, F. Rojat, M. Gasc-Barbier, Physical, mineralogical and\nmechanical characterization of ready-mixed clay plaster, Build. Environ. 80\n(2014) 11–17. [23] J. Liblik, A. Just, Performance of Constructions with Clay Plaster and Timber at\nElevated Temperatures, Energy Procedia 96 (2016) 717–728. [24] DIN18947 (2013). Earth plasters - Terms and deﬁnitions, requirements, test\nmethods. Sweden, Swedish standard institute\n[25] R. Hartmann, W. Jäger, Sustainable building for the future: Contemporary clay\nmasonry – Resource-saving building, Mauerwerk 21 (2) (2017) 102–113. [26] Y. Jiang, M. Lawrence, M.P. Ansell, A. Hussain, Cell wall microstructure, pore\nsize distribution and absolute density of hemp shiv, R. Soc.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 27,
+      "char_count": 774
+    }
+  },
+  {
+    "text": "Open Sci. 5 (4)\n(2018). [27] C. Rode, R. Peuhkuri, B. Time, K. Svennberg, T. Ojanen, Moisture Buffer Value of\nBuilding Materials, Moisture Buffer Value of Building Materials, 2007. [28] EN1995-1-2). Eurocode 5: Design of timber structures Part 1-2 General –\nStructureal ﬁre design. [29] V.",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 28,
+      "char_count": 289
+    }
+  },
+  {
+    "text": "Khayet, J.L. Legido, Thermal conductivity\nand density of clay pastes at various water contents for pelotherapy use, Appl. Clay Sci. 93–94 (2014) 23–27. [30] Y. Jiang, M. Lawrence, A. Hussain, M. Ansell, P. Walker, Comparative moisture\nand heat sorption properties of ﬁbre and shiv derived from hemp and ﬂax,\nCellulose 26 (2018) 823–843. [31] R. Walk, S. Pavia, Moisture transfer and thermal properties of hemp-lime\nconcretes, Constr. Build. Mater. 64 (2014) 270–276. 10\nY. Jiang et al. / Construction and Building Materials 244 (2020) 118353",
+    "metadata": {
+      "source": "Bio Clay Plaster_Jiang.pdf",
+      "material_category": "Bio Clay Plaster",
+      "source_path": "data\\raw\\Bio Clay Plaster\\Bio Clay Plaster_Jiang.pdf",
+      "chunk_index": 29,
+      "char_count": 541
+    }
+  }
+]

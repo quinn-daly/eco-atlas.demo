@@ -1,0 +1,1322 @@
+[
+  {
+    "text": "Journal of Natural Fibers\nISSN: 1544-0478 (Print) 1544-046X (Online) Journal homepage: www.tandfonline.com/journals/wjnf20\nA Review of Bamboo: Characteristics,\nComponents, and Its Applications\nBudi Irawan, Muhammad Ihsan, Muhamad Diki Permana & Atiek Rostika\nNoviyanti\nTo cite this article: Budi Irawan, Muhammad Ihsan, Muhamad Diki Permana & Atiek Rostika\nNoviyanti (2025) A Review of Bamboo: Characteristics, Components, and Its Applications,\nJournal of Natural Fibers, 22:1, 2522928, DOI: 10.1080/15440478.2025.2522928\nTo link to this article:  https://doi.org/10.1080/15440478.2025.2522928\n© 2025 The Author(s). Published with\nlicense by Taylor & Francis Group, LLC. View supplementary material \nPublished online: 25 Jun 2025. Submit your article to this journal \nArticle views: 5335\nView related articles \nView Crossmark data\nCiting articles: 9 View citing articles \nFull Terms & Conditions of access and use can be found at\nhttps://www.tandfonline.com/action/journalInformation?journalCode=wjnf20\n\nA Review of Bamboo: Characteristics, Components, and Its \nApplications\nBudi Irawana, Muhammad Ihsana, Muhamad Diki Permanab,c, and Atiek Rostika Noviyantid\naDepartment of Biology, Faculty Mathematics and Natural Sciences, Universitas Padjadjaran, Sumedang, Indonesia; \nbSpecial Educational Program for Green Energy Conversion Science and Technology, Integrated Graduate School of \nMedicine, Engineering and Agricultural Sciences, University of Yamanashi, Kofu, Japan; cCenter for Crystal Science and \nTechnology, University of Yamanashi, Kofu, Japan; dDepartment of Chemistry, Faculty Mathematics and Natural \nSciences, Universitas Padjadjaran, Sumedang, Indonesia\nABSTRACT\nThe utilization of tropical lignocellulosic biomass is gaining momentum in \nrenewable energy and sustainable material applications. This review focuses \non bamboo, a fast-growing resource with high cellulose content and strong \nmechanical properties. A systematic analysis of Scopus-indexed publications \n(1990–2024) highlights bamboo’s potential in bioenergy, biocomposites, and \nenvironmental remediation. Beyond its industrial value, bamboo holds cul­\ntural and economic significance for Indigenous and local communities, tra­\nditionally used in construction, tools, crafts, and music. These practices \nreflect deep ecological knowledge. Despite its promise, bamboo remains \nunderrepresented in biomass research compared to temperate species, \nrevealing a knowledge gap. Research is dominated by environmental \nscience, aligning with global sustainability goals. However, challenges such \nas lignin removal efficiency and species-specific variability persist, hindering \nlarge-scale bioenergy applications. For instance, high hemicellulose content \nin species like Gigantochloa apus may offer advantages in fermentation \nefficiency. This review emphasizes the importance of selecting suitable bio­\nmass species and tailoring conversion technologies based on chemical com­\nposition. By integrating technical insight with",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 0,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "socio-ecological context, this \nwork supports the sustainable and culturally informed development of tro­\npical biomass resources – especially bamboo – for future industrial and \nenvironmental applications. 摘要\n热带木质纤维素生物质的利用在可再生能源和可持续材料应用方面正在取 \n得进展. 本文重点介绍了竹子，这是一种纤维素含量高、机械性能强的快 \n速增长资源. 对Scopus索引出版物（1990-2024）的系统分析突出了竹子在 \n生物能源、生物复合材料和环境修复方面的潜力. 除了工业价值，竹子对 \n土著和当地社区也具有文化和经济意义，传统上用于建筑、工具、手工艺 \n和音乐. 这些做法反映了深厚的生态知识. 尽管竹子有希望，但与温带物种 \n相比，竹子在生物质研究中的代表性仍然不足，这揭示了一个知识差距. 研究以环境科学为主导，与全球可持续发展目标保持一致. 然而，木质素 \n去除效率和物种特异性变异等挑战仍然存在，阻碍了大规模的生物能源应 \nKEYWORDS \nBamboo; cellulose fiber; \nbiomass; diversity; health; \nhydrogel\n关键词 \n竹子; 纤维素纤维; 生物量; \n多样性; 健康; 水凝胶\nCONTACT Muhamad Diki Permana \ng22dtea2@yamanashi.ac.jp \nSpecial Educational Program for Green Energy Conversion \nScience and Technology, Integrated Graduate School of Medicine, Engineering and Agricultural Sciences, University of Yamanashi, \nKofu 4008511, Japan; Atiek Rostika Noviyanti \natiek.noviyanti@unpad.ac.id \nDepartment of Chemistry, Faculty Mathematics \nand Natural Sciences, Universitas Padjadjaran, Sumedang 45363, Indonesia\nThis article has been republished with a minor change. This change do not impact on the academic content of the article. Supplemental data for this article can be accessed online at https://doi.org/10.1080/15440478.2025.2522928\nJOURNAL OF NATURAL FIBERS                         \n2025, VOL. 22, NO. 1, 2522928 \nhttps://doi.org/10.1080/15440478.2025.2522928\n© 2025 The Author(s). Published with license by Taylor & Francis Group, LLC. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), \nwhich permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this \narticle has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent. 用. 例如，Gigantochloa apus等物种的高半纤维素含量可能在发酵效率方 \n面具有优势. 本文强调了选择合适的生物质物种和根据化学成分定制转化 \n技术的重要性. 通过将技术见解与社会生态背景相结合，这项工作支持热 \n带生物质资源（尤其是竹子）的可持续和文化知情发展，以用于未来的工 \n业和环境应用. Introduction\nBamboo is a versatile plant with rapid growth and many uses. It plays an important role in industry, \nemployment, and environmental protection. Bamboo is a renewable resource with unique properties \nand applications. In addition, bamboo is also a sustainable biological resource that can have a short \ngrowth period with a high CO2 fixation rate, so it can be a good choice to reduce global warming and \nclimate change (Emamverdian et al. 2020). Sustainable bamboo production is in line with the United \nNations (UN) Sustainable Development Goals (SDGs). Sustainable bamboo production and utiliza­\ntion are considered directly relevant to many of the UN-SDGs, which target important aspects of \npoverty alleviation, housing, urban development, sustainable energy use, combating climate change, \nand land degradation. Bamboo’s properties make it ideal for paper, textiles, and bioenergy. Bamboo’",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 1,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "s \nhigh-water retention is beneficial for food industry applications. Bamboo belongs to the grass family \nand has diverse uses (Van Dam, Elbersen, and Daza Montaño 2018). With increasing demand, \nbamboo is now considered an important source for biofuel and biochemical production due to its \nfaster growth, ease of propagation, and richness in polysaccharides. Compared to other natural \nresources, bamboo exhibits some specific environmental and structural benefits, such as rapid growth \nand climate adaptability (Verma et al. 2021). Bamboo is a versatile and sustainable fiber with unique properties. Bamboo fibers are biodegrad­\nable, antibacterial, and used in many applications (Imadi, Mahmood, and Kazi 2014). Industrial \napplications of bamboo in food, biotechnology, and fiber extraction. Bamboo has global significance \nin the economy and distribution of resources. Bamboo has potential in the food industry, bioproces­\nsing, and sustainable cultivation (Yasin and Priyanto 2019). As an alternative to wood, bamboo \nbiomass can be utilized in various fields. Bamboo biomass may consist of culms containing fiber, \nfallen leaves, or roots that are no longer productive (Emamverdian et al. 2020). In addition, the \nutilization of lignin from bamboo biomass can be used as specialty chemicals. Bamboo is a promising \nnon-wood resource for various applications. Lignocellulosic biomass can be categorized into agricul­\ntural residues (e.g., straw, husks, stover, shells, and bagasse), wood residues (e.g., softwood, hardwood, \nand sawdust), and energy crops (e.g., Timothy grass, switchgrass, and hybrid poplar, bamboo). These \nbiomass sources provide an unlimited supply of chemical precursors that are now synthesized from \nfossil fuels. Bamboo is seen as one of the most promising non-wood resources (Kaur et al. 2022). It focuses on the multifunctional applications of bamboo in India for energy and the environment. Discusses the bioenergy potential, land restoration, and economic aspects of bamboo. Highlights the \nrole of bamboo in bioenergy production, CO2 sequestration, and land restoration (Rathour et al. 2022). The potential of bamboo as a sustainable energy source is evaluated through a characterization \nanalysis. Fossil fuels dominate global energy, leading to a search for alternatives. Indonesia is one of \nthe countries with the largest abundance of bamboo in the world. Bamboo thrives in various regions in \nIndonesia due to climatic and soil conditions that support its growth. The abundance of bamboo in \nIndonesia provides many opportunities for economic development, environmental conservation, and \ncultural preservation. With proper management, bamboo can be a natural resource that continues to \nprovide benefits to the people of Indonesia. For example, in the utilization of biomass energy from \nAmpel bamboo in Bali, the energy potential is assessed (Sucipta et al. 2017). Focus on innovative \nindustrial uses of bamboo in various sectors globally. Bamboo propert",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 2,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ies and environmental impacts \nare highlighted for industrial applications (Borowski, Patuk, and Bandala 2022). 2\nB. IRAWAN ET AL. Bamboo has a role to play in climate change mitigation, as a biomass product, as well as in carbon \ncredits. Focus on bamboo’s carbon-saving benefits and global potential for carbon trading (Pan et al. 2023). Further research is needed on the potential of bamboo in various industrial sectors, lacking \nstudies on lignin extraction in bamboo, bamboo bioprocessing, economic feasibility, and waste \nevaluation. There is also a lack of comparison of lignin with other biomass sources, as well as \nchallenges in extracting bamboo fibers. According to recent statistic by Yadav et al., there are only \n4.51% of annual global lignocellulose biomass production (approximately 181.5 billion tonnes) was \nconverted into many applications. A highly abundant of lignocellulose biomass from bamboo tree was \npotentially could be valuable to be use for many applications such as bioenergy, polymer materials and \nbiopharmaceuticals. Thus, further study of lignocellulosic biomass from bamboo plants is worth to be \nexplored for many potential applications (Yadav et al. 2023). The bamboo plant is considered a potential lignocellulose biomass due to its nature as one of the \nfastest-growing plants compared to all other plant species (Yadav and Mathur 2021). Bamboo plant \nshows high lignocellulose biomass production which is higher in cellulose and hemicellulose value. Due to its easy growth without using fertilizers and high biomass content productivity, biomass yield \nfrom bamboo is highly recommended to be a potential application in biotechnology, biorefinery, \nbiomaterials, and biological activities (Ahmad, Farooq, and Zhang 2022). Recent studies have reported \nextracting and converting bamboo lignocellulosic biomass into promising applications such as \nnutraceuticals, bioenergy, carbon fibers, polymer materials, and functional foods (Silva et al. 2020). Based on the background, this study aims to review how the utilization of bamboo in various fields \nespecially from its components. In addition, this review will focus on the differences in bamboo species \non the characteristics and amounts of chemical components that are considered important in \ninfluencing the application of its applications. By providing a comprehensive overview of the relation­\nship between species, components, and applications, this review aims to provide guidance in the \nutilization of bamboo for the desired application. This review will be divided into several parts: 1. Introduction; 2. Bamboo; 3. Components of bamboo; 4. Application of bamboo; and 5. Conclusions. Literature review\nOver the past 34 years (1990–2024), approximately 2,800 research papers and articles have been \npublished with the keyword “bamboo” and “biomass” according to the advanced findings of Scopus. As shown in Figure 1, research on bamboo and its biomass components mainly focuses on the fields of \ne",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 3,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "nvironmental sciences (20.19%), agricultural and biological sciences (19.84%), energy (10.75%), \nchemical engineering (10.17%), engineering (8.14%), chemistry (7.14%), materials science (6.87%), \nFigure 1. Environmental science leads bamboo research, reflecting sustainability priorities (a) Published findings trend and (b) \nApplications field. JOURNAL OF NATURAL FIBERS\n3\n\nbiochemistry (3.67%), physics (2.83%), and others (10.03%). The environmental applications of \nbamboo use have dominated, likely reflecting the growing interest in bamboo as a sustainable and \nenvironmentally friendly resource, particularly in the context of climate change, carbon sequestration, \nand ecosystem restoration. Furthermore, bamboo’s rapid growth, high biomass yield, and adaptability \nto diverse environments make it highly relevant for agricultural applications, land rehabilitation, and \nrenewable resource studies, thus justifying a strong focus in these two disciplines. Research trends and gaps\nThe process of finding literature on bamboo biomass research not only uses conventional search \nengine features but is also aided by VOSviewer software. VOSviewer uses innovative visualization \ntechniques that allow researchers to transform bibliographic data into a visual form, enabling a more \nintuitive and comprehensive understanding of how studies relate to one another. The software \nsupports various types of networks, including co-authorship, co-citation, and co-occurrence networks, \nand provides customizable visualizations with more complex layouts (Mondal et al. 2023). By conducting bibliometric analyses on publications from 2014 to August 2024, valuable insights \nwere gained into the scientific contributions, research networks, and research interests of researchers \nworldwide, particularly in bamboo and its biomass research. The keyword used in this analysis was \n“Bamboo biomass application” on the literature search engine platform Scopus. The results of this \nanalysis provide information on the number of publications and topics attributed to the researchers, as \nwell as the publication timeframe, which allows for the identification of topics that have been studied \nand research topics that have not been studied much in the past 10 years. By examining research topics and characteristics, it was possible to identify collaboration and co- \nauthorship patterns among researchers, as well as discover research gaps in bamboo biomass research \ntopics (Figure 2). The bibliometric analysis also revealed the topics and research interests that received \nthe most attention within the bamboo biomass research topic. The topics varied from data analysis \nmethods, visualization, and applications of bamboo biomass in various fields such as health, food, \nenvironment, functional materials, and fiber composites. The range of year scales shown can provide an overview of how to identify future research trends, \nthus allowing researchers to create collaborations with broader insights based",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 4,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "on several existing \ntopics. This review of bibliometric results also offers further insight into future research gaps, \nparticularly in the research topic of bamboo biomass and its applications. In the depth of discussion \nanalysis, the visuals that have the clearest and shallowest graphs show that the research topic has been \nstudied by various researchers. Meanwhile, the visuals that are quite blurry and deep show that the \ntopic has not been studied much and has the potential to be the latest study that can be collaborated \nwith other topics. Geographical distribution and species richness\nBamboo has a profound cultural significance in various regions, especially in East Asia and Northeast \nIndia. In East Asia, bamboo cultivation has a long and meaningful heritage, not only as a versatile \nmaterial but also as a symbol of cultural identity and heritage for many peoples (Hong et al. 2011). Bamboo species play an important role in supporting wildlife and maintaining ecological balance. Bamboo forests provide essential habitat for a variety of wildlife, including birds, insects, and \nmammals. In addition, several species of bamboo are very important in Japan due to their ecological \nrole and distribution patterns, especially in areas affected by human activities (Kobayashi et al. 2015). Bamboo is a sustainable resource that can be harvested sustainably, providing materials for construc­\ntion, handicrafts, and more. Its sustainable use can reduce pressure on forests, provide benefits to \nwildlife habitats and improve ecological balance (Kobayashi et al. 2015). However, rapid climate \nchange has a significant impact on global biodiversity, which has the potential to overshadow other \nenvironmental threats such as habitat destruction and biological invasion. The total area of bamboo \n4\nB. IRAWAN ET AL.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 5,
+      "char_count": 1830
+    }
+  },
+  {
+    "text": "Figure 2. Scopus database analysis from 2014–2024 with a total of 586 articles. The latest research was conducted on keywords: \nbioresource, mechanical property, and specific surface area, while older research was conducted on keywords: Root, control, and \nmoso bamboo. Some keywords that are still not widely studied include: bioresource, bamboo biomass, chemical fertilizers. JOURNAL OF NATURAL FIBERS\n5\n\nforests is expected to decrease by 9–22% by 2070, with significant losses occurring in certain mountain \nranges. New climate-friendly areas for bamboo forests may emerge, covering 22–26% of the current \nbamboo forest area (Li et al. 2015). Bamboo is classified under the Poaceae grass family, specifically within the subfamily \nBambusoideae, which includes herbaceous and woody types. Bamboo is a plant rich in lignocellulose \nand has high ecological, economic, and cultural value. Bamboo is part of the monophyletic BEP clade \n(Bambusoideae, Ehrhartoideae, Pooideae) in the grass family (Long et al. 2023). Bamboo thrives at \nvarious altitudes ranging from sea level to 4,000 meters, covering about 14 million hectares worldwide, \nespecially in Asia. The highest species richness is found in the Asia-Pacific region, while Europe has no \nnative bamboo species, and significant bamboo forests exist in South America, especially in Brazil, \nPeru, and Bolivia. In India, bamboo plantations cover 9.57 million hectares, about 12.8% of the \ncountry’s total forest area, with distributions influenced by human activities and rainfall patterns. Different species of bamboo are associated with different agroclimatic zones, with specific genera \nthriving in mountainous, temperate, subtropical, and tropical areas (Yeasmin et al. 2015). Due to its rapid and sustainable growth, bamboo serves as a substitute for wood and plays an \nimportant role in conservation efforts against climate change. Molecular data confirm that bamboo is \na distinct lineage, with the classification encompassing about 546 species in Arundinarieae, 812 in \nBambuseae, and 124 in Olyreae, with specific anatomical features distinguishing these groups. Bamboo \nthrives on all continents except Antarctica and Europe, occupying diverse habitats from temperate \nforests to tropical regions. They often dominate vegetation in certain areas, such as sub forests and \nmountainous ecosystems, demonstrating their ecological adaptability (Clark, Londoño, and Ruiz- \nSanchez 2015). In the North American region, 44 species are recorded in Mexico, 28 in the Neotropics, \n4 in the Nearctic. Half of the species live between 1000 and 2000 m altitude. Most species are \nconcentrated in moist tropical mountain forests. The elevation of the place affects the richness of \nspecies and the pattern of endemism (Ruiz-Sanchez et al. 2019). Global distribution shows significant diversity of bamboo, especially in China, Brazil, and India, \nwith concerns about the potentially invasive introduction of introduced species in non-native habitats",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 6,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": ". Bambusa rigida is one of the most abundant bamboos spread in southwest China, its applications are \nsuch as in handicrafts and agricultural tools. This type of bamboo can be made into Bamboo scrimbers \n(BCs) with an optimal resin dosage of 11%. 4-year-old bamboo stalks are suitable for making BC \nbecause of their high performance of mechanical properties, acceptable water resistance of BC, and \nlow cost of original green bamboo due to their relatively low moisture content (Huang et al. 2018). Continuous monitoring is essential when introducing bamboo to new areas to reduce the risk of \ninvasion and preserve the succession and diversity of local ecology (Buziquia et al. 2019). There is also \na Neotropical woody bamboo (NWB) type with a genus native to the Western Hemisphere, classified \ninto three sub-tribes: Arthrostylidiinae, Chusqueinae, and Guaduinae. The NWB is spread from \nnorthern Mexico and the West Indies to south-central Chile and Argentina, thriving at altitudes \nabove sea level to more than 4,000 m. The diversity of the NWB currently includes 446 species from 23 \ngenera, with a significant increase in species and genera richness since 2000. Brazil, Colombia, and \nVenezuela are highlighted as countries with the highest diversity of woody bamboo (Ruiz-Sanchez \net al. 2021). Although bamboo is not typically grown in Europe, the number of bamboo plantations \ncontinues to increase in countries such as Spain, France, and Italy. Bamboo grown in temperate \nclimates, however, is exposed to different environmental conditions during growth compared to \nbamboo from subtropical and tropical climates, such as those in China or Vietnam. Colder winters, \nsnow, and lower rainfall in Italy can pose challenges for bamboo cultivation, although environmental \nconditions differ during growth, good compatibility in most geometric traits between Italian and \nAsian Phyllostachys edulis was found, demonstrating the potential for a unified global standard and \ninternational database for bamboo geometric internationally (Fritz and Kraus 2024). In Indonesia, Bamboo is an important economic and environmental resource, including in soil \nconservation, water conservation, and greenhouse gas absorption. A total of 175 species and 25 \nbamboo genera are found in Indonesia or about 12% of the 1439 species and about 22% of the 116 \n6\nB. IRAWAN ET AL. bamboo genera in the world. Some of the new types of bamboo have been mentioned, but they still \nhave the status of “sp.” (Widjaja 2019). In addition, the addition of bamboo species also occurred \nbecause of a change in the status of bamboo species in Java. These types of bamboo grow spread \nthroughout the islands of Indonesia and at first glance have a unique clan distribution pattern \n(Muzakki, Chikmawati, and Hartana 2020). Research conducted in Sulawesi has documented 39 \nspecies, 22 of which are endemic to Sulawesi, indicating the importance of this region as a center of \nDinochloa diversity in Indonesia (Ervianti, Wid",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 7,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "jaja, and Sedayu 2018). Despite having significant \neconomic value, the genetic diversity of commercially cultivated bamboo is still largely unexplored due \nto the challenges in assessing the phenotypic variability and extensive natural habitat of these plants. Recent advances in molecular marker techniques have facilitated research on the genetic diversity of \nbamboo species particularly in Asia (Li et al. 2019). Bamboo usually has a straight stem, but some bamboo has a climbing habit which is the genus \nDinochloa and is only spread in the western part of Indonesia. The Lesser Sunda Islands (LSI) and \nSulawesi appear to be the easternmost region of the Dinochloa distribution in Indonesia, there are two \nrecognized species of climbing bamboo from LSI: Dinochloa kostermansiana and D. sepang. There are \ntwo species of climbing bamboo from LSI, Indonesia recognized based on specimens, namely \nDinochloa kostermansiana found on the islands of Flores and Sumba and D. sepang which is endemic \nto the island of Bali (Damayanto 2017). Also in Luzon island, Philippines there was 12 species of \nclimbing bamboo and covers 32% of all bamboo in the Philippines and is distributed under three \ngenera, namely Dinochloa, Crytochloa, and Cephalostachyum. The utilization of climbing bamboo can \nprovide bamboo farmers with a wider range of options for plantation establishments and bamboo \nproduct manufacturers more choices for their raw materials (Bondad et al. 2023). Another example in the West Java area has several variations of bamboo species in several studies. There are 8 types of bamboo found in Karangwangi Village with 1 species having 3 varieties (Setiawati \net al. 2017), Karangwangi Village, Cianjur Regency recorded 13 species (Partasasmita et al. 2017), Naga \nVillage in Tasikmalaya Regency has seven species (Irawan et al. 2019), Sukamenak Village in \nSumedang Regency has 9 species of bamboo (Iskandar et al. 2022), and 5 species in Cijambu \nVillage, Sumedang Regency (Ihsan, Irawan, and Iskandar 2024). Local communities make extensive \nuse of bamboo for construction, household appliances and tools, relying on traditional knowledge \npassed down from generation to generation to differentiate between species. The classification of \nbamboo has traditionally been based on cultivation methods, morphology, and practical applications, \nwhich indicates people’s deep understanding of the role of bamboo in their daily lives. Traditional uses and socio-economic roles\nThe traditional use of bamboo in various countries forms a cultural heritage for many indigenous \npeoples around the world. Understanding the traditional knowledge (TK) of plant species is essential \nnot only to preserve this knowledge, but also to direct management for sustainable use (Albuquerque, \nde Lucena, and Neto 2014). Currently, research on kindergarten is more interested in studying how \ndemographic factors – including age, gender, ethnicity, and other attributes such as responsibilities at \nthe hou",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 8,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "sehold and community level, profession, and origin. Bamboo plays an important role in \nimproving the livelihoods of rural communities (Honfo et al. 2015). Bamboo has a multifunctional socio-economic, cultural, and ecological role in rural communities \n(Nath, Lal, and Das 2015). From a socio-cultural perspective, bamboo also offers many benefits, such \nas being used as a material for traditional musical instruments, clothing fibers, and traditional rituals \n(Iskandar et al. 2022; Partasasmita et al. 2017). In addition, bamboo litter biomass contributes \nsignificantly to soil organic matter and supplies bamboo with nutrients in natural stands and \ncultivated plants. Bamboo leaf litter occurs year-round but has two annual peaks – in spring (April- \nMay) and late autumn (November). The amount of annual waste is greatly influenced by the biological \nproperties of bamboo and environmental conditions (Nirala 2017). More than 100 species of bamboo \nare used commercially and have the potential to provide an excellent means of income in primary and \nJOURNAL OF NATURAL FIBERS\n7\n\nsecondary processing with little capital investment. They are essential for biomass production and play \nan increasing role in local and world economies (Nirala 2017). Bamboo can be used for energy generation through traditional burning methods, but this is \ninefficient and contributes to health problems; Industrial applications offer a more efficient alter­\nnative. Research on bamboo torrefaction in Malaysia shows that the time and energy required to grind \nheated bamboo charcoal is significantly reduced compared to grinding raw bamboo charcoal, proving \nthe importance of the torrefaction process. The physicochemical properties of charcoal show that the \nenergy content increases significantly with the degree of torrefaction (Saha et al. 2022). Bamboo is \nwidely cultivated one of which is in Indonesia, found in forests and community gardens, and culturally \nsignificant, used for a variety of purposes including food and construction. The well-established \nexistence of bamboo in local farms can facilitate its integration into bioenergy production systems. Bamboo’s abundance, rapid growth, and various uses position it as a valuable resource for bioenergy \nproduction in Indonesia. Integrating bamboo into the energy system can help meet sustainable energy \ntargets while supporting land restoration efforts. More research is needed to assess the feasibility of \nbamboo for bioenergy, including its economic viability and potential environmental impact (Sharma, \nWahono, and Baral 2018). Bamboo has great potential to contribute to the growth of rural economies around the world and is \ntherefore known as the “green gold of the poor.” Due to the high rate of clonal propagation, bamboo \ncan be a good and sustainable biological source to meet various demands to meet human lifestyles. Bamboo ethnobotanical utility suitable for the daily life of indigenous peoples such as in the \nmanufacture of hand",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 9,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "icrafts, artifacts, jewelry, baskets, furniture, and construction (Banerjee et al. 2021). Forest products, including bamboo, provide additional cash income, but their contribution is \nlimited compared to other sources such as honey and forest wood. Traditional forest tenure systems \npracticed by local communities play an important role in managing forest resources sustainably. Bamboo is commonly used for traditional construction, with significant economic value associated \nwith its wide range of applications. Connecting traditional knowledge with scientific research can \nsupport the development of bamboo-based industries and improve local livelihoods (Bahru, Kidane, \nand Mulatu 2021). While bamboo forests provide ecological benefits, their expansion can threaten biodiversity; As \nsuch, sustainable harvesting practices are essential for balancing energy production and ecosystem \nhealth. Bamboo species exhibit significant diversity in morphological properties and biochemical \ncomposition, with woody bamboo containing more than 70% lignocellulose, which is essential for \nenergy processing. The nature of photosynthesis varies between species, with Sympodial Bamboo \nshowing the highest levels, suggesting potential differences in biomass productivity. Effective utiliza­\ntion of bamboo biomass can contribute significantly to sustainable energy generation. The Energy \nBamboo Species Evaluation System (EBSES) uses an analytical hierarchical process to assess bamboo \nspecies based on growth characteristics, chemical composition, and energy conversion potential. Future EBSES improvements can improve its objectivity and applicability in selecting bamboo species \nsuitable for bioenergy production. Bamboo’s rapid growth and high cellulose content position it as \na promising source of biomass energy, with biochar and bioethanol identified as key products for \ndevelopment. Emphasizing efficient pretreatment and conversion methods, along with selecting high- \ncellulose bamboo species, can optimize the environmental and economic benefits of bamboo biomass \nutilization (Liang et al. 2023). Anatomical, chemical, mechanical properties\nBamboo among other plants has great benefits and unique varieties. The traits of bamboo species vary \nbetween species and along their culms. About half of the world’s population uses bamboo products, \nsuch as houses, panels, mats, chopsticks, stickers, bamboo charcoal or activated carbon, papermaking, \nand bamboo shoots (Zakikhani et al. 2017). The manufacturing process of this product is influenced \nby the characteristics of bamboo, The anatomical properties of bamboo are important because of its \n8\nB. IRAWAN ET AL. effect on mechanical properties, preservative absorption, and final product properties, especially on \npulp and paper (Siam et al. 2019). An example of a type of bamboo that is suitable for use as paper \nbased on its unique characteristics is Bambusa pervariabilis, based on measurements of its fibers and \ndurability (Xiang",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 10,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "et al. 2020). The morphological development of bamboo culms takes place mainly in two typical stages. The \nfirst stage is the growth of the main thickening of the shoots of the shoots underground, which is \nmainly driven by the shoot apical meristem (SAM). The second stage is the rapid growth of young \nbamboo, which is driven by the intercalative meristem (Wang et al. 2022). Bamboo can usually reach \noptimal material properties at the age of 4, and bamboo wood has special properties namely better \nsplitting, easy preparation, high strength, medium rigidity, and good toughness, which is much higher \nthan that of ordinary wood (Fei et al. 2016). The main differences in the characteristics of bamboo with \nordinary trees are shown in Table 1. Bamboo has many similarities and differences with woody plants. The formation of cell walls \nin bamboo takes place in a different way than in woody plants. Thickening growth of the culm \ndoes not occur. The epidermis is the outer layer of the trunk, including elongated cells, short \ncork and silica cells, and stomata. In addition, bamboo has a natural two-phase reinforced \ncomposite, with fibers as the structural reinforcement phase and parenchyma tissue as the \nmatrix. Thus, culm tissue composition governs mechanical properties and pulp quality (Fei \net al. 2016; Xiang et al.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 11,
+      "char_count": 1332
+    }
+  },
+  {
+    "text": "2020). The outer cell wall of bamboo is usually covered by small protrusions, a quilt layer, and a wax layer. The thickness of the cell wall varies with its location. The cortex is located between the hypodermis and \nsoil tissues, including several layers of parenchymal cells. Soil tissue is also made up of parenchymal \ncells and a vascular system. The macrostructure of a bamboo culm is composed of the epidermis, \ncortex, soil tissue, and lacuna, as shown in the Figure 3 (Fei et al. 2016). The length of the fibers of all species is higher on the outside than on the inside of the culm. There is \na significant difference in fiber percentage between bamboo species. Significant differences were also \nfound in the diameter of blood vessels and the dimensions of parenchymal cells among bamboo \nTable 1. Comparison of growth characteristics between bamboo and trees in general (reproduced with permission (Fei et al. 2016), \ncopyright 2016, Elsevier). Growth\nBamboo\nTree\nHeight \ngrowth\nBamboo reaches the final height for 2–4 months, which is \nrelatively short; height growth mainly depends on the \nintercalary meristem kept during the whole height \ngrowth phase. Trees keep growing higher in their whole lifetime; Height \ngrowth of trees mainly depends on the primordial \nmeristem on the tip of the trees. Diameter \ngrowth\nDuring the stage of sprouting and height growth, the \nculm diameter and wall thickness increases a little, and \nboth will stop growing absolutely after reaching the \nfinal height. Diameter growth of trees is a result from the activity of \nthe cambium and occurs during the whole lifetime. Figure 3. Cross-sectional cuts on the wall of the bamboo culm of the vessel (reproduced with permission (Fei et al. 2016), copyright \n2016, Elsevier). JOURNAL OF NATURAL FIBERS\n9\n\nspecies. There is little difference in crystalline properties between the outside and inside of the culms \nand between bamboo species (Maulana et al. 2021). Significant differences were also found in the \ndiameter of blood vessels and the dimensions of parenchyma cells among bamboo species, vascular \nbundle density, vascular diameter, and parenchymal cell length. For example, in the three species of \nGigantochloa bamboo in the Figures 4 and 5. In contrast to other plants, the water retention capacity in bamboo species is correlated with \na number of parenchymal cells. This suggests that the number of parenchymal cells from the bottom to \nthe top in the bamboo wood zone decreases as the height of the bamboo culm increases and the \nvascular bundles become denser (Zakikhani et al. 2017). The invisible part of bamboo is generally \nrhizome. Rhizomes are bamboo biomass underground, and their function is to support, colonize the \nland, and transfer nutrients from the soil to plant tissues. The rhizome forms a compact and stable \nunderground network, which develops in monopodial or sympodial structures. Monopodial struc­\ntures grow horizontally and often with surprising speed and force; Its s",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 12,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "egments can develop new \nhorizontal rhizomes or new vertical stems (Marchi et al. 2023). Based on the physical characteristics of the bamboo species such as the thickness of the culm wall, \nsegments, and culm length, it can also be used to determine the appropriate utilization. For example, \nin three types of bamboo species; two species B. Vulgaris and G. Apus, and G. Weberbaueri. It is shown \nthat the three species of bamboo have differences in their anatomical structure, the main difference \nbetween them is the bundle of culm blood vessels. Regarding physical traits, significant differences can \nbe found between the three species (Portal-Cahuana, Velarde, and de Moura Palermo 2023). Other \nexample is form species Phyllostachys edulis (commonly known as Moso) that grows in temperate \nregions of Italy can produce a varying number of shoots depending on its age, which will develop on \nmature stems. Phyllostachys edulis annually absorbs 30 times more carbon dioxide from the atmo­\nsphere than mixed forests that grow in temperate climates. Bamboo plantations can act as carbon sinks \nand are used as climate change mitigation measures thanks to the rapid growth of biomass and carbon \nsequestration (Marchi et al. 2023). Bamboo Phyllostachys edulis shows a positive correlation of thickness with the diameter of the \ninternode; thus, both the diameter and the thickness of the internode play an important role in \ndetermining the height of the stem and its mechanical properties. However, monthly rainfall in \nDecember and January negatively affects the diameter and thickness of the internodes, which suggests \nthat precipitation can negatively impact the growth of primary thickening during these months, which \naffects the diameter and thickness of the internodes (Zhang et al. 2024). Research shows that segment \nlength and functional properties can be affected by ambient temperature. The reduction in stem \ndiameter, the shortness of the internode length, and the reduction in the number of internodes \nFigure 4. Vascular bundles in the cross-sections of G. pseudoarundinacea (a), G. apus (b), and G. atroviolacea (c); VCS: vascular central \nstrand, Pa: parenchyma cells, FS: fiber strand, MX: metaxylem vessels, Ph: phloem vessels (reproduced under terms of the CC-BY \nlicense (Maulana et al. 2021), copyright 2021, BioResources).",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 13,
+      "char_count": 2349
+    }
+  },
+  {
+    "text": "10\nB. IRAWAN ET AL. Figure 5. Optical micrographs of radial (1A, 1B, and 1C) and tangential (2A, 2B, and 2C) sections of G. pseudoarundinacea (a), G. apus (b), and G. atroviolacea (c); Pa: parenchyma cells, MX: metaxylem \nvessels, fb: fiber bundles (reproduced under terms of the CC-BY license (Maulana et al. 2021), copyright 2021, BioResources). JOURNAL OF NATURAL FIBERS\n11\n\nsignificantly reduce the fresh weight, thus contributing to the reduction of biomass and the morpho­\nlogical development of bamboo stalks (Yu et al. 2017; Zha et al. 2023). Chemically, bamboo stalks are composed of approximately 52% parenchyma, 40% fibers, and 8% \nconductive tissue. Similar to wood and agricultural residues, bamboo primarily consists of cellulose, \nhemicellulose, and lignin, although the content of these compositions differs as shown in Table 2. In \nparticular, bamboo has a relatively higher cellulose content, which is advantageous for fiber-based \napplications. This high cellulose concentration contributes to improved mechanical strength, thermal \nstability, and compatibility in the formation of biodegradable composites, paper, textiles, and plastics \n(Rani et al. 2021). In addition, the fine microstructure and high aspect ratio of bamboo cellulose fibers \nenhance their reinforcing ability in polymer matrices, making bamboo an excellent raw material for \nadvanced materials and green manufacturing (Iroegbu and Ray 2021). Given its long-term history of use as a building material and furniture manufacturing in Southeast \nAsian countries, bamboo species from Thyrsostachys oliveri is considered to have great utilization \npotential. The results of morphological analysis showed that the moisture content and base density of \nthe stem wall were 73.01% and 0.64 g/cm3, respectively. Lignin accounts for a high proportion of the \nchemical composition of the stem wall, which can give its bamboo stem excellent physical and \nmechanical properties (Zhang, Rao, and Wang 2022). The base density and carbon content are higher \nin bamboo species than in biomass from some agricultural residues. Compared to wood, the average \nvalues of the biomass studied were similar for fixed carbon content and volatile content, on the other \nhand, higher for base density (only for bamboo species), moisture content and ash content. The \nbiomass analyzed here is considered suitable for energy purposes, with key property values that are \nclose to those of energy biomass found in the literature (Rusch et al. 2021). Bamboo and carbon biomass are characterized by physico-chemical analysis to investigate the main \nchanges caused by the pyrolysis process in carbon properties. The surface morphology of bamboo and \ncarbon biomass was determined using scanning electron microscopy (SEM). In addition, a discussion on \nthe advantages and disadvantages of carbon production by slow pyrolysis is presented, considering the \nconventional methods applied in the process. The results reveal the advantages of the pyro",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 14,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "lysis process \ndue to the simultaneous production of carbon and bio-oil. Bamboo carbon presents properties suitable \nfor its use as an energy source and for agricultural applications (Hernandez-Mena, Pecora, and Beraldo  \n2014). The application of bamboo carbon product is shown in research conducted by Xia et al. (2023) \nthat developed an innovative method to process bamboo parenchyma cells into multi-layered, highly \nporous micro-capsule-shaped biomass carbon. This carbon product is designed as an energy storage \nelectrode and adsorbent for removing cationic dyes from wastewater. This method utilizes the natural \nstructure of bamboo parenchyma cells to produce highly porous biomass carbon, efficient in energy \nstorage and absorption of water pollutants. This approach offers a sustainable solution: using bamboo \nwaste for energy and water treatment applications simultaneously. The process can be applied on an \nindustrial scale, combining energy storage and waste management in one sustainable system using \nbamboo, an abundant and fast-growing renewable resource (Xia et al. 2023). In Indonesia, bamboo has been cultivated alongside trees and food crops in several residential \ngardens called Pekarangan. and widespread in Java, Bali, and Sulawesi. Bamboo is one of the BBC \ngroups (Bamboo, Banana, Coconut) which has a very important role in daily life in Indonesia. The \nTable 2. Comparison of the chemical composition of bamboo, wood, and agricultural residues (reproduced with permission (Fei et al. 2016), copyright 2016, Elsevier). Biomass type\nSpecies\nCellulose (%)\nHemicelluloses (%)\nLignin (%)\nWood\nPine\n40–45\n25–30\n26–34\nMaple\n45–50\n21–36\n22–30\nBamboo\nMoso bamboo\n42–50\n24–28\n24–26\nAgriculture residues\nRice straw\n41–57\n33\n8–19\nRice husk\n35–45\n19–25\n20\nBagasse\n40–46\n25–29\n12.5–20\nCotton stalk\n43–44\n27\n27\n12\nB. IRAWAN ET AL. volume and weight of carbonized bamboo decreased as the carbonization temperature increased and \nshowed the greatest change between 200 and 400°C. Yellow Bamboo (B. vulgaris var. striata (Lodd. Ex \nLindl)) and Ampel (B. vulgaris Scharad. ex-Wendland) showed the highest weight loss and weight \nreduction. The density of carbonized bamboo decreases to 600°C and then increases slightly to \n1,000°C. The highest density is found in Ampel bamboo and the lowest is in Betung bamboo \n(D. asper) (Park et al. 2018). Components of bamboo\nCellulose and hemicellulose\nAmong the biomass components, cellulose is the main material responsible for fiber stability and \nmechanical strength. Cellulose consists of long linear chains neatly composed of anhydro-D-glucose \n(C6H10O5)n units with β-1,4 glycosidic bonds (Figure 6a). The glucose ring shows a high degree of \npolymerization, and the compound is insoluble in aqueous media. Due to its high crystallinity and \ndegree of polymerization, cellulose has higher thermal stability and resistance to mechanical stress \ncompared to other non-cellulosic plant fiber components (Rusch et al. 2023). The cellulose co",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 15,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ntent in \nbamboo culms varies from 40 to 60% and, together with the hemicellulose and lignin content, \nrepresents more than 90% of the total weight (Yan, Kasal, and Huang 2016). Hemicellulose consists of a heterogeneous group of alkali-soluble polysaccharides that do not form \na well-organized fibrous network. Compared with cellulose, it has an amorphous structure and a low \ndegree of polymerization but is responsible for many of the important properties obtained from \nprocessing lignocellulosic materials (Wan, Wang, and Xiao 2010). Hemicellulose can easily absorb \nFigure 6. Chemical structure of (a) cellulose (b) hemicellulose, and (c) lignin (reproduced with permission (Kabir et al. 2012), \ncopyright 2012, Elsevier). JOURNAL OF NATURAL FIBERS\n13\n\nwater due to its low molecular weight and irregular configuration. Figure 6b shows the partial \nchemical structure of hemicellulose (Vinod et al. 2020). Holocellulose is a total polysaccharide fraction consisting of alpha-cellulose and hemicellulose. Maulana et al have studied the holocellulose, alpha-cellulose, and hemicellulose content of seven types \nof bamboo in Indonesia (Figure 7). Andong bamboo (Gigantochloa pseudoarundinacea) has the lowest \nholocellulose content while Ampel bamboo (Bambusa vulgaris) showed the highest. These results \nsuggest that bamboo species significantly influence the composition of holocellulose, alpha-cellulose, \nand hemicellulose content (Maulana et al. 2020). For comparison, Phyllostachys pubescens grown in \nLouisiana, USA, has a holocellulose content of around 69.94% and alpha-cellulose of around 46.08% \n(Li et al. 2007), while, Gigantochloa scortechinii from Kedah, Malaysia has a holocellulose content of \naround 81.4% and alpha-cellulose of around 55.2% (Salim, Wahab, and Ashaari 2009). Bamboos with \nhigh hemicellulose content, such as Gigantochloa apus, are generally more susceptible to microbial \ndegradation (Maulana et al. 2020). However, this characteristic can be advantageous in specific \napplications. For example, the elevated hemicellulose levels contribute to faster hydrolysis and \nenhanced fermentation rates, making such bamboo types highly suitable for bioethanol and biogas \nproduction (Sun and Cheng 2002). Conversely, species with higher alpha-cellulose content are more \nfavorable for high-strength fibers, paper production, or polymer-reinforced composites due to their \nstructural integrity and resistance to biological decay (Alonso, García, and Del Río 2014). Liew et al.‘s research has made bamboo cellulose through chemical processes including dewaxing, \ndelignification, and mercerization. Four samples namely green bamboo fiber (GBF), dewaxed bamboo \nfiber (DBF), delignification of bamboo fiber (DLBF), and cellulose fiber (CF) have been analyzed. Figure 8a shows the Fourier transform infrared (FTIR spectra), the peak intensity at 1514 cm−1 of GBF \nis caused by the C=C stretching vibration of the aromatic ring of lignin. However, CF does not show \nC=C tens",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 16,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ion which indicates that lignin has been removed well through the chemical process (Liew \net al. 2015). The peak at 1724 cm−1 in DLBF represents the ester bond of the carboxylate group in \nhemicellulose (Figure 8b). The absence of this CF peak is due to the removal of hemicellulose during \nthe alkaline treatment (Chen, Yu, and Liu 2011). Comparison between commercial cellulose (CC) and \ncellulose fiber (CF) shows that both celluloses have identical peaks. Figure 7. Holocellulose, alpha-cellulose, and hemicellulose content of seven Indonesian bamboo species (reproduced under terms of \nthe CC-BY license (Maulana et al. 2020), copyright 2020, IOP publishing).",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 17,
+      "char_count": 664
+    }
+  },
+  {
+    "text": "Research conducted by Brito et al. has prepared bamboo cellulose nanocrystals (CNCs) from \nsulfuric acid hydrolysis of bleached bamboo fibers. In addition to bamboo, CNCs are produced \nfrom three other Brazilian plants: eucalyptus, sisal, and curauá. In all cases, negatively charged ribbon- \nlike nanoparticles composed of several laterally associated elementary crystallites were observed. Morphological and structural characterization of CNCs showed that all are composed of several \nlaterally associated elementary crystallites (Brito et al. 2012). Lignin\nLignin is an amorphous and phenolic macromolecule, consisting of phenyl propane units (C6-C3) and \nhas no crystalline structure. Lignin has high resistance and is incorporated into the cell wall matrix of \ncellulose and hemicellulose. Lignin provides strength and stiffness to plant tissues and prevents the \ndegradation of cellulose and hemicellulose in plant biomass. Lignin is also considered an energy store \nresponsible for transferring stress between fibers (Ibrahim et al. 2011). The structure of lignin is shown \nin Figure 6c. Lignin has a high molecular weight and is the second most abundant component in \nbamboo, which appears from several stages of lignification related to the age of the plant. However, \nbamboo reaches its final height between 3 and 6 months during its growth process. The proportion of \nlignin and carbohydrates varies during the maturation process and tends to be stable when the plant is \nabout 1 year old (Rusch et al. 2023). Understanding the differences in the chemical structure of the main components at different \nheights of bamboo increases knowledge of its biological properties and adaptive mechanisms. Study \nconducted by Wang et al. (2025) that extracted lignin and lignin-carbohydrate complexes (LCCs) from \nthe base, middle, and upper parts of the bamboo stem of Schizostachyum funghomii McClure explain \nthe differences in chemical composition and structural characteristics at various altitudes. The results \nshowed that the content of lignin and hemicellulose followed the upper order of the base > middle > \nalong the bamboo stem. The size and number of fibrous cells decreased from the base upwards, with \nthe highest lignin content in the upper cell tissue. In a study conducted by Maulana et al. (2020), the lignin content of bamboo in Indonesia was \ncalculated, expressed as Klason lignin and acid-soluble lignin. Klason lignin is a residue resulting from \nthe hydrolysis and condensation reaction with sulfuric acid, while acid-soluble lignin is the fraction of \nlignin dissolved during the reaction. Klason lignin and acid-soluble lignin from seven bamboo species \nare shown in Figure 9. These results indicate that bamboo species have a significant effect on lignin \ncontent. Figure 8. (a) FTIR spectra of green bamboo fiber (GBF) and cellulose fiber (CF), (b) FTIR spectra of commercial cellulose (CC), cellulose \nfiber (CF), and delignified bamboo fiber (DLBF) (reproduced under t",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 18,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "erms of the CC-BY license (Liew et al. 2015), copyright 2015, \nWiley). JOURNAL OF NATURAL FIBERS\n15\n\nExtractives and ashes\nExtractives are aromatic organic compounds such as fatty acids, terpenes, flavonoids, steroids, etc. distributed in leaves, shells, culms, and other parts of plants but are not cell walls. Variations in \nbamboo extracts and ash content are related to plant type, age, and season (Wan, Wang, and Xiao  \n2010). In addition, weather factors also affect the chemical composition of plants (Vinod et al. 2020). Ash content, especially the amount of silica in bamboo, is also influenced by its species. Bambusa \nvulgaris has a low ash content, while the genus Schizostachyum shows a higher ash content (Rusch \net al. 2023). There is a secondary element in the chemical composition of bamboo; (1) the wax content in the \nepidermis is influenced by the plant species; (2) the ash content and especially the amount of silica \nvaried according to the species and was influenced by age and location, and Bambusa vulgaris showed \na low content, while the genus Schizostachyum showed a higher value. In addition, the starch content \nvaries according to the season but is also related to the species, whereas Bambusa vulgaris and \nDendrocalamus asper show high content. While Gigantochloa atter has a low starch content Rusch \net al. (2023). Several studies have reported that phenolic compounds from bamboo leaves have shown antiox­\nidant and anticancer activities (Shang, Kim, and Um 2014). Bamboo leaves extracted using the \nsupercritical carbon dioxide extraction method showed a high amount of polyphenols (7.31 ± 0.06  \nmg/g bamboo leaves). Soxhlet extraction method produced higher phenolic compounds (10.85 ± 0.52  \nmg/g bamboo leaves). The main antioxidant compounds identified from bamboo were dl-alanine, \ngluconic acid, phosphoric acid, ß-siosterol, -amyrene, -amyrin acetate, and friedelin (Figure 10) \n(Zulkafli et al. 2014). Then in the bamboo shoot shell, ultrasonic-assisted extraction (UAE) produced total \nphenolic content (TPC) up to 85.3 mg GAE/g. Fifteen phenolic acids, seven flavonoids, nine­\nteen organic acids, two iridoid glucosides, and one neoglycan were identified. Among them, \np-coumaric acid (119 μg/g DW), chlorogenic acid (87 μg/g DW), rutin (39 μg/g DW), and \nferulic acid (17 μg/g DW) were found to be the most abundant phenolic compounds (Jiang \net al. 2019). Figure 9. Lignin content of seven Indonesian bamboo species (reproduced under terms of the CC-BY license (Maulana et al. 2020), \ncopyright 2020, IOP publishing). 16\nB. IRAWAN ET AL. In biomass, low ash content is a good determinant of raw material quality. The ash content of \nbamboo varies (0.8–5% on a dry basis) (Darabant et al. 2014). XRF results show that the main \ncomponents of bamboo ash are K2O, SiO2, and SO3. The chemical composition of mineral materials \nin biomass and coal ash of ten are in the form of oxides. The chemical composition of all ashes is \nshown in Table 3. It was f",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 19,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "ound that bamboo ash had higher K and Na contents, indicating that \nbamboo ash is more easily slagged than pine and coal. The high alkali metal content in bamboo ash has \nimportant implications for its use in cementitious materials. These components can affect the \nhydration process, setting time, and long-term durability of cement-based composites (Liu et al. 2018). In particular, high levels of K2O and Na2O can increase initial reactivity but also pose challenges \nrelated to alkali-silica reaction (ASR) when reactive aggregates are present. In addition, the presence of \nSiO2 contributes to the potential for pozzolanic activity, which can improve mechanical properties and \nreduce the permeability of hardened cement pastes (Ou, Fernando, and Gattas 2019). Therefore, \nFigure 10. Gas chromatography – mass spectrometry (GC – MS) of supercritical CO2 extraction sample. The components identified \nand their relative amount of individual composition, which are expressed as a percentage of peak area relative to total peak area \n(reproduced under terms of the CC-BY license (Zulkafli et al. 2014), copyright 2014, MDPI). Table 3. Chemical composition of bamboo. The high SiO2 content in bamboo ash enhances pozzolanic activity, justifying its use as \na cement substitute (Liu et al. 2018). Oxide content of bamboo\nCompositions (%)\nSiO2\n24.32 ± 0.34\nAl2O3\n2.80 ± 0.02\nFe2O3\n2.38 ± 0.08\nTiO2\n0.20 ± 0.01\nCaO\n3.99 ± 0.02\nMgO\n6.69 ± 0.02\nK2O\n34.23 ± 0.94\nNa2O\n1.14 ± 0.02\nMnO2\n1.03 ± 0.02\nSO3\n14.05 ± 0.43\nP2O5\n2.51 ± 0.01\nJOURNAL OF NATURAL FIBERS\n17\n\nalthough bamboo ash shows promise as an adjunct cementitious material (SCM), careful control of its \ncomposition and interactions with other constituents is essential to optimize performance and \nmitigate durability issues. Applications of bamboo\nStructural application\nLaminated bamboo lumber (LBL)\nBamboo is a suitable choice for conventional building materials because it is environmentally friendly. Laminated bamboo materials have been widely used in building molding, deck flooring, furniture, \nand, most recently, building structures. For example, Bambusa balcooa Roxb. is a bamboo native to \ncentral Vietnam and is widely used in the daily life of the local people. Experimental tests on columns \nand beams made of laminated bamboo show that the load-bearing capacity of laminated bamboo is \ncontrolled by stiffness rather than by strength. These results are consistent with the relatively warm \nand humid climate that bamboo prefers (Ding and Xian 2024). Laminated bamboo lumber (LBL) has been studied for the past decade as a connection in buildings. LBL has been used in LBL sheathing-to-framing connections, LBL dowel-type connections, and glued- \nin rods (GIROD) in LBL connections (Dauletbek, Li, and Lorenzo 2023). LBL is formed from natural \nbamboo tubes made into thin flat laminae which are then laminated. LBL is divided into parallel \nlaminated bamboo wood and cross-laminated bamboo wood types (Figure 11) (Su et al. 2021).",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 20,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "Moso \nbamboo is widely used in LBL due to its fast growth and strength that can be comparable to other \nconstruction materials. The mechanical properties of LBL from moso bamboo are known to have \nproperties comparable to or exceeding those of wood-based products and achieve the same good \nperformance as other engineered bamboo products (Chen et al. 2020). LBL as a connection has a strong correlation with material properties, fastener geometry, end and \nedge distances, fastener spacing and number, and load configuration. However, LBL connections are \nFigure 11. (a) Parallel-laminated and (b) Cross-laminated bamboo lumber (reproduced under terms of the CC-BY license (Dauletbek, \nLi, and Lorenzo 2023), copyright 2021, sustainable development press limited). 18\nB. IRAWAN ET AL. stiff and brittle compared to wood connections. Due to their density, LBLs cope with energy \ndistribution better than conventional materials, making them best suited for use in seismically \nhazardous areas (Dauletbek, Li, and Lorenzo 2023). The use of bamboo in structural applications \nhas been shown to have the lowest environmental burden and costs, by a large margin (Mahdavi, \nClouston, and Arwade 2011). As a building material, the strength of bamboo is an important consideration. Heat treatment of \nbamboo can increase its strength at certain temperatures. At moderate temperatures (140°C), this heat \ntreatment improves the performance of bamboo composites by increasing porosity and resin absorp­\ntion capacity. However, higher temperatures (~200°C) damage the microstructure, reduce resin \nabsorption, and weaken bond performance (Shan et al. 2025). One solution to address this issue is \nto make the bamboo more flame-retardant. Zhang et al. (2025) reported that a core-shell synergistic \nmethod provides high flame retardancy and smoke inhibition properties while maintaining its original \nmechanical properties. The use of the core-shell synergistic strategy significantly improved the flame \nretardancy and smoke suppression properties of bamboo scrimber-giving it fire safety advantages and \nmaking it suitable for modern construction applications (Zhang et al. 2025). LBL has great potential \nand can serve as a viable alternative to conventional building materials. An example of a construction \nusing LBL is shown in Figure 12. Cross-laminated bamboo (CLB)\nOne type of laminated bamboo that is often used is cross-laminated bamboo (CLB). CLB is a two-way \nlaminated bamboo made by arranging bamboo laminae in two directions to improve the performance \nof bamboo perpendicular to the grain direction (Figure 11b) (Dauletbek, Li, and Lorenzo 2023). Although bamboo-based construction products have many advantages, such as being environmentally \nfriendly and sustainable, they are also easily cracked. Wu et al. have investigated the translaminar \nfracture properties of CLB. The results showed that bidirectional fiber arrangement has a remarkable \nFigure 12. LBL building construction of (a) co",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 21,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "nnections between columns and beams, (b) structural system for the first floor, (c) inner \nside of the roof, and (d) stairs (reproduced under terms of the CC-BY license (Dauletbek, Li, and Lorenzo 2023), copyright 2021, \nsustainable development press limited). JOURNAL OF NATURAL FIBERS\n19\n\nimprovement in the toughness of laminated bamboo at and after crack initiation. It was also found \nthat fiber pullout/bridging caused by 90° crack propagation around the fiber bundle is the dominant \ntoughening mechanism of CLB (Wu et al. 2023). In addition, the interlaminar shear behavior of CLB \nhas also been studied by Li et al. The test results showed that the shear properties of CLB can meet the \nstrength and modulus requirements of current cross-laminated wood standards. It has promising \npotential for bamboo and CLB or cross-laminated wood panels with good shear resistance (Li et al. 2022). In other species of bamboo, study conducted by Chaowana et al. describes the characteristics and \nproperties of three-year-old bamboo stems of five species (Dendrocalamus asper, Dendrocalamus \nsericeus, Dendrocalamus membranaceus, Thyrsostachys oliveri, and Phyllostachys makinoi). The den­\nsity of the five bamboo species varied from 594–933 kg/m3. The density of bamboo affects the strength \nof the bamboo stem. With increasing density, the strength value also increases. Based on its mechan­\nical properties, P. makinoi has the highest grades in shear, tensile, compressive, and flexural strength \ndue to its highest density. However, D. asper can receive the highest ultimate load due to its stem size \n(Chaowana, Wisadsatorn, and Chaowana 2021). In addition to bamboo, cross-lamination is also combining bamboo with wood. 5-layer cross- \nlaminated bamboo and timber (CLBT) were tested under in-plane compression loading, and com­\npared with cross-laminated timber (CLT) specimens. Figure 13 shows the configurations in CLT and \nCLBT. Compared with CLT, CLBT with scrimber bamboo layers resulted in a 90% increase in \ncompressive strength and a 20% increase in compressive modulus in the principal strength direction \n(Li et al. 2023). Evaluation of the rolling shear properties of CLBT also showed that the rolling shear \nmodulus and strength of scrimber bamboo were 92.81% and 98.64% higher than those of CLT, \nrespectively (Dong et al. 2021). Therefore, cross-laminated bamboo and timber (CLBT) is considered \ncapable of improving some of the deficiencies in laminated bamboo lumber (CLB). Bamboo lumber-based composites\nBamboo is often made into composite form to increase the benefits of bamboo material efficiently and \nwith high value (Sewar et al. 2024). Sun et al. have added resin to bamboo lumber. The results \nindicated that board density and resin content significantly affect bamboo’s water resistance proper­\nties. The resulting mechanical properties can be comparable to or exceed those of wood or bamboo \nproducts (Sun et al. 2021). Another method that can be used to strengthen the",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 22,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "physical and mechanical \nproperties of bamboo is by using the roller-pressing impregnation method that effectively increases \nthe density, strength, and stability of bamboo scrimber while supporting industrial-scale production \nthrough an efficient mechanized approach. This strengthens bamboo scrimber’s position as a high- \nperformance biomass material alternative for construction, furniture, and other structural applications \n(Zhang et al. 2025). In another study, laminated bamboo lumber (LBL) was coated with solvent-based and water-based \npolyurethane (PUS and PUW) surface protectors against natural weathering. LBL was processed using \nphenol-formaldehyde (PF) adhesive. Figure 14 shows before and after 90 days of exposure to natural \nweathering conditions. It is known that uncoated bamboo and LBL specimens showed a tendency to \nbecome darker after exposure to weathering conditions. Meanwhile, LBL coated with PUS and PUW \nshowed better color retention. FTIR spectroscopy results revealed that lignin present in uncoated LBL \ndeteriorated rapidly under natural weathering conditions (Kelkar et al. 2023). Other improvements \nwere made with modification with furfuryl alcohol, a biobased compound that strengthens the \ncellulose structure of bamboo. Through furfuryl alcohol modification, the bamboo scrimber becomes \nmore resistant to mold and moisture changes, improving its functional performance in outdoor \napplications. This method offers a strong, durable, and sustainable biocomposite solution for the \nconstruction sector (Tan et al. 2025).",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 23,
+      "char_count": 1562
+    }
+  },
+  {
+    "text": "20\nB. IRAWAN ET AL. Binder materials\nBamboo leaf ash (BLA) was used as a supplementary cementitious material (SCM). The results showed \nthat the composite with cement replacement by BLA presented excellent mechanical properties and \nincreased durability (Silva et al. 2023). BLA was more reactive than commercial silica fume, with \nCa(OH)2 almost completely consumed in three days. This indicates that cement replacement of up to \n20% of BLA met the required physical and mechanical properties (Villar-Cociña et al. 2011). Environmental and economic benefit analysis of SCM usage has also been reported. Energy savings \nof 15%, CO2 emission reduction of 19%, and cost reduction of 10% can be obtained from the usage of \n10% BLA and 10% ceramic brick waste (Rodier et al. 2019). In addition, it was reported that BLA was \nalso used in soil stabilization. The results showed the potential of BLA stabilization on laterite soil for \nhighway construction, if added at optimum level (Amu and Adetuberu 2010). Figure 13. Configuration of cross-laminated timber (CLT) and cross-laminated bamboo and timber (CLBT) (reproduced with \npermission (Li et al. 2023), copyright 2023, Elsevier). JOURNAL OF NATURAL FIBERS\n21\n\nAnother study reported the effect of BLA on lime-stabilized laterite soil for highway construction. The strength test results showed that BLA increased the strength of all lime-stabilized samples. The \nunsoaked CBR value increased from 2–11%, which was lime-stabilized with the addition of BLA. The \nshear strength increased substantially, from 42.16 to 398.96 kN/m2. Therefore, BLA is a good \ncomplement for lime stabilization of laterite soil (Amu and Babajide 2011). Biomedical and food innovations\nAntioxidant\nAlthough bamboo is an agricultural product worth billions of dollars in international trade, only its \nshoots are used in fiber and food production. The potential use of young bamboo flour as a new \ningredient for food products, increases the intake of insoluble fiber and considers consumer demand \nfor healthier products. The total fiber content in young bamboo culm flour is lower than that of white \nwheat fiber, which can be explained by the presence of starch in young bamboo culms (10 g/100 g) \n(Felisberto, Beraldo, and Clerici 2017). Three varieties of bamboo; Dendrocalamus asper, Bambusa \ntuldoides and Bambusa vulgaris contains potential fiber and starch, which can be used in the food and \nnon-food industries. The flour obtained would be an alternative to traditional whole flours used in \ncake and bread formulations, with the advantage of not discoloring the final product. Bamboo starch \ncould be an alternative source for starches traditionally used as thickeners, fat substitutes, or in food \nand cosmetic formulations (Felisberto et al. 2017). Bamboo has a greater abundance of phenolic compounds. Flavonoids are the most widely reported \nphenolics found in bamboo. The main antioxidants in bamboo leaves and shoots are phenols, vitamins \nC & E and mineral",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 24,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "elements such as selenium, copper, zinc, iron and manganese. Bamboo leaves and \nshoots are a good source of natural antioxidants and can play an important role in the food and \npharmaceutical industries (Nirmala et al. 2018). Leaf extracts Phyllostachys nigra showed anti- \ninflammatory activity when tested in vitro. In an in vivo comparative study conducted on Wistar \nalbino rats, leaf extracts of Bambusa arundinacea (Retz.) showed higher antithrombotic activity \ncompared with phytomenadione (vitamin K). Bamboo has metabolites that are important for med­\nicinal applications, but it is important to evaluate whether the yield of these compounds or extracts is \nsufficient to make an herbal medicine (Gagliano et al. 2022).",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 25,
+      "char_count": 728
+    }
+  },
+  {
+    "text": "Figure 14. Effect of natural weathering on color change of (a) Bamboo, (b) Uncoated LBL, (c) PU coated LBL, and (d) PUW coated LBL. (suffixes 0 and 1 represent spectra taken before and after exposure to natural weathering). (reproduced with permission (Kelkar et al. 2023), copyright 2023, Elsevier). 22\nB.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 26,
+      "char_count": 306
+    }
+  },
+  {
+    "text": "IRAWAN ET AL. Antioxidant of bamboo leaves (AOB), a brownish-yellow powder extracted from bamboo leaves, \nincludes three main functional components: flavonoids, lactones, and phenolic acids. As a natural \nantioxidant officially certified in China, AOB has been widely used in various food preservation fields, \nsuch as fish, meat, and edible oil (Liu et al. 2021). Bamboo leaf extract has shown positive effects in \ncontrolling various degenerative diseases such as diabetes, cancer, as well as heart problems. Bamboo \nleaves are loaded with antioxidants and flavonoids that can help delay aging with their anti- \ninflammatory activity. Products made from bamboo leaves such as bamboo beer and bamboo wine \nare now a new-age discovery as alcoholic beverages due to their potential health benefits. Antioxidant \nof bamboo leaves (AOB) extracted from genus Phyllostachys Sieb. et Zucc., while six phenolic acids \nnamely chlorogenic, ferulic, coumeric, protocatechuic, vanillic and coffeic acids were extracted from \nthe leaves of Bambusa arundinacea. In another study, bamboo leaf extracts from Phyllostachys praecox \ncan exhibit antioxidant activity at concentrations higher than 400 mg/L (Singhal 2023). Bamboo \nspecies like Bambusa vulgaris has recently been found to have significant levels of secondary metabo­\nlites in all parts of the plant, especially the leaves, which may be used as natural components in skincare \nproducts. The essential oil from bamboo leaf extract contains high levels of biological activity, \nincluding antioxidant, antimicrobial, antibacterial, and anti-inflammatory properties (Alias et al. 2023). In addition to leaf utilization, bamboo shoots also have many benefits, especially in health and food \ningredients. Bamboo shoots have historically been used in medicines and identified with diverse health \nbenefits such as hypolipidemic, prebiotic, and anti-diabetic activities. Bamboo shoots are also \na reservoir of bioactive substances, such as phytosterols, polyphenols, polysaccharides, and dietary \nfiber. Given these key components, bamboo shoots are evidenced with antioxidant, hypolipidaemic, \nprebiotic, anti-diabetic, anti-obesity, anti-inflammatory, and anti-hypertensive activities, as well as \nanti-microbial activities (Behera and Balaji 2021). The antioxidant activity of bamboo shoots is mainly \nderived from ascorbic acid and phenolic compounds, which show strong prevention against lipid \noxidation, which is excellent for various radicals and comparable reduction ability to oxidative \ncompounds, such as Fe3+. Due to its high nutritional quality, diverse health benefits, and low pollution, \nbamboo shoots have become more popular in recent years (Wang et al. 2020). About 2 million tonnes \nof bamboo shoots are consumed every year. Fresh young bamboo shoots are delicious, crunchy and \nhealthy, with a high content of nutrients, bioactive and antioxidants. Freshly harvested bamboo shoots \nare a good source of protein, fiber, minerals, vitamins an",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 27,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "d amino acids (Bajwa, Santosh, and Nirmala  \n2021). Most of the dietary fiber from bamboo shoots is insoluble and only a small proportion is soluble, \nwhich plays a potential role in health and provides protection against many chronic diseases. Physicochemical and physiological properties of soluble dietary fiber (SDF) and insoluble dietary \nfiber (IDF) from bamboo shoots Fargesia spathacea relatively higher than other species. Both SDF and \nIDF of F. spathacea showed potential prebiotic effects, although effects of the Lactobacillus dan \nBifidobacterium of SDF is relatively stronger than IDF. Dietary fiber F. spathacea with strong \ncholesterol adsorption activity and prebiotic potential (Wu et al. 2020). Fermented bamboo shoots \nare a storehouse of microorganisms, many of which are probiotic in nature. Fermentation is an \nimportant ancient biotechnological procedure used for the preservation of food products; fermented \nbamboo shoots are referred to as India’s “green gold” (Behera and Balaji 2021). Antimicrobial\nAntimicrobial activity can generally be prevented by utilizing the content present in a plant substance, \nsuch as bamboo. Some parts of bamboo, namely bamboo shoots and leaves, contain substances that \nare useful to inhibit the activity and become antimicrobial agents. Bamboo shoots promote health in \nmany aspects, including improving digestion, relieving hypertension, and preventing cardiovascular \ndisease and cancer. Insoluble fiber from bamboo shoots performed best among all tested fibers and its \neffects, as well as modulation with gut microbiota. Insoluble fiber from bamboo shoots was the most \neffective in suppressing high-fat diet-induced obesity and accompanying metabolic changes (Li et al. JOURNAL OF NATURAL FIBERS\n23\n\n2016). The addition antioxidant of bamboo leaves (AOB) combined with polyphenols can also inhibit \nbacterial growth and decarboxylase positive spoilage activity as it acts as an antimicrobial agent \n(Nirmala et al. 2018). In addition to bamboo shoots, bamboo leaves can be used to treat spasmodic disorders and for the \ntreatment of stomach problems such as killing intestinal worms, such as threadworms by fermentation \n(Behera and Balaji 2021). The utilization of fermented bamboo leaves as an antimicrobial agent has \nbeen tested on several types of microorganisms as shown in Table 4. The content in bamboo leaves such as alkaloids, flavonoids, phytates, oxalates, tannins, terpenoids, \nand saponins where these bioactive constituents are related to antimicrobial activity. Antioxidant of \nbamboo leaves (AOB) and ZnO nanoparticles synergistically increase antibacterial activity against \nEscherichia dan S. aureus. AOB has a synergistic effect with ZnO nanoparticles in increasing the \nantimicrobial activity of chitosan films against gram-positive (S. aureus) and gram-negative bacteria \n(Escherichia) (Liu et al. 2021). Alkaloids can increase antimicrobial activity of antibiotics while saponin \ncompounds are effective for in",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 28,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "hibiting gram-positive bacteria such as Staphylococcus aureus. Bamboo \nleaves have the potential to be used as a natural plant-based ingredient in formulated skin care \nproducts and promote benefits for human health and the environment (Alias et al. 2023). Another \nuse as an antimicrobial agent is done by extracting essential oils (EO) from bamboo. Leaves from \nPhyllostachys pubescens can be used as an essential oil that can interfere with the integrity of \npathogenic membranes and thus can be a potential antimicrobial agent for future use (Singhal 2023). Environmental and energy solutions\nEnvironmental uses\nThe potential use of bamboo is not limited to certain organs and extracts of its substance content, but \nto the environment and surrounding conditions. All bamboo forests generate more ecosystem services \nand have lower growth and maintenance costs compared to the ecosystem services in other same plant \necosystem. Given global environmental challenges and climate change, bamboo forest management \nhas received greater attention and is now a fundamental aspect of sustainable development (Shah et al. 2025). In the research conducted by Zeng et al. (2020), shows that bamboo forests can be used as \na form of therapy that is able to relieve physical stress and stabilize emotions. The environmental \nexperience of the bamboo forest was more conducive to the reduction of systolic blood pressure and \nheart rate of female subjects and maintained peripheral oxygen saturation at a higher level. This shows \nthat the bamboo forest environment can effectively reduce the pressure on the human body, relieve \nemotions, and increase energy. The same was done in research by Lyu et. al. that by looking at the \nlandscape and taking a walk around the bamboo forest environment for 15 min it increases the \npositive mood state and reduces the negative mood state (Lyu et al. 2019). The aspect of physical use of bamboo in the environment is the use of fibers and their structure. Bamboo fibers have micro-slits, which makes them softer than cotton and improves their ability to \nabsorb moisture. Another interesting property of bamboo fiber is that it is highly elastic, bacteriostatic, \nresistant to ultraviolet rays, and biodegradable which makes bamboo fiber products environmentally \nfriendly. Due to its versatile nature, bamboo fiber is used primarily in the textile industry to make \nTable 4. Application of microorganisms commonly found in bamboo shoot fermentation (reproduced under terms of the CC-BY \nlicense (Behera and Balaji 2021), copyright 2021, Springer nature). Microorganisms\nApplications\nLactobacillus \nplantarum\nCan inhibit the adhesion of pathogens onto the gastrointestinal tract or urinary tract, thus inhibiting \ninfection; also acts as probiotic; maintain intestinal microbe balance\nLactobacillus brevis\nProduces gamma-aminobutyric acid (GABA), which has anti-depressant property\nLeuconostoc fallax\nPresent in the heterofermentative stage of sauerkraut fermentation",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 29,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": ", found in the fermentation of vegetables\nLactococcus lactis\nFood bacterium with industrial importance; used for production of industrial metabolites, enzymes, \ntherapeutics, used as vaccine delivery system, production of heterologous plant-based and membrane- \nbased proteins\n24\nB. IRAWAN ET AL.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 30,
+      "char_count": 296
+    }
+  },
+  {
+    "text": "clothing, bathrobes, and towels (Hakeem, Jawaid, and Alothman 2015). On the other hand, bamboo is \nbeneficial for energy conservation and reduction of CO2 emissions. Bamboo is considered a potential \nsubstitute for hardwood, and it exhibits high tensile strength with a value of 3.59 × 108 N/m2, which is \ncomparable to steel. As shown in the Figure 15, Glue-laminated bamboo boards store more carbon \nthan other materials. The negative carbon emission value of glue-laminated bamboo boards results in \nlower gross carbon emissions compared to other materials. Therefore, the use of glue laminated \nbamboo board provides a positive environmental effect (Chang et al. 2018). To reduce CO2 gas emissions to be lower, bamboo has the potential to be used as the main material \nto replace plastic. Replacing plastic with biodegradable, compostable, and environmentally friendly \nmaterials is an urgent need. CO2 emissions from the production of tableware made from bamboo pulp \nare lower than the manufacture of plastic products and traditional paper making from wood pulp, so it \nhas the potential to replace plastic, especially in food packaging (Liu et al. 2020). Recent research \nshows that bamboo can be converted into a strong, moldable, and biodegradable cellulose-based \nmaterial, designed as an alternative to plastic. The key approach is “multiscale interface engineering,” \nwhich involves processing bamboo into macrofibers and nanofibers and then reconfiguring them \nthrough a combination of physical and chemical techniques. This innovative approach successfully \ntransforms bamboo into a strong, moldable, biodegradable structural material with mechanical \nproperties that equal or surpass those of modern plastics. The flexibility of the mechanical design, \nalong with its positive environmental impact, makes this research important for the development of \nplastic alternative materials (Hu et al. 2025). Other research in Ethiopia shows the potential of bamboo as a sustainable alternative to plastic and \nwood in the horticultural sector. The innovation involves creating and promoting new bamboo boxes/ \ncardboard boxes made from a type of mountain bamboo (Oldeania alpina). Bamboo products offer \nsignificant environmental and economic advantages over plastic and wood alternatives, contributing \nto reduced pollution and better waste management (Alamerew et al. 2025). Another positive impact \nthat can be obtained by utilizing bamboo is preventing landslides. With fibrous roots, interconnected \nrhizomes, and relatively dense foliage that protects from heavy rainfall and produces new culms from \nunderground. Ecologically, bamboo gardens also benefit from maintaining the hydrological cycle of \ngroundwater, bamboo clumps can hold up to 25% of rainwater that falls to the ground; This \npercentage is much greater than that of conifers and pines (Timko et al. 2024). In composition, bamboo dry materials are mainly composed of lignin, cellulose, and hemicellulose. Lignin can be con",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 31,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "verted into charcoal and used for carbon sequestration either at the mining site or \nelsewhere. Alternatively, bamboo can be used as a construction material. Wooden bamboo, especially \nFigure 15. Greenhouse gas (GHG) emissions produced per kilogram of various materials (reproduced with permission (Chang et al. 2018), copyright 2018, Elsevier). JOURNAL OF NATURAL FIBERS\n25\n\nPhyllostachys, very promising for soil transformation and biodiversity improvement. Bambusa vul­\ngaris, offering excellent soil holding ability, it is perfect for maintaining soil structures on banks. Bamboo through a strong root system that spreads more vertically than horizontally, effectively \nanchoring the soil to prevent erosion (Mahdavi, Clouston, and Arwade 2011). In addition, Bamboo \nhas also long been widely used in building structures, such as in the manufacture of bamboo houses \nand composite plates. Biomass bamboo aggregate concrete (BAC) is improved with age. Compared \nwith normal concrete, the mechanical properties of bamboo aggregate concrete decrease as the \nreplacement ratio of modified bamboo aggregate increases, the compressive strength of modified \nbamboo aggregate concrete can still reach 74% of normal concrete (Zhou et al. 2024). Other \nimplementation is used to reduce insect with Vacuum thermal modification that environmentally \nfriendly method to improve durability and reduce insect infestation on bamboo, which has the \nadvantages of preventing deformation, preventing oxidation of bamboo surface (Zhang et al. 2024). Bamboo as wind turbine\nBamboo has many engineering attributes, making it an attractive material for wind turbine blades. Bamboo-based composites are rapidly emerging for use in wind turbine structural applications. In \na study by Holmes et al., a low-cost bamboo-based composite was developed for wind turbine blade \napplications. The bamboo-poplar composite showed potential for reducing production costs com­\npared to other bamboo-based composites. The tensile strength was 175–191 MPa with an average \ntensile modulus of 21.6 GPa. The fracture toughness along the weakest orientation of the laminate was \napproximately 0.13 kJ/m2. The strength and modulus values found for the laminates exceeded those of \nbirch (Holmes et al. 2009). In addition to its strength, the advantages of using bamboo for turbine blades are its recyclability, \nlow cost, high strength, and biodegradability compared to synthetic composites. In the study of Bora \net al., the bamboo-epoxy composite was used for vertical-axis wind turbine (VAWT) blades. The \nDarrieus VAWT model, consisting of three blades, is shown in Figure 16a. These blades are connected \nto the main rotating shaft with the help of six radial support arms. The 3D model of the blade with \nchord length, span height, and two boundary conditions constrained at equal distances from both ends \nis shown in Figure 16b. The 2D cross-sections of the two wings are shown in Figure 16c, d. In addition, \nthe aspect ratio of",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 32,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "the blade plays an important role in the overall performance. The turbine \nperformance decreases as the aspect ratio is reduced. The results show that the blade with two shear \nwebs exhibits minimum stress and deflection values. The stress and deflection of the observed non- \nsymmetric bamboo-epoxy composite blade are reduced by 70.98% (stress) and 1.11% (deflection) \nrespectively compared to the glass-epoxy blade (Bora et al. 2023). The use of bamboo in moving \nstructures such as wind turbines requires mechanical conditions that can withstand existing condi­\ntions. A solution that can be applied for this is innovative research using metal-reinforced bamboo \ncomposite (MRBC) production methods, using bamboo waste and metal nanoparticles as reinforce­\nments. It has been proven that reinforcing bamboo waste with metal nanoparticles produces strong \ncomposites with high bonding strength, without the use of synthetic chemical adhesives. This offers \na sustainable material solution for structural applications such as wind turbines by utilizing bamboo \nwaste and enhancing the value of both base materials (Yu et al. 2025). Bioethanol production\nBioethanol production from bamboo is a growing sustainable energy source with great \npotential due to its rapid growth rate, high cellulose content, and sustainability. Some \nprocesses involved in producing bioethanol from bamboo are bamboo selection and pre- \ntreatment, hydrolysis, fermentation, and distillation or purification (Deshmukh and Pathan  \n2024; Zhan et al. 2022). One of the most important processes in bioethanol production from \nbamboo is pretreatment. Wang et al. have reported using three pretreatment technologies such \nas hot liquid water (LHW), dilute acid (DA), and soaking in aqueous ammonia (SAA). The \nminimum ethanol selling price (MESP) of these pretreatment processes was 0.554, 0.484, and \n26\nB. IRAWAN ET AL. 1.014 $ per liter for DA, LHW, and SAA pretreatments, respectively. Bioethanol produced \nthrough DA and LHW pretreatments can be economically competitive with gasoline. Bioethanol synthesized through this method is also known to be more environmentally \nfriendly with greenhouse gas emissions reduced by 45–93% (Wang, Littlewood, and Murphy  \n2014). In India, Dendrocalamus bamboo species is developed as a raw material for bioethanol production \nwith the help of enzymatic saccharification. Dilute alkali pretreatment resulted in the removal of lignin \nwhich effectively increased the cellulose concentration from 46.7% to 63.1%. It is known that enzy­\nmatic fermentation is efficient with ethanol production of 71.34% of the theoretical maximum. This \nprocess has the potential to produce 143 L of ethanol per dry ton of bamboo waste (Kuttiraja et al. 2013). In another study, LHW pretreatment was used and found to keep the economic and environmental \ncosts to a minimum. LHW pretreatment at 190°C for 10 min could release 69% of sugar under the \nloading of commercial enzyme Cellic CTec2. The techno-",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 33,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "economic evaluation revealed that the \nproduction cost was $0.484 per liter (data calculated in China). Therefore, bioethanol from bamboo \nis proven to be technically and economically feasible, and competitive with gasoline in China \n(Littlewood et al. 2013). Biomass production\nSeveral countries are updating their bioenergy strategies to include bamboo. A bamboo-fueled power \nplant is being built in Mizoram, India to help meet the energy needs of northeastern India. Bamboo is \nthought to be key to combating Africa’s energy woes. Among the advantages of bamboo that make this \ninnovation possible is that the entire bamboo plant, including the culm, branches, and rhizomes, can \nFigure 16. Geometry of blade profiles (a) Darrieus vertical axis wind turbine (VAWT) model, (b) Blade model for simulation, (c) \nSymmetric cross-section of the blade, and (d) Non-symmetric blade cross-section (reproduced with permission (Bora et al. 2023), \ncopyright 2012, Elsevier). JOURNAL OF NATURAL FIBERS\n27\n\nproduce charcoal, making it extremely resource-efficient with limited waste (Ogunwusi and Onwualu  \n2013). Bamboo as biomass for energy sources has also been explored. Purbasari et al. have studied three \nbamboo species, namely Gigantochloa apus, Gigantochloa levis, and Gigantochloa atroviolacea \n(Purbasari, Samadhi, and Bindar 2016). The three bamboo species underwent four stages of thermal \ndecomposition (Figure 17), indicating that bamboo contains lignin (20–30%), cellulose (40–50%), \nhemicellulose (25–30%), extractives, and ash (Kumar and Chandrashekar 2014). These results indicate \nthat the selected bamboo species have calorific values comparable to wood, suggesting that it can be \nused as a sustainable energy source (Table 5). G. atroviolacea has the highest ash content and the \nlowest calorific value, while the ash content and calorific value in G. apus and G. levis are relatively the \nsame. In addition, bamboo ash contains high silica and has the potential to be further used as \na building material or for engineering purposes. Bamboo ash contains mineral phases, namely arcanite \n(K2SO4), sylvite (KCl), and quartz (SiO2). This result is in accordance with the oxide composition \nanalysis that silicon and potassium are dominant in bamboo. While the calorific value and chemical composition of bamboo support its potential as a renewable \nenergy source, scalability for bioethanol production still faces significant challenges. One major \nobstacle is the efficiency of lignin removal during the pretreatment process, as lignin forms \na protective matrix around cellulose and hemicellulose, limiting enzymatic access. In addition, \nenzymatic hydrolysis for the release of fermentable sugars remains expensive, especially when using \nunoptimized or highly lignified biomass. However, certain bamboo species, such as Gigantochloa apus, \nwith relatively high hemicellulose content and moderate lignin content, are more suitable for hydro­\nthermal or dilute acid pretreatment, which",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 34,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "facilitates faster hydrolysis and increases fermentation rates \n(Saini et al. 2016; Sun and Cheng 2002). The high natural hemicellulose fraction in G. apus can \nproduce more xylose and other fermentable sugars, making it a promising candidate for second- \ngeneration bioethanol production. Therefore, specific species selection and tailored pretreatment \nFigure 17. (a) Combustion profiles of selected bamboo and (b) XRD pattern for bamboo (G. apus) ash (A = arcanite (K2SO4), S =  \nsylvite (KCl), Q = quartz (SiO2)) (reproduced under terms of the CC-BY license (Purbasari, Samadhi, and Bindar 2016), copyright 2016, \nCBIORE). Table 5. Proximate analysis and calorific value of selected bamboo and wood. Species\nProximate analysis (%)\nCalorific value (cal/g)\nMoisture\nAsh\nVolatile matter\nFixed carbon\nG. apus\n8.89\n2.45\n70.31\n18.35\n4151\nG. levis\n8.76\n2.46\n72.71\n16.07\n4161\nG. atroviolacea\n8.13\n3.29\n71.70\n16.88\n4086\n28\nB. IRAWAN ET AL. strategies are critical to overcome technical and economic barriers in scaling up bamboo-based \nbioenergy. Advanced materials\nCellulose fibers crystal\nAlthough natural fibers are not as strong as synthetic fibers, they are abundant, low-density, low-cost, \nrenewable, and biodegradable. Natural cellulose fiber-reinforced polymer composites have been \ndeveloped to be environmentally friendly materials (Venkatarajan and Athijayamani 2021). Natural \nfibers such as highly aligned lignocellulosic bamboo have been extracted and densified to obtain \nstructural materials with excellent tensile strength. This performance is obtained from the strong fiber \nalignment and high fiber volume (Song et al. 2018). Bamboo is a cheap biomass resource and has \nabundant long fibers with a theoretical strength of 1200–1930 MPa (Yu et al. 2014). Lin et al. have reported the use of bamboo cellulose fiber as a structural material with antifungal \nproperties and for electrodes. Figure 18a shows the design concept and fabrication process of bamboo \nfiber composite and supercapacitor derived from natural bamboo cellulose fiber. Long and parallel \ncellulose fibers were isolated from bamboo vascular bundles by removing the hemicellulose and lignin \nmatrix (Figure 18b,c). The results showed that the composite had a high tensile strength of up to 571 \nFigure 18. (a) Schematic showing the design concept and fabrication process of bamboo fiber-based composites and super­\ncapacitors, and (b) Photographs of natural bamboo and (c) the extracted bamboo cellulose fibers (reproduced with permission (Lin \net al. 2022), copyright 2022, Elsevier). JOURNAL OF NATURAL FIBERS\n29\n\nMPa. In addition, cellulose was also used to fabricate a supercapacitor with an areal capacitance of \n2032 mF cm−2 and a linear capacitance of 670 F cm−1 (Lin et al. 2022). A similar study was reported by \nShan et al. (2022), who used bamboo cellulose fiber as an antibacterial agent. The aim is to understand \nadsorption mechanism of tannic acid (TA) on bamboo cellulose fibers (BCFs) with potential a",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 35,
+      "char_count": 2999
+    }
+  },
+  {
+    "text": "pplica­\ntions such as antibacterial agents, preservatives, or other functional properties. The result proves that \nTA can attach to bamboo cellulose through strong yet reversible multi-molecular physical adsorption, \nmainly sustained by hydrogen bonding. This finding opens a method of adaptively and sustainably \nfunctionalizing bamboo fibers, with broad potential in textile, packaging, and eco-friendly material \napplications (S. Shan et al. 2022). In another study, bamboo fibers (BFs) were prepared into microfibrillated cellulose (MFC) by alkali \ntreatment combined with bleaching and sulfuric acid hydrolysis. FTIR spectroscopy analysis of \nuntreated BFs, alkali-treated BFs, bleached BFs, and hydrolyzed BFs showed that compositional \nchanges occurred in the fibers during hydrolysis. Figure 19a shows that hemicellulose and lignin \nwere mostly removed in MFC. Figure 19b,c show the microscopic images of the original BFs and \nalkali-treated BFs. The original BFs were covered by a massive cementitious material, which was \nreduced after the BFs were treated with an alkaline solution. The obtained MFCs may have potential \nFigure 19. (a) FTIR spectra of BFs after different treatments: (a) Raw BFs, (b) 2 wt% alkali treated BFs, (c) Bleached BFs, (d) Hydrolyzed \nBFs, (b) Optical microscopy images of raw BFs, and (c) Alkali treated BFs (reproduced under terms of the CC-BY license (Sewar et al. 2024), copyright 2013, IOP publishing).",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 36,
+      "char_count": 1444
+    }
+  },
+  {
+    "text": "30\nB. IRAWAN ET AL. applications in alternative resources such as biomass, pharmaceutical, and optical industries as \nadditives, and in the composite field as reinforcing phase (Nguyen et al. 2013). Similar results were reported by Zhang et al., MFC was obtained by crushing bleached bamboo \nkraft pulp (Phyllostachys pubescens) with chemical pretreatment and high-pressure homogenization \nprocedures (Zhang et al. 2012). Scanning electron microscope (SEM) images of the effect of homo­\ngenization time were evaluated (Figure 20). Pronounced differences in the volumes of pulp and MFC \nwere observed. There were rod-like structures with diameters of about tens of millimeters on the \nsurface of the original bamboo fibers. The fibers were crushed into nanoscale microfibrils after 2, 3, \nand 6 times of homogenization. Cellulose-based functional hydrogel\nHydrogel products are a group of polymeric materials, whose hydrophilic structure enables them to \nretain large amounts of water in their three-dimensional network. The widespread use of these \nproducts in many industrial and environmental application areas is considered to be of great \nimportance. Hydrogels have great research and application prospects in the field of product design \n(Ahmed 2015). Bamboo cellulose-based hydrogels have been reported, and have potential applications in \nfood packaging and plant agriculture, such as fertilizer release and crop production. Researchers \nhave extracted cellulose from bamboo and produced various cellulose-based functional hydrogels \nwith excellent properties through cross-linking methods (Cao et al. 2022). Various approaches \nFigure 20. Scanning electron micrographs of pulp and MFC of (a) Untreated kraft pulp fiber, (b) Homogenized twice, (c) \nHomogenized three rounds, and (d) Homogenized 6 times (reproduced with permission (Zhang et al. 2012), copyright 2012, Elsevier). JOURNAL OF NATURAL FIBERS\n31\n\nhave been used to prepare hydrogels from cellulose, which shows the great application value of \nbamboo in the production of cellulose-based hydrogels. Figure 21 shows that cellulose can be \nused to produce cellulose-based hydrogels with cross-linking agents having a three-dimensional \nnetwork structure (Shen et al. 2016). Hydrogels can be designed and synthesized with fine-scale \ncontrol of various hydrogel properties, such as structure, cross-linking density, biodegradability, \nmechanical strength, chemical response, and hydrology of hydrogels to stimuli (Huber et al. 2019). Several steps in making cellulose-based hydrogel from bamboo include (1) extraction of cellulose \nfrom bamboo and (2) synthesis of hydrogel from cellulose. In many reports, the bleach-alkali \ntreatment method is the most common method for extracting cellulose from bamboo (Bhaladhare \nand Das 2022). This method uses bleach and alkali to remove lignin and hemicellulose to obtain high- \npurity cellulose. Under certain temperature conditions, lignin is removed by soaking it in an alkali \nsolution. Co",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 37,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "mmonly used bleaches are chlorite, hypochlorite, or chlorine, while the alkali reagents \nused are usually sodium hydroxide or potassium hydroxide (Lu, Zou, and Fang 2021). After obtaining pure cellulose, the next step is hydrogel synthesis. Cellulose-based hydrogels are \ngenerally prepared through physical cross-linking, chemical cross-linking, and polymerization tech­\nnologies (Cao et al. 2022). Physical cross-linking methods can be used to improve the structure of \nhydrogels. This method is carried out using freeze-thaw technology, photoinitiator technology, and \nradiation-induced technology (González-Torres et al. 2018). Chemical cross-linking methods are used \nto form bonds between polymers and cross-linking agents (Yu et al. 2017). Fiber composites\nBamboo is also used as a composite fiber. Bamboo fiber-reinforced polymer (BFRP) is designed as an \nalternative to carbon fiber-reinforced polymer (CFRP). BFRP is made using fine lace made of bamboo \nfilaments presented in a bonded frame. CFRP commonly uses non-consumable oil raw materials that \nhave high prices. BFRP has become an option for planning sustainable and environmentally friendly \ngoods. Some BFRP applications that have been reported are for construction, interior design, furni­\nture, and automotive applications. Compared to synthetic composites, BFRP as a natural fiber \ncomposite is a renewable substitute material and is cheaper than synthetic fibers (Kaur et al. 2017). Research form Wang et al. (2025) introduces a transparent and flexible bamboo-based composite \nmaterial, utilizing a dual-resin blending strategy. The aim is to combine the mechanical strength of \nbamboo with flexibility and optical clarity on a commercial material scale, and the result is \na transparent and flexible variant of bamboo composite through dual-resin blending, paving the \nway for polymer-based plastic substitutes with a better environmental impact. This is an innovative \nstep that combines the mechanical strength of Bamboo and the optical clarity of a resin, meeting the \nneeds of modern materials with a sustainable approach. This research utilizes the natural structure of \nbamboo as the base material for transparent and flexible composites (Wang et al. 2025). In another \nstudy, bamboo has been used as a blend with polyester in knitted fabrics. It was observed that with \nincreasing bamboo content, the roughness and unevenness of the yarn increased and its tenacity \nFigure 21. Schematic illustration of the structures of cellulose and cellulose-based hydrogels as well as the preparation process of \ncellulose-based hydrogels (reproduced under terms of the CC-BY license (Huber et al. 2019), copyright 2022, frontiers).",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 38,
+      "char_count": 2701
+    }
+  },
+  {
+    "text": "32\nB. IRAWAN ET AL. decreased. It was also found that increasing bamboo content in the blend increased the ultraviolet \nprotection factor, water vapor permeability, and absorbency (Mahish, Patra, and Thakur 2012). Bamboo charcoal is also used as a thermoplastic composite by mixing it with polyester (PET) and \npolypropylene (PP) by melt compounding and then injection molding. The results showed that the \nmechanical properties of PET/PPext (extrusion grade polypropylene) composites were better than \nPET/PPinj (injection grade polypropylene) composites. It is also known that the mechanical properties \nof PET/PPinj composites are not significantly affected by the addition of bamboo charcoal (Lou et al. 2007). Compared to plastic products, bamboo offers several advantages, including sustainable, carbon \ndioxide absorption, pollution-free products, and biodegradability. In September 2024, China released \nthe “Special Standard System for Bamboo in Lieu of the Plastic Initiative,” The purpose of this policy is \nto reduce the utilization of plastic products, reduce environmental pollution and facilitate the \neconomic progress of bamboo. Of the many bamboo species, three stand out as the most cultivated \nin China: Phyllostachys edulis, Bambusa multiplex (Lour.) Raeusch. Ex Schult.f. and Dendrocalamus \nlatiflorus Munro. It is widely used in various fields, including construction, furniture, and handicrafts \n(Li, Wang, and Latiff 2025). In addition, modeling using artificial intelligence (AI) also helps accelerate \nthe process of breeding superior bamboo for plastic replacement needs through faster breeding and \nmore precise phenotyping and genotyping predictions. This is important for realizing specifically in \nthe global Bamboo as a Substitute for Plastic (BASP) initiative with high industrial-scale efficiency \n(Sun, Di, and Gao 2025). Conclusions\nBamboo is a sustainable resource with unique properties that support its wide range of applications \nacross industries. This review has explored the geographical distribution, traditional uses, anatomical, \nand chemical properties of bamboo, highlighting its uses in construction, biomedical and food, \nenvironmental engineering, energy solutions, and advanced materials. Engineered bamboo lumber, such as laminated bamboo lumber (LBL), cross-laminated bamboo \n(CLB), and modified composites show satisfactory strength for construction applications. Bamboo ash \nis also used as a mixture of additional cement materials (SCM) in construction applications. In the \nhealth and food sector, bamboo leaves and shoots have a large abundance of phenolic compounds, \nespecially flavonoids. This makes bamboo a good source of natural antioxidants and can play an \nimportant role in the food and pharmaceutical industries. In addition, bamboo leaves can also inhibit \nbacterial growth and positive decarboxylase decay activity which functions as an antimicrobial agent. In the environmental sector, bamboo fibers have micro-gaps, which allo",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 39,
+      "char_count": 3000
+    }
+  },
+  {
+    "text": "w them to absorb moisture. In \naddition, bamboo fibers are highly elastic, bacteriostatic, resistant to ultraviolet light, and biodegrad­\nable, making them environmentally friendly. In the energy sector, bamboo has the potential to be \napplied to wind turbine blades. In addition, bamboo is rich in cellulose, which can potentially be \na source of bioethanol and biomass production. In the material sector, bamboo cellulose fibers are \nused as composites have antifungal properties, and can be applied as electrodes, hydrogels, and \nbiodegradable inexpensive plastic. Beyond these findings, future research should adopt a more interdisciplinary approach to fully \nharness bamboo’s potential. Integrating genetic and molecular studies, for instance, could accelerate \nselective breeding for optimized lignin and cellulose content, enhancing bamboo’s suitability for \nbioenergy and composite materials. Additionally, advances in nanotechnology open promising ave­\nnues, such as utilizing bamboo-derived nanocellulose for flexible electronics, wearable devices, and \nsustainable packaging. Exploring these directions can expand the boundaries of bamboo research, \ndriving innovation at the intersection of biotechnology, materials science, and environmental sustain­\nability. This integrative perspective is essential for maximizing bamboo’s impact across scientific and \nindustrial domains. JOURNAL OF NATURAL FIBERS\n33\n\nThis review contributes to understanding the characteristics of bamboo species, components, and \napplications in detail. The guidance provided in this review can be the basis for further research in \ndeveloping the potential and understanding bamboo species that are suitable for their applications. Thus, a better understanding of this is the key to optimizing bamboo, opening up wider application \npotential in various fields of science and technology. Disclosure statement\nNo potential conflict of interest was reported by the author(s). Funding\nThis work was supported by the Universitas Padjadjaran [ALG [1419/UN6.3.1/PT.00/2024]]. References\nAhmad, M. I., S. Farooq, and H. Zhang. 2022. “Recent Advances in the fabrication, Health Benefits, and Food \nApplications of Bamboo Cellulose.” Food Hydrocolloids for Health 2:100103. https://doi.org/10.1016/j.fhfh.2022.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 40,
+      "char_count": 2287
+    }
+  },
+  {
+    "text": "2015. “Hydrogel: Preparation, Characterization, and Applications: A Review.” Journal of Advanced \nResearch 6 (2): 105–121. https://doi.org/10.1016/j.jare.2013.07.006  . Alamerew, A. N., Z. Zhu, R. Kozak, A. K. Shrestha, S. Agdew, and G. Wang. 2025. “Exploring the Shift to Bamboo \nAlternatives: A Case Study on Wood and Plastic Replacement in Ethiopia.” Journal Cleaner Production 486:144507. https://doi.org/10.1016/j.jclepro.2024.144507  . Albuquerque, U. P., R. F. P. de Lucena, E. M. F. L. Neto. 2014. “Selection of Research Participants.” In Methods and \nTechniques in Ethnobiology and Ethnoecology, edited by U. P.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 41,
+      "char_count": 620
+    }
+  },
+  {
+    "text": "N. Alves, 1–13. New York: Humana. https://doi.org/10.1007/978-1-4614-8636-7  . Alias, A. H. D., N. Q. Abdul Razak, M. H. Yusoff, K. H. Chin, M. L. Kamal, N. H. Uyup, S. Abdullah, N. S. Ridzuan, \nM. Saaid, and M. H. Shafie. 2023. “Antioxidant and Antimicrobial Activities of Essential Oils Extracted from Bamboo \n(Bambusa vulgaris) Leaves and Its Application in Skincare Products: A Review.” Biocatalysis and Agricultural \nBiotechnology 54:102930. https://doi.org/10.1016/j.bcab.2023.102930  .",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 42,
+      "char_count": 492
+    }
+  },
+  {
+    "text": "Alonso, R. M., M. P. García, and R. S. Del Río. 2014. “Performance of Up-Flow Anaerobic Fixed Bed Reactor of the \nTreatment of Sugar Beet Pulp Lixiviation in a Thermophilic Range.” Bioresource Technology 154:305–312. https://doi. org/10.1016/j.biortech.2013.12.071  . Amu, O. O., and A. A. Adetuberu. 2010. “Characteristics of Bamboo Leaf Ash Stabilization on Lateritic Soil in Highway \nConstruction.” International Journal of Engineering Science Technologies 2 (4): 212–219. Amu, O.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 43,
+      "char_count": 483
+    }
+  },
+  {
+    "text": "O., and S. S. Babajide. 2011. “Effects of Bamboo Leaf Ash on Lime Stabilized Lateritic Soil for Highway \nConstruction.” Research Journal of Applied Sciences, Engineering and Technology 3 (4): 278–283. Bahru, T., B.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 44,
+      "char_count": 214
+    }
+  },
+  {
+    "text": "Kidane, and Y. Mulatu. 2021. “Ethnobotany of Highland Bamboo (Arundinaria alpina (K. Schum.)) in \nSouthern Ethiopia.” Small-Scale Forestry 20 (3): 425–455. https://doi.org/10.1007/s11842-021-09475-8  . Bajwa, H. K., O. Santosh, and C. Nirmala. 2021. “Bamboo Shoot for Food and Nutritional Security.” Journal of \nPharmacognosy & Phytochemistry 10 (4): 24–30. Banerjee, S., M. Basak, S. Dutta, C. Chanda, A. Dey, and M. Das.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 45,
+      "char_count": 422
+    }
+  },
+  {
+    "text": "2021. “Ethnobamboology: Traditional Uses of Bamboos \nand Opportunities to Exploit Genomic Resources for Better Exploitation.” In Biotechnological Advances in Bamboo: \nThe “Green Gold” On the Earth, edited by Z. Ahmad, Y.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 46,
+      "char_count": 220
+    }
+  },
+  {
+    "text": "2021. “Health Benefits of Fermented Bamboo Shoots: The Twenty-First Century Green Gold of \nNortheast India, Appl.” Applied Biochemistry and Biotechnology 193 (6): 1800–1812. https://doi.org/10.1007/s12010- \n021-03506-y  . Bhaladhare, S., and D. Das.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 47,
+      "char_count": 249
+    }
+  },
+  {
+    "text": "2022. “Cellulose: A Fascinating Biopolymer for Hydrogel Synthesis.” Journal of Materials \nChemistry B 10 (12): 1923–1945. https://doi.org/10.1039/D1TB02848K  . Bondad, E. O., O. S. Marasigan, M. A. Alipon, and S. A. Daguinod. 2023. “Potential Utilization of 12 Climbing Bamboo \nSpecies Found in Luzon island, Philippines.” Philippine Journal of Science 152 (1): 191–204. https://doi.org/10.56899/ \n152.01.14  .",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 48,
+      "char_count": 410
+    }
+  },
+  {
+    "text": "2023. “Investigation of Bamboo-Based Vertical Axis Wind Turbine \nBlade Under Static Loading.” Ocean Engineering 285:115317. https://doi.org/10.1016/j.oceaneng.2023.115317  . 34\nB. IRAWAN ET AL. Borowski, P. F., I. Patuk, and E. R. Bandala. 2022. “Innovative Industrial Use of Bamboo as Key “Green” Material.” \nMaterial, Sustainability 14 (4): 1955. https://doi.org/10.3390/su14041955  . Brito, B. S. L., F. V. Pereira, J. L. Putaux, and B. Jean.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 49,
+      "char_count": 445
+    }
+  },
+  {
+    "text": "2012. “PreparatiPreparatiOn, Morphology and Structure of Cellulose \nNanocrystals from Bamboo Fibers.” Cellulose 19 (5): 1527–1536. https://doi.org/10.1007/s10570-012-9738-9  .",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 50,
+      "char_count": 175
+    }
+  },
+  {
+    "text": "Buziquia, S. T., P. V. F. Lopes, A. K. Almeida, and I. K. de Almeida. 2019. “Impacts of Bamboo Spreading: A Review.” \nBiodiversity and Conservation 28 (14): 3695–3711. https://doi.org/10.1007/s10531-019-01875-9  . Cao, X., F. Li, T. Zheng, G. Li, W. Wang, Y. Li, S. Chen, X. Li, and Y. Lu. 2022. “Cellulose-Based Functional Hydrogels \nDerived from Bamboo for Product Design.” Frontiers in Plant Science 13:958066. https://doi.org/10.3389/fpls.2022.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 51,
+      "char_count": 448
+    }
+  },
+  {
+    "text": "958066  . Chang, F. C., K. S. Chen, P. Y. Yang, and C. H. Ko. 2018. “Environmental Benefit of Utilizing Bamboo Material Based on \nLife Cycle Assessment.” Journal Cleaner Production 204:60–69. https://doi.org/10.1016/j.jclepro.2018.08.248  . Chaowana, K., S. Wisadsatorn, and P. Chaowana.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 52,
+      "char_count": 287
+    }
+  },
+  {
+    "text": "2021. “Bamboo as a Sustainable Building Material—Culm \nCharacteristics and Properties.” Sustainability 13 (13): 7376. https://doi.org/10.3390/su13137376  . Chen, G., Y. Yu, X. Li, and B. He.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 53,
+      "char_count": 190
+    }
+  },
+  {
+    "text": "2020. “Mechanical Behavior of Laminated Bamboo Lumber for Structural Application: \nAn Experimental Investigation.” European Journal of Wood and Wood Products 78 (1): 53–63. https://doi.org/10.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 54,
+      "char_count": 192
+    }
+  },
+  {
+    "text": "2011. “Preparation of Millimeter-Long Cellulose I Nanofibers with Diameters of 30–80 nm \nfrom Bamboo Fibers.” Carbohydrate Polymers 86 (2): 453–461. https://doi.org/10.1016/j.carbpol.2011.04.061  . Clark, L. G., X. Londoño, and E. Ruiz-Sanchez. 2015. “Bamboo Taxonomy and Habitat.” In Bamboo the Plant and Its \nUses, edited by W. Liese and M.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 55,
+      "char_count": 342
+    }
+  },
+  {
+    "text": "2017. “Climbing Bamboos of Lesser Sunda Islands.” Indonesia, Proceedings The SATREPS \nConference, Bogor, Indonesia: 90–93. November 14. Darabant, A., M. Haruthaithanasan, S. Atkla, T. Phudphong, E. Thanavat, and K. Haruthaithanasan. 2014. “Bamboo \nBiomass Yield and Feedstock Characteristics of Energy Plantations in Thailand.” Energy Procedia 59:134–141. https:// \ndoi.org/10.1016/j.egypro.2014.10.359  .",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 56,
+      "char_count": 405
+    }
+  },
+  {
+    "text": "Dauletbek, A., H. Li, and R. Lorenzo. 2023. “A Review on Mechanical Behavior of Laminated Bamboo Lumber \nConnections, Compos.” Composite Structures 313:116898. https://doi.org/10.1016/j.compstruct.2023.116898  . Deshmukh, M., and A. Pathan. 2024. “Transformations of Bamboo into Bioethanol Through Biorefinery.” \nEnvironmental Science and Pollution Research 31 (3): 3343–3360. https://doi.org/10.1007/s11356-023-31510-8  . Ding, D., and M. Xian. 2024. “Research Trends and Design Strategies for Bamboo Architecture: A Bibliometric and \nSystematic Review.” Advances in Bamboo Science 8:100094. https://doi.org/10.1016/j.bamboo.2024.100094  . Dong, W., Z. Wang, J. Zhou, and M. Gong.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 57,
+      "char_count": 681
+    }
+  },
+  {
+    "text": "2021. “Experimental Study on Bending Properties of Cross-Laminated \nTimber-Bamboo Composites, Constr.” Construction and Building Materials 300:124313. https://doi.org/10.1016/j. conbuildmat.2021.124313  . Emamverdian, A., Y. Ding, F. Ranaei, Z. Ahmad, and H. Ren.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 58,
+      "char_count": 263
+    }
+  },
+  {
+    "text": "2020. “Application of Bamboo Plants in Nine Aspects.” \nScientific World Journal 2020:1–9. https://doi.org/10.1155/2020/7284203  . Ervianti, D., E. A. Widjaja, and A. Sedayu. 2018. “Bamboo Diversity of Sulawesi, Indonesia.” Biodiversitas Journal of \nBiological Diversity 20 (1): 91–109. https://doi.org/10.13057/biodiv/d200112  . Fei, B., Z. Gao, J. Wang, and Z. Liu. 2016. “Biological, Anatomical, and Chemical Characteristics of Bamboo.” In \nSecondary Xylem Biology: Origins, Functions, and Applications, edited by Y. S.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 59,
+      "char_count": 521
+    }
+  },
+  {
+    "text": "Kim, A. P. Singh, and R. Funada, \n283–306. Cambridge: Academic Press. https://doi.org/10.1016/B978-0-12-802185-9.00014-0  . Felisberto, M. H. F., A. L. Beraldo, and M. T.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 60,
+      "char_count": 170
+    }
+  },
+  {
+    "text": "P. S. Clerici. 2017. “Young Bamboo Culm Flour of Dendrocalamus Asper: \nTechnological Properties for Food Applications.” lWT - Food Science & Technology 76:230–235. https://doi.org/10.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 61,
+      "char_count": 183
+    }
+  },
+  {
+    "text": "P. S. Clerici. 2017. “Young Bamboo Culm: Potential Food as \nSource of Fiber and Starch.” Food Research International 101:96–102. https://doi.org/10.1016/j.foodres.2017.08.058  . Fritz, H., and M. Kraus. 2024. “Natural Geometrical Variations of Italian Phyllostachys Edulis Bamboo Culms for \nConstruction Purposes.” Advances in Bamboo Science 9:100116. https://doi.org/10.1016/j.bamboo.2024.100116  . Gagliano, J., F. Anselmo-Moreira, W. R. Sala-Carvalho, and C. M. Furlan. 2022. “What is Known About the Medicinal \nPotential of Bamboo?” Advances in Traditional Medicine 22 (3): 467–495. https://doi.org/10.1007/s13596-020-00536-5  .",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 62,
+      "char_count": 632
+    }
+  },
+  {
+    "text": "González-Torres, M., G. Leyva-Gómez, M. Rivera, E. Krötzsch, R. Rodríguez-Talavera, A. L. Rivera, and A. Cabrera- \nWrooman. 2018. “Biological Activity of Radiation-Induced Collagen–Polyvinylpyrrolidone–Peg Hydrogels, Mater.” \nMaterials Letters 214:224–227. https://doi.org/10.1016/j.matlet.2017.12.006  . Hakeem, K. R., M. Jawaid, and O. Y. Alothman. 2015. Agricultural Biomass Based Potential Materials. Cham: Springer. https://doi.org/10.1007/978-3-319-13847-3  . Hernandez-Mena, L. E., A. A. B. Pecora, and A. L. Beraldo. 2014. “Slow Pyrolysis of Bamboo Biomass: Analysis of \nBiochar Properties.” Chemical Engineering Transactions 37:115–120. https://doi.org/10.3303/CET1437020  .",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 63,
+      "char_count": 683
+    }
+  },
+  {
+    "text": "2009. “Development of a Bamboo-Based \nComposite as a Sustainable Green Material for Wind Turbine Blades.” Wind Engineering 33 (2): 197–210. https://doi.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 64,
+      "char_count": 152
+    }
+  },
+  {
+    "text": "org/10.1260/030952409789141053  . JOURNAL OF NATURAL FIBERS\n35\n\nHonfo, H., F. C. Gnanglè, S. Mensah, V. Salako, A. Assogbadjo, C. Agbangla, and R. Glèlè Kakaï. 2015. “Traditional \nEcological Knowledge and Use Value of Bamboo in Southeastern Benin: Implications for Sustainable Management.” \nEthnobotany Research and Applications 14:139–153. https://doi.org/10.17348/era.14.0.139-153  . Hong, S. K., J. Wu, J. E. Kim, and N. Nakagoshi. 2011. Landscape Ecology in Asian Cultures. Tokyo: Springer. Hu, J., Y. Zhang, Y. He, Z. Su, W. Lao, S. Zhang, Y. Yu, W. Yu, and Y. Huang. 2025. “Transformation of Bamboo: From \nMultiscale Fibers to Robust and Degradable Cellulose-Based Materials for Plastic Substitution.” Small 2411339. https://doi.org/10.1002/smll.202411339  . Huang, X., J. Xie, J. Qi, C. F. De Hoop, H. Xiao, Y. Chen, and F. Li.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 65,
+      "char_count": 834
+    }
+  },
+  {
+    "text": "2018. “Differences in Physical–Mechanical Properties \nof Bamboo Scrimbers with Response to Bamboo Maturing Process.” European Journal of Wood and Wood Products \n76 (4): 1137–1143. https://doi.org/10.1007/s00107-018-1293-0  .",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 66,
+      "char_count": 224
+    }
+  },
+  {
+    "text": "2019. “Analysis of the Effect of Processing Conditions on Physical \nProperties of Thermally Set Cellulose Hydrogels.” Materials 12 (7): 1066. https://doi.org/10.3390/ma12071066  . Ibrahim, M. N. M., N. Zakaria, C. S. Sipaut, O. Sulaiman, and R. Hashim.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 67,
+      "char_count": 252
+    }
+  },
+  {
+    "text": "2011. “Chemical and Thermal Properties of \nLignins from Oil Palm Biomass as a Substitute for Phenol in a Phenol Formaldehyde Resin Production, Carbohydr.” \nCarbohydrate Polymers 86 (1): 112–119. https://doi.org/10.1016/j.carbpol.2011.04.018  . Ihsan, M., B. Irawan, and J. Iskandar. 2024. “The Traditional Ecological Knowledge of the Local People of Cijambu \nVillage, Sumedang, Indonesia, on the Diversity, utilization, Management, and Conservation of Bamboo.” \nBiodiversitas Journal of Biological Diversity 25 (4): 1754–1770. https://doi.org/10.13057/biodiv/d250446  . Imadi, S. R., I. Mahmood, and A. G. Kazi. 2014. “Bamboo Fiber Processing, Properties, and Applications.” In Biomass \nand Bioenergy: Processing and Properties, edited by K. R.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 68,
+      "char_count": 744
+    }
+  },
+  {
+    "text": "Hakeem, M. Jawaid, and U. Rashid, 27–46. Cham: Springer. https://doi.org/10.1007/978-3-319-07641-6_2  . Irawan, B., R. Partasasmita, N. Rahayu, T. Setiawati, and J. Iskandar.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 69,
+      "char_count": 174
+    }
+  },
+  {
+    "text": "2019. “Indigenous Knowledge of Bamboos by Naga \nCommunity, Tasikmalaya District, West Java, Indonesia.” Biodiversitas Journal of Biological Diversity 20 (5): \n1423–1434. https://doi.org/10.13057/biodiv/d200535  . Iroegbu, A. O. C., and S. S. Ray. 2021. “Bamboos: From Bioresource to Sustainable Materials and Chemicals.” \nSustainability 13 (21): 12200. https://doi.org/10.3390/su132112200  . Iskandar, J., O. S. Suwartapradja, B. S. Iskandar, D. Budiyanti, and S. Permana. 2022. “Landraces, Utilization, and \nManagement of Bamboo in Sukamenak Village, Sumedang, West Java, Sosiohumaniora.” Sosiohumaniora 24 (1): \n35–42. https://doi.org/10.24198/sosiohumaniora.v24i1.35487  . Jiang, L., T. Belwal, H. Huang, Z. Ge, J. Limwachiranon, Y. Zhao, L. Li, G. Ren, and Z. Luo.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 70,
+      "char_count": 768
+    }
+  },
+  {
+    "text": "2019. “Extraction and \nCharacterization of Phenolic Compounds from Bamboo Shoot Shell Under Optimized Ultrasonic-Assisted \nConditions: A Potential Source of Nutraceutical Compounds.” Food and Bioprocess Technology 12 (10): \n1741–1755. https://doi.org/10.1007/s11947-019-02321-y  . Kabir, M. M., H. Wang, K. T. Lau, and F. Cardona.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 71,
+      "char_count": 330
+    }
+  },
+  {
+    "text": "2012. “Chemical Treatments on Plant-Based Natural Fibre \nReinforced Polymer Composites: An Overview.” Composites Part B Engineering 43 (7): 2883–2892. https://doi.org/ \n10.1016/j.compositesb.2012.04.053  . Kaur, N., S. Saxena, H. Gaur, and P. Goyal. 2017. “A Review on Bamboo Fiber Composites and Its Applications.” \nInternational Conference on Infocom Technologies and Unmanned Systems, 843–849. Dubai: IEEE. https://doi.org/10. 1109/ICTUS.2017.8286123  . Kaur, V., B. Prasad Dash, S. Vermani, and A. Devi.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 72,
+      "char_count": 507
+    }
+  },
+  {
+    "text": "2022. “ExtractiExtractiOn, Quantification and Characterization of \nLignin Extracted from Bamboo Biomass.” Materials Today: Proceedings. https://doi.org/10.1016/j.matpr.2022.09.116  . Kelkar, B. U., S. R. Shukla, S. M. Yadav, and R. Bansal.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 73,
+      "char_count": 239
+    }
+  },
+  {
+    "text": "2023. “Performance of Laminated Bamboo Lumber and Bamboo \nStrand Lumber Coated with Solvent and Water-Based Polyurethane Against Accelerated UV and Natural \nWeathering, Ind.” Industrial Crops and Products 192:116058. https://doi.org/10.1016/j.indcrop.2022.116058  . Kobayashi, T., K. Fukushima, Y. Hisamoto, and A. Inoue. 2015. “The Species Biology of Bamboos in Japan: From Gene \nto Landscape.” Plant Species Biology 30 (1): 42–44. https://doi.org/10.1111/1442-1984.12075  . Kumar, R., and N. Chandrashekar. 2014. “Fuel Properties and Combustion Characteristics of Some Promising Bamboo \nSpecies in India.” Journal of Forest Research 25 (2): 471–476. https://doi.org/10.1007/s11676-014-0478-6  . Kuttiraja, M., R. Sindhu, P. E. Varghese, S. V. Sandhya, P. Binod, S. Vani, A. Pandey, and R. K. Sukumaran. 2013. “Bioethanol Production from Bamboo (Dendrocalamus sp.) Process Waste.” Biomass and Bioenergy 59:142–150. https://doi.org/10.1016/j.biombioe.2013.10.015  . Li, H., Y. Wei, L. Yan, K. E. Semple, and C. Dai.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 74,
+      "char_count": 1015
+    }
+  },
+  {
+    "text": "2023. “In-Plane Compressive Behavior of Short Cross-Laminated \nBamboo and Timber, Ind.” Industrial Crops and Products 200:116807. https://doi.org/10.1016/j.indcrop.2023.116807  . Li, R., M. Xu, M. H. G. Wong, S. Qiu, Q. Sheng, X. Li, Z. Song, and W. Thuiller. 2015. “Climate Change-Induced Decline \nin Bamboo Habitats and Species Diversity: Implications for Giant Panda Conservation, Divers.” Diversity and \nDistributions 21 (4): 379–391. https://doi.org/10.1111/ddi.12284  .",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 75,
+      "char_count": 475
+    }
+  },
+  {
+    "text": "2019. “Development and Deployment of \nHigh-Throughput Retrotransposon-Based Markers Reveal Genetic Diversity and Population Structure of Asian \nBamboo.” Forests 11 (1): 31. https://doi.org/10.3390/f11010031  . Li, X. B., T. F. Shupe, G. F. Peter, C. Y. Hse, and T. L. Eberhardt. 2007. “Chemical Changes with Maturation of the \nBamboo Species Phyllostachys Pubescens.” Journal of Tropical Forest Science 19 (1): 6–12. 36\nB.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 76,
+      "char_count": 422
+    }
+  },
+  {
+    "text": "2016. “Bamboo Shoot Fiber Prevents Obesity in Mice by Modulating the Gut \nMicrobiota.” Scientific Reports 6 (1): 32953. https://doi.org/10.1038/srep32953  .",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 77,
+      "char_count": 156
+    }
+  },
+  {
+    "text": "A. Latiff. 2025. “Development of the Bamboo Forest Economy: Reviewing China’s ‘Bamboo as \na Substitute for Plastic Initiative’ And Its Development.” Advances in Bamboo Science 11:100130. https://doi.org/10. 1016/j.bamboo.2025.100130  . Li, Z., M. K. Xia, J. J. Shi, and R. Wang. 2022. “Shear Properties of Composite Cross-Laminated Bamboo Panels.” \nEuropean Journal of Wood and Wood Products 80 (3): 635–646. https://doi.org/10.1007/s00107-022-01786-7  .",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 78,
+      "char_count": 454
+    }
+  },
+  {
+    "text": "Liang, Z., A. Neményi, G. P. Kovács, and C. Gyuricza. 2023. “Potential Use of Bamboo Resources in Energy \nValue-Added Conversion Technology and Energy Systems.” GCB Bioenergy 15 (8): 936–953. https://doi.org/10.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 79,
+      "char_count": 211
+    }
+  },
+  {
+    "text": "H. Lai, M. F. Hossen, and M. M. Rahman. 2015. “Synthesis and \nCharacterization of Cellulose from Green Bamboo by Chemical Treatment with Mechanical Process.” Journal of \nChemistry 2015:1–6. https://doi.org/10.1155/2015/212158  . Lin, Q., P. Jiang, S. Ren, S. Liu, Y. Ji, Y. Huang, W. Yu, G. Fontaine, and S. Bourbigot. 2022. “Advanced Functional \nMaterials Based on Bamboo Cellulose Fibers with Different Crystal Structures, Compos.” Composites Part A, Applied \nScience and Manufacturing 154:106758. https://doi.org/10.1016/j.compositesa.2021.106758  . Littlewood, J., L. Wang, C. Turnbull, and R. J. Murphy. 2013. “Techno-Economic Potential of Bioethanol from Bamboo \nin China, Biotechnol.” Biotechnology for Biofuels 6 (1): 1–13. https://doi.org/10.1186/1754-6834-6-173  . Liu, C., P. Luan, Q. Li, Z. Cheng, X. Sun, D. Cao, and H. Zhu.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 80,
+      "char_count": 837
+    }
+  },
+  {
+    "text": "2020. “Biodegradable, Hygienic, and Compostable \nTableware from Hybrid Sugarcane and Bamboo Fibers as Plastic Alternative Matter.” Matter 3 (6): 2066–2079. https://doi.org/10.1016/j.matt.2020.10.004  . Liu, J., J. Huang, Z. Hu, G. Li, L. Hu, X. Chen, and Y. Hu.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 81,
+      "char_count": 261
+    }
+  },
+  {
+    "text": "2021. “Chitosan-Based Films with Antioxidant of Bamboo \nLeaves and ZnO Nanoparticles for Application in Active Food Packaging.” International Journal of Biological \nMacromolecules 189:363–369. https://doi.org/10.1016/j.ijbiomac.2021.08.136  . Liu, Z., T. Zhang, J. Zhang, H. Xiang, X. Yang, W. Hu, F. Liang, and B. Mi.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 82,
+      "char_count": 318
+    }
+  },
+  {
+    "text": "2018. “Ash Fusion Characteristics of Bamboo, \nWood and Coal.” Energy 161:517–522. https://doi.org/10.1016/j.energy.2018.07.131  . Long, L., Y. Minghui, Y. Wenjing, D. Yulong, and L. Shuyan. 2023. “Research Advance in Growth and Development of \nBamboo Organs.” Industrial Crops and Products 205:117428. https://doi.org/10.1016/j.indcrop.2023.117428  . Lou, C. W., C. W. Lin, C. H. Lei, K. H. Su, C. H. Hsu, Z. H. Liu, and J. H. Lin. 2007. “PET/PP Blend with Bamboo \nCharcoal to Produce Functional Composites.” Journal of Materials Processing Technology 192-193:428–433. https:// \ndoi.org/10.1016/j.jmatprotec.2007.04.018  . Lu, L., S. Zou, and B. Fang. 2021. “The Critical Impacts of Ligands on Heterogeneous Nanocatalysis: A Review.” ACS \nCatalysis 11 (10): 6020–6058. https://doi.org/10.1021/acscatal.1c00903  . Lyu, B., C. Zeng, S. Deng, S. Liu, M. Jiang, N. Li, L. Wei, Y. Yu, and Q. Chen.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 83,
+      "char_count": 892
+    }
+  },
+  {
+    "text": "2019. “Bamboo Forest Therapy Contributes \nto the Regulation of Psychological Responses.” Journal of Forest Research 24 (1): 61–70. https://doi.org/10.1080/ \n13416979.2018.1538492  . Mahdavi, M., P. L. Clouston, and S. R. Arwade. 2011. “Development of Laminated Bamboo Lumber: Review of \nProcessing, Performance, and Economical Considerations.” Journal of Materials in Civil Engineering 23 (7): \n1036–1042. https://doi.org/10.1061/(ASCE)MT.1943-5533.0000253  . Mahish, S. S., A. K. Patra, and R. Thakur.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 84,
+      "char_count": 502
+    }
+  },
+  {
+    "text": "2012. “Functional Properties of Bamboo/Polyester Blended Knitted Apparel \nFabric.” Indian Journal of Fibre & Textile Research 37 (3): 231–237. Marchi, M., N.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 85,
+      "char_count": 157
+    }
+  },
+  {
+    "text": "Marchettini, E. Neri, G. Esposito, V. Niccolucci, F. M. Pulselli, M. Lajo, E. Rissone, and R. M. Pulselli. 2023. “Carbon Footprint Offset of a Managed Bamboo Plantation in Temperate Regions, Sustain.” Sustainable \nProduction and Consumption 40:220–235. https://doi.org/10.1016/j.spc.2023.05.025  . Maulana, M. I., W.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 86,
+      "char_count": 316
+    }
+  },
+  {
+    "text": "2021. “Variation of \nAnatomical Characteristics within the Culm of the Three Gigantochloa Species from Indonesia.” BioResources 16 (2): \n3596–3606. https://doi.org/10.15376/biores.16.2.3596-3606  . Maulana, M. I., M. Marwanto, D. S. Nawawi, S. Nikmatin, F. Febrianto, and N. H. Kim. 2020. “Chemical Components \nContent of Seven Indonesian Bamboo Species.” IOP Conference Series: Materials Science & Engineering 935 (1): \n012028. https://doi.org/10.1088/1757-899X/935/1/012028  .",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 87,
+      "char_count": 478
+    }
+  },
+  {
+    "text": "Mondal, S., S. Park, J. Choi, T. T. H. Vu, V. H. M. Doan, T. T. Vo, B. Lee, and J. Oh. 2023. “Hydroxyapatite: A Journey \nfrom Biomaterials to Advanced Functional Materials.” Advances in Colloid and Interface Science 321:103013. https:// \ndoi.org/10.1016/j.cis.2023.103013  . Muzakki, F., T. Chikmawati, and A. Hartana. 2020. “The RESURRECTION of SCHIZOSTACHYUM BIFLORUM \nMcClure (BAMBUSOIDEAE).” Reinwardtia 19 (2): 93–96. https://doi.org/10.14203/REINWARDTIA.V19I2.3930  . Nath, A. J., R. Lal, and A. K. Das.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 88,
+      "char_count": 509
+    }
+  },
+  {
+    "text": "2015. “Managing Woody Bamboos for Carbon Farming and Carbon Trading, Glob.” \nGlobal Ecology and Conservation 3:654–663. https://doi.org/10.1016/j.gecco.2015.03.002  . Nguyen, H. D., T. T. T. Mai, N. B. Nguyen, T. D. Dang, M. L. P. Le, T. T. Dang, and V. M. Tran. 2013. “A Novel Method \nfor Preparing Microfibrillated Cellulose from Bamboo Fibers.” Advances in Natural Sciences: Nanoscience & \nNanotechnology 4 (1): 015016. https://doi.org/10.1088/2043-6262/4/1/015016  . JOURNAL OF NATURAL FIBERS\n37\n\nNirala, D. P. 2017. “A Review on Uses of Bamboo Including Ethno-Botanical Importance.” International Journal of Pure \n& Applied Bioscience 5 (5): 515–523. https://doi.org/10.18782/2320-7051.5398  . Nirmala, C., M. S. Bisht, H. K. Bajwa, and O. Santosh.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 89,
+      "char_count": 753
+    }
+  },
+  {
+    "text": "2018. “Bamboo: A Rich Source of Natural Antioxidants and Its \nApplications in the Food and Pharmaceutical Industry.” Trends in Food Science & Technology 77:91–99. https://doi.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 90,
+      "char_count": 175
+    }
+  },
+  {
+    "text": "org/10.1016/j.tifs.2018.05.003  . Ogunwusi, A., and A. Onwualu. 2013. “Prospects for Multi-Functional Utilisation of Bamboo in Nigeria.” Prospects 3 \n(8): 58–70. Ou, Y., D. Fernando, and J. M. Gattas. 2019. “Experimental Investigation of a Novel Concrete-Timber Floor Panel \nSystem with Digitally Fabricated frp-Timber Hollow Core Component, Constr.” Construction and Building Materials \n227:116667. https://doi.org/10.1016/j.conbuildmat.2019.08.048  . Pan, C., G. Zhou, A. K. Shrestha, J. Chen, R. Kozak, N. Li, J. Li, Y. He, C. Sheng, and G. Wang. 2023. “Bamboo as a \nNature-Based Solution (NbS) for Climate Change Mitigation: Biomass, Products, and Carbon Credits.” Climate \n11 (9): 175. https://doi.org/10.3390/cli11090175  . Park, S. H., J. H. Jang, N. J. Wistara, W. Hidayat, M. Lee, and F. Febrianto. 2018. “Anatomical and Physical Properties of \nIndonesian Bamboos Carbonized at Different Temperatures.” Journal of the Korean Wood Science and Technology \n46 (6): 656–669. https://doi.org/10.5658/WOOD.2018.46.6.656  . Partasasmita, R., A. An’amillah, J. Iskandar, A. Z. Mutaqin, N. Annisa, and N. Ratningsih. 2017. “Ratningsih, \nKarangwangi People’s Local Knowledge of Bamboo and Its Role: Implications for Management of Cultural \nKeystone Species.” Biodiversitas Journal of Biological Diversity 18 (1): 275–282. https://doi.org/10.13057/biodiv/ \nd180135  . Portal-Cahuana, L. A., A. C. Velarde, and G. P. de Moura Palermo. 2023. “The Anatomical and Variation of Physical \nProperties in the Axial Direction of Three Bamboo Species in the Eastern Amazon of Peru.” Scientia Agropecuaria \n14 (1): 39–48. https://doi.org/10.17268/sci.agropecu.2023.004  . Purbasari, A., T. W. Samadhi, and Y. Bindar.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 91,
+      "char_count": 1703
+    }
+  },
+  {
+    "text": "2016. “Thermal and Ash Characterization of Indonesian Bamboo and Its \nPotential for Solid Fuel and Waste Valorization.” International Journal of Renewable Energy Development 5 (2): 95. https://doi.org/10.14710/ijred.5.2.95-100  . Rani, M., P. Choudhary, V. Krishnan, and S. Zafar.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 92,
+      "char_count": 280
+    }
+  },
+  {
+    "text": "2021. “A Review on Recycling and Reuse Methods for Carbon Fiber/ \nGlass Fiber Composites Waste from Wind Turbine Blades.” Composites Part B Engineering 215:108768. https://doi. org/10.1016/j.compositesb.2021.108768  . Rathour, R., H. Kumar, K. Prasad, P. Anerao, M. Kumar, A. Kapley, A. Pandey, M. Kumar Awasthi, and L. Singh. 2022. “Multifunctional Applications of Bamboo Crop Beyond Environmental Management: An Indian Prospective.” \nBioengineered 13 (4): 8893–8914. https://doi.org/10.1080/21655979.2022.2056689  . Rodier, L., E. Villar-Cociña, J. M. Ballesteros, and H. S. Junior. 2019. “Potential Use of Sugarcane Bagasse and Bamboo \nLeaf Ashes for Elaboration of Green Cementitious Materials.” Journal Cleaner Production 231:54–63. https://doi.org/ \n10.1016/j.jclepro.2019.05.208  . Ruiz-Sanchez, E., G. Munguía-Lino, G. Vargas-Amado, and A. Rodríguez. 2019. “Diversity, Endemism and \nConservation Status of Native Mexican Woody Bamboos (Poaceae: Bambusoideae: Bambuseae).” Botanical Journal \nof the Linnean Society 192:281–295. https://doi.org/10.1093/botlinnean/boz062  . Ruiz-Sanchez, E., C. D. Tyrrell, X. Londoño, R. P. Oliveira, and L. G. Clark. 2021. “Diversity, distribution, and \nClassification of Neotropical Woody Bamboos (Poaceae: Bambusoideae) in the 21st Century.” Botanical Sciences \n99 (2): 198–228. https://doi.org/10.17129/BOTSCI.2722  . Rusch, F., R. de Abreu Neto, D. de Moraes Lúcio, and É. Hillig.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 93,
+      "char_count": 1425
+    }
+  },
+  {
+    "text": "2021. “Energy Properties of Bamboo Biomass and Mate \nCo-Products.” SN Applied Sciences 3 (6): 602. https://doi.org/10.1007/s42452-021-04584-7  . Rusch, F., A. D. Wastowski, T. S. de Lira, K. C.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 94,
+      "char_count": 193
+    }
+  },
+  {
+    "text": "C. S. R. Moreira, and D. de Moraes Lúcio. 2023. “Description of the \nComponent Properties of Species of Bamboo: A Review, Biomass Convers.” Biomass Conversion and Biorefinery \n13 (3): 2487–2495. https://doi.org/10.1007/s13399-021-01359-3  . Saha, N., E. Fillerup, B. Thomas, C. Pilgrim, T. Causer, D. Herren, and J. Klinger.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 95,
+      "char_count": 324
+    }
+  },
+  {
+    "text": "2022. “Improving bamboo’s Fuel and \nStorage Properties with a Net Energy Export Through Torrefaction Paired with Catalytic Oxidation.” Chemical \nEngineering Journal 440:135750. https://doi.org/10.1016/j.cej.2022.135750  . Saini, J. K., A. K. Patel, M. Adsul, and R. R. Singhania. 2016. “Cellulase Adsorption on Lignin: A Roadblock for Economic \nHydrolysis of Biomass, Renew.” Renewable Energy 98:29–42. https://doi.org/10.1016/j.renene.2016.03.089  . Salim, R., R. Wahab, and Z. Ashaari.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 96,
+      "char_count": 487
+    }
+  },
+  {
+    "text": "2009. “Effect of Oil Heat Treatment on Chemical Constituents of Semantan \nBamboo (Gigantochloa Scortechinii Gamble).” Journal of Sustainable Development 1 (2): 91–98. https://doi.org/10.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 97,
+      "char_count": 186
+    }
+  },
+  {
+    "text": "5539/jsd.v1n2p91  . Setiawati, T., A. Z. Mutaqin, B. Irawan, A. An’amillah, and J. Iskandar. 2017. “Species Diversity and Utilization of \nBamboo to Support lifeâ€™s the Community of Karangwangi Village, Cidaun sub-District of Cianjur, Indonesia.” \nBiodiversitas Journal of Biological Diversity 18 (1): 58–64. https://doi.org/10.13057/biodiv/d180109  . Sewar, Y., M. Amran, S. Avudaiappan, Y. Gamil, and R. S.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 98,
+      "char_count": 408
+    }
+  },
+  {
+    "text": "M. Rashid. 2024. “Bonding Strength Performance of \nBamboo-Based Composite Materials: An In-Depth Insight for Sustainable Construction Applications.” Heliyon \n10 (13): e32155. https://doi.org/10.1016/j.heliyon.2024.e32155  . 38\nB. IRAWAN ET AL. Shah, A. M., C. Ma, G. Liu, Y. Liu, Z. Shahbaz, Q. Chen, and S. Liu.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 99,
+      "char_count": 312
+    }
+  },
+  {
+    "text": "2025. “Evaluating Ecosystem Services and Disservices \nof Bamboo Forest Using the Emergy-Based Method.” Journal Cleaner Production 501:145092. https://doi.org/10.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 100,
+      "char_count": 161
+    }
+  },
+  {
+    "text": "1016/j.jclepro.2025.145092  . Shan, J., J. Gan, Q. Gao, Y. Zhang, W. Yu, and Q. Lin. 2025. “Influence of Heat Treatment on the Physicochemical \nProperties of Bamboo and the Interface Performance of Structural Bamboo Composites, Ind.” Crops Production \n224:120405. https://doi.org/10.1016/j.indcrop.2024.120405  . Shan, S., W. Ji, S. Zhang, Y. Huang, Y. Yu, and W. Yu.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 101,
+      "char_count": 367
+    }
+  },
+  {
+    "text": "2022. “Insights into the Immobilization Mechanism of Tannic \nAcid on Bamboo Cellulose Fibers, Ind.” Industrial Crops and Products 182:114836. https://doi.org/10.1016/j.indcrop. 2022.114836  . Shang, Y. F., S. M. Kim, and B. H. Um.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 102,
+      "char_count": 230
+    }
+  },
+  {
+    "text": "2014. “Optimisation of Pressurised Liquid Extraction of Antioxidants from Black \nBamboo Leaves.” Food Chemistry 154:164–170. https://doi.org/10.1016/j.foodchem.2013.12.050  . Sharma, R., J. Wahono, and H. Baral. 2018. “Bamboo as an Alternative Bioenergy Crop and Powerful Ally for Land \nRestoration in Indonesia.” Sustainability 10 (12): 4367. https://doi.org/10.3390/su10124367  . Shen, X., J. L. Shamshina, P. Berton, G. Gurau, and R. D. Rogers. 2016. “Hydrogels Based on Cellulose and Chitin: \nFabrication, Properties, and Applications.” Green Chemistry 18 (1): 53–75. https://doi.org/10.1039/C5GC02396C  . Siam, N. A. S., M. K. A. Uyup, H. Husain, A. L. Mohmod, and M. F. Awalludin. 2019. “Anatomical, Physical, and \nMechanical Properties of Thirteen Malaysian Bamboo Species.” BioResources 14 (2): 3925–3943. https://doi.org/10. 15376/biores.14.2.3925-3943  . Silva, L. H. P., F. F. G. de Paiva, J. R. Tamashiro, and A. Kinoshita. 2023. “Potential of Bamboo Leaf Ash as \nSupplementary Binder Materials-A Systematic Literature Review.” Journal of Building Engineering 71:106547. https://doi.org/10.1016/j.jobe.2023.106547  . Silva, M. F., M. E. Menis-Henrique, M. H. Felisberto, R. Goldbeck, and M. T. Clerici. 2020. “Bamboo as an Eco-Friendly \nMaterial for Food and Biotechnology Industries.” Current Opinion in Food Science 33:124–130. https://doi.org/10.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 103,
+      "char_count": 1361
+    }
+  },
+  {
+    "text": "55121/fds.v1i1.134  . Song, J., C. Chen, S. Zhu, M. Zhu, J. Dai, U. Ray, Y. Li, et al. 2018. “Processing Bulk Natural Wood into a \nHigh-Performance Structural Material.” Nature 554 (7691): 224–228. https://doi.org/10.1038/nature25476  . Su, J., H. Li, Z. Xiong, and R. Lorenzo.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 104,
+      "char_count": 277
+    }
+  },
+  {
+    "text": "2021. “Structural Design and Construction of an Office Building with Laminated \nBamboo Lumber, Sustain.” Sustainable Structures 1 (2): 000010. https://doi.org/10.54113/j.sust.2021.000010  . Sucipta, M., D. N.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 105,
+      "char_count": 208
+    }
+  },
+  {
+    "text": "K. Putra Negara, T. G. Tirta Nindhia, and I. W. Surata. 2017. “Characteristics of Ampel Bamboo as \na Biomass Energy Source Potential in Bali.” IOP Conference Series: Materials Science & Engineering 201:012032. https://doi.org/10.1088/1757-899X/201/1/012032  .",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 106,
+      "char_count": 259
+    }
+  },
+  {
+    "text": "Sun, H., X. Di, and Z. Gao. 2025. “Leveraging Artificial Intelligence for Bamboo Breeding in the Context of “bamboo as \na Substitute for Plastic” Initiative.” Industrial Crops and Products 228:120896. https://doi.org/10.1016/j.indcrop.2025. 120896  . Sun, Y., and J. Cheng.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 107,
+      "char_count": 273
+    }
+  },
+  {
+    "text": "2002. “Hydrolysis of Lignocellulosic Materials for Ethanol Production: A Review.” Bioresource \nTechnology 83 (1): 1–11. https://doi.org/10.1016/S0960-8524(01)00212-7  . Sun, Y., W. Yu, X. Wei, L. Ge, Z. Guo, and Y. Zhang.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 108,
+      "char_count": 221
+    }
+  },
+  {
+    "text": "2021. “Bamboo Strand-Based Structural Composite Lumber: \nInfluence of Technological Parameters on Physico-Mechanical Properties, Constr.” Construction and Building \nMaterials 271:121795. https://doi.org/10.1016/j.conbuildmat.2020.121795  . Tan, C., D. Liu, X. Chen, M. Huang, Y. Huang, X. Zhang, R. Yang, F. Guo, and Y. Yu.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 109,
+      "char_count": 323
+    }
+  },
+  {
+    "text": "2025. “Fungi-Resistant Bamboo \nScrimber with Enhanced Dimensional Stability and Mechanical Properties Through in situ Deposition of \nCopper-Based Particles, Ind.” Industrial Crops and Products 224:120331. https://doi.org/10.1016/j.indcrop.2024. 120331  . Timko, M. T., T. M. Woodard, A. E. Graham, J. A. Bennett, R. Krueger, A. Panahi, N. Rahbar, J. Walters, and D. Dunn. 2024. “Thinking Globally, Acting Locally in the 21st Century: Bamboo to Bioproducts and Cleaned Mine Sites.” \nIScience 27 (10): 110763. https://doi.org/10.1016/j.isci.2024.110763  . Van Dam, J. E. G., H. W. Elbersen, and C. M. Daza Montaño. 2018. “Bamboo Production for Industrial Utilization.” In \nPerennial Grasses for Bioenergy and Bioproducts: Production, Uses, Sustainability and Markets for Giant Reed, edited \nby E. Alexopoulou, 175–216. Miscanthus, Switchgrass: Reed Canary Grass and Bamboo, Academic Press. https://doi.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 110,
+      "char_count": 900
+    }
+  },
+  {
+    "text": "M. T. P. Athijayamani. 2021. “An Overview on Natural Cellulose Fiber Reinforced Polymer \nComposites, Mater.” Materials Today: Proceedings 37:3620–3624. https://doi.org/10.1016/j.matpr.2020.09.773  . Verma, S., S. A.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 111,
+      "char_count": 215
+    }
+  },
+  {
+    "text": "S. Rathore, and A. K. Srivastava. 2021. “Extraction and Applications of Lignin from Bamboo: A Critical Review.” European Journal of Wood and Wood \nProducts 79 (6): 1341–1357. https://doi.org/10.1007/s00107-021-01743-w  . Villar-Cociña, E., E. V. Morales, S. F. Santos, H. Savastano, and M. Frías.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 112,
+      "char_count": 296
+    }
+  },
+  {
+    "text": "2011. “Pozzolanic Behavior of Bamboo Leaf \nAsh: Characterization and Determination of the Kinetic Parameters.” Cement and Concrete Composites 33 (1): 68–73. https://doi.org/10.1016/j.cemconcomp.2010.09.003  . JOURNAL OF NATURAL FIBERS\n39\n\nVinod, A., M. R.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 113,
+      "char_count": 255
+    }
+  },
+  {
+    "text": "2020. “Renewable and Sustainable Biobased Materials: An \nAssessment on Biofibers, Biofilms, Biopolymers and Biocomposites.” Journal Cleaner Production 258:120978. https:// \ndoi.org/10.1016/j.jclepro.2020.120978  . Wan, J., Y. Wang, and Q. Xiao.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 114,
+      "char_count": 244
+    }
+  },
+  {
+    "text": "2010. “Effects of Hemicellulose Removal on Cellulose Fiber Structure and Recycling \nCharacteristics of Eucalyptus Pulp.” Bioresource Technology 101 (12): 4577–4583. https://doi.org/10.1016/j.biortech.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 115,
+      "char_count": 200
+    }
+  },
+  {
+    "text": "2010.01.026  . Wang, L., J. Littlewood, and R. J. Murphy. 2014. “An Economic and Environmental Evaluation for Bamboo-Derived \nBioethanol.” RSC Advances 4 (56): 29604–29611. https://doi.org/10.1039/C4RA05056H  . Wang, W., J. Gan, Q. Yuan, J. Chen, Z. Liu, and Y. Huang. 2025. “Flexible and Transparent Bamboo Composites Enabled \nby a dual-Resin Blending Strategy.” Chemical Engineering Journal 509:161256. https://doi.org/10.1016/j.cej.2025.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 116,
+      "char_count": 440
+    }
+  },
+  {
+    "text": "161256  . Wang, X., D. Huang, Y. Liu, S. Yao, C. Qin, S. Wang, and C. Liang. 2025. “Revealing the Structural Characteristics of \nLignin and Recalcitrant Components in Bamboos of Different Heights.” International Journal of Biological \nMacromolecules 288:138644. https://doi.org/10.1016/j.ijbiomac.2024.138644  . Wang, Y., J. Chen, D. Wang, F. Ye, Y. He, Z. Hu, and G. Zhao.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 117,
+      "char_count": 373
+    }
+  },
+  {
+    "text": "2020. “A Systematic Review on the composition, Storage, \nProcessing of Bamboo Shoots: Focusing the Nutritional and Functional Benefits.” Journal of Functional Foods \n71:104015. https://doi.org/10.1016/j.jff.2020.104015  . Wang, Y., G. Qiao, J. Xu, K. Jin, M. Fan, Y. Ding, Q. Wei, and R. Zhuo. 2022. “Anatomical Characteristics and Variation \nMechanisms on the Thick-Walled and Dwarfed Culm of Shidu Bamboo (Phyllostachys Nidularia F. Farcta).” \nFrontiers in Plant Science 13:876658. https://doi.org/10.3389/fpls.2022.876658  . Widjaja, E. A.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 118,
+      "char_count": 542
+    }
+  },
+  {
+    "text": "2020. “The Potential Cholesterol-Lowering and \nPrebiotic Effects of Bamboo Shoot Dietary Fibers and Their Structural Characteristics.” Food Chemistry 332:127372. https://doi.org/10.1016/j.foodchem.2020.127372  . Wu, Y., S. Liu, Z. Li, J. Xu, and W. Xu. 2023. “Experimental Investigation on Translaminar Fracture Behavior of \nCross-Laminated Bamboo, Constr.” Construction and Building Materials 393:132112. https://doi.org/10.1016/j.con \nbuildmat.2023.132112  . Xia, Y., H. Zuo, J. Lv, S. Wei, Y. Yao, Z. Liu, Q. Lin, Y. Yu, W. Yu, and Y. Huang.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 119,
+      "char_count": 544
+    }
+  },
+  {
+    "text": "2023. “Preparation of Multi-Layered \nMicrocapsule-Shaped Activated Biomass Carbon with Ultrahigh Surface Area from Bamboo Parenchyma Cells for \nEnergy Storage and Cationic Dyes Removal.” Journal Cleaner Production 396:136517. https://doi.org/10.1016/j. jclepro.2023.136517  . Xiang, E., Y. Guo, S. Yang, X. Liu, G. Tian, J. Ma, and L. Shang. 2020. “Variations in the Anatomical Characteristics of \nBambusa Pervariabilis Culms with Age and Height.” Forest Products Journal 70 (1): 72–78. https://doi.org/10.13073/ \nFPJ-D-19-00042  . Yadav, A., V. Sharma, M. L. Tsai, C. W. Chen, P. P. Sun, P. Nargotra, J. X. Wang, and C. D. Dong. 2023. “Development of \nLignocellulosic Biorefineries for the Sustainable Production of Biofuels: Towards Circular Bioeconomy.” Bioresource \nTechnology 381:129145. https://doi.org/10.1016/j.biortech.2023.129145  . Yadav, M., and A. Mathur.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 120,
+      "char_count": 868
+    }
+  },
+  {
+    "text": "2021. “Bamboo as a Sustainable Material in the Construction Industry: An Overview.” \nMaterials Today: Proceedings 43:2872–2876. https://doi.org/10.1016/j.matpr.2021.01.125  . Yan, L., B. Kasal, and L. Huang.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 121,
+      "char_count": 207
+    }
+  },
+  {
+    "text": "2016. “A Review of Recent Research on the Use of Cellulosic Fibres, Their Fibre Fabric \nReinforced Cementitious, Geo-Polymer and Polymer Composites in Civil Engineering.” Composites Part \nB Engineering 92:94–132. https://doi.org/10.1016/j.compositesb.2016.02.002  . Yasin, I., and A. Priyanto. 2019. “Analysis of Bamboo Mechanical Properties as Construction Eco-Friendly Materials to \nMinimizing Global Warming Effect.” IOP Conference Series: Materials Science & Engineering 535 (1): 012001. https:// \ndoi.org/10.1088/1757-899X/535/1/012001  . Yeasmin, L., M. N. Ali, S. Gantait, and S. Chakraborty. 2015. “Bamboo: An Overview on Its Genetic Diversity and \nCharacterization.” Biotechnology 3 (5): 1–11. https://doi.org/10.1007/s13205-014-0201-5  . Yu, S., X. Zhang, G. Tan, L. Tian, D. Liu, Y. Liu, X. Yang, and W. Pan.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 122,
+      "char_count": 819
+    }
+  },
+  {
+    "text": "2017. “A Novel ph-Induced Thermosensitive \nHydrogel Composed of Carboxymethyl Chitosan and Poloxamer Cross-Linked by Glutaraldehyde for Ophthalmic \nDrug Delivery, Carbohydr.” Carbohydrate Polymers 155:208–217. https://doi.org/10.1016/j.carbpol.2016.08.073  . Yu, Y., H. Wang, F. Lu, G. Tian, and J. Lin.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 123,
+      "char_count": 303
+    }
+  },
+  {
+    "text": "2014. “Bamboo Fibers for Composite Applications: A Mechanical and \nMorphological Investigation.” Journal of Materials Science 49 (6): 2559–2566. https://doi.org/10.1007/s10853-013- \n7951-z  . Yu, Z., Y. Wu, Q. Mou, X. Li, T. Li, Z. Cai, L. He, and X. Li. 2025. “Green and Sustainable Metal-Reinforced Bamboo \nComposites with High Self-Bonding Performances, Ind.” Industrial Crops and Products 223:120053. https://doi.org/ \n10.1016/j.indcrop.2024.120053  . Zakikhani, P., R. Zahari, M. T. H. Sultan, and D. L. Majid. 2017. “Morphological, Mechanical, and Physical Properties of \nFour Bamboo Species.” BioResources 12 (2): 2479–2495. https://doi.org/10.15376/biores.12.2.2479-2495  . Zeng, C., B. Lyu, S. Deng, Y. Yu, N. Li, W. Lin, D. Li, and Q. Chen.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 124,
+      "char_count": 750
+    }
+  },
+  {
+    "text": "2020. “Benefits of a Three-Day Bamboo Forest \nTherapy Session on the Physiological Responses of University Students.” International Journal of Environmental \nResearch 17 (9): 3238. https://doi.org/10.3390/ijerph17093238  . 40\nB. IRAWAN ET AL. Zha, R., T. Chen, Q. Liu, Q. Wei, and F. Que.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 125,
+      "char_count": 288
+    }
+  },
+  {
+    "text": "2023. “Morphological and Anatomical Analysis of the Internodes of a New \nDwarf Variant of Moso Bamboo, Phyllostachys Edulis F. Exaurita.” Phyllostachys Edulis F Exaurita, Plants 12 (9): \n1759. https://doi.org/10.3390/plants12091759  . Zhan, Y., M. Wang, T. Ma, and Z. Li. 2022. “Enhancing the Potential Production of Bioethanol with Bamboo by γ- \nValerolactone/water Pretreatment.” RSC Advances 12 (26): 16942–16954. https://doi.org/10.1039/D2RA02421G  . Zhang, J., H. Song, L. Lin, J. Zhuang, C. Pang, and S. Liu.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 126,
+      "char_count": 514
+    }
+  },
+  {
+    "text": "2012. “Microfibrillated Cellulose from Bamboo Pulp and Its \nProperties.” Biomass and Bioenergy 39:78–83. https://doi.org/10.1016/j.biombioe.2010.06.013  . Zhang, Q., X. Chu, Z. Gao, Y. Ding, F. Que, Z. Ahmad, F. Yu, M. Ramakrishnan, and Q. Wei.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 127,
+      "char_count": 244
+    }
+  },
+  {
+    "text": "2024. “Culm \nMorphological Analysis in Moso Bamboo Reveals the Negative Regulation of Internode Diameter and Thickness \nby Monthly Precipitation.” Plants 13 (11): 1484. https://doi.org/10.3390/plants13111484  . Zhang, S., Y. Zhang, Y. Huang, X. Zhao, and W. Yu.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 128,
+      "char_count": 261
+    }
+  },
+  {
+    "text": "2025. “High Performance Flame-Retardant Bamboo Scrimber via a \nCore-Shell Synergistic Strategy, Ind.” Industrial Crops and Products 225:120472. https://doi.org/10.1016/j.indcrop. 2025.120472  . Zhang, Z., F. Rao, and Y. Wang.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 129,
+      "char_count": 225
+    }
+  },
+  {
+    "text": "2022. “Morphological, Chemical, and Physical–Mechanical Properties of a Clumping \nBamboo (Thyrsostachys oliveri) for Construction Applications.” Polymers 14 (17): 3681. https://doi.org/10.3390/ \npolym14173681  . Zhang, Z., Y. Wei, J. Wang, J. Yi, and G. Wang. 2024. “Effect of Thermal Modification on Axial Compression Properties \nand Hardness of Laminated Bamboo, Constr.” Construction and Building Materials 411:134747. https://doi.org/10. 1016/j.conbuildmat.2023.134747  . Zhou, Z., Y. Wei, G. Wang, J. Wang, Y. Lin, and B. Zhu. 2024. “Experimental Study on the Basic Properties of New \nBiomass Bamboo Aggregate Concrete.” Journal of Building Engineering 86:108892. https://doi.org/10.1016/j.jobe.",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 130,
+      "char_count": 700
+    }
+  },
+  {
+    "text": "2014. “Cosolvent-Modified Supercritical Carbon \nDioxide Extraction of Phenolic Compounds from Bamboo Leaves (sasa Palmata.” The Journal of Supercritical Fluids \n94:123–129. https://doi.org/10.1016/j.supflu.2014.07.008. JOURNAL OF NATURAL FIBERS\n41",
+    "metadata": {
+      "source": "bamboo_ Irawan.pdf",
+      "material_category": "Bamboo",
+      "source_path": "data\\raw\\Bamboo\\bamboo_ Irawan.pdf",
+      "chunk_index": 131,
+      "char_count": 247
+    }
+  }
+]
