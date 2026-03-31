@@ -25,6 +25,17 @@ st.set_page_config(
 
 # ── Helper ───────────────────────────────────────────────────────────────────
 
+def render_web_results(web_results: list[dict]) -> None:
+    """Render web search results as a supplementary section."""
+    if not web_results:
+        return
+    st.divider()
+    st.caption("**Web Sources** — supplementary results from the internet")
+    for r in web_results:
+        st.markdown(f"**[{r['title']}]({r['url']})**")
+        st.caption(r["snippet"])
+
+
 def render_sources(sources: list[dict], detected_materials: list[str]) -> None:
     """Render the RAG mechanics panel below an assistant message."""
     st.divider()
@@ -101,6 +112,7 @@ for msg in st.session_state.messages:
         st.markdown(msg["content"])
         if msg["role"] == "assistant" and "sources" in msg:
             render_sources(msg["sources"], msg.get("detected_materials", []))
+            render_web_results(msg.get("web_results", []))
 
 # ── Input ─────────────────────────────────────────────────────────────────────
 
@@ -117,10 +129,12 @@ if prompt := st.chat_input("Ask about sustainable building materials..."):
             result = query(prompt)
         st.markdown(result["answer"])
         render_sources(result["sources"], detected)
+        render_web_results(result.get("web_results", []))
 
     st.session_state.messages.append({
         "role": "assistant",
         "content": result["answer"],
         "sources": result["sources"],
         "detected_materials": detected,
+        "web_results": result.get("web_results", []),
     })

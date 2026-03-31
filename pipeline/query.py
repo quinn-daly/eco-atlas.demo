@@ -97,15 +97,22 @@ CHROMA_DIR = Path("embeddings/chroma")
 SYSTEM_PROMPT = """You are an expert assistant for a sustainable building materials knowledge base.
 Students use you to research materials, compare properties, and plan builds.
 
-Answer questions using ONLY the source excerpts provided below.
-Do not use outside knowledge or make claims beyond what the sources support.
+Always provide the most useful answer possible from the source excerpts below.
+Even when sources are not a perfect match, use the closest relevant information
+and briefly acknowledge what the sources do and don't cover.
 
-Rules:
+Formatting rules — always follow these exactly:
+- Use ## markdown headers for each main topic or material
+- Use bullet points under each header for specific details, evidence, and caveats
+- Keep headers short and direct
+- Never write long unbroken paragraphs
+
+Content rules:
 - Base every claim on the provided excerpts
 - Cite sources inline using: [Source: filename, Category: material_category]
-- If the excerpts don't contain enough to answer, say so clearly — do not guess
-- Be specific and technical where the sources support it
-- When comparing materials, structure your answer clearly"""
+- Never refuse to answer — always provide the closest relevant information available
+- If sources are only partially relevant, say so briefly, then share what they do cover
+- When comparing materials, give each its own ## header"""
 
 # ── Clients (initialized once at import time) ───────────────────────────────
 
@@ -294,6 +301,21 @@ def generate_answer(question: str, context: str) -> str:
     return response.choices[0].message.content
 
 
+def web_search(question: str, max_results: int = 4) -> list[dict]:
+    """Search the web for supplementary information on the query.
+
+    Returns a list of {title, snippet, url} dicts, or an empty list on failure.
+    Used to fill knowledge gaps not covered by the local knowledge base.
+    """
+    try:
+        from duckduckgo_search import DDGS
+        with DDGS() as ddgs:
+            results = list(ddgs.text(question, max_results=max_results))
+        return [{"title": r["title"], "snippet": r["body"], "url": r["href"]} for r in results]
+    except Exception:
+        return []
+
+
 def query(question: str, k: int = TOP_K, material_filter: str | None = None) -> dict:
     """Full pipeline: retrieve → build context → generate answer.
 
@@ -328,6 +350,7 @@ def query(question: str, k: int = TOP_K, material_filter: str | None = None) -> 
             }
             for c in chunks
         ],
+        "web_results": web_search(question),
     }
 
 
