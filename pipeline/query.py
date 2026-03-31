@@ -102,9 +102,8 @@ Even when sources are not a perfect match, use the closest relevant information
 and briefly acknowledge what the sources do and don't cover.
 
 Formatting rules — always follow these exactly:
-- Use ## markdown headers for each main topic or material
-- Use bullet points under each header for specific details, evidence, and caveats
-- Keep headers short and direct
+- Use ## markdown headers that directly state the answer or key finding (e.g. "## Hemp provides strong thermal insulation" not "## Thermal Properties")
+- Use bullet points under each header for supporting evidence, data, and caveats
 - Never write long unbroken paragraphs
 
 Content rules:
