@@ -26,14 +26,17 @@ st.set_page_config(
 # ── Helper ───────────────────────────────────────────────────────────────────
 
 def render_web_results(web_results: list[dict]) -> None:
-    """Render web search results as a supplementary section."""
+    """Render web search results as a clearly labelled supplementary section."""
     if not web_results:
         return
     st.divider()
-    st.caption("**Web Sources** — supplementary results from the internet")
+    st.markdown("#### 🌐 From the Web")
+    st.caption("The following results were pulled from a live web search to supplement the knowledge base.")
     for r in web_results:
         st.markdown(f"**[{r['title']}]({r['url']})**")
-        st.caption(r["snippet"])
+        st.markdown(r["snippet"])
+        st.caption(f"[Read more]({r['url']})")
+        st.write("")
 
 
 def render_sources(sources: list[dict], detected_materials: list[str]) -> None:
@@ -111,6 +114,7 @@ for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
         if msg["role"] == "assistant" and "sources" in msg:
+            st.markdown("#### 📚 From the Knowledge Base")
             render_sources(msg["sources"], msg.get("detected_materials", []))
             render_web_results(msg.get("web_results", []))
 
@@ -127,6 +131,7 @@ if prompt := st.chat_input("Ask about sustainable building materials..."):
     with st.chat_message("assistant"):
         with st.spinner("Retrieving from knowledge base..."):
             result = query(prompt)
+        st.markdown("#### 📚 From the Knowledge Base")
         st.markdown(result["answer"])
         render_sources(result["sources"], detected)
         render_web_results(result.get("web_results", []))
