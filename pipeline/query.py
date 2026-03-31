@@ -282,20 +282,27 @@ def build_context(chunks: list[dict]) -> str:
     return "\n\n---\n\n".join(parts)
 
 
-def generate_answer(question: str, context: str) -> str:
-    """Send the question and retrieved context to GPT-4o. Return the answer."""
+HISTORY_LIMIT = 6
+# Number of prior messages (user + assistant) passed to GPT-4o for context.
+# 6 = 3 full exchanges. Keeps follow-up questions coherent without bloating tokens.
+
+def generate_answer(question: str, context: str, history: list[dict] | None = None) -> str:
+    """Send the question and retrieved context to GPT-4o. Return the answer.
+
+    history: list of {"role": "user"|"assistant", "content": str} dicts
+    representing prior turns, oldest first. Passed directly into the messages
+    array so GPT-4o can resolve follow-up references like "what about its cost?".
+    """
+    prior = (history or [])[-HISTORY_LIMIT:]
+    messages = (
+        [{"role": "system", "content": SYSTEM_PROMPT}]
+        + prior
+        + [{"role": "user", "content": f"Source excerpts:\n\n{context}\n\nQuestion: {question}"}]
+    )
     response = openai_client.chat.completions.create(
         model=CHAT_MODEL,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {
-                "role": "user",
-                "content": f"Source excerpts:\n\n{context}\n\nQuestion: {question}",
-            },
-        ],
+        messages=messages,
         temperature=0,
-        # temperature=0 — fully deterministic. RAG answers should be consistent
-        # and grounded, not creative. Raise only if responses feel too rigid.
     )
     return response.choices[0].message.content
 
@@ -315,7 +322,7 @@ def web_search(question: str, max_results: int = 4) -> list[dict]:
         return []
 
 
-def query(question: str, k: int = TOP_K, material_filter: str | None = None) -> dict:
+def query(question: str, k: int = TOP_K, material_filter: str | None = None, history: list[dict] | None = None) -> dict:
     """Full pipeline: retrieve → build context → generate answer.
 
     This is the function to call from the app layer.
@@ -336,7 +343,7 @@ def query(question: str, k: int = TOP_K, material_filter: str | None = None) -> 
     """
     chunks = retrieve(question, k=k, material_filter=material_filter)
     context = build_context(chunks)
-    answer = generate_answer(question, context)
+    answer = generate_answer(question, context, history=history)
 
     return {
         "answer": answer,

@@ -128,9 +128,15 @@ if prompt := st.chat_input("Ask about sustainable building materials..."):
 
     detected = _detect_materials(prompt)
 
+    history = [
+        {"role": msg["role"], "content": msg["content"]}
+        for msg in st.session_state.messages
+        if msg["role"] in ("user", "assistant")
+    ]
+
     with st.chat_message("assistant"):
         with st.spinner("Retrieving from knowledge base..."):
-            result = query(prompt)
+            result = query(prompt, history=history)
         st.markdown("#### 📚 From the Knowledge Base")
         st.markdown(result["answer"])
         render_sources(result["sources"], detected)
