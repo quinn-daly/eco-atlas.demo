@@ -31,9 +31,11 @@ EMBED_MODEL = "text-embedding-3-small"
 CHAT_MODEL = "gpt-4o"
 
 TOP_K = 6
-# Number of chunks retrieved per query.
-# More = richer context for GPT-4o, but higher token cost and more noise risk.
-# 6 is a good starting point for dense academic material — tune after testing.
+# Final number of chunks passed to GPT-4o after reranking.
+
+RERANK_CANDIDATE_K = 12
+# Chunks fetched from ChromaDB before reranking. Wider net gives the
+# cross-encoder more to work with — best chunks survive reranking down to TOP_K.
 
 TOP_K_PER_MATERIAL = 4
 # For comparison queries, how many chunks to fetch per detected material.
@@ -119,6 +121,9 @@ openai_client = OpenAI()
 
 chroma_client = chromadb.PersistentClient(path=str(CHROMA_DIR))
 collection = chroma_client.get_collection(name=COLLECTION_NAME)
+
+from flashrank import Ranker, RerankRequest
+reranker = Ranker(model_name="ms-marco-MiniLM-L-12-v2", cache_dir="/tmp/flashrank")
 # get_collection (not get_or_create) — fails loudly if collection doesn't exist.
 # Run embed.py first if you see a collection not found error.
 
@@ -307,6 +312,21 @@ def generate_answer(question: str, context: str, history: list[dict] | None = No
     return response.choices[0].message.content
 
 
+def rerank(question: str, chunks: list[dict], top_k: int = TOP_K) -> list[dict]:
+    """Re-score chunks using a cross-encoder and return the top_k most relevant.
+
+    The initial ChromaDB retrieval uses bi-encoder similarity (fast but coarse).
+    The cross-encoder reads the question and each chunk together, giving a much
+    more accurate relevance score. Best candidates from the wider retrieval pool
+    survive; weaker ones are dropped before reaching GPT-4o.
+    """
+    passages = [{"id": i, "text": c["text"]} for i, c in enumerate(chunks)]
+    request = RerankRequest(query=question, passages=passages)
+    results = reranker.rerank(request)
+    reranked = sorted(results, key=lambda r: r["score"], reverse=True)[:top_k]
+    return [chunks[r["id"]] for r in reranked]
+
+
 def web_search(question: str, max_results: int = 4) -> list[dict]:
     """Search the web for supplementary information on the query.
 
@@ -341,7 +361,8 @@ def query(question: str, k: int = TOP_K, material_filter: str | None = None, his
             ]
         }
     """
-    chunks = retrieve(question, k=k, material_filter=material_filter)
+    chunks = retrieve(question, k=RERANK_CANDIDATE_K, material_filter=material_filter)
+    chunks = rerank(question, chunks, top_k=k or TOP_K)
     context = build_context(chunks)
     answer = generate_answer(question, context, history=history)
 
