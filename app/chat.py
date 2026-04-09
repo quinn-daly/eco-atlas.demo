@@ -26,17 +26,18 @@ st.set_page_config(
 # ── Helper ───────────────────────────────────────────────────────────────────
 
 def render_web_results(web_results: list[dict]) -> None:
-    """Render web search results as a clearly labelled supplementary section."""
+    """Render web sources as a reference list below the answer.
+
+    Content from these sources is already incorporated into the answer with
+    [Web: url] inline citations — this panel just makes the links easy to open.
+    """
     if not web_results:
         return
     st.divider()
-    st.markdown("#### 🌐 From the Web")
-    st.caption("The following results were pulled from a live web search to supplement the knowledge base.")
+    st.markdown("#### 🌐 Web Sources")
+    st.caption("These pages were searched and cited in the answer above where marked [Web: url].")
     for r in web_results:
-        st.markdown(f"**[{r['title']}]({r['url']})**")
-        st.markdown(r["snippet"])
-        st.caption(f"[Read more]({r['url']})")
-        st.write("")
+        st.markdown(f"- **[{r['title']}]({r['url']})**")
 
 
 def render_sources(sources: list[dict], detected_materials: list[str]) -> None:
@@ -90,6 +91,22 @@ with st.sidebar:
         st.caption(f"• {m}")
 
     st.divider()
+
+    st.subheader("Response mode")
+    mode = st.radio(
+        "How should the assistant respond?",
+        options=["factual", "speculative"],
+        format_func=lambda x: "Factual" if x == "factual" else "Speculative",
+        index=0,
+        help=(
+            "**Factual** — grounded answers drawn directly from academic research.\n\n"
+            "**Speculative** — creative, design-led responses imagining how materials could look and feel in use."
+        ),
+    )
+    if mode == "speculative":
+        st.caption("Speculative mode: answers go beyond the sources to imagine real-world use.")
+
+    st.divider()
     st.caption("OpenAI text-embedding-3-small → ChromaDB → GPT-4o")
     st.caption("Semantic chunking · per-material fetch for comparisons")
 
@@ -100,10 +117,16 @@ with st.sidebar:
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 st.title("Sustainable Materials Assistant")
-st.caption(
-    "Ask anything about sustainable building materials. "
-    "All answers are grounded in academic research — sources shown below each response."
-)
+if mode == "speculative":
+    st.caption(
+        "Speculative mode — answers imagine how materials could look, feel, and perform in real spaces. "
+        "Sources shown below each response."
+    )
+else:
+    st.caption(
+        "Ask anything about sustainable building materials. "
+        "All answers are grounded in academic research — sources shown below each response."
+    )
 
 # Initialise chat history
 if "messages" not in st.session_state:
@@ -136,7 +159,7 @@ if prompt := st.chat_input("Ask about sustainable building materials..."):
 
     with st.chat_message("assistant"):
         with st.spinner("Retrieving from knowledge base..."):
-            result = query(prompt, history=history)
+            result = query(prompt, history=history, mode=mode)
         st.markdown("#### 📚 From the Knowledge Base")
         st.markdown(result["answer"])
         render_sources(result["sources"], detected)
@@ -148,4 +171,5 @@ if prompt := st.chat_input("Ask about sustainable building materials..."):
         "sources": result["sources"],
         "detected_materials": detected,
         "web_results": result.get("web_results", []),
+        "mode": mode,
     })

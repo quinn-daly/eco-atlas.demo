@@ -94,7 +94,7 @@ MATERIAL_ALIASES: dict[str, str] = {
 
 CHROMA_DIR = Path("embeddings/chroma")
 
-# ── System prompt ───────────────────────────────────────────────────────────
+# ── System prompts ──────────────────────────────────────────────────────────
 
 SYSTEM_PROMPT = """You are an expert assistant for a sustainable building materials knowledge base.
 Students use you to research materials, compare properties, and plan builds.
@@ -108,12 +108,40 @@ Formatting rules — always follow these exactly:
 - Use bullet points under each header for supporting evidence, data, and caveats
 - Never write long unbroken paragraphs
 
+Citation rules — follow these exactly:
+- Cite knowledge base sources inline using: [KB: filename]
+- Cite web sources inline using: [Web: url]
+- Every factual claim must have one of these two citation types immediately after it
+- Never mix up the two — a reader must always know whether a claim came from the research library or the web
+
 Content rules:
-- Base every claim on the provided excerpts
-- Cite sources inline using: [Source: filename, Category: material_category]
+- Base every claim on the provided excerpts or web results
 - Never refuse to answer — always provide the closest relevant information available
 - If sources are only partially relevant, say so briefly, then share what they do cover
 - When comparing materials, give each its own ## header"""
+
+SPECULATIVE_SYSTEM_PROMPT = """You are a creative design consultant specialising in sustainable building materials.
+Students use you to imagine how materials could look, feel, and perform in real buildings and spaces.
+
+Use the source excerpts as a starting point, then speculate freely about how these materials
+could be used in practice — their textures, aesthetics, atmospheres, and design possibilities.
+Make clear when you are speculating beyond the sources.
+
+Formatting rules — always follow these exactly:
+- Use ## markdown headers framed around experience or vision (e.g. "## What a hemp wall might feel like" or "## Cork floors in a living space")
+- Use bullet points under each header for sensory details, design ideas, and possibilities
+- Never write long unbroken paragraphs
+
+Citation rules — follow these exactly:
+- Cite knowledge base sources inline using: [KB: filename]
+- Cite web sources inline using: [Web: url]
+- Every factual claim must have one of these two citation types immediately after it
+- Speculative statements that go beyond any source do not need a citation, but must use language like "imagine...", "this could...", "picture..."
+
+Content rules:
+- Ground your speculation in the properties described in the excerpts and web results
+- Be vivid and evocative — help the reader picture the material in use
+- When comparing materials, give each its own ## header and explore the different atmospheres they create"""
 
 # ── Clients (initialized once at import time) ───────────────────────────────
 
@@ -291,23 +319,55 @@ HISTORY_LIMIT = 6
 # Number of prior messages (user + assistant) passed to GPT-4o for context.
 # 6 = 3 full exchanges. Keeps follow-up questions coherent without bloating tokens.
 
-def generate_answer(question: str, context: str, history: list[dict] | None = None) -> str:
-    """Send the question and retrieved context to GPT-4o. Return the answer.
+def build_web_context(web_results: list[dict]) -> str:
+    """Format web search results into a labelled context block for GPT-4o.
+
+    Each result is numbered and tagged with its URL so GPT-4o can cite them
+    accurately using [Web: url] inline citations.
+    """
+    parts = []
+    for i, r in enumerate(web_results, start=1):
+        parts.append(f"[Web result {i} | {r['url']}]\n{r['title']}\n{r['snippet']}")
+    return "\n\n---\n\n".join(parts)
+
+
+def generate_answer(
+    question: str,
+    context: str,
+    history: list[dict] | None = None,
+    mode: str = "factual",
+    web_results: list[dict] | None = None,
+) -> str:
+    """Send the question, retrieved context, and optional web results to GPT-4o.
 
     history: list of {"role": "user"|"assistant", "content": str} dicts
-    representing prior turns, oldest first. Passed directly into the messages
-    array so GPT-4o can resolve follow-up references like "what about its cost?".
+    representing prior turns, oldest first.
+
+    mode: "factual" for grounded research answers, "speculative" for creative
+    design-led responses that imagine how materials could look and feel in use.
+
+    web_results: if provided, appended to the user message as a separate context
+    block so GPT-4o can cite them distinctly from knowledge base sources.
     """
+    system_prompt = SPECULATIVE_SYSTEM_PROMPT if mode == "speculative" else SYSTEM_PROMPT
+    temperature = 0.8 if mode == "speculative" else 0
+
+    user_content = f"Knowledge base excerpts:\n\n{context}"
+    if web_results:
+        web_context = build_web_context(web_results)
+        user_content += f"\n\n===\n\nWeb search results:\n\n{web_context}"
+    user_content += f"\n\nQuestion: {question}"
+
     prior = (history or [])[-HISTORY_LIMIT:]
     messages = (
-        [{"role": "system", "content": SYSTEM_PROMPT}]
+        [{"role": "system", "content": system_prompt}]
         + prior
-        + [{"role": "user", "content": f"Source excerpts:\n\n{context}\n\nQuestion: {question}"}]
+        + [{"role": "user", "content": user_content}]
     )
     response = openai_client.chat.completions.create(
         model=CHAT_MODEL,
         messages=messages,
-        temperature=0,
+        temperature=temperature,
     )
     return response.choices[0].message.content
 
@@ -342,7 +402,7 @@ def web_search(question: str, max_results: int = 4) -> list[dict]:
         return []
 
 
-def query(question: str, k: int = TOP_K, material_filter: str | None = None, history: list[dict] | None = None) -> dict:
+def query(question: str, k: int = TOP_K, material_filter: str | None = None, history: list[dict] | None = None, mode: str = "factual") -> dict:
     """Full pipeline: retrieve → build context → generate answer.
 
     This is the function to call from the app layer.
@@ -364,7 +424,8 @@ def query(question: str, k: int = TOP_K, material_filter: str | None = None, his
     chunks = retrieve(question, k=RERANK_CANDIDATE_K, material_filter=material_filter)
     chunks = rerank(question, chunks, top_k=k or TOP_K)
     context = build_context(chunks)
-    answer = generate_answer(question, context, history=history)
+    web_results = web_search(question)
+    answer = generate_answer(question, context, history=history, mode=mode, web_results=web_results)
 
     return {
         "answer": answer,
@@ -377,7 +438,7 @@ def query(question: str, k: int = TOP_K, material_filter: str | None = None, his
             }
             for c in chunks
         ],
-        "web_results": web_search(question),
+        "web_results": web_results,
     }
 
 
