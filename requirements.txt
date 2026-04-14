@@ -9,3 +9,5 @@ langchain-experimental>=0.0.20
 streamlit>=1.28.0
 duckduckgo-search>=6.0.0
 flashrank>=0.2.0
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0

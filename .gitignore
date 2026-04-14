@@ -1,3 +1,28 @@
-.env
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv/
+venv/
+
+# Data / embeddings (CRITICAL - do not push)
+embeddings/
+data/raw/
+data/processed/
+
+# Model/cache files
+flashrank_cache/
+
+# Local tool configs
+.claude/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

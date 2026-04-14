@@ -1,0 +1,27 @@
+# Secrets — must never be in the image; set via Railway environment variables
+.env
+*.env
+
+# Source data — already indexed into embeddings/chroma, not needed at runtime
+data/
+
+# Streamlit dev UI — not needed at runtime
+app/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# FlashRank model cache — pre-downloaded at build time to /app/flashrank_cache
+# so we don't need to re-download at runtime; no need to copy a local cache
+flashrank_cache/
+
+# Misc
+*.md

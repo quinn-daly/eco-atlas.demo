@@ -92,7 +92,9 @@ MATERIAL_ALIASES: dict[str, str] = {
     "pu foam": "Plant-based rigid polyurethane foam",
 }
 
-CHROMA_DIR = Path("embeddings/chroma")
+# Absolute path anchored to this file's location — works regardless of CWD.
+# Resolves to <project_root>/embeddings/chroma in both local dev and Docker.
+CHROMA_DIR = Path(__file__).resolve().parent.parent / "embeddings" / "chroma"
 
 # ── System prompts ──────────────────────────────────────────────────────────
 
@@ -151,7 +153,9 @@ chroma_client = chromadb.PersistentClient(path=str(CHROMA_DIR))
 collection = chroma_client.get_collection(name=COLLECTION_NAME)
 
 from flashrank import Ranker, RerankRequest
-reranker = Ranker(model_name="ms-marco-MiniLM-L-12-v2", cache_dir="/tmp/flashrank")
+# Anchor cache to project root — avoids /tmp which can be ephemeral on Railway.
+_FLASHRANK_CACHE = str(Path(__file__).resolve().parent.parent / "flashrank_cache")
+reranker = Ranker(model_name="ms-marco-MiniLM-L-12-v2", cache_dir=_FLASHRANK_CACHE)
 # get_collection (not get_or_create) — fails loudly if collection doesn't exist.
 # Run embed.py first if you see a collection not found error.
 

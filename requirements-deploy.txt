@@ -1,0 +1,14 @@
+# Runtime-only dependencies for the deployed API server.
+# Excludes ingest-pipeline packages (langchain, pymupdf) and dev UI (streamlit)
+# which are only needed when building the knowledge base offline.
+#
+# For local development with the Streamlit UI or re-running the ingest pipeline,
+# use requirements.txt instead.
+
+openai>=1.0.0
+chromadb>=0.4.0
+python-dotenv>=1.0.0
+duckduckgo-search>=6.0.0
+flashrank>=0.2.0
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
